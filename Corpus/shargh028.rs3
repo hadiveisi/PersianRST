@@ -1,0 +1,160 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="multinuc"/>
+			<rel name="cause" type="rst"/>
+			<rel name="comparison" type="multinuc"/>
+			<rel name="comparison" type="rst"/>
+			<rel name="condition" type="multinuc"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="contrast" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation" type="multinuc"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="explanation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="manner-means" type="rst"/>
+			<rel name="same" type="multinuc"/>
+			<rel name="summary" type="rst"/>
+			<rel name="temporal" type="multinuc"/>
+			<rel name="temporal" type="rst"/>
+			<rel name="textualorganization" type="multinuc"/>
+			<rel name="topichange" type="multinuc"/>
+			<rel name="topichange" type="rst"/>
+			<rel name="topicomment" type="multinuc"/>
+			<rel name="topicomment" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="69" relname="same">سو استفاده سیاسی از رویدادی</segment>
+		<segment id="2" parent="1" relname="elaboration">که همه ایرانیان در غم آن شریک و سهیم هستند ،</segment>
+		<segment id="3" parent="69" relname="same">از سوی هر جریان یا نهادی</segment>
+		<segment id="4" parent="3" relname="elaboration">که باشد ،</segment>
+		<segment id="5" parent="69" relname="same">مصداق فرصت طلبی غیر اخلاقی است.</segment>
+		<segment id="6" parent="70" relname="same">معمولا پس از سوانح مختلف ، عده‌ای بی توجه به سلسله علل و عوامل این اتفاقات</segment>
+		<segment id="7" parent="6" relname="elaboration">که ریشه در مسایل مختلفی دارد ،</segment>
+		<segment id="8" parent="70" relname="same">به حمله به یک یا چند مسیول و دولت می‌پردازند.</segment>
+		<segment id="9" parent="73" relname="span">می‌دانیم صنعت حمل و نقل هوایی از این مزیت برخوردار است</segment>
+		<segment id="10" parent="9" relname="elaboration">که نقاط کمتر توسعه یافته کشور را به توسعه برساند</segment>
+		<segment id="11" parent="75" relname="span">اما یکی از مشکلات اساسی آن ، فرسودگی ناوگان است.</segment>
+		<segment id="12" parent="76" relname="joint">موضوعی که هراس مسافران از سفرهای هوایی را افزایش داده</segment>
+		<segment id="13" parent="76" relname="joint">و باعث بالارفتن مصرف قطعات یدکی و گاهی نیز زمین گیر شدن هواپیماها شده است.</segment>
+		<segment id="14" parent="77" relname="span">نوسازی ناوگان و تجهیزات ناوبری چالشی جدی است.</segment>
+		<segment id="15" parent="14" relname="cause">این تجهیزات عمدتا متعلق به دو نسل قبل است.</segment>
+		<segment id="16" parent="79" relname="joint">به تبع این شرایط ، تعداد مسافران جابه جا شده در سال کاهش می‌یابد</segment>
+		<segment id="17" parent="79" relname="joint">و بهره وری هواپیماها به حداقل می‌رسد.</segment>
+		<segment id="18" parent="93" relname="cause">این که هواپیما در ۲۴ ساعت به طور متوسط چند ساعت در پرواز است ، در نرخ گذاری آن فاکتوری تعیین کننده است.</segment>
+		<segment id="19" parent="95" relname="background">در این میان نباید از تاثیرات تحریم‌ها در سال‌های گذشته عبور کرد.</segment>
+		<segment id="20" parent="83" relname="temporal">پیش از فعالیت دولت نهم ، تحریم‌ها به شکل یک جانبه از سوی ایالات متحده علیه ایران اعمال می‌شد.</segment>
+		<segment id="21" parent="83" relname="temporal">در دولت نهم پرونده ایران به شورای امنیت رفت</segment>
+		<segment id="22" parent="83" relname="temporal">و تحریم‌ها فراگیر شد.</segment>
+		<segment id="23" parent="24" relname="cause">آمریکا ، کانادا ، استرالیا ، اتحادیه اروپا ، کره ، ژاپن و. . . به عنوان بزرگ ترین کشورهای صنعتی ناگزیر از تبعیت از تحریم‌های بانکی بودند</segment>
+		<segment id="24" parent="84" relname="span">و این مسیله خرید هواپیمای نو را با مانع مواجه کرد.</segment>
+		<segment id="25" parent="97" relname="span">امروز استفاده از هواپیماهای با عمر بیش از ۱۵ سال فاقد توجیه اقتصادی است</segment>
+		<segment id="26" parent="25" relname="cause">و پس از این مدت باید آن را فروخت.</segment>
+		<segment id="27" parent="85" relname="contrast">بله می‌توان نیم قرن هم از یک هواپیما استفاده کرد</segment>
+		<segment id="28" parent="85" relname="contrast">اما مقرون به صرفه نخواهد بود.</segment>
+		<segment id="29" parent="86" relname="same">پیش از ارجاع پرونده ایران به شورای امنیت ، محصولاتی</segment>
+		<segment id="30" parent="29" relname="elaboration">که بیش از ۱۰ درصد آن به وسیله آمریکا ساخته شده بود ،</segment>
+		<segment id="31" parent="86" relname="same">ممنوع بود.</segment>
+		<segment id="32" parent="33" relname="cause">فراموش نکنیم دست کم ۳۴ درصد سرمایه گذاری و سهام شرکت‌های تولیدکننده موتور هواپیما در دنیا متعلق به آمریکاست ؛</segment>
+		<segment id="33" parent="87" relname="span">بنابراین هیچ موتوری را در دنیا نمی‌توانستیم خریداری کنیم.</segment>
+		<segment id="34" parent="88" relname="topicomment">راهکارهایی مانند خرید هواپیمای دست دوم با سن کم یا اجاره به شرط تملیک در دستور کار بود.</segment>
+		<segment id="35" parent="101" relname="span">مشکلی که پس از قطع نامه‌های تحریمی شورای امنیت پدید آمد ، این بود</segment>
+		<segment id="36" parent="35" relname="elaboration">که کشورها علاوه بر اجتناب از فروش هواپیما ، از ارایه قطعات نیز پرهیز می‌کردند.</segment>
+		<segment id="37" parent="102" relname="joint">قطعات با چند برابر قیمت واقعی تامین می‌شد</segment>
+		<segment id="38" parent="102" relname="joint">و موتور هواپیما نیز برای تعمیر به کشور سازنده انتقال پیدا نمی‌کرد.</segment>
+		<segment id="39" parent="103" relname="span">برخی کشور‌های مقصد به هواپیماهای ایرانی سوخت نمی‌دادند</segment>
+		<segment id="40" parent="39" relname="elaboration">و نشست و برخاست‌های غیر ضروری ، ۲۰ تا ۲۵ درصد به هزینه ایرلاین‌ها می‌افزود.</segment>
+		<segment id="41" parent="104" relname="span">پیش از آن در جریان سفر رییس جمهوری دوران اصلاحات به فرانسه از رییس جمهور وقت آن کشور ، قول خرید چهار فروند ایرباس۳۳۰ گرفته شد</segment>
+		<segment id="42" parent="41" relname="elaboration">که برد بلند و مناسب پروازهای طولانی دارد</segment>
+		<segment id="43" parent="105" relname="contrast">اما آمریکا با استفاده از همان قانون داماتو ، مانع فروش این هواپیماها به ایران شد.</segment>
+		<segment id="44" parent="106" relname="same">پیش از تحریم‌های سازمان ملل این امکان وجود داشت</segment>
+		<segment id="45" parent="46" relname="manner-means">که از طریق «لیزینگ»</segment>
+		<segment id="46" parent="106" relname="same">هواپیماهای مورد نیاز را وارد کشور کنیم.</segment>
+		<segment id="47" parent="108" relname="same">با روی کارآمدن دولت یازدهم و توافق برجام</segment>
+		<segment id="48" parent="47" relname="elaboration">که بند مشخص برای خرید هواپیماهای نو داشت ،</segment>
+		<segment id="49" parent="108" relname="same">این امیدواری ایجاد شد</segment>
+		<segment id="50" parent="49" relname="elaboration">که نیاز کشور یعنی حدود ۲۵۰ فروند هواپیمای جدید در مسیرهای کوتاه ، متوسط و طولانی به کشور وارد شود.</segment>
+		<segment id="51" parent="109" relname="same">به طور طبیعی ایرلاین‌های داخلی</segment>
+		<segment id="52" parent="53" relname="cause">به دلیل نبود توجیه اقتصادی ،</segment>
+		<segment id="53" parent="109" relname="same">سراغ خرید هواپیماهای کهنه و ارزان می‌روند.</segment>
+		<segment id="54" parent="111" relname="span">چرا که اگر قیمت بلیت افزایش پیدا کند ،</segment>
+		<segment id="55" parent="54" relname="cause">برای مدتی به شدت مسافر کاهش می‌یابد</segment>
+		<segment id="56" parent="113" relname="joint">و اگر درصد اشغال صندلی از ۷۰ درصد پایین بیاید</segment>
+		<segment id="57" parent="113" relname="joint">و میزان ساعات پرواز در شبانه روز کاهش داشته باشد ،</segment>
+		<segment id="58" parent="114" relname="span">دیگر برای آن‌ها توجیه اقتصادی ندارد.</segment>
+		<segment id="59" parent="117" relname="span">از سوی دیگر سنگین بودن اقساط هواپیما نیز می‌تواند در سودآوری کوتاه مدت ایرلاین‌ها اختلال ایجاد کند</segment>
+		<segment id="60" parent="59" relname="cause">و به همین دلیل اشکال مختلف تامین مالی ، مد نظر آنان قرار گرفته است.</segment>
+		<segment id="61" parent="118" relname="joint">واقعا شایسته ملت ایران نیست هواپیمایی مانند «ام دی» سوار شوند</segment>
+		<segment id="62" parent="118" relname="joint">و مسیولان دولتی باید برای از رده خارج کردن تمامی این هواپیماهای فرسوده اقدام کنند.</segment>
+		<segment id="63" parent="119" relname="joint">صنعت هوانوردی ایران در رده‌های آخر کشورهای جهان قرار دارد</segment>
+		<segment id="64" parent="120" relname="span">و تجهیزات فرودگاهی نیز دچار نواقص جدی و بعضا متعلق به۲۰ تا ۲۵ سال قبل است</segment>
+		<segment id="65" parent="64" relname="elaboration">که نیاز به به روزسانی فوری دارند تا ایمنی پروازها حفظ و از سوانحی مانند سانحه اخیر جلوگیری شود.</segment>
+		<segment id="66" parent="122" relname="joint">بهتر است به جای مقصر دانستن این دولت یا آن وزارتخانه و دستگاه دیگر ، برای استفاده از مواهب برجام در زمینه خرید هواپیما ، نوعی همراهی میان همه نیروها و ارکان در کشور ایجاد شده</segment>
+		<segment id="67" parent="122" relname="joint">و باید به آن به عنوان یک پروژه ملی برای رفاه و تامین امنیت جانی مردم و نه رقابت با دولت نگریسته شود.</segment>
+		<segment id="68" parent="122" relname="joint">همچنین لازم است که با استفاده از مدیران متخصص در ایرلاین‌های مختلف ، بیش از پیش به بهره وری ظرفیت‌های موجود توجه شود.</segment>
+		<group id="69" type="multinuc" parent="91" relname="span"/>
+		<group id="70" type="multinuc" parent="91" relname="explanation"/>
+		<group id="73" type="span" parent="123" relname="contrast"/>
+		<group id="75" type="span" parent="78" relname="span"/>
+		<group id="76" type="multinuc" parent="11" relname="cause"/>
+		<group id="77" type="span" parent="75" relname="elaboration"/>
+		<group id="78" type="span" parent="81" relname="span"/>
+		<group id="79" type="multinuc" parent="93" relname="span"/>
+		<group id="81" type="span" parent="100" relname="joint"/>
+		<group id="83" type="multinuc" parent="95" relname="span"/>
+		<group id="84" type="span" parent="83" relname="temporal"/>
+		<group id="85" type="multinuc" parent="97" relname="elaboration"/>
+		<group id="86" type="multinuc" parent="87" relname="cause"/>
+		<group id="87" type="span" parent="88" relname="span"/>
+		<group id="88" type="span" parent="89" relname="span"/>
+		<group id="89" type="span" parent="100" relname="joint"/>
+		<group id="90" type="span" parent="100" relname="joint"/>
+		<group id="91" type="span" parent="92" relname="span"/>
+		<group id="92" type="span" parent="128" relname="background"/>
+		<group id="93" type="span" parent="94" relname="span"/>
+		<group id="94" type="span" parent="78" relname="cause"/>
+		<group id="95" type="span" parent="96" relname="span"/>
+		<group id="96" type="span" parent="99" relname="span"/>
+		<group id="97" type="span" parent="98" relname="span"/>
+		<group id="98" type="span" parent="96" relname="elaboration"/>
+		<group id="99" type="span" parent="100" relname="joint"/>
+		<group id="100" type="multinuc" parent="125" relname="span"/>
+		<group id="101" type="span" parent="90" relname="span"/>
+		<group id="102" type="multinuc" parent="101" relname="cause"/>
+		<group id="103" type="span" parent="100" relname="joint"/>
+		<group id="104" type="span" parent="105" relname="contrast"/>
+		<group id="105" type="multinuc" parent="107" relname="joint"/>
+		<group id="106" type="multinuc" parent="107" relname="joint"/>
+		<group id="107" type="multinuc" parent="125" relname="topicomment"/>
+		<group id="108" type="multinuc" parent="126" relname="evaluation"/>
+		<group id="109" type="multinuc" parent="110" relname="span"/>
+		<group id="110" type="span" parent="115" relname="span"/>
+		<group id="111" type="span" parent="112" relname="joint"/>
+		<group id="112" type="multinuc" parent="110" relname="cause"/>
+		<group id="113" type="multinuc" parent="58" relname="condition"/>
+		<group id="114" type="span" parent="112" relname="joint"/>
+		<group id="115" type="span" parent="116" relname="joint"/>
+		<group id="116" type="multinuc" parent="124" relname="elaboration"/>
+		<group id="117" type="span" parent="116" relname="joint"/>
+		<group id="118" type="multinuc" parent="127" relname="evaluation"/>
+		<group id="119" type="multinuc" parent="130" relname="span"/>
+		<group id="120" type="span" parent="121" relname="topicomment"/>
+		<group id="121" type="multinuc" parent="119" relname="joint"/>
+		<group id="122" type="multinuc" parent="121" relname="topicomment"/>
+		<group id="123" type="span" parent="126" relname="span"/>
+		<group id="124" type="span" parent="127" relname="span"/>
+		<group id="125" type="span" parent="123" relname="span"/>
+		<group id="126" type="span" parent="124" relname="span"/>
+		<group id="127" type="span" parent="128" relname="span"/>
+		<group id="128" type="span" parent="129" relname="span"/>
+		<group id="129" type="span" parent="130" relname="summary"/>
+		<group id="130" type="span" parent="131" relname="span"/>
+		<group id="131" type="span" />
+	</body>
+</rst>

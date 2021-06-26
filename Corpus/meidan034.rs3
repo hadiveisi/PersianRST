@@ -1,0 +1,113 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="multinuc"/>
+			<rel name="cause" type="rst"/>
+			<rel name="comparison" type="multinuc"/>
+			<rel name="comparison" type="rst"/>
+			<rel name="condition" type="multinuc"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="contrast" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation" type="multinuc"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="explanation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="manner-means" type="rst"/>
+			<rel name="same" type="multinuc"/>
+			<rel name="summary" type="rst"/>
+			<rel name="temporal" type="multinuc"/>
+			<rel name="temporal" type="rst"/>
+			<rel name="textualorganization" type="multinuc"/>
+			<rel name="topichange" type="multinuc"/>
+			<rel name="topichange" type="rst"/>
+			<rel name="topicomment" type="multinuc"/>
+			<rel name="topicomment" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="62" relname="span">خبرگزاری ایسنا در گزارشی به بررسی وضعیت ایران در زمینه پیوستن به کنوانسیون «منع شکنجه» پرداخته</segment>
+		<segment id="2" parent="1" relname="elaboration">و از جمله به مرگ ستار بهشتی و زهرا کاظمی در دوران بازداشت و جنایت کهریزک اشاره کرده است ؛</segment>
+		<segment id="3" parent="38" relname="contrast">اصل ۳۸ قانون اساسی به صراحت شکنجه را ممنوع کرده است ،</segment>
+		<segment id="4" parent="65" relname="contrast">اما ایران به کنوانسیون «منع شکنجه» نپیوسته است.</segment>
+		<segment id="5" parent="66" relname="joint">تا این لحظه بیش از ۱۶۰ کشور جهان به این کنوانسیون پیوسته‌اند</segment>
+		<segment id="6" parent="66" relname="joint">و تنها تعداد اندکی آن را امضا یا تصویب نکرده‌اند.</segment>
+		<segment id="7" parent="40" relname="span">مرکز پژوهش‌های مجلس در اردیبهشت سال ۱۳۸۲ وظایف و مسیولیت‌هایی</segment>
+		<segment id="8" parent="7" relname="elaboration">که به سبب تصویب این کنوانسیون ایجاد می‌شود</segment>
+		<segment id="9" parent="39" relname="same">را به این ترتیب اعلام کرده بود :</segment>
+		<segment id="10" parent="41" relname="elaboration">«اتخاذ تدابیر قانونی موثر برای جلوگیری از اعمال شکنجه ، اصلاح رژیم مجازات‌ها ، جبران زیان‌های وارد بر قربانیان شکنجه ، آموزش مقررات و مسایل قانونی شکنجه ، نظارت منظم بر بازجویی‌ها ، بازداشت‌ها و زندان‌ها و منع اعطای عفو عمومی».</segment>
+		<segment id="11" parent="71" relname="span">کارشناسان مرکز پژوهش‌های مجلس اجرای این کنوانسیون را نیازمند «عزم سیاسی» دانسته</segment>
+		<segment id="12" parent="47" relname="attribution">و اعلام کرده بودند</segment>
+		<segment id="13" parent="46" relname="condition">در صورت عدم وجود چنین عزمی ،</segment>
+		<segment id="14" parent="45" relname="cause">به‌دلیل اعمال مجازات بدنی در ایران</segment>
+		<segment id="15" parent="44" relname="span">«الحاق به کنوانسیون به تعداد پرونده‌هایی</segment>
+		<segment id="16" parent="15" relname="elaboration">که ایران در آنها به‌دلیل نقض حقوق بشر محکوم می‌شود ،</segment>
+		<segment id="17" parent="43" relname="same">می‌افزاید</segment>
+		<segment id="18" parent="68" relname="span">و در سطحی بالاتر می‌تواند به پیگرد قانونی برخی مقامات نیز منجر شود».</segment>
+		<segment id="19" parent="50" relname="span">مجازات بدنی در چند کشور از جمله ایران ، عربستان ، سومالی ، پاکستان و افغانستان اجرا می‌شود</segment>
+		<segment id="20" parent="19" relname="elaboration">و از میان کشورهای یادشده فقط ایران به کنوانسیون منع شکنجه نپیوسته است.</segment>
+		<segment id="21" parent="51" relname="contrast">در قطعنامه ۳۸/ ۱۹۹۷ کمیسیون حقوق بشر سازمان ملل متحد ، مجازات بدنی در ردیف شکنجه قلمداد شده است.</segment>
+		<segment id="22" parent="92" relname="attribution">بر اساس گزارش ایسنا ،</segment>
+		<segment id="23" parent="76" relname="contrast">طرح الحاق ایران به کنوانسیون «منع شکنجه» در مرداد سال ۱۳۸۲ در مجلس تصویب و به شورای نگهبان ارسال شد ؛</segment>
+		<segment id="24" parent="79" relname="span">اما شورای نگهبان با اعلام</segment>
+		<segment id="25" parent="77" relname="joint">اینکه «این طرح باعث افزایش هزینه عمومی است</segment>
+		<segment id="26" parent="77" relname="joint">و طریق جبران آن مشخص نشده است»</segment>
+		<segment id="27" parent="78" relname="same">آن‌را رد کرد</segment>
+		<segment id="28" parent="53" relname="joint">و برای اصلاح به مجلس بازگرداند.</segment>
+		<segment id="29" parent="55" relname="span">یکی از موادی</segment>
+		<segment id="30" parent="29" relname="elaboration">که بر اساس اعلام شورای نگهبان برای دولت ایران بار مالی به‌وجود می‌آورد</segment>
+		<segment id="31" parent="54" relname="same">عبارتست از اینکه</segment>
+		<segment id="32" parent="61" relname="span">«هر دولت عضو موظف است به‌طور مرتب و منظم قواعد و روش‌های مربوط به بازجویی (بازپرسی) و ترتیبات راجع به نگهداری افراد (در بازداشتگاه‌ها) را انجام دهد.</segment>
+		<segment id="33" parent="60" relname="span">این بازنگری و مراقبت شامل هر نوع دستگیری ، زندان و در هر قلمرویی</segment>
+		<segment id="34" parent="33" relname="elaboration">که حوزه قضایی آن دولت است ،</segment>
+		<segment id="35" parent="59" relname="same">با در نظر گرفتن اصل ممنوعیت شکنجه می‌باشد».</segment>
+		<segment id="36" parent="70" relname="joint">این طرح در نهایت به مجمع تشخیص مصلحت نظام ارسال شد</segment>
+		<segment id="37" parent="70" relname="joint">و در آنجا نیز به تصویب نرسید.</segment>
+		<group id="38" type="multinuc" parent="95" relname="span"/>
+		<group id="39" type="multinuc" parent="41" relname="span"/>
+		<group id="40" type="span" parent="39" relname="same"/>
+		<group id="41" type="span" parent="98" relname="span"/>
+		<group id="43" type="multinuc" parent="49" relname="joint"/>
+		<group id="44" type="span" parent="43" relname="same"/>
+		<group id="45" type="span" parent="46" relname="span"/>
+		<group id="46" type="span" parent="47" relname="span"/>
+		<group id="47" type="span" parent="48" relname="span"/>
+		<group id="48" type="span" parent="11" relname="explanation"/>
+		<group id="49" type="multinuc" parent="45" relname="span"/>
+		<group id="50" type="span" parent="51" relname="contrast"/>
+		<group id="51" type="multinuc" parent="18" relname="cause"/>
+		<group id="53" type="multinuc" parent="80" relname="span"/>
+		<group id="54" type="multinuc" parent="56" relname="span"/>
+		<group id="55" type="span" parent="54" relname="same"/>
+		<group id="56" type="span" parent="57" relname="span"/>
+		<group id="57" type="span" parent="80" relname="elaboration"/>
+		<group id="59" type="multinuc" parent="32" relname="elaboration"/>
+		<group id="60" type="span" parent="59" relname="same"/>
+		<group id="61" type="span" parent="56" relname="elaboration"/>
+		<group id="62" type="span" parent="95" relname="attribution"/>
+		<group id="65" type="multinuc" parent="38" relname="contrast"/>
+		<group id="66" type="multinuc" parent="65" relname="contrast"/>
+		<group id="68" type="span" parent="49" relname="joint"/>
+		<group id="70" type="multinuc" parent="99" relname="span"/>
+		<group id="71" type="span" parent="101" relname="evaluation"/>
+		<group id="76" type="multinuc" parent="92" relname="span"/>
+		<group id="77" type="multinuc" parent="24" relname="elaboration"/>
+		<group id="78" type="multinuc" parent="53" relname="joint"/>
+		<group id="79" type="span" parent="78" relname="same"/>
+		<group id="80" type="span" parent="81" relname="span"/>
+		<group id="81" type="span" parent="76" relname="contrast"/>
+		<group id="92" type="span" parent="93" relname="span"/>
+		<group id="93" type="span" parent="70" relname="joint"/>
+		<group id="95" type="span" parent="96" relname="span"/>
+		<group id="96" type="span" parent="102" relname="span"/>
+		<group id="98" type="span" parent="101" relname="evaluation"/>
+		<group id="99" type="span" parent="100" relname="span"/>
+		<group id="100" type="span" parent="96" relname="explanation"/>
+		<group id="101" type="multinuc" parent="99" relname="background"/>
+		<group id="102" type="span" />
+	</body>
+</rst>

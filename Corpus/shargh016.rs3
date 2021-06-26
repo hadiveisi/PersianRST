@@ -1,0 +1,154 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="multinuc"/>
+			<rel name="cause" type="rst"/>
+			<rel name="comparison" type="multinuc"/>
+			<rel name="comparison" type="rst"/>
+			<rel name="condition" type="multinuc"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="contrast" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation" type="multinuc"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="explanation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="manner-means" type="rst"/>
+			<rel name="same" type="multinuc"/>
+			<rel name="summary" type="rst"/>
+			<rel name="temporal" type="multinuc"/>
+			<rel name="temporal" type="rst"/>
+			<rel name="textualorganization" type="multinuc"/>
+			<rel name="topichange" type="multinuc"/>
+			<rel name="topichange" type="rst"/>
+			<rel name="topicomment" type="multinuc"/>
+			<rel name="topicomment" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="120" relname="span">زلزله ۵/۲ ریشتری تهران ، بیش از ساختمان‌ها و سازه‌های تهران ، دل‌های تهرانی‌ها را لرزانده است.</segment>
+		<segment id="2" parent="119" relname="span">بعد از سال‌ها بحث احتمال زلزله ، تهران بالاخره تکان خورد.</segment>
+		<segment id="3" parent="2" relname="summary">معلوم شد که تهران هم می‌تواند بلرزد.</segment>
+		<segment id="4" parent="60" relname="span">خوشبختانه لرزش چهارشنبه شب تهران چنان نبود</segment>
+		<segment id="5" parent="4" relname="elaboration">که ویرانی و تلفاتی داشته باشد ؛</segment>
+		<segment id="6" parent="61" relname="contrast">اما نگرانی‌ها را دامن زد.</segment>
+		<segment id="7" parent="92" relname="span">این لرزش ما را با این پرسش تکراری ، جدی‌تر از همیشه مواجه کرده است</segment>
+		<segment id="8" parent="62" relname="joint">که زمین لرزه احتمالی تهران چه مقیاسی خواهد داشت ،</segment>
+		<segment id="9" parent="62" relname="joint">چه زمانی اتفاق خواهد افتاد</segment>
+		<segment id="10" parent="62" relname="joint">و چه آثار و ابعادی به جای خواهد گذاشت.</segment>
+		<segment id="11" parent="63" relname="same">در سه روزی</segment>
+		<segment id="12" parent="11" relname="elaboration">که از لرزش تهران می‌گذرد ،</segment>
+		<segment id="13" parent="63" relname="same">حدس و گمان‌های مختلف برای پاسخ به همان سوال قدیمی و تکراری رونق بیشتری یافته است.</segment>
+		<segment id="14" parent="64" relname="span">از گمانه زنی‌های علمی کارشناسان برجسته تا برآوردهای عامیانه ای</segment>
+		<segment id="15" parent="14" relname="elaboration">که از ذهن بعضی مقامات یا مردم عادی در رسانه‌های مختلف در حال انتشار است.</segment>
+		<segment id="16" parent="65" relname="span">برخی از این گمانه‌ها و احتمال‌ها ، درست یا غلط ، ممکن است تصویری تباه و سیاه در پیش روی تهرانی‌ها باز کند.</segment>
+		<segment id="17" parent="94" relname="span">تصویری که حاصلی غیر از استیصال و عجز ندارد.</segment>
+		<segment id="18" parent="66" relname="span">احساس نگرانی تا زمانی خوب است</segment>
+		<segment id="19" parent="18" relname="elaboration">که بتواند قدرت حرکت و دفاع ایجاد کند.</segment>
+		<segment id="20" parent="67" relname="span">نگرانی و اضطراب وقتی به اندازه‌ای برسد</segment>
+		<segment id="21" parent="20" relname="elaboration">که غیر از بن بست و ناتوانی محض محصولی نداشته باشد ،</segment>
+		<segment id="22" parent="68" relname="span">به عنوان اضطراب منفی ، زیان بار است.</segment>
+		<segment id="23" parent="97" relname="span">در جریان اطلاعات ، باید پرسید رسانه‌ها چگونه باید اخبار کارشناسی مربوط به بحث احتمال‌های وقوع زمین لرزه در تهران را مطرح کنند ؟</segment>
+		<segment id="24" parent="23" relname="background">به ویژه اینکه تمام مباحث صرفا بر «احتمال » تاکید دارند.</segment>
+		<segment id="25" parent="71" relname="span">از نظر اخلاق حرفه‌ای ، با توجه به انعکاس اخبار احتمال وقوع زمین لرزه در تهران ، باید همه احتمال‌ها به هر ترتیب در معرض اطلاع افکار عمومی قرار گیرد.</segment>
+		<segment id="26" parent="69" relname="contrast">نویسنده نمی تواند به این پرسش پاسخی بدهد ؛</segment>
+		<segment id="27" parent="70" relname="span">ولی می‌تواند این تردید را داشته باشد</segment>
+		<segment id="28" parent="27" relname="elaboration">که دانستن چنین احتمالاتی کمکی به مردم عادی می‌کند.</segment>
+		<segment id="29" parent="127" relname="cause">مردم باید زندگی روزمره خود را سپری کنند.</segment>
+		<segment id="30" parent="127" relname="cause">کار ، مدرسه ، کاسبی و همه چیز در جریان است.</segment>
+		<segment id="31" parent="126" relname="span">واقعیت این است که گستردگی موضوع و نامعلوم بودن زمان ، امکان هر واکنشی را سلب می‌کند ؛</segment>
+		<segment id="32" parent="31" relname="condition">جز اینکه برخی اقدامات احتیاطی مانند احتیاط‌های شبانگاهی و زمان خواب یا آماده بودن برای گریز سریع از ساختمان یا آماده داشتن کیف و ساک کمک‌های اولیه ، تدارک دیده شود.</segment>
+		<segment id="33" parent="74" relname="span">کسانی که باید از این احتمال‌ها حتما مطلع باشند ، مسیولان کشوری هستند</segment>
+		<segment id="34" parent="33" relname="enablement">تا بتوانند تدارک لازم برای مواجهه با احتمال حادثه را فراهم آورند ؛</segment>
+		<segment id="35" parent="75" relname="contrast">اما مردم چه باید بکنند.</segment>
+		<segment id="36" parent="104" relname="span">با این مقدمه به نظر می‌رسد رسانه‌ها از یک سو و دولت از سوی دیگر باید در اطلاع رسانی درباره احتمال‌های زمین لرزه تهران ، سیاست خاصی را پیش بگیرند.</segment>
+		<segment id="37" parent="76" relname="joint">سیاستی که در آن ، اضطراب بتواند مولد حرکت باشد ؛</segment>
+		<segment id="38" parent="76" relname="joint">نه موجب سردرگمی و بن بست و استیصال.</segment>
+		<segment id="39" parent="77" relname="same">انتشار اخبار و اطلاعاتی</segment>
+		<segment id="40" parent="39" relname="elaboration">که بیانگر احتمال وقوع زلزله در تهران باشد ،</segment>
+		<segment id="41" parent="77" relname="same">باید با رعایت معیاری به نام اضطراب منفی و اضطراب مثبت ، برنامه ریزی شود.</segment>
+		<segment id="42" parent="78" relname="joint">وقتی خبری ، مردم را در نگرانی گریزناپذیر و بن بست قرار می‌دهد</segment>
+		<segment id="43" parent="78" relname="joint">و هیچ راه حلی ارایه نمی دهد ،</segment>
+		<segment id="44" parent="133" relname="span">مفید نیست.</segment>
+		<segment id="45" parent="80" relname="span">چنین فضایی بی شک بیشتر به هرج ومرج و بی نظمی و اغتشاشات ذهنی می‌انجامد ،</segment>
+		<segment id="46" parent="45" relname="manner-means">بدون آنکه بتوان در برابر آن کاری کرد.</segment>
+		<segment id="47" parent="136" relname="evaluation">این یک اضطراب منفی است ؛</segment>
+		<segment id="48" parent="82" relname="span">اما در مقابل ، بی آنکه نیازی به تصریح به اخباری باشد</segment>
+		<segment id="49" parent="48" relname="elaboration">که صرفا بیانگر احتمال‌های کارشناسانه است ،</segment>
+		<segment id="50" parent="134" relname="span">رسانه‌ها می‌توانند به آگاه کردن مردم به شیوه‌های مقابله با آثار فوری زلزله بپردازند.</segment>
+		<segment id="51" parent="134" relname="evaluation">این درواقع یک اضطراب مثبت است.</segment>
+		<segment id="52" parent="86" relname="contrast">رسانه درعین حال که باید اخبار و اطلاعات درست و دقیق را منتشر کند. . .</segment>
+		<segment id="53" parent="86" relname="contrast">اما در مواقع بحران خیز عمومی ، اخلاق حرفه روزنامه نگاری اقتضا می‌کند به کمک مقابله با بخش‌های مختلف بحران برآید.</segment>
+		<segment id="54" parent="110" relname="span">اینک وضعیت روانی و روحی مباحث مربوط به احتمال زمین لرزه تهران ، از موارد کمیابی است</segment>
+		<segment id="55" parent="54" relname="elaboration">که همه رسانه‌ها را به اتخاذ روشی حرفه‌ای برای ترمیم و احیای وضعیت روانی مردم دعوت می‌کند.</segment>
+		<segment id="56" parent="141" relname="span">دولت نیز نباید از وظیفه خود غفلت کند.</segment>
+		<segment id="57" parent="87" relname="joint">دولت می‌تواند به عنوان یک منبع مستقل خبری و با استفاده از کارشناسان خبره ، اخبار معتبر و درجه اول مربوط به احتمال وقوع زلزله در تهران را پیگیری کرده</segment>
+		<segment id="58" parent="87" relname="joint">و شیوه انتشار آنها را با اتخاذ روش‌های حرفه‌ای ، نه سانسور ، مدیریت کند.</segment>
+		<segment id="59" parent="145" relname="evaluation">زندگی در تهران جاری است.</segment>
+		<group id="60" type="span" parent="61" relname="contrast"/>
+		<group id="61" type="multinuc" parent="91" relname="joint"/>
+		<group id="62" type="multinuc" parent="7" relname="elaboration"/>
+		<group id="63" type="multinuc" parent="122" relname="span"/>
+		<group id="64" type="span" parent="123" relname="span"/>
+		<group id="65" type="span" parent="64" relname="elaboration"/>
+		<group id="66" type="span" parent="95" relname="joint"/>
+		<group id="67" type="span" parent="22" relname="background"/>
+		<group id="68" type="span" parent="95" relname="joint"/>
+		<group id="69" type="multinuc" parent="25" relname="explanation"/>
+		<group id="70" type="span" parent="69" relname="contrast"/>
+		<group id="71" type="span" parent="131" relname="span"/>
+		<group id="74" type="span" parent="75" relname="contrast"/>
+		<group id="75" type="multinuc" parent="130" relname="cause"/>
+		<group id="76" type="multinuc" parent="36" relname="elaboration"/>
+		<group id="77" type="multinuc" parent="107" relname="span"/>
+		<group id="78" type="multinuc" parent="44" relname="background"/>
+		<group id="80" type="span" parent="81" relname="span"/>
+		<group id="81" type="span" parent="132" relname="joint"/>
+		<group id="82" type="span" parent="50" relname="manner-means"/>
+		<group id="86" type="multinuc" parent="110" relname="background"/>
+		<group id="87" type="multinuc" parent="56" relname="explanation"/>
+		<group id="91" type="multinuc" parent="120" relname="elaboration"/>
+		<group id="92" type="span" parent="91" relname="joint"/>
+		<group id="93" type="span" parent="143" relname="joint"/>
+		<group id="94" type="span" parent="16" relname="elaboration"/>
+		<group id="95" type="multinuc" parent="17" relname="cause"/>
+		<group id="97" type="span" parent="103" relname="topicomment"/>
+		<group id="98" type="span" parent="99" relname="span"/>
+		<group id="99" type="span" parent="130" relname="cause"/>
+		<group id="103" type="multinuc" parent="138" relname="evaluation"/>
+		<group id="104" type="span" parent="138" relname="span"/>
+		<group id="107" type="span" parent="108" relname="span"/>
+		<group id="108" type="span" parent="109" relname="contrast"/>
+		<group id="109" type="multinuc" parent="104" relname="explanation"/>
+		<group id="110" type="span" parent="111" relname="span"/>
+		<group id="111" type="span" parent="140" relname="joint"/>
+		<group id="119" type="span" parent="1" relname="summary"/>
+		<group id="120" type="span" parent="121" relname="span"/>
+		<group id="121" type="span" parent="143" relname="joint"/>
+		<group id="122" type="span" parent="93" relname="span"/>
+		<group id="123" type="span" parent="122" relname="elaboration"/>
+		<group id="126" type="span" parent="98" relname="cause"/>
+		<group id="127" type="multinuc" parent="98" relname="span"/>
+		<group id="130" type="multinuc" parent="71" relname="cause"/>
+		<group id="131" type="span" parent="103" relname="topicomment"/>
+		<group id="132" type="multinuc" parent="136" relname="span"/>
+		<group id="133" type="span" parent="132" relname="joint"/>
+		<group id="134" type="span" parent="135" relname="span"/>
+		<group id="135" type="span" parent="109" relname="contrast"/>
+		<group id="136" type="span" parent="137" relname="span"/>
+		<group id="137" type="span" parent="107" relname="explanation"/>
+		<group id="138" type="span" parent="139" relname="span"/>
+		<group id="139" type="span" parent="142" relname="span"/>
+		<group id="140" type="multinuc" parent="139" relname="evaluation"/>
+		<group id="141" type="span" parent="140" relname="joint"/>
+		<group id="142" type="span" parent="144" relname="evaluation"/>
+		<group id="143" type="multinuc" parent="144" relname="evaluation"/>
+		<group id="144" type="multinuc" parent="145" relname="span"/>
+		<group id="145" type="span" parent="146" relname="span"/>
+		<group id="146" type="span" />
+	</body>
+</rst>

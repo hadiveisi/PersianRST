@@ -1,0 +1,70 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="multinuc"/>
+			<rel name="cause" type="rst"/>
+			<rel name="comparison" type="multinuc"/>
+			<rel name="comparison" type="rst"/>
+			<rel name="condition" type="multinuc"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="contrast" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation" type="multinuc"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="explanation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="manner-means" type="rst"/>
+			<rel name="same" type="multinuc"/>
+			<rel name="summary" type="rst"/>
+			<rel name="temporal" type="multinuc"/>
+			<rel name="temporal" type="rst"/>
+			<rel name="textualorganization" type="multinuc"/>
+			<rel name="topichange" type="multinuc"/>
+			<rel name="topichange" type="rst"/>
+			<rel name="topicomment" type="multinuc"/>
+			<rel name="topicomment" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="36" relname="span">یک مادر به همراه فرزندش در خراسان رضوی برای پرداخت هزینه یک میلیون و ۲۰۰هزار تومانی بیمارستان گرو گرفته شده‌اند.</segment>
+		<segment id="2" parent="19" relname="contrast">با اینکه این مادر به همراه همسرش پیش از زایمان اصرار داشتند به بیمارستان دولتی فرستاده شوند</segment>
+		<segment id="3" parent="19" relname="contrast">اما اورژانس آنها را به یک بیمارستان خیریه برده است.</segment>
+		<segment id="4" parent="20" relname="span">مادر زایمان طبیعی داشته</segment>
+		<segment id="5" parent="4" relname="elaboration">که بر اساس طرح تحول سلامت کاملا رایگان است</segment>
+		<segment id="6" parent="21" relname="contrast">اما بیمه سلامت در بیمارستان‌های خصوصی هیچ ارزشی ندارد.</segment>
+		<segment id="7" parent="8" relname="temporal">هر روز که می‌گذرد</segment>
+		<segment id="8" parent="22" relname="span">۳۸۰ هزار تومان به هزینه‌های بیمارستان اضافه می‌شود</segment>
+		<segment id="9" parent="23" relname="joint">و تلاش مددکاران این بیمارستان هم تنها به تخفیف ۴۰۰ هزار تومانی محدود شده است.</segment>
+		<segment id="10" parent="11" relname="attribution">براساس اصل ۴۳ قانون اساسی</segment>
+		<segment id="11" parent="24" relname="span">بهداشت و درمان و آموزش و پرورش باید برای عموم مردم رایگان باشد ،</segment>
+		<segment id="12" parent="31" relname="attribution">با این‌حال وزیر بهداشت معتقد است</segment>
+		<segment id="13" parent="26" relname="cause">«افکار سوسیالیستی هنوز در ذهن برخی از تصمیم گیرندگان رسوباتی دارد</segment>
+		<segment id="14" parent="29" relname="cause">و معتقدند</segment>
+		<segment id="15" parent="27" relname="joint">که حوزه سلامت حاکمیتی است</segment>
+		<segment id="16" parent="27" relname="joint">و نباید اجازه ورود بخش خصوصی را داد.»</segment>
+		<segment id="17" parent="34" relname="contrast">دولت با اجرای طرح تحول سلامت تلاش داشت هزینه‌های درمان در کشور را کاهش دهد</segment>
+		<segment id="18" parent="34" relname="contrast">اما هزینه‌های بالای این طرح و بدهی‌های دولت به شرکت‌های بیمه این طرح را با مشکلات فراوانی مواجه کرده است.</segment>
+		<group id="19" type="multinuc" parent="35" relname="joint"/>
+		<group id="20" type="span" parent="21" relname="contrast"/>
+		<group id="21" type="multinuc" parent="35" relname="joint"/>
+		<group id="22" type="span" parent="23" relname="joint"/>
+		<group id="23" type="multinuc" parent="35" relname="joint"/>
+		<group id="24" type="span" parent="33" relname="span"/>
+		<group id="26" type="multinuc" parent="31" relname="span"/>
+		<group id="27" type="multinuc" parent="29" relname="span"/>
+		<group id="29" type="span" parent="30" relname="span"/>
+		<group id="30" type="span" parent="26" relname="cause"/>
+		<group id="31" type="span" parent="32" relname="span"/>
+		<group id="32" type="span" parent="24" relname="contrast"/>
+		<group id="33" type="span" parent="36" relname="background"/>
+		<group id="34" type="multinuc" parent="38" relname="evaluation"/>
+		<group id="35" type="multinuc" parent="1" relname="elaboration"/>
+		<group id="36" type="span" parent="37" relname="span"/>
+		<group id="37" type="span" parent="38" relname="evaluation"/>
+		<group id="38" type="multinuc" />
+	</body>
+</rst>

@@ -1,0 +1,66 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="multinuc"/>
+			<rel name="cause" type="rst"/>
+			<rel name="comparison" type="multinuc"/>
+			<rel name="comparison" type="rst"/>
+			<rel name="condition" type="multinuc"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="contrast" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation" type="multinuc"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="explanation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="manner-means" type="rst"/>
+			<rel name="same" type="multinuc"/>
+			<rel name="summary" type="rst"/>
+			<rel name="temporal" type="multinuc"/>
+			<rel name="temporal" type="rst"/>
+			<rel name="textualorganization" type="multinuc"/>
+			<rel name="topichange" type="multinuc"/>
+			<rel name="topichange" type="rst"/>
+			<rel name="topicomment" type="multinuc"/>
+			<rel name="topicomment" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="20" relname="span">در آستانه روز کارگر ، علی اکبری ، کارگر خدماتی شرکت داروپخش اقدام به خودکشی کرده است.</segment>
+		<segment id="2" parent="3" relname="attribution">خبرها نشان می‌دهد</segment>
+		<segment id="3" parent="19" relname="span">که علت خودکشی این کارگر ، مخالفت با اعطای وام به او بوده است.</segment>
+		<segment id="4" parent="21" relname="contrast">گفته می‌شود علی اکبری ، کارگر پرسابقه این شرکت داروسازی و پخش دارو ، برای تامین داروی کودکش درخواست وام داشته</segment>
+		<segment id="5" parent="21" relname="contrast">ولی بارها با رد این درخواست روبرو شده است.</segment>
+		<segment id="6" parent="22" relname="contrast">وی بعد از ارایه درخواست ملاقات با مدیرعامل ، تهدید به خودکشی کرد ،</segment>
+		<segment id="7" parent="22" relname="contrast">اما توجهی به وی نشد.</segment>
+		<segment id="8" parent="23" relname="cause">اکبری پس از خروج از اتاق مدیرعامل این کارخانه خود را از طبقه چهارم ساختمانی در محوطه کارخانه به پایین پرتاب کرد.</segment>
+		<segment id="9" parent="24" relname="joint">او پس از این حادثه به بیمارستان میلاد تهران منتقل شد</segment>
+		<segment id="10" parent="24" relname="joint">و ۴ ساعت بعد در بیمارستان جان باخت.</segment>
+		<segment id="11" parent="26" relname="joint">در اسفندماه یونس عساکره نیز در اعتراض به جمع شدن بساط میوه‌فروشی‌اش در خرمشهر خود را در مقابل ساختمان شهرداری به آتش کشید.</segment>
+		<segment id="12" parent="29" relname="span">در طول یک سال گذشته ، کارگران دیگری هم به دلیل مشکلات اقتصادی اقدام به خودکشی کرده‌اند ؛</segment>
+		<segment id="13" parent="28" relname="span">از جمله دستفروشی</segment>
+		<segment id="14" parent="13" relname="elaboration">که خود را زیر ریل قطار مترو انداخت</segment>
+		<segment id="15" parent="27" relname="same">و کارگران اخراجی معدن طلای آق‌دره.</segment>
+		<segment id="16" parent="30" relname="joint">شرکت داروپخش با تولید بیش از ۴۵۰ قلم دارو در حوزه‌های مختلف درمانی یکی از شرکت‌های بزرگ دارویی کشور است.</segment>
+		<segment id="17" parent="30" relname="joint">این شرکت در سال ۷۲ توسط سازمان بورس اوراق بهادار تهران پذیرش شده</segment>
+		<segment id="18" parent="30" relname="joint">و عمده سهام آن به شرکت سرمایه‌گذاری دارویی تامین وابسته به سازمان تامین اجتماعی تعلق دارد.</segment>
+		<group id="19" type="span" parent="1" relname="explanation"/>
+		<group id="20" type="span" parent="31" relname="span"/>
+		<group id="21" type="multinuc" parent="24" relname="joint"/>
+		<group id="22" type="multinuc" parent="23" relname="cause"/>
+		<group id="23" type="multinuc" parent="24" relname="joint"/>
+		<group id="24" type="multinuc" parent="25" relname="comparison"/>
+		<group id="25" type="multinuc" parent="20" relname="summary"/>
+		<group id="26" type="multinuc" parent="25" relname="comparison"/>
+		<group id="27" type="multinuc" parent="12" relname="elaboration"/>
+		<group id="28" type="span" parent="27" relname="same"/>
+		<group id="29" type="span" parent="26" relname="joint"/>
+		<group id="30" type="multinuc" parent="31" relname="background"/>
+		<group id="31" type="span" parent="32" relname="span"/>
+		<group id="32" type="span" />
+	</body>
+</rst>

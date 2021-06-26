@@ -1,0 +1,90 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="multinuc"/>
+			<rel name="cause" type="rst"/>
+			<rel name="comparison" type="multinuc"/>
+			<rel name="comparison" type="rst"/>
+			<rel name="condition" type="multinuc"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="contrast" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation" type="multinuc"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="explanation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="manner-means" type="rst"/>
+			<rel name="same" type="multinuc"/>
+			<rel name="summary" type="rst"/>
+			<rel name="temporal" type="multinuc"/>
+			<rel name="temporal" type="rst"/>
+			<rel name="textualorganization" type="multinuc"/>
+			<rel name="topichange" type="multinuc"/>
+			<rel name="topichange" type="rst"/>
+			<rel name="topicomment" type="multinuc"/>
+			<rel name="topicomment" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="29" relname="span">نرخ ارز در چهار دهه گذشته ، افزایش مستمری را تجربه کرده است</segment>
+		<segment id="2" parent="80" relname="span">که می‌توان آن را به تورم‌های بالا و کاهش ظرفیت ارزآوری اقتصاد نسبت داد.</segment>
+		<segment id="3" parent="82" relname="span">برای مشخص شدن نقش این عوامل می‌توان این دوره را با دوره پیش از انقلاب مقایسه کرد</segment>
+		<segment id="4" parent="3" relname="elaboration">که برای دو دهه نرخ مبادله ریال با دیگر ارزها ثابت بود.</segment>
+		<segment id="5" parent="6" relname="cause">در سال‌های دهه ۴۰ ، تورم بسیار پایین بود</segment>
+		<segment id="6" parent="31" relname="span">در نتیجه فشاری برای افزایش نرخ ارز از ناحیه تقاضا وجود نداشت.</segment>
+		<segment id="7" parent="33" relname="cause">در میانه دهه ۵۰ نیز افزایش تورم با افزایش قیمت نفت و افزایش درآمدهای ارزی همراه بود.</segment>
+		<segment id="8" parent="32" relname="same">در نتیجه دولت می‌توانست</segment>
+		<segment id="9" parent="10" relname="manner-means">با عرضه بیشتر</segment>
+		<segment id="10" parent="32" relname="same">نرخ ارز را در بازار ثابت نگه دارد.</segment>
+		<segment id="11" parent="12" relname="temporal">البته قبل از این که نتایج این سیاست ناپایدار نمایان شود ،</segment>
+		<segment id="12" parent="37" relname="span">عمر رژیم پهلوی به پایان رسید.</segment>
+		<segment id="13" parent="14" relname="attribution">اما در چهار دهه گذشته توان ارزآوری اقتصاد متناسب با افزایش تقاضای اسمی برای ارز افزایش نیافته است ،</segment>
+		<segment id="14" parent="67" relname="span">در نتیجه مقامات پولی در پنهان کردن نابسامانی‌های پولی از طریق تثبیت نرخ ارز ناتوان شده اند.</segment>
+		<segment id="15" parent="41" relname="span">در سال‌های ۱۳۵۲ تا ۱۳۵۴ ، ایران به طور متوسط ۵ میلیون بشکه نفت در روز صادر می‌کرد.</segment>
+		<segment id="16" parent="15" relname="summary">یعنی با توجه به جمعیت ۳۲ میلیون نفری در آن زمان ، به ازای هر ایرانی روزانه ۱۵۸ بشکه نفت صادر می‌شد.</segment>
+		<segment id="17" parent="69" relname="span">این در حالی است که صادرات نفت در سال‌های اخیر در بهترین حالت در حدود ۲ میلیون و ۲۰۰ هزار بشکه در روز است.</segment>
+		<segment id="18" parent="17" relname="summary">یعنی با توجه به جمعیت ۸۰ میلیون نفری ، به ازای هر ایرانی ۳۶ بشکه نفت در روز صادر می‌شود :</segment>
+		<segment id="19" parent="45" relname="cause">به عبارت دیگر مقامات پولی نمی‌توانند تقاضای اسمی ارز را با تزریق متناسب ارز پاسخ دهند</segment>
+		<segment id="20" parent="45" relname="cause">در نتیجه نرخ ارز مستمرا در بازار آزاد افزایش می‌یابد.</segment>
+		<segment id="21" parent="47" relname="same">اگر افزایش قیمت دلاری نفت و کاهش قدرت خرید دلار</segment>
+		<segment id="22" parent="21" relname="cause">به دلیل تورم</segment>
+		<segment id="23" parent="47" relname="same">نیز در نظر گرفته شود ،</segment>
+		<segment id="24" parent="48" relname="span">نتیجه این تحلیل تغییر چندانی نخواهد داشت.</segment>
+		<segment id="25" parent="73" relname="span">با توجه به محدود بودن توان ارزآوری اقتصاد ، تنها راه برای پرهیز از تلاطم‌های ارزی ایجاد چارچوبی برای تضمین ثبات در بخش پولی اقتصاد است.</segment>
+		<segment id="26" parent="60" relname="span">کاهش تورم و کنترل انتظارات تورمی‌تنها راه حلی است</segment>
+		<segment id="27" parent="26" relname="elaboration">که می‌تواند از طریق ایجاد ثبات در تقاضای اسمی ارز از افزایش‌های ناگهانی این نرخ جلوگیری کند.</segment>
+		<segment id="28" parent="60" relname="elaboration">این سیاست در اغلب اقتصادهای جهان تجربه و به اصلی پذیرفته شده در علم اقتصاد تبدیل شده است.</segment>
+		<group id="29" type="span" parent="83" relname="topicomment"/>
+		<group id="31" type="span" parent="35" relname="joint"/>
+		<group id="32" type="multinuc" parent="33" relname="span"/>
+		<group id="33" type="span" parent="34" relname="span"/>
+		<group id="34" type="span" parent="66" relname="span"/>
+		<group id="35" type="multinuc" parent="53" relname="comparison"/>
+		<group id="37" type="span" parent="34" relname="elaboration"/>
+		<group id="41" type="span" parent="43" relname="contrast"/>
+		<group id="42" type="span" parent="43" relname="contrast"/>
+		<group id="43" type="multinuc" parent="70" relname="span"/>
+		<group id="45" type="multinuc" parent="69" relname="summary"/>
+		<group id="47" type="multinuc" parent="24" relname="condition"/>
+		<group id="48" type="span" parent="70" relname="elaboration"/>
+		<group id="53" type="multinuc" parent="76" relname="joint"/>
+		<group id="60" type="span" parent="72" relname="span"/>
+		<group id="66" type="span" parent="35" relname="joint"/>
+		<group id="67" type="span" parent="68" relname="span"/>
+		<group id="68" type="span" parent="53" relname="comparison"/>
+		<group id="69" type="span" parent="42" relname="span"/>
+		<group id="70" type="span" parent="71" relname="span"/>
+		<group id="71" type="span" parent="76" relname="joint"/>
+		<group id="72" type="span" parent="25" relname="summary"/>
+		<group id="73" type="span" parent="83" relname="topicomment"/>
+		<group id="76" type="multinuc" parent="82" relname="elaboration"/>
+		<group id="80" type="span" parent="1" relname="explanation"/>
+		<group id="81" type="span" parent="2" relname="elaboration"/>
+		<group id="82" type="span" parent="81" relname="span"/>
+		<group id="83" type="multinuc" />
+	</body>
+</rst>

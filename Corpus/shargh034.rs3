@@ -1,0 +1,105 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="multinuc"/>
+			<rel name="cause" type="rst"/>
+			<rel name="comparison" type="multinuc"/>
+			<rel name="comparison" type="rst"/>
+			<rel name="condition" type="multinuc"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="contrast" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation" type="multinuc"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="explanation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="manner-means" type="rst"/>
+			<rel name="same" type="multinuc"/>
+			<rel name="summary" type="rst"/>
+			<rel name="temporal" type="multinuc"/>
+			<rel name="temporal" type="rst"/>
+			<rel name="textualorganization" type="multinuc"/>
+			<rel name="topichange" type="multinuc"/>
+			<rel name="topichange" type="rst"/>
+			<rel name="topicomment" type="multinuc"/>
+			<rel name="topicomment" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="39" relname="contrast">دولت در تصمیم جدیدی به خیال خود قیمت گذاری خودرو را آزاد کرده است</segment>
+		<segment id="2" parent="84" relname="span">اما مساله این است که دولت به هیچ وجه دخالت خود را حذف نکرده و نمی‌کند.</segment>
+		<segment id="3" parent="4" relname="attribution">در همین آیین نامه نوشته شده</segment>
+		<segment id="4" parent="82" relname="span">که سازمان حمایت از مصرف کننده قیمت را تعیین می‌کند</segment>
+		<segment id="5" parent="83" relname="cause">و خودروسازان در این میان هیچ سودی نخواهند برد.</segment>
+		<segment id="6" parent="7" relname="attribution">براساس محاسبات قبلی سازمان حمایت از مصرف ،</segment>
+		<segment id="7" parent="60" relname="span">خودروسازان تا پایان سال 3500 میلیارد تومان ضرر می‌کنند.</segment>
+		<segment id="8" parent="44" relname="attribution">طبق قانون برنامه پنجم توسعه ،</segment>
+		<segment id="9" parent="71" relname="same">در شرایطی</segment>
+		<segment id="10" parent="70" relname="joint">که قیمت گذاری را دولت تکلیف کند</segment>
+		<segment id="11" parent="70" relname="joint">و این قیمت‌ها به صورت عادلانه نباشد ،</segment>
+		<segment id="12" parent="71" relname="same">دولت باید ضرر و زیان تولیدکننده را جبران کند.</segment>
+		<segment id="13" parent="72" relname="span">اما دولت عزمی برای جبران این زیان ندارد.</segment>
+		<segment id="14" parent="42" relname="joint">چنان که مبلغ درخواستی دوهزار میلیارد تومان خودروسازان را تاکنون پرداخت نکرده</segment>
+		<segment id="15" parent="42" relname="joint">و خیالی هم برای پرداخت ندارد.</segment>
+		<segment id="16" parent="47" relname="same">حالا با روش جدیدی</segment>
+		<segment id="17" parent="16" relname="elaboration">که 12اشتباه محاسباتی در آن وجود دارد ،</segment>
+		<segment id="18" parent="47" relname="same">خودروسازان هیچ سودی نخواهند کرد.</segment>
+		<segment id="19" parent="48" relname="joint">بلکه دولت با استفاده از ما ، قیمت‌ها را افزایش داده</segment>
+		<segment id="20" parent="48" relname="joint">و مابه التفاوت آن را از تولیدکنندگان دریافت خواهد کرد ،</segment>
+		<segment id="21" parent="73" relname="span">در واقع ، سود افزایش قیمت خودرو به دولت می‌رسد</segment>
+		<segment id="22" parent="21" relname="contrast">و بدبینی مردم و گرفتاری‌ها به خودروسازان خواهد رسید.</segment>
+		<segment id="23" parent="74" relname="span">دولت در حالی می‌خواهد براساس ارز مبادلاتی قیمت‌ها را تعیین کند</segment>
+		<segment id="24" parent="55" relname="joint">که یک دلار به تولیدگران تخصیص نیافته</segment>
+		<segment id="25" parent="55" relname="joint">و همه واردات با ارز آزاد بوده است.</segment>
+		<segment id="26" parent="55" relname="joint">همچنین همه راه‌های دریافت تسهیلات را بسته است.</segment>
+		<segment id="27" parent="63" relname="span">در همین حال از تولیدکنندگان می‌خواهد تا متعهد شوند حجم تولید را بالا ببرند</segment>
+		<segment id="28" parent="27" relname="contrast">در حالی که شرایط را برای ما تسهیل نکرده است.</segment>
+		<segment id="29" parent="62" relname="span">در بخش دیگری سازمان حمایت از مصرف خواسته تا اسناد مثبته را ارایه کنیم.</segment>
+		<segment id="30" parent="77" relname="joint">در حالی که ما برای خروج حساب‌ها 8 درصد پول می‌دهیم</segment>
+		<segment id="31" parent="77" relname="joint">و همه این روند غیرقانونی است ،</segment>
+		<segment id="32" parent="78" relname="span">ما در این وضعیت چطور می‌توانیم اسناد آن را ارایه کنیم.</segment>
+		<segment id="33" parent="59" relname="attribution">مطابق قانون و آیین نامه جدید ،</segment>
+		<segment id="34" parent="58" relname="joint">خودروسازان هیچ حقی ندارند</segment>
+		<segment id="35" parent="58" relname="joint">و سازمان حمایت از مصرف قیمت‌ها را تعیین می‌کند</segment>
+		<segment id="36" parent="58" relname="joint">و خودروسازان نیز باید هر سه ماه یک بار مابه التفاوت‌ها را به حساب دولت واریز کنند.</segment>
+		<group id="39" type="multinuc" parent="91" relname="summary"/>
+		<group id="41" type="span" parent="43" relname="contrast"/>
+		<group id="42" type="multinuc" parent="13" relname="explanation"/>
+		<group id="43" type="multinuc" parent="44" relname="span"/>
+		<group id="44" type="span" parent="68" relname="span"/>
+		<group id="47" type="multinuc" parent="51" relname="contrast"/>
+		<group id="48" type="multinuc" parent="73" relname="summary"/>
+		<group id="49" type="span" parent="51" relname="contrast"/>
+		<group id="51" type="multinuc" parent="65" relname="joint"/>
+		<group id="55" type="multinuc" parent="23" relname="contrast"/>
+		<group id="58" type="multinuc" parent="59" relname="span"/>
+		<group id="59" type="span" parent="79" relname="span"/>
+		<group id="60" type="span" parent="67" relname="span"/>
+		<group id="62" type="span" parent="76" relname="joint"/>
+		<group id="63" type="span" parent="76" relname="joint"/>
+		<group id="65" type="multinuc" parent="60" relname="explanation"/>
+		<group id="67" type="span" parent="85" relname="explanation"/>
+		<group id="68" type="span" parent="65" relname="joint"/>
+		<group id="70" type="multinuc" parent="9" relname="elaboration"/>
+		<group id="71" type="multinuc" parent="41" relname="span"/>
+		<group id="72" type="span" parent="43" relname="contrast"/>
+		<group id="73" type="span" parent="49" relname="span"/>
+		<group id="74" type="span" parent="76" relname="joint"/>
+		<group id="76" type="multinuc" parent="88" relname="evaluation"/>
+		<group id="77" type="multinuc" parent="32" relname="background"/>
+		<group id="78" type="span" parent="29" relname="contrast"/>
+		<group id="79" type="span" parent="88" relname="evaluation"/>
+		<group id="82" type="span" parent="2" relname="explanation"/>
+		<group id="83" type="multinuc" parent="85" relname="span"/>
+		<group id="84" type="span" parent="83" relname="cause"/>
+		<group id="85" type="span" parent="86" relname="span"/>
+		<group id="86" type="span" parent="39" relname="contrast"/>
+		<group id="88" type="multinuc" parent="91" relname="span"/>
+		<group id="91" type="span" parent="92" relname="span"/>
+		<group id="92" type="span" />
+	</body>
+</rst>

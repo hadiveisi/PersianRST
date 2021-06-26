@@ -1,0 +1,153 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="multinuc"/>
+			<rel name="cause" type="rst"/>
+			<rel name="comparison" type="multinuc"/>
+			<rel name="comparison" type="rst"/>
+			<rel name="condition" type="multinuc"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="contrast" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation" type="multinuc"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="explanation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="manner-means" type="rst"/>
+			<rel name="same" type="multinuc"/>
+			<rel name="summary" type="rst"/>
+			<rel name="temporal" type="multinuc"/>
+			<rel name="temporal" type="rst"/>
+			<rel name="textualorganization" type="multinuc"/>
+			<rel name="topichange" type="multinuc"/>
+			<rel name="topichange" type="rst"/>
+			<rel name="topicomment" type="multinuc"/>
+			<rel name="topicomment" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="71" relname="joint">رواج پولشویی در ایران و بسیاری کشورهای دیگر موضوعی غیرقابل انکار است</segment>
+		<segment id="2" parent="63" relname="same">و اتفاقا</segment>
+		<segment id="3" parent="2" relname="cause">به دلیل این که پولشویی ، پدیده‌ای شایع و رایج بوده ،</segment>
+		<segment id="4" parent="63" relname="same">مجالس گذشته نیز در این رابطه قانونگذاری کرده اند.</segment>
+		<segment id="5" parent="64" relname="temporal">بر این اساس ، قانون مبارزه با پولشویی در سال ۸۶ به تصویب رسیده ،</segment>
+		<segment id="6" parent="65" relname="span">در سال ۸۷ ایران به کنوانسیون مبارزه با فساد پیوست</segment>
+		<segment id="7" parent="6" relname="elaboration">که بخشی از مباحث مدنظر این کنوانسیون همین موضوعات مربوط به پولشویی است</segment>
+		<segment id="8" parent="64" relname="temporal">و پس از آن نیز در سال ۹١ بود که قانون داخلی مبارزه با تامین مالی تروریسم به تصویب رسیده است.</segment>
+		<segment id="9" parent="73" relname="evaluation">بنابراین ، قانون گذاری نشانگر وجود این پدیده و ضرورت برخورد با آن است.</segment>
+		<segment id="10" parent="123" relname="span">نکته حایز اهمیت در مبارزه با پولشویی این است که این جرم عمدتا به صورت فراملی دنبال می‌شود ؛</segment>
+		<segment id="11" parent="69" relname="same">چراکه این جرم معمولا در جریان مخفی کردن پول‌های کثیفی</segment>
+		<segment id="12" parent="11" relname="elaboration">که در اثر جرایم دیگر همچون تروریسم یا قاچاق مواد مخدر ، اسلحه و انسان حاصل می‌شود ،</segment>
+		<segment id="13" parent="69" relname="same">رقم می‌خورد</segment>
+		<segment id="14" parent="76" relname="cause">و باتوجه به این که ممکن است یک جرم به طور همزمان در چند کشور اتفاق بیفتد ،</segment>
+		<segment id="15" parent="75" relname="joint">کنوانسیون‌های بین المللی مختلف طراحی و تشکیل شده</segment>
+		<segment id="16" parent="75" relname="joint">و کشورها به صورت دو یا چندجانبه با یکدیگر همکاری می‌کنند.</segment>
+		<segment id="17" parent="78" relname="temporal">در ایران نیز از اواسط دهه ۸۰ قانون گذاری در زمینه مبارزه با پولشویی آغاز شده</segment>
+		<segment id="18" parent="79" relname="span">و از اواخر این دهه و اوایل دهه ۹۰ ساختارهای مربوط به مبارزه با پولشویی در کشور ، ایجاد و مستقر شده است</segment>
+		<segment id="19" parent="80" relname="joint">که مرکزیت این ساختار در سازمان مبارزه با پولشویی زیرنظر وزارت امور اقتصادی و دارایی است</segment>
+		<segment id="20" parent="80" relname="joint">و علاوه بر این نهاد ، شورای عالی مبارزه با پولشویی به صورت فراقوه‌ای تشکیل شده</segment>
+		<segment id="21" parent="80" relname="joint">و درمجموع بخش‌های مختلف دستگاه‌های دولتی و اجرایی اعم از بانک مرکزی ، وزارت اقتصاد و دارایی ، دادستانی ، دستگاه قضایی ، نیروی انتظامی و پلیس بین الملل با این بحث درگیر هستند.</segment>
+		<segment id="22" parent="84" relname="contrast">درمجموع باوجود ایجاد ساختار و تصویب قوانین اولیه در کشورمان ،</segment>
+		<segment id="23" parent="81" relname="joint">به دلیل برخی ایرادها و کاستی‌های ساختاری و قانونی</segment>
+		<segment id="24" parent="82" relname="span">و نیز به علت مشکلاتی</segment>
+		<segment id="25" parent="24" relname="elaboration">که در همکاری‌های بین المللی داریم ،</segment>
+		<segment id="26" parent="84" relname="span">ایران یکی از کشورهایی است که مبارزه با پولشویی در آن با دشواری‌هایی روبه رو است.</segment>
+		<segment id="27" parent="89" relname="span">نکته حایز اهمیت دیگر این است</segment>
+		<segment id="28" parent="85" relname="same">که ما به عنوان کشوری</segment>
+		<segment id="29" parent="28" relname="elaboration">که در ۴ دهه گذشته ، همواره قربانی تروریسم و سازمان‌های تروریستی همچون منافقین بودیم ،</segment>
+		<segment id="30" parent="85" relname="same">لازم است نسبت به مبارزه با تامین مالی این گروه‌ها اقداماتی دوچندان داشته باشیم.</segment>
+		<segment id="31" parent="88" relname="same">آن هم در شرایطی که همزمان</segment>
+		<segment id="32" parent="31" relname="cause">به دلیل موقعیت جغرافیایی کشورمان ،</segment>
+		<segment id="33" parent="88" relname="same">ازجمله کشورهایی هستیم</segment>
+		<segment id="34" parent="118" relname="elaboration">که بیشترین اصطکاک و درگیری را در بحث مبارزه با مواد مخدر داریم ،</segment>
+		<segment id="35" parent="104" relname="cause">لازم است توجهی بیشتر به این مهم داشته باشیم.</segment>
+		<segment id="36" parent="37" relname="cause">امروزه به دلیل ساختارهای تبیین شده مبارزه با پولشویی ،</segment>
+		<segment id="37" parent="86" relname="span">هزینه و سختی کار این رویه‌ها پایین آمده</segment>
+		<segment id="38" parent="87" relname="joint">و می‌توان با تقویت این ساز و کارها هزینه‌ها را به حداقل رساند.</segment>
+		<segment id="39" parent="90" relname="same">شاید بتوان به عنوان یکی از نمونه‌های کوچک مبارزه با تروریسم از طریق سازوکارهای مالی به نحوه برخورد با تروریست‌هایی</segment>
+		<segment id="40" parent="39" relname="elaboration">که به مجلس حمله کرده بودند ،</segment>
+		<segment id="41" parent="90" relname="same">اشاره کرد</segment>
+		<segment id="42" parent="124" relname="elaboration">که از طریق ردیابی تراکنش‌های بانکی این افراد ، اقداماتی موثر در راستای برخورد قضایی با آن‌ها صورت گرفت.</segment>
+		<segment id="43" parent="93" relname="same">درمجموع به نظر می‌رسد باتوجه به مشکلاتی</segment>
+		<segment id="44" parent="43" relname="elaboration">که در مبارزه با گروه‌های تروریستی همچون منافقین یا بنیادگرایانی همچون داعش که در مرزهای شرقی نیز فعال هستند ، وجود دارد ،</segment>
+		<segment id="45" parent="93" relname="same">بتوان با تقویت سازوکارهای مبارزه با تامین مالی تروریسم و از طریق تقویت همکاری‌های بین المللی بتوانیم به طور موثرتر مبارزه کنیم.</segment>
+		<segment id="46" parent="94" relname="same">در پایان لازم است اشاره‌ای نیز به هجمه‌های انتقادی و تخریبی</segment>
+		<segment id="47" parent="46" relname="elaboration">که علیه وزیر امور خارجه صورت گرفت ،</segment>
+		<segment id="48" parent="94" relname="same">داشته باشیم</segment>
+		<segment id="49" parent="96" relname="span">که به نظر می‌رسد ، این اقدامات برخی افراد عمدتا ناشی از سازماندهی‌ای است</segment>
+		<segment id="50" parent="49" relname="elaboration">که از جانب عقبه سیاسی این افراد صورت می‌گیرد.</segment>
+		<segment id="51" parent="98" relname="same">باید توجه داشته باشیم که آقای ظریف قاعدتا با توجه به اطلاعات بیشتری</segment>
+		<segment id="52" parent="126" relname="joint">که در اختیار دارد</segment>
+		<segment id="53" parent="126" relname="joint">و طبیعتا باتوجه به ابعاد محرمانه آن ، قادر به بیان تمامی جزییات نیست ،</segment>
+		<segment id="54" parent="98" relname="same">نگرانی‌های دوچندان و بجا دارد</segment>
+		<segment id="55" parent="99" relname="joint">و این رویه برخورد با ایشان احتمالا صرفا ناشی از همان مسایل جناحی و رقابت با دولت است.</segment>
+		<segment id="56" parent="57" relname="cause">در این سال‌های گذشته شاهد بودیم که آقای ظریف تقریبا هر ماه برای پاسخ به سوالات نمایندگان به مجلس می‌آید</segment>
+		<segment id="57" parent="128" relname="span">و به نظر می‌رسد در این مقطع نیز تفاوت خاصی نباشد.</segment>
+		<segment id="58" parent="102" relname="same">درواقع عقبه سیاسی این منتقدان</segment>
+		<segment id="59" parent="101" relname="joint">که عمدتا از رقبای دولت هستند</segment>
+		<segment id="60" parent="101" relname="joint">و بعضا از مبارزه با پولشویی نیز متضرر می‌شوند ،</segment>
+		<segment id="61" parent="102" relname="same">پشت این تخریب‌ها هستند</segment>
+		<segment id="62" parent="103" relname="contrast">اما بعید است که با این شیوه‌ها راه به جایی ببرند.</segment>
+		<group id="63" type="multinuc" parent="72" relname="span"/>
+		<group id="64" type="multinuc" parent="66" relname="span"/>
+		<group id="65" type="span" parent="64" relname="temporal"/>
+		<group id="66" type="span" parent="72" relname="elaboration"/>
+		<group id="69" type="multinuc" parent="70" relname="joint"/>
+		<group id="70" type="multinuc" parent="10" relname="cause"/>
+		<group id="71" type="multinuc" parent="122" relname="topichange"/>
+		<group id="72" type="span" parent="73" relname="span"/>
+		<group id="73" type="span" parent="74" relname="span"/>
+		<group id="74" type="span" parent="71" relname="joint"/>
+		<group id="75" type="multinuc" parent="106" relname="comparison"/>
+		<group id="76" type="span" parent="77" relname="span"/>
+		<group id="77" type="span" parent="70" relname="joint"/>
+		<group id="78" type="multinuc" parent="106" relname="comparison"/>
+		<group id="79" type="span" parent="78" relname="temporal"/>
+		<group id="80" type="multinuc" parent="18" relname="elaboration"/>
+		<group id="81" type="multinuc" parent="26" relname="cause"/>
+		<group id="82" type="span" parent="81" relname="joint"/>
+		<group id="84" type="span" parent="117" relname="span"/>
+		<group id="85" type="multinuc" parent="27" relname="elaboration"/>
+		<group id="86" type="span" parent="87" relname="joint"/>
+		<group id="87" type="multinuc" parent="109" relname="span"/>
+		<group id="88" type="multinuc" parent="118" relname="span"/>
+		<group id="89" type="span" parent="104" relname="span"/>
+		<group id="90" type="multinuc" parent="124" relname="span"/>
+		<group id="93" type="multinuc" parent="110" relname="evaluation"/>
+		<group id="94" type="multinuc" parent="95" relname="span"/>
+		<group id="95" type="span" parent="97" relname="span"/>
+		<group id="96" type="span" parent="95" relname="elaboration"/>
+		<group id="97" type="span" parent="122" relname="topichange"/>
+		<group id="98" type="multinuc" parent="99" relname="joint"/>
+		<group id="99" type="multinuc" parent="114" relname="span"/>
+		<group id="101" type="multinuc" parent="58" relname="elaboration"/>
+		<group id="102" type="multinuc" parent="103" relname="contrast"/>
+		<group id="103" type="multinuc" parent="132" relname="span"/>
+		<group id="104" type="span" parent="108" relname="span"/>
+		<group id="106" type="multinuc" parent="76" relname="span"/>
+		<group id="108" type="span" parent="120" relname="contrast"/>
+		<group id="109" type="span" parent="110" relname="span"/>
+		<group id="110" type="span" parent="111" relname="span"/>
+		<group id="111" type="span" parent="127" relname="topicomment"/>
+		<group id="114" type="span" parent="115" relname="span"/>
+		<group id="115" type="span" parent="132" relname="summary"/>
+		<group id="117" type="span" parent="120" relname="contrast"/>
+		<group id="118" type="span" parent="119" relname="span"/>
+		<group id="119" type="span" parent="89" relname="background"/>
+		<group id="120" type="multinuc" parent="127" relname="topicomment"/>
+		<group id="122" type="multinuc" />
+		<group id="123" type="span" parent="122" relname="topichange"/>
+		<group id="124" type="span" parent="125" relname="span"/>
+		<group id="125" type="span" parent="109" relname="explanation"/>
+		<group id="126" type="multinuc" parent="51" relname="elaboration"/>
+		<group id="127" type="multinuc" parent="122" relname="topichange"/>
+		<group id="128" type="span" parent="129" relname="span"/>
+		<group id="129" type="span" parent="114" relname="evaluation"/>
+		<group id="132" type="span" parent="133" relname="span"/>
+		<group id="133" type="span" parent="97" relname="evaluation"/>
+	</body>
+</rst>

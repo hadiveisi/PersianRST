@@ -1,0 +1,79 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="multinuc"/>
+			<rel name="cause" type="rst"/>
+			<rel name="comparison" type="multinuc"/>
+			<rel name="comparison" type="rst"/>
+			<rel name="condition" type="multinuc"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="contrast" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation" type="multinuc"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="explanation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="manner-means" type="rst"/>
+			<rel name="same" type="multinuc"/>
+			<rel name="summary" type="rst"/>
+			<rel name="temporal" type="multinuc"/>
+			<rel name="temporal" type="rst"/>
+			<rel name="textualorganization" type="multinuc"/>
+			<rel name="topichange" type="multinuc"/>
+			<rel name="topichange" type="rst"/>
+			<rel name="topicomment" type="multinuc"/>
+			<rel name="topicomment" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="2" relname="cause">این روزها فصل امتحانات دانشجویان است ،</segment>
+		<segment id="2" parent="24" relname="span">از این رو تعدادی از نمایندگان مجلس در نامه‌ای خواستار آزادی دانشجویان به ویژه دانشجویان دختر شدند.</segment>
+		<segment id="3" parent="25" relname="span">طبق اخباری</segment>
+		<segment id="4" parent="3" relname="elaboration">که در اختیار نمایندگان قرار گرفته است</segment>
+		<segment id="5" parent="26" relname="contrast">تعداد دانشجویان باقی مانده در بازداشت زیاد نیست</segment>
+		<segment id="6" parent="26" relname="contrast">اما بازداشت همین تعداد محدود نیز موجب نگرانی خانواده‌های آنان شده است.</segment>
+		<segment id="7" parent="37" relname="joint">دانشجویان دختر نیز شرایط خاصی دارند</segment>
+		<segment id="8" parent="38" relname="span">به همین دلیل در نامه‌ای به صورت ویژه درخواست آزادی تعداد معدود دانشجویان دختر را داشته ایم.</segment>
+		<segment id="9" parent="31" relname="joint">امیدواریم با دانشجویان بازداشت شده با رافت اسلامی برخورد شده</segment>
+		<segment id="10" parent="30" relname="same">و آن دسته از افراد بازداشت شده</segment>
+		<segment id="11" parent="10" relname="elaboration">که جرم قطعی مرتکب نشده اند</segment>
+		<segment id="12" parent="30" relname="same">هر چه زودتر آزاد شوند.</segment>
+		<segment id="13" parent="32" relname="contrast">این نامه هرچند ضمانت اجرایی ندارد</segment>
+		<segment id="14" parent="32" relname="contrast">اما درخواست جمعی از نمایندگان ملت است.</segment>
+		<segment id="15" parent="33" relname="joint">روزانه تعداد زیادی از خانواده‌های زندانیان به نمایندگان مجلس مراجعه کرده</segment>
+		<segment id="16" parent="33" relname="joint">و خواستار پیگیری وضعیت زندانیان خود هستند</segment>
+		<segment id="17" parent="42" relname="span">به همین دلیل این نامه از باب خیرخواهی نوشته شده است.</segment>
+		<segment id="18" parent="34" relname="span">در همین راستا کمیسیون امنیت ماموریت یافته است</segment>
+		<segment id="19" parent="18" relname="enablement">موضوع زندانیان را دنبال کند.</segment>
+		<segment id="20" parent="36" relname="joint">امیدواریم حقوق افراد بازداشت شده رعایت شده</segment>
+		<segment id="21" parent="35" relname="same">و ما اتفاقاتی را</segment>
+		<segment id="22" parent="21" relname="elaboration">که در گذشته رخ داد</segment>
+		<segment id="23" parent="35" relname="same">در این دوره شاهد نباشیم.</segment>
+		<group id="24" type="span" parent="38" relname="background"/>
+		<group id="25" type="span" parent="27" relname="attribution"/>
+		<group id="26" type="multinuc" parent="27" relname="span"/>
+		<group id="27" type="span" parent="28" relname="span"/>
+		<group id="28" type="span" parent="37" relname="joint"/>
+		<group id="30" type="multinuc" parent="31" relname="joint"/>
+		<group id="31" type="multinuc" parent="39" relname="evaluation"/>
+		<group id="32" type="multinuc" parent="40" relname="elaboration"/>
+		<group id="33" type="multinuc" parent="17" relname="cause"/>
+		<group id="34" type="span" parent="43" relname="joint"/>
+		<group id="35" type="multinuc" parent="36" relname="joint"/>
+		<group id="36" type="multinuc" parent="44" relname="evaluation"/>
+		<group id="37" type="multinuc" parent="8" relname="cause"/>
+		<group id="38" type="span" parent="39" relname="span"/>
+		<group id="39" type="span" parent="40" relname="span"/>
+		<group id="40" type="span" parent="41" relname="span"/>
+		<group id="41" type="span" parent="46" relname="span"/>
+		<group id="42" type="span" parent="43" relname="joint"/>
+		<group id="43" type="multinuc" parent="44" relname="span"/>
+		<group id="44" type="span" parent="45" relname="span"/>
+		<group id="45" type="span" parent="41" relname="summary"/>
+		<group id="46" type="span" />
+	</body>
+</rst>

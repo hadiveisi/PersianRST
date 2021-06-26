@@ -1,0 +1,86 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="multinuc"/>
+			<rel name="cause" type="rst"/>
+			<rel name="comparison" type="multinuc"/>
+			<rel name="comparison" type="rst"/>
+			<rel name="condition" type="multinuc"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="contrast" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation" type="multinuc"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="explanation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="manner-means" type="rst"/>
+			<rel name="same" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+			<rel name="summary" type="rst"/>
+			<rel name="temporal" type="multinuc"/>
+			<rel name="temporal" type="rst"/>
+			<rel name="textualorganization" type="multinuc"/>
+			<rel name="topichange" type="multinuc"/>
+			<rel name="topichange" type="rst"/>
+			<rel name="topicomment" type="multinuc"/>
+			<rel name="topicomment" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="25" relname="span">معاون اقتصادی وزارت کار به تازگی پیشنهاد تعیین حداقل دستمزد به صورت منطقه‌ای را در شورای عالی کار مطرح کرده</segment>
+		<segment id="2" parent="1" relname="elaboration">که این موضوع با واکنش منفی فعالان کارگری مواجه شده است.</segment>
+		<segment id="3" parent="30" relname="attribution">دبیرکل کانون عالی انجمن‌های صنفی کارگران در این‌باره گفته</segment>
+		<segment id="4" parent="27" relname="span">وقتی حقوقی</segment>
+		<segment id="5" parent="4" relname="elaboration">که کارگران می‌گیرند</segment>
+		<segment id="6" parent="26" relname="same">با خط فقر و نرخ تورم فاصله بسیار دارد ،</segment>
+		<segment id="7" parent="29" relname="joint">نمی‌توان به دنبال اجرای مزد منطقه‌ای بود</segment>
+		<segment id="8" parent="29" relname="joint">و این تغییر شیوه مزد با وضع حقوق فعلی کارگران جور در نمی‌آید.</segment>
+		<segment id="9" parent="10" relname="attribution">به گفته هادی ابوی</segment>
+		<segment id="10" parent="32" relname="span">زیر ساخت‌های منطقه‌ای شدن دستمزد در کشور مهیا نیست.</segment>
+		<segment id="11" parent="35" relname="joint">او بر سیاست سه‌جانبه‌گرایی (کارگران ، کارفرما و دولت) تاکید کرده</segment>
+		<segment id="12" parent="33" relname="attribution">و گفته</segment>
+		<segment id="13" parent="33" relname="span">مزد منطقه‌ای زمانی قابلیت اجرا دارد</segment>
+		<segment id="14" parent="13" relname="background">که حقوق کارگران بیش از سه میلیون تومان در نظر گرفته شود.</segment>
+		<segment id="15" parent="38" relname="attribution">در همین زمینه علی خدایی ، عضو هیات مدیره کانون عالی شوراهای اسلامی کار کشور هم گفته</segment>
+		<segment id="16" parent="36" relname="span">امکان عملیاتی کردن مزد منطقه‌ای با توجه به</segment>
+		<segment id="17" parent="16" relname="elaboration">اینکه کار تحقیقاتی روی آن انجام نشده است ،</segment>
+		<segment id="18" parent="37" relname="same">امکان‌پذیر نیست.</segment>
+		<segment id="19" parent="45" relname="span">تعیین حداقل دستمزد کارگران هر ساله با اعتراض کارگران همراه است.</segment>
+		<segment id="20" parent="21" relname="attribution">دولت معتقد است</segment>
+		<segment id="21" parent="40" relname="span">نرخ تورم مبنای افزایش حقوق‌ها است</segment>
+		<segment id="22" parent="41" relname="contrast">در حالیکه کارگران معتقدند دولت باید بر اساس افزایش هزینه‌های زندگی حداقل نرخ دستمزد را افزایش دهد.</segment>
+		<segment id="23" parent="42" relname="span">این در حالی است</segment>
+		<segment id="24" parent="23" relname="elaboration">که دولت در لایحه اصلاح قانون کار تلاش دارد گزینه وضع اقتصادی کشور را هم وارد فرایند تعیین حداقل دستمزد کند.</segment>
+		<group id="25" type="span" parent="46" relname="topicomment"/>
+		<group id="26" type="multinuc" parent="28" relname="background"/>
+		<group id="27" type="span" parent="26" relname="same"/>
+		<group id="28" type="span" parent="30" relname="span"/>
+		<group id="29" type="multinuc" parent="28" relname="span"/>
+		<group id="30" type="span" parent="31" relname="span"/>
+		<group id="31" type="span" parent="48" relname="span"/>
+		<group id="32" type="span" parent="47" relname="span"/>
+		<group id="33" type="span" parent="34" relname="span"/>
+		<group id="34" type="span" parent="35" relname="joint"/>
+		<group id="35" type="multinuc" parent="32" relname="explanation"/>
+		<group id="36" type="span" parent="37" relname="same"/>
+		<group id="37" type="multinuc" parent="38" relname="span"/>
+		<group id="38" type="span" parent="39" relname="span"/>
+		<group id="39" type="span" parent="49" relname="joint"/>
+		<group id="40" type="span" parent="41" relname="contrast"/>
+		<group id="41" type="multinuc" parent="43" relname="span"/>
+		<group id="42" type="span" parent="43" relname="background"/>
+		<group id="43" type="span" parent="44" relname="span"/>
+		<group id="44" type="span" parent="19" relname="explanation"/>
+		<group id="45" type="span" parent="50" relname="background"/>
+		<group id="46" type="multinuc" parent="50" relname="span"/>
+		<group id="47" type="span" parent="31" relname="explanation"/>
+		<group id="48" type="span" parent="49" relname="joint"/>
+		<group id="49" type="multinuc" parent="46" relname="topicomment"/>
+		<group id="50" type="span" parent="51" relname="span"/>
+		<group id="51" type="span" />
+	</body>
+</rst>

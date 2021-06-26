@@ -1,0 +1,140 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="multinuc"/>
+			<rel name="cause" type="rst"/>
+			<rel name="comparison" type="multinuc"/>
+			<rel name="comparison" type="rst"/>
+			<rel name="condition" type="multinuc"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="contrast" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation" type="multinuc"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="explanation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="manner-means" type="rst"/>
+			<rel name="same" type="multinuc"/>
+			<rel name="summary" type="rst"/>
+			<rel name="temporal" type="multinuc"/>
+			<rel name="temporal" type="rst"/>
+			<rel name="textualorganization" type="multinuc"/>
+			<rel name="topichange" type="multinuc"/>
+			<rel name="topichange" type="rst"/>
+			<rel name="topicomment" type="multinuc"/>
+			<rel name="topicomment" type="rst"/>
+			<rel name="topidrift" type="multinuc"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="105" relname="background">طرح شفافیت آرای نمایندگان از طرف دوست ما جناب آقای فتحی مطرح شد.</segment>
+		<segment id="2" parent="80" relname="joint">من نه تنها به این طرح رای مثبت دادم ،</segment>
+		<segment id="3" parent="53" relname="span">بلکه با استفاده از جایگاه عضو هیات رییسه چهار انگشت خود را برای اعلام موافقت با این طرح بالا بردم</segment>
+		<segment id="4" parent="3" relname="enablement">تا سایر دوستان نیز برای دادن رای مثبت به این طرح تشویق شوند.</segment>
+		<segment id="5" parent="54" relname="same">اما موجی</segment>
+		<segment id="6" parent="5" relname="elaboration">که این روزها درباره این طرح به راه افتاده</segment>
+		<segment id="7" parent="54" relname="same">خالی از صداقت است</segment>
+		<segment id="8" parent="55" relname="same">زیرا کسانی</segment>
+		<segment id="9" parent="8" relname="elaboration">که اکنون در فضای عمومی خود را منادی و علمدار شفافیت آرای نمایندگان قلمداد می‌کنند ،</segment>
+		<segment id="10" parent="55" relname="same">به هیچ کدام از ملزومات شفافیت پایبند نیستند.</segment>
+		<segment id="11" parent="83" relname="background">شفافیت مانند آزادی موازین دارد.</segment>
+		<segment id="12" parent="82" relname="span">یکی از لازمه‌های آزادی بیان آن است که آزادی پس از بیان وجود داشته باشد.</segment>
+		<segment id="13" parent="60" relname="summary">گاهی برخی با سواستفاده از واژه آزادی ، آزادی را قربانی می‌کنند.</segment>
+		<segment id="14" parent="15" relname="condition">اگر در آزادی بیان مصونیت پس از بیان وجود نداشته باشد ،</segment>
+		<segment id="15" parent="60" relname="span">این اتفاق سبب قربانی آزادی می‌شود.</segment>
+		<segment id="16" parent="88" relname="span">شفافیت آرای نمایندگان نیز شرایطی مشابه آزادی بیان دارد.</segment>
+		<segment id="17" parent="85" relname="joint">شفافیت نقطه کانونی گفتمان اصلاح طلبی است.</segment>
+		<segment id="18" parent="86" relname="span">شفافیت عناصر و شاخصه‌هایی دارد</segment>
+		<segment id="19" parent="66" relname="span">که یکی از مهم ترین شاخصه‌های شفافیت ، گردش آزاد اطلاعات و دسترسی آزاد به اطلاعات است.</segment>
+		<segment id="20" parent="87" relname="span">دسترسی مردم به اطلاعات حق مردم است</segment>
+		<segment id="21" parent="65" relname="joint">و سلب این حق نیازمند دلیل و برهان است</segment>
+		<segment id="22" parent="65" relname="joint">و ابتدا به ساکن نمی‌توان مردم را از اطلاعات محروم کرد.</segment>
+		<segment id="23" parent="66" relname="elaboration">این‌ها تنها بخشی از شاخصه‌های شفافیت محسوب می‌شود.</segment>
+		<segment id="24" parent="79" relname="span">مواردی که این روزها برای برخی نمایندگان نسبت به موضوع شفافیت طلبی در آرای نمایندگان تردید ایجاد کرده ، آن است که :</segment>
+		<segment id="25" parent="78" relname="span">۱- باید قبل از شفافیت آرای نمایندگان ما مصونیت طلبی پس از رای را مطالبه کنیم.</segment>
+		<segment id="26" parent="69" relname="joint">چرا یک نماینده باید از افشا شدن رای خود هراس داشته باشد ؟</segment>
+		<segment id="27" parent="69" relname="joint">چرا فضای ساختاری ما باید به گونه‌ای باشد که نماینده از رای خود بترسد ؟</segment>
+		<segment id="28" parent="56" relname="same">کسانی</segment>
+		<segment id="29" parent="28" relname="elaboration">که منادی آرای شفافیت نمایندگان هستند</segment>
+		<segment id="30" parent="56" relname="same">باید به این سوال پاسخ دهند که چرا ساختار ما به گونه‌ای است که نمایندگان از مشخص شدن رای خود هراس داشته باشند ؟</segment>
+		<segment id="31" parent="76" relname="span">۲- ما باید مصونیت یکسان داشته باشیم.</segment>
+		<segment id="32" parent="97" relname="span">نباید طیفی از مجلس رویین تن باشند.</segment>
+		<segment id="33" parent="74" relname="joint">اگر طیفی در ساختار قدرت رویین تن نبوده</segment>
+		<segment id="34" parent="74" relname="joint">و برای مصونیت پس از شفافیت آرا معیار واحد وجود داشته باشد ،</segment>
+		<segment id="35" parent="75" relname="span">حتما نمایندگان از این طرح استقبال خواهند کرد.</segment>
+		<segment id="36" parent="57" relname="same">مردم اکنون باید بدانند این تردیدی</segment>
+		<segment id="37" parent="36" relname="elaboration">که در میان نمایندگان برای این طرح به وجود آمده</segment>
+		<segment id="38" parent="57" relname="same">ریشه در کجا دارد.</segment>
+		<segment id="39" parent="91" relname="same">این تردید به آن دلیل است که</segment>
+		<segment id="40" parent="90" relname="joint">عده‌ای در مناسبات قدرت رویین تن بوده</segment>
+		<segment id="41" parent="90" relname="joint">و از مواهب دوگانه بهره می‌برند.</segment>
+		<segment id="42" parent="94" relname="joint">همین جریان این روزها علمدار شفافیت آرای نمایندگان شده و</segment>
+		<segment id="43" parent="44" relname="attribution">به همین دلایل است که ما می‌گوییم</segment>
+		<segment id="44" parent="89" relname="span">این جریان نمی تواند در موضوع شفافیت آرای نمایندگان صداقت داشته باشد.</segment>
+		<segment id="45" parent="101" relname="evaluation">شفافیت آرای نمایندگان یک مصداق از هزاران مصداق شفافیت است.</segment>
+		<segment id="46" parent="58" relname="same">دوستانی</segment>
+		<segment id="47" parent="46" relname="elaboration">که این روز‌ها کباده شفافیت آرای نمایندگان را به دوش می‌کشند ،</segment>
+		<segment id="48" parent="59" relname="joint">اجازه دهند شفافیت در تمامی حوزه‌های قدرت انجام شود</segment>
+		<segment id="49" parent="59" relname="joint">و به تمامی ارکان به لوازم شفافیت تمکین کنند.</segment>
+		<segment id="50" parent="73" relname="explanation">پایبندی به لوازم شفافیت در جمهوری اسلامی ایران معنابخش دموکراسی است.</segment>
+		<segment id="51" parent="52" relname="explanation">عده‌ای هستند که در کنار عدم پایبندی به لوازم شفافیت ، شعار شفافیت می‌دهند</segment>
+		<segment id="52" parent="72" relname="span">که این اتفاق سبب شده تا عده‌ای متصور شوند این جریان به جای شفافیت به دنبال مچ گیری است.</segment>
+		<group id="53" type="span" parent="80" relname="joint"/>
+		<group id="54" type="multinuc" parent="62" relname="span"/>
+		<group id="55" type="multinuc" parent="62" relname="explanation"/>
+		<group id="56" type="multinuc" parent="70" relname="span"/>
+		<group id="57" type="multinuc" parent="92" relname="span"/>
+		<group id="58" type="multinuc" parent="73" relname="span"/>
+		<group id="59" type="multinuc" parent="58" relname="same"/>
+		<group id="60" type="span" parent="61" relname="span"/>
+		<group id="61" type="span" parent="12" relname="summary"/>
+		<group id="62" type="span" parent="63" relname="span"/>
+		<group id="63" type="span" parent="64" relname="contrast"/>
+		<group id="64" type="multinuc" parent="105" relname="span"/>
+		<group id="65" type="multinuc" parent="20" relname="elaboration"/>
+		<group id="66" type="span" parent="68" relname="span"/>
+		<group id="67" type="multinuc" parent="83" relname="span"/>
+		<group id="68" type="span" parent="18" relname="elaboration"/>
+		<group id="69" type="multinuc" parent="70" relname="summary"/>
+		<group id="70" type="span" parent="71" relname="span"/>
+		<group id="71" type="span" parent="25" relname="manner-means"/>
+		<group id="72" type="span" parent="98" relname="contrast"/>
+		<group id="73" type="span" parent="99" relname="span"/>
+		<group id="74" type="multinuc" parent="35" relname="condition"/>
+		<group id="75" type="span" parent="96" relname="span"/>
+		<group id="76" type="span" parent="77" relname="joint"/>
+		<group id="77" type="multinuc" parent="24" relname="elaboration"/>
+		<group id="78" type="span" parent="77" relname="joint"/>
+		<group id="79" type="span" parent="102" relname="topidrift"/>
+		<group id="80" type="multinuc" parent="64" relname="contrast"/>
+		<group id="82" type="span" parent="67" relname="comparison"/>
+		<group id="83" type="span" parent="84" relname="span"/>
+		<group id="84" type="span" parent="102" relname="topidrift"/>
+		<group id="85" type="multinuc" parent="16" relname="explanation"/>
+		<group id="86" type="span" parent="85" relname="joint"/>
+		<group id="87" type="span" parent="19" relname="explanation"/>
+		<group id="88" type="span" parent="67" relname="comparison"/>
+		<group id="89" type="span" parent="95" relname="span"/>
+		<group id="90" type="multinuc" parent="91" relname="same"/>
+		<group id="91" type="multinuc" parent="94" relname="joint"/>
+		<group id="92" type="span" parent="93" relname="span"/>
+		<group id="93" type="span" parent="75" relname="evaluation"/>
+		<group id="94" type="multinuc" parent="89" relname="explanation"/>
+		<group id="95" type="span" parent="92" relname="explanation"/>
+		<group id="96" type="span" parent="32" relname="explanation"/>
+		<group id="97" type="span" parent="31" relname="summary"/>
+		<group id="98" type="multinuc" parent="99" relname="explanation"/>
+		<group id="99" type="span" parent="100" relname="span"/>
+		<group id="100" type="span" parent="101" relname="evaluation"/>
+		<group id="101" type="multinuc" parent="103" relname="summary"/>
+		<group id="102" type="multinuc" parent="103" relname="span"/>
+		<group id="103" type="span" parent="104" relname="span"/>
+		<group id="104" type="span" />
+		<group id="105" type="span" parent="106" relname="span"/>
+		<group id="106" type="span" parent="102" relname="topidrift"/>
+	</body>
+</rst>

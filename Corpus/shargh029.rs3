@@ -1,0 +1,183 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="multinuc"/>
+			<rel name="cause" type="rst"/>
+			<rel name="comparison" type="multinuc"/>
+			<rel name="comparison" type="rst"/>
+			<rel name="condition" type="multinuc"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="contrast" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation" type="multinuc"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="explanation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="manner-means" type="rst"/>
+			<rel name="same" type="multinuc"/>
+			<rel name="summary" type="rst"/>
+			<rel name="temporal" type="multinuc"/>
+			<rel name="temporal" type="rst"/>
+			<rel name="textualorganization" type="multinuc"/>
+			<rel name="topichange" type="multinuc"/>
+			<rel name="topichange" type="rst"/>
+			<rel name="topicomment" type="multinuc"/>
+			<rel name="topicomment" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="76" relname="span">این روزها داعش تبدیل به محملی شده</segment>
+		<segment id="2" parent="73" relname="joint">که هر کشور و گروهی خود را پشت مبارزه با آن پنهان کند</segment>
+		<segment id="3" parent="74" relname="span">و در این زمینه طلبکار جهان شوند</segment>
+		<segment id="4" parent="3" relname="elaboration">که ما در حال مبارزه با تروریسم و داعش هستیم ،</segment>
+		<segment id="5" parent="74" relname="attribution">حتی اگر زمانی خودشان نقش محوری در شکل گیری چنین هیولایی داشته باشند.</segment>
+		<segment id="6" parent="7" relname="attribution">اخیرا نیز بنعالی ییلدیریم ، نخست وزیر ترکیه مدعی شده است که :</segment>
+		<segment id="7" parent="77" relname="span">«ترکیه تنها کشوری است که به درستی با داعش مقابله می‌کند.»</segment>
+		<segment id="8" parent="79" relname="attribution">وی در جریان مراسم گشایش پروژه‌های محیط زیستی در آنکارا گفت ،</segment>
+		<segment id="9" parent="78" relname="contrast">جهان وانمود می‌کند که با تروریسم و این گروه تروریستی در جنگ است</segment>
+		<segment id="10" parent="78" relname="contrast">اما ترکیه واقعا دارد این کار را انجام می‌دهد.</segment>
+		<segment id="11" parent="82" relname="span">این که حکومت ترکیه چنین ادعایی دارد از عجایب است</segment>
+		<segment id="12" parent="81" relname="span">زیرا مبارزه ترک‌ها با داعش در دو منطقه صورت می‌گیرد :</segment>
+		<segment id="13" parent="12" relname="elaboration">اول در خاک ترکیه و دوم در خاک سوریه ،</segment>
+		<segment id="14" parent="149" relname="span">ولی دولت ترکیه هیچگاه زحمت پاسخ به این پرسش را به خود نمی‌دهد</segment>
+		<segment id="15" parent="84" relname="joint">که بگوید داعش از کجا وارد ترکیه و سوریه شده است ؟</segment>
+		<segment id="16" parent="84" relname="joint">جز این که حضور آنان در این منطقه برای چند سال متمادی با حمایت دولت ترکیه بوده است ؟</segment>
+		<segment id="17" parent="84" relname="joint">چرا داعش در کشورهای دیگر به جز عربستان و ترکیه حضور ندارد ؟</segment>
+		<segment id="18" parent="19" relname="cause">آیا دستگاه‌های امنیتی کشورهای دیگر از دستگاه‌های امنیتی ترکیه و عربستان قوی تر هستند</segment>
+		<segment id="19" parent="85" relname="span">که اجازه حضور اعضای داعش را در سرزمین خود نمی‌دهند ؟</segment>
+		<segment id="20" parent="87" relname="span">قطعا پاسخ این پرسش منفی است ،</segment>
+		<segment id="21" parent="86" relname="span">چون دستگاه‌های امنیتی و اطلاعاتی این دو کشور به اندازه کافی قدرت دارند</segment>
+		<segment id="22" parent="21" relname="enablement">که اجازه ندهند نیروهای داعش در قلمرو آنان حضور یابند.</segment>
+		<segment id="23" parent="114" relname="background">بنابراین فقط به دو صورت ممکن است که این نیروها در قلمرو آنان حضور پیدا کرده باشند :</segment>
+		<segment id="24" parent="88" relname="span">اول این که اهل آنجا و تبعه آن کشور باشند</segment>
+		<segment id="25" parent="89" relname="joint">که این حالت برای عربستان مصداق بیشتری دارد</segment>
+		<segment id="26" parent="89" relname="joint">و عموم نیروهای داعش در عربستان از اتباع آن کشور هستند.</segment>
+		<segment id="27" parent="90" relname="cause">ولی این نیز برای فعالیت آنان کفایت نمی‌کند.</segment>
+		<segment id="28" parent="90" relname="span">باید آنان در مراحل خاصی آزادی عمل می‌داشتند</segment>
+		<segment id="29" parent="28" relname="enablement">که هسته‌های قدرتمندی را شکل دهند.</segment>
+		<segment id="30" parent="91" relname="span">از این رو با اطمینان می‌توان گفت که اندیشه و ذهنیت القاعده و سپس داعش در عربستان به صورت غیررسمی یا نیمه رسمی حمایت شده است</segment>
+		<segment id="31" parent="92" relname="temporal">و این گروه توانسته در آنجا ریشه بدواند</segment>
+		<segment id="32" parent="92" relname="temporal">و سپس در مراحل افراطی تر خود اقدام به عمل کرده است.</segment>
+		<segment id="33" parent="142" relname="span">ولی در ترکیه تا حدی راه حل دوم غالب است.</segment>
+		<segment id="34" parent="94" relname="span">یعنی دولت ترکیه اجازه حضور نیروهای بین المللی داعش را در سرزمین و قلمرو خود داده است.</segment>
+		<segment id="35" parent="34" relname="cause">با این هدف که آنان را به عنوان ابزاری علیه دولت سوریه و عراق استفاده کند</segment>
+		<segment id="36" parent="95" relname="joint">و اتفاقا این کار را انجام هم دادند</segment>
+		<segment id="37" parent="95" relname="joint">و در مراحل اولیه در اجرای این هدف خود موفق بودند.</segment>
+		<segment id="38" parent="96" relname="temporal">ولی به مرور زمان که اوضاع این گروه در سوریه و عراق به ضعف گرایید</segment>
+		<segment id="39" parent="96" relname="temporal">و فشارها علیه ترکیه نیز افزایش یافت ،</segment>
+		<segment id="40" parent="97" relname="span">آنان توجه خود را معطوف به ترکیه کردند</segment>
+		<segment id="41" parent="98" relname="joint">و بیشترین اقدامات تروریستی خود را در ترکیه انجام دادند</segment>
+		<segment id="42" parent="99" relname="span">و طبیعی است که ترک‌ها نیز به مقابله با آنه‌ا برخیزند</segment>
+		<segment id="43" parent="42" relname="cause">و تلفات زیادی هم بدهند</segment>
+		<segment id="44" parent="101" relname="contrast">ولی این اقدامات به معنای مبارزه ریشه‌ای با داعش نیست ،</segment>
+		<segment id="45" parent="102" relname="span">بلکه به منزله دفاع از خودشان است</segment>
+		<segment id="46" parent="45" relname="elaboration">که به نحوی در وقوع آن نیز مسوولیت دارند</segment>
+		<segment id="47" parent="103" relname="evaluation">و به قول معروف «خودکرده را تدبیر نیست ».</segment>
+		<segment id="48" parent="104" relname="cause">بنابراین مبارزه دولت ترکیه با داعش ، اصیل نیست.</segment>
+		<segment id="49" parent="50" relname="condition">اگر به هر دلیل داعش با ترکیه کاری نمی‌داشت ،</segment>
+		<segment id="50" parent="106" relname="span">همچنان می‌توانست تحت حمایت آن‌ها باشد.</segment>
+		<segment id="51" parent="52" relname="contrast">شاید آنان مرتکب این اشتباه شدند که به ترکیه حمله کردند ،</segment>
+		<segment id="52" parent="107" relname="span">ولی در هر حال مخالفت ترکیه با داعش فاقد اصالت است.</segment>
+		<segment id="53" parent="117" relname="span">نکته دیگری که باید به آن توجه داشت این است</segment>
+		<segment id="54" parent="53" relname="elaboration">که دولت ترکیه دنبال محملی برای حضور نظامی در سوریه بود.</segment>
+		<segment id="55" parent="56" relname="background">برای این کار چاره‌ای نداشت</segment>
+		<segment id="56" parent="118" relname="span">تا این که خود را در پوشش مبارزه با داعش عرضه کند</segment>
+		<segment id="57" parent="119" relname="span">به همین دلیل حملات به شهر الباب را سامان داد</segment>
+		<segment id="58" parent="122" relname="span">تا خود را در صف مقدم مبارزه با داعش معرفی کند</segment>
+		<segment id="59" parent="120" relname="span">ولی هنگامی که می‌بینیم همزمان از نیروهای افراطی و سلفی دیگر حمایت می‌کند ،</segment>
+		<segment id="60" parent="59" relname="elaboration">نیروهایی که در گذشته منبع اصلی نیروگیری برای داعش بوده اند ،</segment>
+		<segment id="61" parent="121" relname="span">متوجه می‌شویم که این ادعای دولت ترکیه نیز فاقد اعتبار است.</segment>
+		<segment id="62" parent="128" relname="span">دولت ترکیه مبارزه با داعش را محمل و پوشش و توجیه خود برای حضور غیرقانونی در سوریه قرار داده است.</segment>
+		<segment id="63" parent="127" relname="condition">اگر این دولت در مبارزه با تروریسم و داعش صادق بود ،</segment>
+		<segment id="64" parent="126" relname="joint">باید در برابر نیروهای مشابه آنان نیز مواضع مشابهی اتخاذ می‌کرد</segment>
+		<segment id="65" parent="126" relname="joint">و اجازه نمی‌داد که تروریسم بین المللی به راحتی در ترکیه جولان دهد</segment>
+		<segment id="66" parent="126" relname="joint">و از این طریق به سوریه و عراق رفت وآمد کند.</segment>
+		<segment id="67" parent="130" relname="condition">اگر داعش مرتکب اقدامات تروریستی در غرب و نیز ترکیه نمی‌شد ،</segment>
+		<segment id="68" parent="129" relname="joint">به طور قطع همچنان تحت حمایت این دولت‌ها بود</segment>
+		<segment id="69" parent="129" relname="joint">و می‌توانست به اقدامات جنایتکارانه خود در منطقه ادامه دهد</segment>
+		<segment id="70" parent="133" relname="joint">ولی به هر دلیلی آنان از خطوط قرمز غرب عبور کردند</segment>
+		<segment id="71" parent="133" relname="joint">و ترکیه و اروپا و امریکا را نیز نشانه گرفتند</segment>
+		<segment id="72" parent="134" relname="cause">در نتیجه فشار را بر خودشان افزایش دادند.</segment>
+		<group id="73" type="multinuc" parent="1" relname="elaboration"/>
+		<group id="74" type="span" parent="75" relname="span"/>
+		<group id="75" type="span" parent="73" relname="joint"/>
+		<group id="76" type="span" parent="140" relname="background"/>
+		<group id="77" type="span" parent="138" relname="span"/>
+		<group id="78" type="multinuc" parent="79" relname="span"/>
+		<group id="79" type="span" parent="80" relname="span"/>
+		<group id="80" type="span" parent="77" relname="summary"/>
+		<group id="81" type="span" parent="11" relname="cause"/>
+		<group id="82" type="span" parent="83" relname="contrast"/>
+		<group id="83" type="multinuc" parent="139" relname="topicomment"/>
+		<group id="84" type="multinuc" parent="14" relname="elaboration"/>
+		<group id="85" type="span" parent="145" relname="topicomment"/>
+		<group id="86" type="span" parent="20" relname="cause"/>
+		<group id="87" type="span" parent="145" relname="topicomment"/>
+		<group id="88" type="span" parent="113" relname="joint"/>
+		<group id="89" type="multinuc" parent="24" relname="elaboration"/>
+		<group id="90" type="span" parent="93" relname="span"/>
+		<group id="91" type="span" parent="116" relname="contrast"/>
+		<group id="92" type="multinuc" parent="30" relname="cause"/>
+		<group id="93" type="span" parent="113" relname="joint"/>
+		<group id="94" type="span" parent="95" relname="joint"/>
+		<group id="95" type="multinuc" parent="108" relname="contrast"/>
+		<group id="96" type="multinuc" parent="40" relname="cause"/>
+		<group id="97" type="span" parent="98" relname="joint"/>
+		<group id="98" type="multinuc" parent="109" relname="cause"/>
+		<group id="99" type="span" parent="100" relname="contrast"/>
+		<group id="100" type="multinuc" parent="109" relname="cause"/>
+		<group id="101" type="multinuc" parent="103" relname="span"/>
+		<group id="102" type="span" parent="101" relname="contrast"/>
+		<group id="103" type="span" parent="104" relname="span"/>
+		<group id="104" type="span" parent="105" relname="span"/>
+		<group id="105" type="span" parent="100" relname="contrast"/>
+		<group id="106" type="span" parent="111" relname="evaluation"/>
+		<group id="107" type="span" parent="112" relname="evaluation"/>
+		<group id="108" type="multinuc" parent="33" relname="explanation"/>
+		<group id="109" type="multinuc" parent="111" relname="span"/>
+		<group id="110" type="span" parent="108" relname="contrast"/>
+		<group id="111" type="span" parent="112" relname="span"/>
+		<group id="112" type="span" parent="110" relname="span"/>
+		<group id="113" type="multinuc" parent="114" relname="span"/>
+		<group id="114" type="span" parent="115" relname="span"/>
+		<group id="115" type="span" parent="143" relname="background"/>
+		<group id="116" type="multinuc" parent="143" relname="span"/>
+		<group id="117" type="span" parent="123" relname="cause"/>
+		<group id="118" type="span" parent="119" relname="cause"/>
+		<group id="119" type="span" parent="123" relname="span"/>
+		<group id="120" type="span" parent="61" relname="background"/>
+		<group id="121" type="span" parent="58" relname="explanation"/>
+		<group id="122" type="span" parent="57" relname="enablement"/>
+		<group id="123" type="span" parent="124" relname="span"/>
+		<group id="124" type="span" parent="128" relname="summary"/>
+		<group id="125" type="span" parent="62" relname="explanation"/>
+		<group id="126" type="multinuc" parent="127" relname="span"/>
+		<group id="127" type="span" parent="125" relname="span"/>
+		<group id="128" type="span" parent="136" relname="span"/>
+		<group id="129" type="multinuc" parent="130" relname="span"/>
+		<group id="130" type="span" parent="131" relname="span"/>
+		<group id="131" type="span" parent="132" relname="contrast"/>
+		<group id="132" type="multinuc" parent="136" relname="evaluation"/>
+		<group id="133" type="multinuc" parent="134" relname="span"/>
+		<group id="134" type="span" parent="135" relname="span"/>
+		<group id="135" type="span" parent="132" relname="contrast"/>
+		<group id="136" type="span" parent="137" relname="span"/>
+		<group id="137" type="span" parent="146" relname="joint"/>
+		<group id="138" type="span" parent="139" relname="topicomment"/>
+		<group id="139" type="multinuc" parent="140" relname="span"/>
+		<group id="140" type="span" parent="141" relname="span"/>
+		<group id="141" type="span" />
+		<group id="142" type="span" parent="116" relname="contrast"/>
+		<group id="143" type="span" parent="144" relname="span"/>
+		<group id="144" type="span" parent="146" relname="joint"/>
+		<group id="145" type="multinuc" parent="84" relname="joint"/>
+		<group id="146" type="multinuc" parent="148" relname="topicomment"/>
+		<group id="147" type="span" parent="83" relname="contrast"/>
+		<group id="148" type="multinuc" parent="147" relname="span"/>
+		<group id="149" type="span" parent="148" relname="topicomment"/>
+	</body>
+</rst>

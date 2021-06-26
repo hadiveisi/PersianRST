@@ -1,0 +1,79 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="multinuc"/>
+			<rel name="cause" type="rst"/>
+			<rel name="comparison" type="multinuc"/>
+			<rel name="comparison" type="rst"/>
+			<rel name="condition" type="multinuc"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="contrast" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation" type="multinuc"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="explanation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="manner-means" type="rst"/>
+			<rel name="same" type="multinuc"/>
+			<rel name="summary" type="rst"/>
+			<rel name="temporal" type="multinuc"/>
+			<rel name="temporal" type="rst"/>
+			<rel name="textualorganization" type="multinuc"/>
+			<rel name="topichange" type="multinuc"/>
+			<rel name="topichange" type="rst"/>
+			<rel name="topicomment" type="multinuc"/>
+			<rel name="topicomment" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="24" relname="span">پیشرفت روابط معمول میان بانک‌های ایرانی و بانک‌های خارجی ، پس از برجام همچنان با مانع تراشی ایالات متحده مواجه بوده</segment>
+		<segment id="2" parent="1" relname="cause">و در نتیجه سرعت کافی را نداشته است.</segment>
+		<segment id="3" parent="45" relname="span">گرهی</segment>
+		<segment id="4" parent="3" relname="elaboration">که به تازگی در ماجرای برداشت پول از حساب شرکت ملی نفت در انگلستان به وجود آمد ،</segment>
+		<segment id="5" parent="23" relname="same">از تداوم نگرانی بانک‌های اروپایی و برقرارنشدن روابط معمول بانکی با بانک‌های اروپایی حکایت می‌کند ؛</segment>
+		<segment id="6" parent="25" relname="contrast">البته چند بانک در آلمان و ایتالیا همکاری‌هایی را آغاز کرده‌اند ؛</segment>
+		<segment id="7" parent="26" relname="joint">اما سطح مبادلات به ارقام بالانزدیک نشده</segment>
+		<segment id="8" parent="26" relname="joint">و مانع اصلی ناهماهنگی لازم در ایالات متحده است.</segment>
+		<segment id="9" parent="41" relname="span">به نظر می‌رسد تنها راه حل ، مسیله پیگیری و فشار دکتر ظریف ، بخش‌های مختلف وزارت خارجه و سایر دستگاه‌های ذی ربط بر کشورهای ١۵ برای انجام تعهدات خود در سند برجام و اتخاذ یک تصمیم سیاسی در سطح ایالات متحده باشد.</segment>
+		<segment id="10" parent="31" relname="span">به تازگی رییس سازمان انرژی اتمی نیز دیداری با مقامات وزارت خزانه داری انگلستان داشته است</segment>
+		<segment id="11" parent="10" relname="elaboration">که در راستای یادآوری تعهدات طرف‌های مقابل بی تاثیر نیست ؛</segment>
+		<segment id="12" parent="33" relname="background">مسیله اینجاست</segment>
+		<segment id="13" parent="32" relname="contrast">که سه کشور اروپایی آماده برقراری روابط معمول بانکی هستند ؛</segment>
+		<segment id="14" parent="32" relname="contrast">اما درباره موضع آمریکا در این زمینه نگرانی دارند.</segment>
+		<segment id="15" parent="35" relname="contrast">وزیر خارجه ایالات متحده در چند موضع گیری رسمی ، بر نبود مانع برای برقرارشدن روابط بانکی با ایران تاکید کرده است ؛</segment>
+		<segment id="16" parent="37" relname="span">اما مسیله اصلی ، موضع سازمان کنترل دارایی‌های مالی خارجی وزارت خزانه داری ایالات متحده «OFAC » است</segment>
+		<segment id="17" parent="18" relname="cause">که به دلیل وجود تحریم‌های غیرهسته ای ،</segment>
+		<segment id="18" parent="36" relname="span">همچنان در این باره چراغ سبز نشان نداده است.</segment>
+		<segment id="19" parent="38" relname="span">برخی تحلیل‌های اخیر به ارتباط این کارشکنی با انتخابات ریاست جمهوری آمریکا اشاره می‌کند</segment>
+		<segment id="20" parent="39" relname="span">که به نظر نمی رسد چندان مسموع باشد ،</segment>
+		<segment id="21" parent="20" relname="cause">زیرا ممکن است پس از انتخابات ریاست جمهوری آمریکا ، فضا در مقایسه با امروز نامساعدتر هم شود.</segment>
+		<segment id="22" parent="44" relname="elaboration">درعین حال حضور هرچه بیشتر شرکت‌های بزرگ اروپایی در حوزه‌های نفت ، گاز و نیروگاهی در پروژه‌های ایران می‌تواند یک عامل فشار جدی از سوی آن شرکت‌ها بر دولت‌ها و بانک‌های بزرگ خارجی برای برقراری روابط معمول بانکی باشد.</segment>
+		<group id="23" type="multinuc" parent="28" relname="span"/>
+		<group id="24" type="span" parent="28" relname="background"/>
+		<group id="25" type="multinuc" parent="27" relname="elaboration"/>
+		<group id="26" type="multinuc" parent="25" relname="contrast"/>
+		<group id="27" type="span" parent="29" relname="span"/>
+		<group id="28" type="span" parent="27" relname="span"/>
+		<group id="29" type="span" parent="30" relname="topicomment"/>
+		<group id="30" type="multinuc" />
+		<group id="31" type="span" parent="34" relname="contrast"/>
+		<group id="32" type="multinuc" parent="33" relname="span"/>
+		<group id="33" type="span" parent="34" relname="span"/>
+		<group id="34" type="span" parent="42" relname="span"/>
+		<group id="35" type="multinuc" parent="42" relname="cause"/>
+		<group id="36" type="span" parent="16" relname="elaboration"/>
+		<group id="37" type="span" parent="35" relname="contrast"/>
+		<group id="38" type="span" parent="43" relname="evaluation"/>
+		<group id="39" type="span" parent="19" relname="elaboration"/>
+		<group id="40" type="span" parent="9" relname="elaboration"/>
+		<group id="41" type="span" parent="30" relname="topicomment"/>
+		<group id="42" type="span" parent="43" relname="span"/>
+		<group id="43" type="span" parent="44" relname="span"/>
+		<group id="44" type="span" parent="40" relname="span"/>
+		<group id="45" type="span" parent="23" relname="same"/>
+	</body>
+</rst>

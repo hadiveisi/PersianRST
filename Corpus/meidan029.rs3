@@ -1,0 +1,83 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="multinuc"/>
+			<rel name="cause" type="rst"/>
+			<rel name="comparison" type="multinuc"/>
+			<rel name="comparison" type="rst"/>
+			<rel name="condition" type="multinuc"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="contrast" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation" type="multinuc"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="explanation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="manner-means" type="rst"/>
+			<rel name="same" type="multinuc"/>
+			<rel name="summary" type="rst"/>
+			<rel name="temporal" type="multinuc"/>
+			<rel name="temporal" type="rst"/>
+			<rel name="textualorganization" type="multinuc"/>
+			<rel name="topichange" type="multinuc"/>
+			<rel name="topichange" type="rst"/>
+			<rel name="topicomment" type="multinuc"/>
+			<rel name="topicomment" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="26" relname="contrast">یک شرکت مشاور برای شرکت در مسابقه طراحی ساختمان پلاسکو دعوت شده است</segment>
+		<segment id="2" parent="40" relname="span">اما این شرکت مشاور در نامه‌ای</segment>
+		<segment id="3" parent="2" relname="explanation">به دلیل «عدم رعایت مصوبه شورایعالی و عدم ثبت مسابقه در دبیرخانه مسابقات معماری و شهرسازی»</segment>
+		<segment id="4" parent="39" relname="same">از شرکت در این مسابقه انصراف داده است.</segment>
+		<segment id="5" parent="28" relname="span">کمیسیون ماده ۵ شهرداری تهران</segment>
+		<segment id="6" parent="5" relname="cause">به بهانه رفع دغدغه کسبه</segment>
+		<segment id="7" parent="27" relname="same">مجوز احداث ساختمانی ۱۵ طبقه را در محل پلاسکوی کنونی صادر کرد</segment>
+		<segment id="8" parent="54" relname="joint">این درحالی است که متولی صدور مجوز ساختمان بلندمرتبه شورایعالی معماری و شهرسازی است</segment>
+		<segment id="9" parent="10" relname="attribution">و این شورا تصویب کرده است</segment>
+		<segment id="10" parent="29" relname="span">که تا اطلاع ثانوی هیچ بلندمرتبه جدید در پایتخت احداث نشود.</segment>
+		<segment id="11" parent="48" relname="span">اما</segment>
+		<segment id="12" parent="11" relname="contrast">علی‌رغم مخالفت شورایعالی نسبت به این موضوع ،</segment>
+		<segment id="13" parent="46" relname="same">مالک زمین (بنیاد مستضعفان) اقدام به برگزاری مسابقه طراحی برای ساختمان پلاسکو کرده است</segment>
+		<segment id="14" parent="49" relname="cause">و به همین دلیل نیز در دبیرخانه مسابقات معماری و شهرسازی ثبت نکرده است.</segment>
+		<segment id="15" parent="33" relname="span">این روایت داستانی تکراری در شهر تهران است</segment>
+		<segment id="16" parent="34" relname="joint">که نهادهای خصوصی برای منافع اقتصادی و سیاسی خود قوانین را نادیده می‌گیرند</segment>
+		<segment id="17" parent="34" relname="joint">یا آن‌ها را تغییر می‌دهند</segment>
+		<segment id="18" parent="34" relname="joint">و شهرداری تهران نیز با آن‌ها همراهی می‌کند.</segment>
+		<segment id="19" parent="35" relname="span">رشد ساختمان‌های مسکونی و تجاری بلندمرتبه در دهه اخیر در شهر تهران ناشی از این همدستی است</segment>
+		<segment id="20" parent="19" relname="elaboration">که نمونه‌های غول‌مقیاس آن را در منطقه ۲۲ می‌بینیم.</segment>
+		<segment id="21" parent="36" relname="span">در این وضعیت شرکت‌های مشاور نیز مستقیم یا غیرمستقیم مشارکت دارند</segment>
+		<segment id="22" parent="21" relname="cause">و این موضوع باعث مشروعیت‌زدایی از این شرکت‌های مشاور شده است.</segment>
+		<segment id="23" parent="37" relname="span">در این وضعیت اما شرکت‌هایی وجود دارند</segment>
+		<segment id="24" parent="23" relname="elaboration">که تن به این شکل از همدستی نمی‌دهند</segment>
+		<segment id="25" parent="37" relname="contrast">با این که حرکت خلاف این جریان تبعات سنگینی برای آن‌ها خواهد داشت.</segment>
+		<group id="26" type="multinuc" parent="56" relname="background"/>
+		<group id="27" type="multinuc" parent="55" relname="contrast"/>
+		<group id="28" type="span" parent="27" relname="same"/>
+		<group id="29" type="span" parent="45" relname="contrast"/>
+		<group id="33" type="span" parent="35" relname="cause"/>
+		<group id="34" type="multinuc" parent="15" relname="explanation"/>
+		<group id="35" type="span" parent="50" relname="span"/>
+		<group id="36" type="span" parent="51" relname="contrast"/>
+		<group id="37" type="span" parent="38" relname="span"/>
+		<group id="38" type="span" parent="51" relname="contrast"/>
+		<group id="39" type="multinuc" parent="26" relname="contrast"/>
+		<group id="40" type="span" parent="39" relname="same"/>
+		<group id="45" type="multinuc" parent="54" relname="joint"/>
+		<group id="46" type="multinuc" parent="49" relname="cause"/>
+		<group id="48" type="span" parent="46" relname="same"/>
+		<group id="49" type="multinuc" parent="45" relname="contrast"/>
+		<group id="50" type="span" parent="52" relname="span"/>
+		<group id="51" type="multinuc" parent="50" relname="elaboration"/>
+		<group id="52" type="span" parent="57" relname="evaluation"/>
+		<group id="54" type="multinuc" parent="55" relname="contrast"/>
+		<group id="55" type="multinuc" parent="56" relname="span"/>
+		<group id="56" type="span" parent="57" relname="span"/>
+		<group id="57" type="span" parent="58" relname="span"/>
+		<group id="58" type="span" />
+	</body>
+</rst>

@@ -1,0 +1,51 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="multinuc"/>
+			<rel name="cause" type="rst"/>
+			<rel name="comparison" type="multinuc"/>
+			<rel name="comparison" type="rst"/>
+			<rel name="condition" type="multinuc"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="contrast" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation" type="multinuc"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="explanation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="manner-means" type="rst"/>
+			<rel name="same" type="multinuc"/>
+			<rel name="summary" type="rst"/>
+			<rel name="temporal" type="multinuc"/>
+			<rel name="temporal" type="rst"/>
+			<rel name="textualorganization" type="multinuc"/>
+			<rel name="topichange" type="multinuc"/>
+			<rel name="topichange" type="rst"/>
+			<rel name="topicomment" type="multinuc"/>
+			<rel name="topicomment" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="11" relname="same">دولت فرانسه نشان لژیون دونور</segment>
+		<segment id="2" parent="1" relname="elaboration">که افتخارآمیزترین نشان این کشور محسوب می‌شود</segment>
+		<segment id="3" parent="11" relname="same">را به شاهزاده محمد بن نایف ولیعهد و وزیر کشور عربستان سعودی اهدا کرد.</segment>
+		<segment id="4" parent="12" relname="same">شاهزاده بن نایف</segment>
+		<segment id="5" parent="4" relname="explanation">به خاطر تلاش‌های خود برای مبارزه با تروریسم و افراط‌گرایی</segment>
+		<segment id="6" parent="12" relname="same">نشان لژیون دونور را دریافت کرده است.</segment>
+		<segment id="7" parent="17" relname="span">اعطای این نشان به شاهزاده سعودی ، موجی از انتقادات را در شبکه‌های مجازی به راه انداخته است.</segment>
+		<segment id="8" parent="13" relname="joint">دولت فرانسوا اولاند روابط نزدیکی با خاندان سلطنتی سعودی برقرار کرده</segment>
+		<segment id="9" parent="13" relname="joint">و عربستان سعودی از مهم‌ترین خریداران سلاح‌های فرانسوی به شمار می‌آید.</segment>
+		<segment id="10" parent="13" relname="joint">لازم به ذکر است که دولت عربستان یکشنبه گذشته چندی پس از دریافت نشان لژیون دونور توسط شاهزاده بن نیاف ، هفتادمین محکوم به مرگ سال ۲۰۱۶ خود را گردن زد.</segment>
+		<group id="11" type="multinuc" parent="15" relname="span"/>
+		<group id="12" type="multinuc" parent="15" relname="summary"/>
+		<group id="13" type="multinuc" parent="7" relname="background"/>
+		<group id="15" type="span" parent="16" relname="span"/>
+		<group id="16" type="span" parent="17" relname="background"/>
+		<group id="17" type="span" parent="18" relname="span"/>
+		<group id="18" type="span" />
+	</body>
+</rst>

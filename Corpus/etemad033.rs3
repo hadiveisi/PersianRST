@@ -1,0 +1,110 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="multinuc"/>
+			<rel name="cause" type="rst"/>
+			<rel name="comparison" type="multinuc"/>
+			<rel name="comparison" type="rst"/>
+			<rel name="condition" type="multinuc"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="contrast" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation" type="multinuc"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="explanation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="manner-means" type="rst"/>
+			<rel name="same" type="multinuc"/>
+			<rel name="summary" type="rst"/>
+			<rel name="temporal" type="multinuc"/>
+			<rel name="temporal" type="rst"/>
+			<rel name="textualorganization" type="multinuc"/>
+			<rel name="topichange" type="multinuc"/>
+			<rel name="topichange" type="rst"/>
+			<rel name="topicomment" type="multinuc"/>
+			<rel name="topicomment" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="43" relname="background">دیروز مجلس ، روز نسبتا پرسروصدایی را پشت سر گذاشت.</segment>
+		<segment id="2" parent="3" relname="cause">یکی از نمایندگان بحثی پیش کشید</segment>
+		<segment id="3" parent="40" relname="span">که باعث واکنش طرف مقابل شد.</segment>
+		<segment id="4" parent="42" relname="span">بحث‌ها آنقدر داغ شدند</segment>
+		<segment id="5" parent="4" relname="elaboration">که هیات رییسه هم بالاجبار در آن دخالت کرد.</segment>
+		<segment id="6" parent="45" relname="same">آن‌ها</segment>
+		<segment id="7" parent="6" relname="elaboration">که با سازوکار مجلس آشنا نیستند</segment>
+		<segment id="8" parent="46" relname="joint">این نوع مجادلات را به پای بحران سیاسی می‌گذارند</segment>
+		<segment id="9" parent="46" relname="joint">و چنین وانمود می‌کنند که از سرریز دعواهای داخل نظام ، فضای مجلس متشنج می‌شود.</segment>
+		<segment id="10" parent="48" relname="joint">اما حقیقت این است که اولا نباید نام تشنج بر این نوع بحث‌ها نهاد ،</segment>
+		<segment id="11" parent="48" relname="joint">ثانیا جزو طبیعت پارلمان است که نمایندگان صریح و بی‌ملاحظه ، آنچه را لازم می‌دانند بیان کنند</segment>
+		<segment id="12" parent="48" relname="joint">و در احقاق حق موکلان خود بکوشند.</segment>
+		<segment id="13" parent="49" relname="comparison">در واقع هر چقدر پارلمان شور و حال بیشتری داشته باشد</segment>
+		<segment id="14" parent="49" relname="comparison">جامعه و فضای عمومی آرام‌تر خواهد بود.</segment>
+		<segment id="15" parent="51" relname="joint">هم مطبوعات و هم مجلس محل مباحثه و تضارب آرا هستند.</segment>
+		<segment id="16" parent="50" relname="span">هم در رسانه و هم در پارلمان ، سازوکارهایی پیش‌بینی‌ شده‌اند</segment>
+		<segment id="17" parent="52" relname="joint">تا فعالان سیاسی و وکلای ملت با یکدیگر بحث کنند</segment>
+		<segment id="18" parent="52" relname="joint">و بی‌ملاحظه و بی‌مداهنه آنچه را حق می‌پندارند و به صلاح می‌دانند بر قلم و زبان آورند.</segment>
+		<segment id="19" parent="53" relname="same">معمولا در جوامعی</segment>
+		<segment id="20" parent="19" relname="elaboration">که مطبوعات و پارلمان پرسروصدا و پرتنش باشند ،</segment>
+		<segment id="21" parent="53" relname="same">جامعه در وضعیت آرام‌تری به سر می‌برد ،</segment>
+		<segment id="22" parent="54" relname="condition">برعکس اگر امکان گفت‌وگوی صریح و آزاد را از مجلس و مطبوعات بگیریم</segment>
+		<segment id="23" parent="55" relname="joint">آنگاه این تنش‌ها به جامعه سرایت می‌کند</segment>
+		<segment id="24" parent="55" relname="joint">و منازعه به میان مردم راه می‌یابد.</segment>
+		<segment id="25" parent="57" relname="span">یادمان باشد که در جامعه ، امکان منازعه و تخطیه وجود ندارد.</segment>
+		<segment id="26" parent="25" relname="elaboration">سازوکارش نیز تعبیه نشده.</segment>
+		<segment id="27" parent="59" relname="span">مردم اگر مطمین باشند که وکلایی متعهد دارند</segment>
+		<segment id="28" parent="58" relname="joint">که از حقوق‌شان دفاع می‌کنند</segment>
+		<segment id="29" parent="58" relname="joint">و اگر بدانند که در مطبوعات ، روشنفکران و فعالان سیاسی هوشیار و آگاهند</segment>
+		<segment id="30" parent="58" relname="joint">و منتقدانه و متعهدانه جلوی انحرافات و اشتباهات را می‌گیرند</segment>
+		<segment id="31" parent="58" relname="joint">و باب نقد سیاسی و اجتماعی را باز نگه می‌دارند ،</segment>
+		<segment id="32" parent="60" relname="span">آنگاه با خیال آسوده و اطمینان خاطر به کار و بارشان مشغول می‌شوند.</segment>
+		<segment id="33" parent="61" relname="comparison">هر چقدر که از سرایت دعوا و تشنج به جامعه جلوگیری کنیم ،</segment>
+		<segment id="34" parent="61" relname="comparison">از آن طرف از بحث و جدل در مجلس باید استقبال کنیم.</segment>
+		<segment id="35" parent="62" relname="evaluation">این که حق با کدام طرف است به نظرم بحث فرعی است.</segment>
+		<segment id="36" parent="64" relname="joint">مهم این است که مجلس دهم مجلسی زنده و پویا و پرتحرک است</segment>
+		<segment id="37" parent="64" relname="joint">و گفتمان‌های مردمسالارانه در آن جدی است</segment>
+		<segment id="38" parent="64" relname="joint">و نمایندگان در بیان آرا و نظریات خود مصونیت پارلمانی دارند</segment>
+		<segment id="39" parent="64" relname="joint">و در احقاق حق موکلان خود کوتاهی نمی‌کنند.</segment>
+		<group id="40" type="span" parent="41" relname="temporal"/>
+		<group id="41" type="multinuc" parent="43" relname="span"/>
+		<group id="42" type="span" parent="41" relname="temporal"/>
+		<group id="43" type="span" parent="44" relname="span"/>
+		<group id="44" type="span" parent="75" relname="background"/>
+		<group id="45" type="multinuc" parent="47" relname="contrast"/>
+		<group id="46" type="multinuc" parent="45" relname="same"/>
+		<group id="47" type="multinuc" parent="75" relname="span"/>
+		<group id="48" type="multinuc" parent="70" relname="span"/>
+		<group id="49" type="multinuc" parent="66" relname="span"/>
+		<group id="50" type="span" parent="51" relname="joint"/>
+		<group id="51" type="multinuc" parent="66" relname="explanation"/>
+		<group id="52" type="multinuc" parent="16" relname="enablement"/>
+		<group id="53" type="multinuc" parent="68" relname="contrast"/>
+		<group id="54" type="span" parent="72" relname="span"/>
+		<group id="55" type="multinuc" parent="54" relname="span"/>
+		<group id="56" type="span" parent="68" relname="contrast"/>
+		<group id="57" type="span" parent="72" relname="evaluation"/>
+		<group id="58" type="multinuc" parent="27" relname="elaboration"/>
+		<group id="59" type="span" parent="32" relname="condition"/>
+		<group id="60" type="span" parent="65" relname="summary"/>
+		<group id="61" type="multinuc" parent="62" relname="span"/>
+		<group id="62" type="span" parent="63" relname="span"/>
+		<group id="63" type="span" parent="65" relname="span"/>
+		<group id="64" type="multinuc" parent="63" relname="elaboration"/>
+		<group id="65" type="span" parent="73" relname="span"/>
+		<group id="66" type="span" parent="67" relname="span"/>
+		<group id="67" type="span" parent="69" relname="span"/>
+		<group id="68" type="multinuc" parent="67" relname="summary"/>
+		<group id="69" type="span" parent="74" relname="span"/>
+		<group id="70" type="span" parent="71" relname="span"/>
+		<group id="71" type="span" parent="47" relname="contrast"/>
+		<group id="72" type="span" parent="56" relname="span"/>
+		<group id="73" type="span" parent="69" relname="summary"/>
+		<group id="74" type="span" parent="70" relname="explanation"/>
+		<group id="75" type="span" parent="76" relname="span"/>
+		<group id="76" type="span" />
+	</body>
+</rst>

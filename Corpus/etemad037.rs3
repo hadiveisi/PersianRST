@@ -1,0 +1,61 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="multinuc"/>
+			<rel name="cause" type="rst"/>
+			<rel name="comparison" type="multinuc"/>
+			<rel name="comparison" type="rst"/>
+			<rel name="condition" type="multinuc"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="contrast" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation" type="multinuc"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="explanation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="manner-means" type="rst"/>
+			<rel name="same" type="multinuc"/>
+			<rel name="summary" type="rst"/>
+			<rel name="temporal" type="multinuc"/>
+			<rel name="temporal" type="rst"/>
+			<rel name="textualorganization" type="multinuc"/>
+			<rel name="topichange" type="multinuc"/>
+			<rel name="topichange" type="rst"/>
+			<rel name="topicomment" type="multinuc"/>
+			<rel name="topicomment" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="26" relname="span">حسین شاه حسینی یکی از چهره‌های فعال ، سرشناس و تاثیرگذار جبهه ملی بود.</segment>
+		<segment id="2" parent="19" relname="span">ایشان از همان ابتدا نقش موثری در جبهه ملی ایفا می‌کرد.</segment>
+		<segment id="3" parent="18" relname="joint">از اقدامات تاثیرگذار حسین شاه حسینی در جبهه ملی می‌توان به ارتباط خوب ایشان با روحانیت اشاره کرد.</segment>
+		<segment id="4" parent="18" relname="joint">ایشان در ابتدا رابطه خوبی با آیت الله زنجانی داشتند</segment>
+		<segment id="5" parent="18" relname="joint">و پس از انقلاب نیز به آیت الله طالقانی نزدیک شدند.</segment>
+		<segment id="6" parent="18" relname="joint">امام خمینی هم ایشان را به جای حسین شاه حسینی ، حسین مردم حسینی نامید.</segment>
+		<segment id="7" parent="20" relname="span">از دیگر اقدامات موثر شاه حسینی می‌توان به رابطه خوب ایشان با سرشناسان طبقه بازار اشاره کرد.</segment>
+		<segment id="8" parent="7" relname="cause">از این رو کمک‌های سیاسی و مالی بسیاری را به جبهه ملی کردند.</segment>
+		<segment id="9" parent="10" relname="cause">نکته دیگر درباره شاه حسینی علاقه مندی ایشان به ورزش بود</segment>
+		<segment id="10" parent="21" relname="span">که همین علقه سبب شد بعدها به عنوان مسوولان ورزشی کشور فعالیت داشته باشند.</segment>
+		<segment id="11" parent="22" relname="span">شاه حسینی ارتباط خوب ، مثبت و سازنده با سایر احزاب فعال در کشور مانند نهضت آزادی داشت</segment>
+		<segment id="12" parent="11" relname="cause">از این رو برای تمامی چهره‌های سیاسی کشور ، چهره‌ای قابل احترام شمرده می‌شد.</segment>
+		<segment id="13" parent="18" relname="joint">حسین شاه حسینی همواره بر حفظ اخلاق و پایبندی بر موازین اسلام تاکید داشت.</segment>
+		<segment id="14" parent="23" relname="joint">ایشان یکی از سرمایه‌های مهم جبهه ملی بودند</segment>
+		<segment id="15" parent="25" relname="span">و فراق ایشان یقینا در فعالیت‌های آینده جبهه ملی احساس خواهد شد.</segment>
+		<segment id="16" parent="24" relname="span">ایشان به عنوان یک نیروی شناخته شده جریان ملی- مذهبی ، شخصیتی آرمانگرا و متعهد بودند.</segment>
+		<segment id="17" parent="16" relname="evaluation">بی تردید با فقدان ایشان بخش زیادی از مقاومت‌ها و تلاش‌های ایشان ، ناگفته باقی خواهد ماند.</segment>
+		<group id="18" type="multinuc" parent="2" relname="explanation"/>
+		<group id="19" type="span" parent="1" relname="cause"/>
+		<group id="20" type="span" parent="18" relname="joint"/>
+		<group id="21" type="span" parent="18" relname="joint"/>
+		<group id="22" type="span" parent="18" relname="joint"/>
+		<group id="23" type="multinuc" parent="26" relname="summary"/>
+		<group id="24" type="span" parent="15" relname="cause"/>
+		<group id="25" type="span" parent="23" relname="joint"/>
+		<group id="26" type="span" parent="28" relname="span"/>
+		<group id="28" type="span" />
+	</body>
+</rst>

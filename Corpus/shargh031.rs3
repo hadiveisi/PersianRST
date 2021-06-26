@@ -1,0 +1,126 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="multinuc"/>
+			<rel name="cause" type="rst"/>
+			<rel name="comparison" type="multinuc"/>
+			<rel name="comparison" type="rst"/>
+			<rel name="condition" type="multinuc"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="contrast" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation" type="multinuc"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="explanation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="manner-means" type="rst"/>
+			<rel name="same" type="multinuc"/>
+			<rel name="summary" type="rst"/>
+			<rel name="temporal" type="multinuc"/>
+			<rel name="temporal" type="rst"/>
+			<rel name="textualorganization" type="multinuc"/>
+			<rel name="topichange" type="multinuc"/>
+			<rel name="topichange" type="rst"/>
+			<rel name="topicomment" type="multinuc"/>
+			<rel name="topicomment" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="75" relname="span">در هفته‌های پایانی ریاست جمهوری باراک حسین اوباما ، سنای آمریکا با ۹۹ رای موافق و بدون رای مخالف طرح قانونی شده تحریم‌های ایران ، معروف به داماتو را برای یک دوره ١۰ساله دیگر تمدید کرد.</segment>
+		<segment id="2" parent="48" relname="same">برابر این مصوبه شرکت‌هایی</segment>
+		<segment id="3" parent="2" relname="elaboration">که در صنایع نفت و گاز ایران بیش از ٢۰ میلیون دلار سرمایه گذاری کنند ،</segment>
+		<segment id="4" parent="48" relname="same">مورد تحریم بانکی آمریکا قرار خواهند گرفت.</segment>
+		<segment id="5" parent="49" relname="same">قانون داماتو</segment>
+		<segment id="6" parent="5" relname="elaboration">که در زمان بیل کلینتون ، رییس جمهوری وقت آمریکا ، تصویب شد ،</segment>
+		<segment id="7" parent="49" relname="same">سیمای سرمایه گذاری در حوزه نفت و گاز ایران را به کلی دگرگون کرد</segment>
+		<segment id="8" parent="50" relname="joint">و باعث ترک شرکت‌های مهم نفتی از قبیل توتال از ایران شد</segment>
+		<segment id="9" parent="50" relname="joint">و صحنه را برای شرکت‌های نه چندان معتبر آسیایی به ویژه چینی باز گذاشت.</segment>
+		<segment id="10" parent="77" relname="background">ایران کوشید با تشکیل شرکت پتروپارس راه حل حقوقی برای سرمایه گذاری شرکت‌های خارجی پیدا کند.</segment>
+		<segment id="11" parent="53" relname="same">شرکت پتروپارس</segment>
+		<segment id="12" parent="11" relname="elaboration">که در لندن ثبت شده بود</segment>
+		<segment id="13" parent="53" relname="same">به عنوان شرکت واسطه درصدد برآمد قانون داماتو را دور بزند</segment>
+		<segment id="14" parent="80" relname="cause">که چنین نشد.</segment>
+		<segment id="15" parent="82" relname="joint">قانون داماتو صنعت نفت ایران را تا اندازه‌ای به حاشیه راند</segment>
+		<segment id="16" parent="82" relname="joint">و دولت سابق هم با شعارهای خود بر خاکستری کردن فضای نفتی افزود.</segment>
+		<segment id="17" parent="55" relname="same">حضور دولت اعتدال و مدیریت نفتی مهندس زنگنه</segment>
+		<segment id="18" parent="17" relname="elaboration">که در دنیای نفتی شخصیتی قاطع و قدرتمند شناخته می‌شود ،</segment>
+		<segment id="19" parent="55" relname="same">باعث شد او در همان روزهای اول ورود مجدد به ساختمان وزارت نفت با قاطعیت تاکید کند</segment>
+		<segment id="20" parent="56" relname="span">ایران باید سهم خود را به میزان قبل از تحریم‌ها به دست بیاورد ؛</segment>
+		<segment id="21" parent="56" relname="condition">حتی اگر نفت به بشکه‌ای ٢۰ دلار برسد.</segment>
+		<segment id="22" parent="59" relname="summary">این کلام وزیر کارساز شد</segment>
+		<segment id="23" parent="59" relname="span">و بعد از سه سال و چند ماه از آن روز سرانجام در وین وزرای نفتی اوپک پذیرفتند</segment>
+		<segment id="24" parent="58" relname="joint">که هم تولید نفت را برای تعادل بازار کم کنند</segment>
+		<segment id="25" parent="58" relname="joint">و هم به ایران اجازه دهند تولید خود را تا سقف قبل از تحریم‌ها یعنی حدود چهار میلیون بشکه در روز افزایش دهد.</segment>
+		<segment id="26" parent="61" relname="span">وقتی با وجود اعتبار قانون داماتو ایران توانست بر مشکلات سر راه خود درباره میزان استخراج و فروش و بازاریابی نفت فایق آید ،</segment>
+		<segment id="27" parent="26" relname="manner-means">بدون این که مشمول قانون داماتو شود ،</segment>
+		<segment id="28" parent="62" relname="span">تمدید این قانون چه ثمری آن هم بعد از فضای مطلوب به دست آمده متعاقب امضای برجام خواهد داشت ؟</segment>
+		<segment id="29" parent="86" relname="span">تغییر دولت در آمریکا تاثیری در نگاه آمریکاییان نخواهد داشت.</segment>
+		<segment id="30" parent="31" relname="condition">می دانیم حتی اگر خانم کلینتون هم برنده انتخابات می‌شد ،</segment>
+		<segment id="31" parent="85" relname="span">با انقضای مهلت قانون تحریم‌ها ، مجلس نمایندگان و سنای آمریکا به تمدید مجدد آن رای می‌داد.</segment>
+		<segment id="32" parent="88" relname="span">حال پرسش این است</segment>
+		<segment id="33" parent="32" relname="elaboration">که اوباما با این قانون چه خواهد کرد ؟</segment>
+		<segment id="34" parent="64" relname="attribution">براساس روش قانون گذاری در آمریکا ،</segment>
+		<segment id="35" parent="63" relname="same">طرحی</segment>
+		<segment id="36" parent="35" relname="elaboration">که در مجلس نمایندگان از تصویب نمایندگان می‌گذرد ،</segment>
+		<segment id="37" parent="63" relname="same">به سنا ارسال می‌شود</segment>
+		<segment id="38" parent="39" relname="condition">و در صورت تصویب سنا</segment>
+		<segment id="39" parent="67" relname="span">برای صدور دستور اجرا به دفتر رییس جمهوری فرستاده می‌شود</segment>
+		<segment id="40" parent="41" relname="condition">تا اگر مصوبه را امضا کرد ،</segment>
+		<segment id="41" parent="69" relname="span">موقعیت اجرایی به خود بگیرد.</segment>
+		<segment id="42" parent="74" relname="span">رییس جمهوری آمریکا از این اختیار برخوردار است</segment>
+		<segment id="43" parent="70" relname="joint">که مصوبه مجلس را وتو کند</segment>
+		<segment id="44" parent="90" relname="span">و در مقابل ، نمایندگان مجلس هم از این اختیار برخوردارند</segment>
+		<segment id="45" parent="72" relname="span">که با درخواست «سه چهارم» نمایندگان ، وتوی رییس جمهوری را ملغی کنند ؛</segment>
+		<segment id="46" parent="73" relname="span">عددی که اوباما می‌داند به سادگی به دست نخواهد آمد</segment>
+		<segment id="47" parent="46" relname="cause">و اکثریت هم حزبی‌های او هم موافق تمدید تحریم‌ها هستند.</segment>
+		<group id="48" type="multinuc" parent="1" relname="elaboration"/>
+		<group id="49" type="multinuc" parent="51" relname="span"/>
+		<group id="50" type="multinuc" parent="51" relname="manner-means"/>
+		<group id="51" type="span" parent="52" relname="span"/>
+		<group id="52" type="span" parent="79" relname="topicomment"/>
+		<group id="53" type="multinuc" parent="54" relname="contrast"/>
+		<group id="54" type="multinuc" parent="77" relname="span"/>
+		<group id="55" type="multinuc" parent="20" relname="attribution"/>
+		<group id="56" type="span" parent="57" relname="span"/>
+		<group id="57" type="span" parent="83" relname="temporal"/>
+		<group id="58" type="multinuc" parent="23" relname="elaboration"/>
+		<group id="59" type="span" parent="60" relname="span"/>
+		<group id="60" type="span" parent="83" relname="temporal"/>
+		<group id="61" type="span" parent="28" relname="background"/>
+		<group id="62" type="span" parent="100" relname="evaluation"/>
+		<group id="63" type="multinuc" parent="64" relname="span"/>
+		<group id="64" type="span" parent="65" relname="span"/>
+		<group id="65" type="span" parent="66" relname="temporal"/>
+		<group id="66" type="multinuc" parent="97" relname="topicomment"/>
+		<group id="67" type="span" parent="68" relname="span"/>
+		<group id="68" type="span" parent="66" relname="temporal"/>
+		<group id="69" type="span" parent="67" relname="enablement"/>
+		<group id="70" type="multinuc" parent="42" relname="elaboration"/>
+		<group id="72" type="span" parent="44" relname="elaboration"/>
+		<group id="73" type="span" parent="45" relname="elaboration"/>
+		<group id="74" type="span" parent="66" relname="temporal"/>
+		<group id="75" type="span" parent="95" relname="background"/>
+		<group id="77" type="span" parent="78" relname="span"/>
+		<group id="78" type="span" parent="79" relname="topicomment"/>
+		<group id="79" type="multinuc" parent="95" relname="span"/>
+		<group id="80" type="multinuc" parent="54" relname="contrast"/>
+		<group id="82" type="multinuc" parent="80" relname="cause"/>
+		<group id="83" type="multinuc" parent="100" relname="span"/>
+		<group id="85" type="span" parent="29" relname="summary"/>
+		<group id="86" type="span" parent="98" relname="background"/>
+		<group id="88" type="span" parent="97" relname="topicomment"/>
+		<group id="90" type="span" parent="70" relname="joint"/>
+		<group id="94" type="multinuc" />
+		<group id="95" type="span" parent="96" relname="span"/>
+		<group id="96" type="span" parent="94" relname="contrast"/>
+		<group id="97" type="multinuc" parent="98" relname="span"/>
+		<group id="98" type="span" parent="99" relname="span"/>
+		<group id="99" type="span" />
+		<group id="100" type="span" parent="101" relname="span"/>
+		<group id="101" type="span" parent="94" relname="contrast"/>
+	</body>
+</rst>

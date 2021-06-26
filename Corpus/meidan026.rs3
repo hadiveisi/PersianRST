@@ -1,0 +1,100 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="multinuc"/>
+			<rel name="cause" type="rst"/>
+			<rel name="comparison" type="multinuc"/>
+			<rel name="comparison" type="rst"/>
+			<rel name="condition" type="multinuc"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="contrast" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation" type="multinuc"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="explanation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="manner-means" type="rst"/>
+			<rel name="same" type="multinuc"/>
+			<rel name="summary" type="rst"/>
+			<rel name="temporal" type="multinuc"/>
+			<rel name="temporal" type="rst"/>
+			<rel name="textualorganization" type="multinuc"/>
+			<rel name="topichange" type="multinuc"/>
+			<rel name="topichange" type="rst"/>
+			<rel name="topicomment" type="multinuc"/>
+			<rel name="topicomment" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="35" relname="attribution">معاون توسعه سازمان نظام پرستاری ضمن انتقاد از «پزشک‌مداری» در نظام سلامت ایران گفته</segment>
+		<segment id="2" parent="3" relname="cause">به‌دلیل کمبود پرستار</segment>
+		<segment id="3" parent="33" relname="span">فقط ۵۰ درصد از نیاز درمانی بیماران مورد رسیدگی قرار می‌گیرد</segment>
+		<segment id="4" parent="34" relname="cause">و «این یعنی مردم تا حد مرگ و میر خسارت می‌بینند».</segment>
+		<segment id="5" parent="37" relname="span">بر اساس آماری</segment>
+		<segment id="6" parent="5" relname="elaboration">که محمد شریفی‌مقدم ارایه کرده ،</segment>
+		<segment id="7" parent="38" relname="span">در کشورهای بلژیک ، هلند و سوید به ازا هر ۱۰۰۰ نفر جمعیت ۱۰ پرستار وجود دارد.</segment>
+		<segment id="8" parent="9" relname="background">این حد به‌طور متوسط در استاندارد جهانی ۶ پرستار است</segment>
+		<segment id="9" parent="57" relname="span">و کشورهای همسایه ایران مانند ارمنستان یا گرجستان نیز این جمعیت پرستار ۶ نفره را طبق استاندارد دارا هستند.</segment>
+		<segment id="10" parent="39" relname="contrast">اما در ایران به ازای هر ۱۰۰۰ نفر جمعیت یک و نیم نفر پرستار موجود است.</segment>
+		<segment id="11" parent="66" relname="attribution">دبیر کل خانه پرستار اعلام کرده</segment>
+		<segment id="12" parent="59" relname="span">«این کمبود در کادر پرستاری درحالی است</segment>
+		<segment id="13" parent="12" relname="elaboration">که ما ۲۰ هزار پرستار بیکار در کشور داریم.</segment>
+		<segment id="14" parent="15" relname="temporal">نزدیک به دوسال است</segment>
+		<segment id="15" parent="42" relname="span">که منتظریم تا ۱۰ هزار پرستار استخدام شوند.</segment>
+		<segment id="16" parent="43" relname="background">سالانه ۴ هزار پرستار بازنشستی داریم</segment>
+		<segment id="17" parent="43" relname="span">و می‌گوییم همین را جایگزین کنید</segment>
+		<segment id="18" parent="17" relname="enablement">تا وضعیت رسیدگی به بیماران بدتر نشود.</segment>
+		<segment id="19" parent="46" relname="cause">حقوق پرستاران معمولا ۲ تا ۳ میلیون تومان است</segment>
+		<segment id="20" parent="45" relname="condition">و اگر بخواهند ۱۰ هزار پرستار استخدام کنند ،</segment>
+		<segment id="21" parent="45" relname="span">سالانه ۶۰۰ میلیارد برای دولت هزینه خواهد داشت</segment>
+		<segment id="22" parent="21" relname="elaboration">که می‌تواند جلوی بسیاری از خسارات به مردم را بگیرد».</segment>
+		<segment id="23" parent="70" relname="span">شریفی‌مقدم هم‌چنین به انتقاد از «طرح تحول سلامت» پرداخته</segment>
+		<segment id="24" parent="52" relname="attribution">و گفته</segment>
+		<segment id="25" parent="51" relname="cause">طرح تحول سلامت توان اقتصادی صندوق تامین اجتماعی را به نابودی کشانده است</segment>
+		<segment id="26" parent="51" relname="cause">و آتیه افراد بازنشسته را از بین خواهد برد.</segment>
+		<segment id="27" parent="60" relname="span">وی طرح تحول سلامت را «نمایشی» توصیف کرده</segment>
+		<segment id="28" parent="49" relname="attribution">و توضیح داده</segment>
+		<segment id="29" parent="47" relname="span">«صندوق تامین اجتماعی هم اکنون تحت فشار سنگینی قرار دارد</segment>
+		<segment id="30" parent="29" relname="elaboration">که به سختی از پس پرداخت حقوق متعهدین خود برمی‌آید ؛</segment>
+		<segment id="31" parent="48" relname="span">این بی‌تردید ناشی از فشاری است</segment>
+		<segment id="32" parent="31" relname="elaboration">که بابت طرح نمایشی تحول سلامت متحمل شده است».</segment>
+		<group id="33" type="span" parent="34" relname="cause"/>
+		<group id="34" type="multinuc" parent="35" relname="span"/>
+		<group id="35" type="span" parent="36" relname="span"/>
+		<group id="36" type="span" parent="58" relname="span"/>
+		<group id="37" type="span" parent="7" relname="attribution"/>
+		<group id="38" type="span" parent="40" relname="joint"/>
+		<group id="39" type="multinuc" parent="36" relname="explanation"/>
+		<group id="40" type="multinuc" parent="39" relname="contrast"/>
+		<group id="42" type="span" parent="69" relname="span"/>
+		<group id="43" type="span" parent="44" relname="span"/>
+		<group id="44" type="span" parent="69" relname="evaluation"/>
+		<group id="45" type="span" parent="46" relname="span"/>
+		<group id="46" type="span" parent="55" relname="span"/>
+		<group id="47" type="span" parent="49" relname="span"/>
+		<group id="48" type="span" parent="47" relname="evaluation"/>
+		<group id="49" type="span" parent="50" relname="span"/>
+		<group id="50" type="span" parent="27" relname="explanation"/>
+		<group id="51" type="multinuc" parent="52" relname="span"/>
+		<group id="52" type="span" parent="53" relname="span"/>
+		<group id="53" type="span" parent="23" relname="explanation"/>
+		<group id="55" type="span" parent="65" relname="joint"/>
+		<group id="57" type="span" parent="40" relname="joint"/>
+		<group id="58" type="span" parent="72" relname="span"/>
+		<group id="59" type="span" parent="42" relname="cause"/>
+		<group id="60" type="span" parent="70" relname="explanation"/>
+		<group id="65" type="multinuc" parent="66" relname="span"/>
+		<group id="66" type="span" parent="67" relname="span"/>
+		<group id="67" type="span" parent="58" relname="elaboration"/>
+		<group id="68" type="span" parent="65" relname="joint"/>
+		<group id="69" type="span" parent="68" relname="span"/>
+		<group id="70" type="span" parent="71" relname="span"/>
+		<group id="71" type="span" parent="73" relname="topichange"/>
+		<group id="72" type="span" parent="73" relname="topichange"/>
+		<group id="73" type="multinuc" />
+	</body>
+</rst>

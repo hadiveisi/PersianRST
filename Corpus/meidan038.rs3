@@ -1,0 +1,58 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="multinuc"/>
+			<rel name="cause" type="rst"/>
+			<rel name="comparison" type="multinuc"/>
+			<rel name="comparison" type="rst"/>
+			<rel name="condition" type="multinuc"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="contrast" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation" type="multinuc"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="explanation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="manner-means" type="rst"/>
+			<rel name="same" type="multinuc"/>
+			<rel name="summary" type="rst"/>
+			<rel name="temporal" type="multinuc"/>
+			<rel name="temporal" type="rst"/>
+			<rel name="textualorganization" type="multinuc"/>
+			<rel name="topichange" type="multinuc"/>
+			<rel name="topichange" type="rst"/>
+			<rel name="topicomment" type="multinuc"/>
+			<rel name="topicomment" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="25" relname="span">رییس سازمان سیما ، منظر و فضای سبز شهری شیراز در نامه‌ای مجوز قطع سه درخت سرو را اعلام کرده است.</segment>
+		<segment id="2" parent="15" relname="span">بنا به نامه‌ای</segment>
+		<segment id="3" parent="2" relname="elaboration">که در سایت معماری نیوز منتشر شده</segment>
+		<segment id="4" parent="16" relname="span">قطع سه درخت سرو</segment>
+		<segment id="5" parent="4" relname="elaboration">که در زیربنای آتی‌الاحداث واقع شده است</segment>
+		<segment id="6" parent="7" relname="attribution">طبق بند ج ماده ۵ آیین‌نامه قانون اصلاح لایحه قانونی حفظ و گسترش فضای سبز در شهرها</segment>
+		<segment id="7" parent="17" relname="span">با حضور ناظر فضای سبز منطقه بلامانع است.</segment>
+		<segment id="8" parent="21" relname="span">قطع‌کردن درختان و از بین‌بردن باغات در تهران از مسایل جدی و در عین حال تکراری است</segment>
+		<segment id="9" parent="8" relname="explanation">و در چند سال گذشته شاهد واگذاری باغات و فضاهای سبز و عمومی از سوی شهرداری برای کسب درامد و یا پرداخت بدهی بوده‌ایم.</segment>
+		<segment id="10" parent="23" relname="span">حالا به نظر می‌رسد که شهرداری کلان‌شهرهای ایران به دنبال الگوبرداری از سیاست‌های شهرداری تهران هستند.</segment>
+		<segment id="11" parent="20" relname="joint">معماری نیوز در گزارش دیگری از راهکارهای مشابه شهرداری چهار کلان‌شهر ایران ، یعنی شیراز ، اصفهان ، تبریز و مشهد برای کسب درآمدهای عمده خود از طریق فروش تراکم خبر داده است.</segment>
+		<segment id="12" parent="22" relname="span">در همین راستا ، چند روز پیش خبر خصوصی‌شدن یک زمین ورزشی عمومی در قزوین به دست شهرداری منتشر شد</segment>
+		<segment id="13" parent="12" relname="elaboration">که نارضایتی شهروندان قزوین را در پی داشت.</segment>
+		<group id="14" type="multinuc" parent="1" relname="elaboration"/>
+		<group id="15" type="span" parent="14" relname="same"/>
+		<group id="16" type="span" parent="14" relname="same"/>
+		<group id="17" type="span" parent="14" relname="same"/>
+		<group id="20" type="multinuc" parent="10" relname="explanation"/>
+		<group id="21" type="span" parent="24" relname="comparison"/>
+		<group id="22" type="span" parent="20" relname="joint"/>
+		<group id="23" type="span" parent="24" relname="comparison"/>
+		<group id="24" type="multinuc" parent="25" relname="evaluation"/>
+		<group id="25" type="span" parent="26" relname="span"/>
+		<group id="26" type="span" />
+	</body>
+</rst>

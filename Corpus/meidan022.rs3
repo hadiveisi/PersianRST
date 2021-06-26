@@ -1,0 +1,67 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="multinuc"/>
+			<rel name="cause" type="rst"/>
+			<rel name="comparison" type="multinuc"/>
+			<rel name="comparison" type="rst"/>
+			<rel name="condition" type="multinuc"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="contrast" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation" type="multinuc"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="explanation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="manner-means" type="rst"/>
+			<rel name="same" type="multinuc"/>
+			<rel name="summary" type="rst"/>
+			<rel name="temporal" type="multinuc"/>
+			<rel name="temporal" type="rst"/>
+			<rel name="textualorganization" type="multinuc"/>
+			<rel name="topichange" type="multinuc"/>
+			<rel name="topichange" type="rst"/>
+			<rel name="topicomment" type="multinuc"/>
+			<rel name="topicomment" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="34" relname="cause">مردم آبادان در اعتراض به عدم دسترسی به آب شرب در مقابل اداره آب این شهر تجمع کردند.</segment>
+		<segment id="2" parent="3" relname="attribution">بنابر اظهارات مسیولان آبفای آبادان</segment>
+		<segment id="3" parent="17" relname="span">«میزان شوری و سختی آب بهمنشیر به ۱۶ هزار میکروموس و شوری و سختی آب لوله‌کشی آبادان به ۸ هزار میکروموس رسیده است ».</segment>
+		<segment id="4" parent="22" relname="span">شوری آب در آبادان و خرمشهر به گونه‌ای بوده</segment>
+		<segment id="5" parent="19" relname="joint">که حتی شستن صورت هم باعث سوزش‌ چشم‌ها شده</segment>
+		<segment id="6" parent="19" relname="joint">و برخی مردم برای استحمام هم مجبور به استفاده از آب تصفیه شده شده‌اند.</segment>
+		<segment id="7" parent="24" relname="span">رییس آبفای خرمشهر نیز دلیل شوری بالای آب شرب آبادان و خرمشهر را کاهش ذخایر آب پشت سدها و دبی پایین رودخانه‌ها اعلام کرده است.</segment>
+		<segment id="8" parent="7" relname="elaboration">وی این دو عامل را موجب پیشروی آب دریا و شوری آب در خرمشهر دانسته است.</segment>
+		<segment id="9" parent="26" relname="span">آبادان ، خرمشهر ، اهواز و برخی دیگر از شهرهای خوزستان</segment>
+		<segment id="10" parent="9" relname="temporal">دهه‌هاست</segment>
+		<segment id="11" parent="25" relname="same">با مشکل آب شرب مواجهند ؛</segment>
+		<segment id="12" parent="28" relname="span">این در حالیست</segment>
+		<segment id="13" parent="27" relname="joint">که پروژه‌های انتقال آب از سرچشمه‌های کارون و خوزستان ، با موافقت سازمان محیط‌زیست به دیگر مناطق کماکان ادامه دارد</segment>
+		<segment id="14" parent="27" relname="joint">و اعتراض فعالان محیط‌زیست در دولت‌های مختلف بی‌نتیجه بوده است.</segment>
+		<segment id="15" parent="31" relname="span">بسیاری از کارشناسان سدسازی‌های بی‌رویه در دوران موسوم به «سازندگی» در زمان ریاست‌جمهوری اکبر هاشمی رفسنجانی را یکی از دلایل اصلی نابودی زیست‌بوم‌های طبیعی ایران می‌دانند.</segment>
+		<segment id="16" parent="15" relname="elaboration">روندی که در دولت‌های پس از آن‌ تا به امروز نیز ادامه یافته است.</segment>
+		<group id="17" type="span" parent="20" relname="span"/>
+		<group id="19" type="multinuc" parent="4" relname="manner-means"/>
+		<group id="20" type="span" parent="34" relname="cause"/>
+		<group id="21" type="span" parent="33" relname="span"/>
+		<group id="22" type="span" parent="23" relname="topicomment"/>
+		<group id="23" type="multinuc" parent="17" relname="elaboration"/>
+		<group id="24" type="span" parent="23" relname="topicomment"/>
+		<group id="25" type="multinuc" parent="29" relname="span"/>
+		<group id="26" type="span" parent="25" relname="same"/>
+		<group id="27" type="multinuc" parent="12" relname="elaboration"/>
+		<group id="28" type="span" parent="29" relname="background"/>
+		<group id="29" type="span" parent="32" relname="span"/>
+		<group id="31" type="span" parent="35" relname="topicomment"/>
+		<group id="32" type="span" parent="21" relname="background"/>
+		<group id="33" type="span" parent="35" relname="topicomment"/>
+		<group id="34" type="multinuc" parent="21" relname="span"/>
+		<group id="35" type="multinuc" />
+	</body>
+</rst>

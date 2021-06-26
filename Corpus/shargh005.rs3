@@ -1,0 +1,151 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="multinuc"/>
+			<rel name="cause" type="rst"/>
+			<rel name="comparison" type="multinuc"/>
+			<rel name="comparison" type="rst"/>
+			<rel name="condition" type="multinuc"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="contrast" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation" type="multinuc"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="explanation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="manner-means" type="rst"/>
+			<rel name="same" type="multinuc"/>
+			<rel name="summary" type="rst"/>
+			<rel name="temporal" type="multinuc"/>
+			<rel name="temporal" type="rst"/>
+			<rel name="textualorganization" type="multinuc"/>
+			<rel name="topichange" type="multinuc"/>
+			<rel name="topichange" type="rst"/>
+			<rel name="topicomment" type="multinuc"/>
+			<rel name="topicomment" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="63" relname="span">افزایش قیمت بنزین برای بخش سهمیه‌ای آن ، ۵۰ درصد است و برای بخش غیرسهمیه‌ای ۳۰۰ درصد ؛</segment>
+		<segment id="2" parent="1" relname="elaboration">صرف نظر از شیوه تصمیم گیری و نوع کار کارشناسی ، تصمیمی است که در فاز اجرایی قرار گرفته است.</segment>
+		<segment id="3" parent="111" relname="span">بنزین</segment>
+		<segment id="4" parent="3" relname="explanation">به دلیل ماهیت استراتژیک آن ،</segment>
+		<segment id="5" parent="56" relname="cause">وضعیتی بسیار متفاوت نسبت به سایر حامل‌های انرژی دارد.</segment>
+		<segment id="6" parent="116" relname="span">با ایجاد نظام سهمیه بندی برای حمل ونقل درون شهری اعم از تاکسی‌های اینترنتی و البته آژانس‌ها و … ، جای سوالی جدی باقی است که تکلیف مسافربرهای شخصی</segment>
+		<segment id="7" parent="6" relname="elaboration">که برای فرار از بی کاری ، به امرار معاش از طریق خودروی ارزان قیمت خود می‌پرداختند</segment>
+		<segment id="8" parent="62" relname="same">چه می‌شود ؟</segment>
+		<segment id="9" parent="112" relname="span">نگارنده پیش از این بارها پیشنهاد داده بود برای کاستن از فشار سنگین بودجه‌ای بر دولت</segment>
+		<segment id="10" parent="9" relname="explanation">بر اثر تحریم‌ها و کاهش جدی صادرات نفت خام ایران ،</segment>
+		<segment id="11" parent="57" relname="same">گسترش پایه‌های مالیاتی می‌تواند اولین اقدام موثر باشد.</segment>
+		<segment id="12" parent="113" relname="span">به بیان دیگر ، با شناسایی دقیق افراد ثروتمند و نهادهایی که</segment>
+		<segment id="13" parent="58" relname="joint">فرار مالیاتی می‌کنند</segment>
+		<segment id="14" parent="58" relname="joint">و حجم آن حدود ۴۰ هزار میلیارد تومان برآورد می‌شود ،</segment>
+		<segment id="15" parent="60" relname="span">بسیار بیش از ۳١ هزار میلیارد تومان حاصل از افزایش اخیر قیمت بنزین ، امکان بهره برداری برای دولت وجود داشت</segment>
+		<segment id="16" parent="88" relname="joint">و این میزان دغدغه و حاشیه نیز ایجاد نمی شد.</segment>
+		<segment id="17" parent="61" relname="span">در عین حال ، تکلیف قانونی حذف یارانه ثروتمندان نیز یکی از مواردی بود</segment>
+		<segment id="18" parent="89" relname="joint">که منابع درآمدی پذیرفته شده‌ای برای دولت ایجاد می‌کرد</segment>
+		<segment id="19" parent="89" relname="joint">و این شیوه نادرست پرداخت یارانه به همه را اصلاح می‌کرد.</segment>
+		<segment id="20" parent="96" relname="span">از روش‌های اصلی شناسایی اقشار پردرآمد ، استفاده از داده‌های سازمان امور مالیاتی است</segment>
+		<segment id="21" parent="22" relname="attribution">و طبق قانون</segment>
+		<segment id="22" parent="64" relname="span">باید همه اطلاعات مالی و ثروت افراد در اختیار سازمان امور مالیاتی باشد.</segment>
+		<segment id="23" parent="65" relname="joint">از این طریق ، دولت هم می‌تواند اقشار گوناگون را شناسایی کند</segment>
+		<segment id="24" parent="65" relname="joint">و هم از اقشار پردرآمد مالیات بگیرد.</segment>
+		<segment id="25" parent="65" relname="joint">همچنین دولت می‌توانست با استفاده از بانک‌های اطلاعاتی ، از امکان‌های قانونی خود در راستای حذف یارانه و مالیات ستانی از ثروتمندان به نحو احسن استفاده کند.</segment>
+		<segment id="26" parent="66" relname="contrast">دولت با استفاده از روش‌هایی مانند برآورد میزان حساب‌های بانکی یا مجموع درآمد افراد ، کار قطع یارانه‌ها را پیش می برد.</segment>
+		<segment id="27" parent="98" relname="evaluation">تاکید و توافق همه نهادهای کشور برای پیاده سازی نظام یکپارچه مالیاتی ، راه عبور از شرایط دشوار فعلی است.</segment>
+		<segment id="28" parent="67" relname="comparison">همچنین هرچه میزان دریافت کنندگان یارانه 
+		ها کمتر شود ،</segment>
+		<segment id="29" parent="68" relname="joint">مبالغ بیشتری به افراد نیازمند اختصاص می‌یابد</segment>
+		<segment id="30" parent="68" relname="joint">یا صرف حوزه عمرانی کشور یا ارایه تسهیلات به بنگاه‌های کوچک و شرکت‌های دانش بنیان برای ایجاد اشتغال پایدار خواهد شد.</segment>
+		<segment id="31" parent="95" relname="span">پرداخت یارانه نقدی هدفمند ، شیوه‌ای شناخته شده در همه دنیاست</segment>
+		<segment id="32" parent="100" relname="span">که می‌توان برای جلوگیری از به انحراف کشیده شدن آن ، از روش حمایت کالایی استفاده کرد ؛</segment>
+		<segment id="33" parent="94" relname="span">به این معنی که صرفا اقشار نیازمند برای تامین برخی کالا‌های ضروری و اساسی حمایت شوند</segment>
+		<segment id="34" parent="33" relname="elaboration">که این حمایت نیز می‌تواند به چند شکل انجام شود.</segment>
+		<segment id="35" parent="69" relname="contrast">مسیله بنزین و قیمت آن نیز می‌توانست در فضای کارشناسی‌شده‌ای تعیین تکلیف شود ؛</segment>
+		<segment id="36" parent="69" relname="contrast">اما اکنون زمزمه‌های باز توزیع مبلغ حاصل از افزایش قیمت بنزین میان ١۸ میلیون خانوار ایرانی مطرح می‌شود.</segment>
+		<segment id="37" parent="82" relname="span">در اینکه بخش‌هایی از کشور حتما نیازمند حمایت جدی هستند ، تردیدی نیست.</segment>
+		<segment id="38" parent="114" relname="span">حتی برخی از اقشاری</segment>
+		<segment id="39" parent="38" relname="elaboration">که در آمارها شاغل محسوب می‌شوند ،</segment>
+		<segment id="40" parent="70" relname="same">وضعیت نابسامانی دارند.</segment>
+		<segment id="41" parent="74" relname="joint">عمر قراردادهای کار به یک ماه رسیده</segment>
+		<segment id="42" parent="73" relname="span">و برخی کارفرمایان حقوقی بسیار ناچیز و کمتر از نرخ مصوب وزارت کار ، به کارگران پرداخت می‌کنند.</segment>
+		<segment id="43" parent="115" relname="span">این دستمزد با تورم بالای ۴۰ درصد</segment>
+		<segment id="44" parent="43" relname="elaboration">که از این پس افزایش بیشتری هم خواهد یافت ،</segment>
+		<segment id="45" parent="72" relname="same">هرگز تکافوی هزینه‌ها را نمی کند.</segment>
+		<segment id="46" parent="76" relname="span">سیاست‌های نادرست توزیعی ، آسیبی است</segment>
+		<segment id="47" parent="46" relname="elaboration">که از دوران احمدی نژاد آغاز شد</segment>
+		<segment id="48" parent="77" relname="contrast">و مشخص نیست دولت روحانی با ادعای درک درست از اقتصاد ، چرا در همان مسیر گام برمی دارد ؟</segment>
+		<segment id="49" parent="78" relname="joint">عدد اعلامی ۳١ هزار میلیارد حتما به جای توزیع تام و تمام ، می‌تواند در بخش‌های مولد اقتصادی برای ایجاد اشتغال یا خدمات هدفمند بهداشت و درمان ، به کار انداخته شود</segment>
+		<segment id="50" parent="79" relname="span">و البته بخشی از آن نیز صرف دهک‌های پایین درآمدی شود</segment>
+		<segment id="51" parent="50" relname="elaboration">که به درستی شناسایی شده اند.</segment>
+		<segment id="52" parent="53" relname="contrast">اگرچه با اعلام افزایش نیافتن قیمت گازوییل و سوخت خودروهای گازسوز ، افزایش هزینه کالا و خدمات شتاب کمتری خواهد داشت ،</segment>
+		<segment id="53" parent="80" relname="span">بااین حال خوش بینی بیش از حد درباره آن نیز اشتباهی محاسباتی است.</segment>
+		<segment id="54" parent="85" relname="joint">در عین حال علاوه بر تورم ناشی از این افزایش ، بازتوزیع نقدی درآمد حاصل از آن نیز می‌تواند به افزایش تقاضا در جامعه و بار تورمی بینجامد.</segment>
+		<segment id="55" parent="105" relname="span">تصمیم گیری دراین باره حتما باید به دور از شتاب زدگی ، برای کمک به اقشار واقعی نیازمند و در عین حال کمک به بخش عمرانی بودجه در راستای تکمیل طرح‌های نیمه تمام اقتصادی و افزایش تولید و اشتغال دنبال شود.</segment>
+		<group id="56" type="multinuc" parent="86" relname="span"/>
+		<group id="57" type="multinuc" parent="91" relname="span"/>
+		<group id="58" type="multinuc" parent="12" relname="elaboration"/>
+		<group id="59" type="multinuc" parent="88" relname="joint"/>
+		<group id="60" type="span" parent="59" relname="same"/>
+		<group id="61" type="span" parent="90" relname="joint"/>
+		<group id="62" type="multinuc" parent="86" relname="explanation"/>
+		<group id="63" type="span" parent="71" relname="span"/>
+		<group id="64" type="span" parent="20" relname="explanation"/>
+		<group id="65" type="multinuc" parent="66" relname="contrast"/>
+		<group id="66" type="multinuc" parent="96" relname="elaboration"/>
+		<group id="67" type="multinuc" parent="101" relname="span"/>
+		<group id="68" type="multinuc" parent="67" relname="comparison"/>
+		<group id="69" type="multinuc" parent="104" relname="topicomment"/>
+		<group id="70" type="multinuc" parent="75" relname="span"/>
+		<group id="71" type="span" parent="107" relname="background"/>
+		<group id="72" type="multinuc" parent="42" relname="elaboration"/>
+		<group id="73" type="span" parent="74" relname="joint"/>
+		<group id="74" type="multinuc" parent="75" relname="explanation"/>
+		<group id="75" type="span" parent="81" relname="span"/>
+		<group id="76" type="span" parent="77" relname="contrast"/>
+		<group id="77" type="multinuc" parent="83" relname="topicomment"/>
+		<group id="78" type="multinuc" parent="83" relname="span"/>
+		<group id="79" type="span" parent="78" relname="joint"/>
+		<group id="80" type="span" parent="85" relname="joint"/>
+		<group id="81" type="span" parent="37" relname="explanation"/>
+		<group id="82" type="span" parent="84" relname="contrast"/>
+		<group id="83" type="span" parent="84" relname="span"/>
+		<group id="84" type="span" parent="103" relname="span"/>
+		<group id="85" type="multinuc" parent="55" relname="explanation"/>
+		<group id="86" type="span" parent="87" relname="span"/>
+		<group id="87" type="span" parent="63" relname="elaboration"/>
+		<group id="88" type="multinuc" parent="90" relname="joint"/>
+		<group id="89" type="multinuc" parent="17" relname="elaboration"/>
+		<group id="90" type="multinuc" parent="91" relname="summary"/>
+		<group id="91" type="span" parent="92" relname="span"/>
+		<group id="92" type="span" parent="98" relname="span"/>
+		<group id="93" type="span" parent="99" relname="span"/>
+		<group id="94" type="span" parent="32" relname="elaboration"/>
+		<group id="95" type="span" parent="101" relname="elaboration"/>
+		<group id="96" type="span" parent="97" relname="span"/>
+		<group id="97" type="span" parent="92" relname="manner-means"/>
+		<group id="98" type="span" parent="93" relname="span"/>
+		<group id="99" type="span" parent="106" relname="topichange"/>
+		<group id="100" type="span" parent="31" relname="elaboration"/>
+		<group id="101" type="span" parent="102" relname="span"/>
+		<group id="102" type="span" parent="93" relname="elaboration"/>
+		<group id="103" type="span" parent="104" relname="topicomment"/>
+		<group id="104" type="multinuc" parent="110" relname="span"/>
+		<group id="105" type="span" parent="110" relname="evaluation"/>
+		<group id="106" type="multinuc" parent="107" relname="span"/>
+		<group id="107" type="span" parent="108" relname="span"/>
+		<group id="108" type="span" />
+		<group id="109" type="span" parent="106" relname="topichange"/>
+		<group id="110" type="span" parent="109" relname="span"/>
+		<group id="111" type="span" parent="56" relname="cause"/>
+		<group id="112" type="span" parent="57" relname="same"/>
+		<group id="113" type="span" parent="59" relname="same"/>
+		<group id="114" type="span" parent="70" relname="same"/>
+		<group id="115" type="span" parent="72" relname="same"/>
+		<group id="116" type="span" parent="62" relname="same"/>
+	</body>
+</rst>

@@ -1,0 +1,73 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="multinuc"/>
+			<rel name="cause" type="rst"/>
+			<rel name="comparison" type="multinuc"/>
+			<rel name="comparison" type="rst"/>
+			<rel name="condition" type="multinuc"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="contrast" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation" type="multinuc"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="explanation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="manner-means" type="rst"/>
+			<rel name="same" type="multinuc"/>
+			<rel name="summary" type="rst"/>
+			<rel name="temporal" type="multinuc"/>
+			<rel name="temporal" type="rst"/>
+			<rel name="textualorganization" type="multinuc"/>
+			<rel name="topichange" type="multinuc"/>
+			<rel name="topichange" type="rst"/>
+			<rel name="topicomment" type="multinuc"/>
+			<rel name="topicomment" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="33" relname="span">با بالا رفتن قیمت کاغذ ، رییس سازمان پژوهش و برنامه‌ریزی آموزشی از احتمال تغییر ابعاد کتاب‌های درسی خبر داد.</segment>
+		<segment id="2" parent="31" relname="attribution">حجت‌الاسلام علی ذوعلم در گفت‌وگو با ایسنا گفته :</segment>
+		<segment id="3" parent="31" relname="span">«فراخوانی برای دریافت نظرات معلمان پیرامون قطع کتب درسی و کوچک‌تر شدن آن انجام شد.</segment>
+		<segment id="4" parent="23" relname="contrast">در نظرخواهی ۸۰ درصد موافق این اقدام بودند ،</segment>
+		<segment id="5" parent="23" relname="contrast">ولی خب تعداد زیادی افراد در نظرخواهی شرکت نکرده بودند</segment>
+		<segment id="6" parent="25" relname="joint">و به همین علت باید از پژوهش‌ها و مطالعات انجام‌شده در این زمینه نیز استفاده کنیم</segment>
+		<segment id="7" parent="25" relname="joint">و بعد تصمیم‌گیری نهایی را انجام دهیم.»</segment>
+		<segment id="8" parent="28" relname="span">با توجه به افزایش سرسام‌آور قیمت کاغذ در سال جاری ، بهینه‌سازی ابعاد کتاب‌‌های درسی می‌تواند یکی از راه‌های صرفه‌جویی در هزینه‌ها باشد.</segment>
+		<segment id="9" parent="26" relname="background">کتاب‌های درسی دوره دوم ابتدایی در سال‌های گذشته با قطع رحلی ۲۸۲۲ سانتیمتر در اختیار دانش‌آموزان قرار می‌گرفت.</segment>
+		<segment id="10" parent="11" relname="attribution">اگر این ابعاد به قطع وزیری ۲۳۱۶ سانتیمتر تغییر کند</segment>
+		<segment id="11" parent="26" relname="span">بیش از ۲ هزار تن در مصرف کاغذ در سال صرفه‌جویی می‌شود.</segment>
+		<segment id="12" parent="40" relname="cause">در روزهای گذشته قیمت هر بند کاغذ تحریر از مرز ۵۰۰ هزارتومان هم گذشته است.</segment>
+		<segment id="13" parent="29" relname="joint">افزایش سرسام‌آور قیمت کاغذ در ماه‌های اخیر نه‌تنها بر بازار نشر ،</segment>
+		<segment id="14" parent="29" relname="joint">بلکه بر سیستم آموزشی نیز تاثیر گذاشته .</segment>
+		<segment id="15" parent="16" relname="cause">۹۰ درصد از کاغذ کشور وارداتی است</segment>
+		<segment id="16" parent="30" relname="span">و تغییرات نرخ ارز و عدم نظارت بر قیمت‌گذاری بر بالا رفتن قیمت نقش داشته است.</segment>
+		<segment id="17" parent="21" relname="attribution">سازمان پژوهش و برنامه‌ریزی آموزشی اعلام کرده</segment>
+		<segment id="18" parent="20" relname="contrast">که گرانی کاغذ تاثیر مستقیمی روی این تصمیم نذاشته</segment>
+		<segment id="19" parent="20" relname="contrast">اما بی‌تاثیر هم نبوده است.</segment>
+		<group id="20" type="multinuc" parent="21" relname="span"/>
+		<group id="21" type="span" parent="22" relname="span"/>
+		<group id="22" type="span" parent="42" relname="explanation"/>
+		<group id="23" type="multinuc" parent="38" relname="cause"/>
+		<group id="25" type="multinuc" parent="38" relname="cause"/>
+		<group id="26" type="span" parent="27" relname="span"/>
+		<group id="27" type="span" parent="8" relname="elaboration"/>
+		<group id="28" type="span" parent="33" relname="explanation"/>
+		<group id="29" type="multinuc" parent="40" relname="cause"/>
+		<group id="30" type="span" parent="41" relname="evaluation"/>
+		<group id="31" type="span" parent="32" relname="span"/>
+		<group id="32" type="span" parent="1" relname="summary"/>
+		<group id="33" type="span" parent="39" relname="span"/>
+		<group id="38" type="multinuc" parent="3" relname="elaboration"/>
+		<group id="39" type="span" parent="43" relname="span"/>
+		<group id="40" type="multinuc" parent="41" relname="span"/>
+		<group id="41" type="span" parent="42" relname="span"/>
+		<group id="42" type="span" parent="44" relname="span"/>
+		<group id="43" type="span" />
+		<group id="44" type="span" parent="39" relname="elaboration"/>
+	</body>
+</rst>

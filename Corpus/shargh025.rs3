@@ -1,0 +1,128 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="multinuc"/>
+			<rel name="cause" type="rst"/>
+			<rel name="comparison" type="multinuc"/>
+			<rel name="comparison" type="rst"/>
+			<rel name="condition" type="multinuc"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="contrast" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation" type="multinuc"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="explanation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="manner-means" type="rst"/>
+			<rel name="same" type="multinuc"/>
+			<rel name="summary" type="rst"/>
+			<rel name="temporal" type="multinuc"/>
+			<rel name="temporal" type="rst"/>
+			<rel name="textualorganization" type="multinuc"/>
+			<rel name="topichange" type="multinuc"/>
+			<rel name="topichange" type="rst"/>
+			<rel name="topicomment" type="multinuc"/>
+			<rel name="topicomment" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="50" relname="span">پیشنهاد دولت در لایحه بودجه سال ۹۶ این بود ؛</segment>
+		<segment id="2" parent="49" relname="span">حقوق بگیرانی که حقوق آن‌ها سالانه سقف ١۸ میلیون تومان دارد ، از پرداخت مالیات معاف شوند.</segment>
+		<segment id="3" parent="48" relname="same">این یعنی افرادی</segment>
+		<segment id="4" parent="3" relname="elaboration">که ماهانه یک میلیون و ۵۰۰ هزار تومان حقوق می‌گیرند ،</segment>
+		<segment id="5" parent="48" relname="same">از پرداخت مالیات معاف و بیش از آن مشمول پرداخت مالیات می‌شوند.</segment>
+		<segment id="6" parent="52" relname="cause">کمیسیون تلفیق مجلس در جلسه دیروز خود ، سقف حقوق سالانه برای معافیت از مالیات را ٢۴ میلیون تومان در نظر گرفت</segment>
+		<segment id="7" parent="51" relname="same">و تصویب کرد حقوق بگیرانی</segment>
+		<segment id="8" parent="7" relname="elaboration">که ماهانه تا سقف دو میلیون تومان حقوق دریافت می‌کنند ،</segment>
+		<segment id="9" parent="51" relname="same">از پرداخت مالیات معاف شوند.</segment>
+		<segment id="10" parent="54" relname="same">اقدامی که در راستای کمک و تسهیل زندگی حقوق بگیرانی است که</segment>
+		<segment id="11" parent="10" relname="elaboration">بر اثر شکاف مزدی دولت گذشته و تورم ۴۰درصدی آن مقطع و البته شوک ارزی سال ۹۰ ،</segment>
+		<segment id="12" parent="54" relname="same">قدرت خرید آن‌ها کاهش یافته است.</segment>
+		<segment id="13" parent="55" relname="same">از سوی دیگر ، اشکالی در سامانه اقتصادی کشور وجود دارد که کارکنان دولت یا کارگرانی</segment>
+		<segment id="14" parent="13" relname="elaboration">که براساس درآمدهای مشخص در کارگاه خود ، حقوق دریافت می‌کنند ،</segment>
+		<segment id="15" parent="55" relname="same">مالیات درخورتوجهی نسبت به حقوق ماهانه خود پرداخت می‌کنند</segment>
+		<segment id="16" parent="56" relname="contrast">در حالی که فرارکنندگان مالیاتی ، عمدتا دارای درآمدهای میلیاردی هستند.</segment>
+		<segment id="17" parent="18" relname="background">این که مالیات به شفاف شدن وضعیت اقتصادی ، کاهش رانت‌های معمول و البته کم شدن نیاز درآمدهای کشور به نفت می‌انجامد ، امری مشخص است.</segment>
+		<segment id="18" parent="80" relname="span">افزایش معافیت مالیاتی حقوق بگیران به دو میلیون تومان ، قطعا انگیزه وزارت امور اقتصادی و دارایی و سازمان امور مالیاتی را برای گسترش پایه مالیاتی افزایش خواهد داد.</segment>
+		<segment id="19" parent="58" relname="background">اگرچه به باور نگارنده این اتفاق را باید از جنبه بهره وری سازمانی بررسی کرد.</segment>
+		<segment id="20" parent="21" relname="condition">از نظر ملی و کلان اگر این اهرم انگیزشی ، فعالیت بیشتر کارکنان در محیط‌های کاری را سبب شود ،</segment>
+		<segment id="21" parent="57" relname="span">موفقیت بیشتری خواهد داشت</segment>
+		<segment id="22" parent="59" relname="joint">چراکه بهبود معیشت خانوار می‌تواند تا حدی هرچند اندک ، ذهن فرد شاغل را آرام تر کند</segment>
+		<segment id="23" parent="59" relname="joint">و انگیزه کار را در او افزایش دهد.</segment>
+		<segment id="24" parent="60" relname="span">اگر این امکان وجود داشته باشد</segment>
+		<segment id="25" parent="61" relname="joint">که سیستم اداری ایران را طوری بهبود ببخشند</segment>
+		<segment id="26" parent="62" relname="span">و نظام تدبیر را به گونه ای اصلاح کنند</segment>
+		<segment id="27" parent="63" relname="joint">که علاوه بر این نوع معافیت‌ها ، امکانات افزون در اختیار پرسنل قرار گیرد</segment>
+		<segment id="28" parent="63" relname="joint">و در ازای آن ، بهره وری و کارایی بیشتری هم به دست آید ،</segment>
+		<segment id="29" parent="64" relname="span">آن گاه نتیجه مطلوب حاصل شده است.</segment>
+		<segment id="30" parent="90" relname="summary">برای افزایش پایه مالیاتی نیز همگان باید به سازمان و وزارتخانه ذی ربط کمک کنند.</segment>
+		<segment id="31" parent="65" relname="same">دولت یازدهم به دنبال افزایش درآمدهای مالیاتی</segment>
+		<segment id="32" parent="31" relname="manner-means">از طریق ملزم کردن فرارکنندگان مالیاتی به پرداخت آن</segment>
+		<segment id="33" parent="65" relname="same">است.</segment>
+		<segment id="34" parent="67" relname="span">این اتفاق هم شدنی است.</segment>
+		<segment id="35" parent="68" relname="same">سطح اطلاعات دولت از افراد با توجه به بانک‌های اطلاعاتی</segment>
+		<segment id="36" parent="35" relname="elaboration">که برای پالایش هدفمندی یارانه‌ها تهیه شده ،</segment>
+		<segment id="37" parent="68" relname="same">از گذشته بیشتر شده است.</segment>
+		<segment id="38" parent="71" relname="elaboration">از این بانک‌ها برای مقاصد مالیاتی و جلوگیری از فرار مالیاتی هم می‌توان بهره گرفت.</segment>
+		<segment id="39" parent="77" relname="span">از سوی دیگر قاچاق میلیارددلاری به کشور از سوی افرادی صورت می‌گیرد</segment>
+		<segment id="40" parent="39" relname="elaboration">که آدرس رسمی ندارند.</segment>
+		<segment id="41" parent="73" relname="span">اگر همه به این نتیجه برسند</segment>
+		<segment id="42" parent="72" relname="joint">که باید جلوی قاچاق را از مبادی رسمی و غیررسمی گرفت</segment>
+		<segment id="43" parent="72" relname="joint">و دولت را یاری کنند ،</segment>
+		<segment id="44" parent="74" relname="same">آن گاه همه آن‌هایی</segment>
+		<segment id="45" parent="44" relname="elaboration">که علاقه مند به فعالیت در حوزه واردات هستند ،</segment>
+		<segment id="46" parent="74" relname="same">بازرگانان محترمی خواهند بود که مالیات خواهند پرداخت.</segment>
+		<segment id="47" parent="87" relname="topicomment">در این بین نقش اصلاح قوانین و تدوین قانون روزآمد و پیشرو برای کاهش قاچاق و حمایت از واردکنندگان قانونی ، تاثیرگذار است.</segment>
+		<group id="48" type="multinuc" parent="2" relname="summary"/>
+		<group id="49" type="span" parent="1" relname="elaboration"/>
+		<group id="50" type="span" parent="78" relname="contrast"/>
+		<group id="51" type="multinuc" parent="52" relname="span"/>
+		<group id="52" type="span" parent="53" relname="span"/>
+		<group id="53" type="span" parent="79" relname="span"/>
+		<group id="54" type="multinuc" parent="53" relname="elaboration"/>
+		<group id="55" type="multinuc" parent="56" relname="contrast"/>
+		<group id="56" type="multinuc" parent="88" relname="topicomment"/>
+		<group id="57" type="span" parent="92" relname="span"/>
+		<group id="58" type="span" parent="82" relname="span"/>
+		<group id="59" type="multinuc" parent="57" relname="cause"/>
+		<group id="60" type="span" parent="29" relname="condition"/>
+		<group id="61" type="multinuc" parent="24" relname="elaboration"/>
+		<group id="62" type="span" parent="61" relname="joint"/>
+		<group id="63" type="multinuc" parent="26" relname="elaboration"/>
+		<group id="64" type="span" parent="93" relname="joint"/>
+		<group id="65" type="multinuc" parent="66" relname="span"/>
+		<group id="66" type="span" parent="69" relname="span"/>
+		<group id="67" type="span" parent="66" relname="elaboration"/>
+		<group id="68" type="multinuc" parent="71" relname="span"/>
+		<group id="69" type="span" parent="94" relname="explanation"/>
+		<group id="70" type="span" parent="34" relname="cause"/>
+		<group id="71" type="span" parent="84" relname="span"/>
+		<group id="72" type="multinuc" parent="41" relname="elaboration"/>
+		<group id="73" type="span" parent="75" relname="condition"/>
+		<group id="74" type="multinuc" parent="75" relname="span"/>
+		<group id="75" type="span" parent="76" relname="span"/>
+		<group id="76" type="span" parent="85" relname="topicomment"/>
+		<group id="77" type="span" parent="85" relname="topicomment"/>
+		<group id="78" type="multinuc" parent="95" relname="background"/>
+		<group id="79" type="span" parent="78" relname="contrast"/>
+		<group id="80" type="span" parent="88" relname="topicomment"/>
+		<group id="82" type="span" parent="89" relname="evaluation"/>
+		<group id="83" type="multinuc" parent="70" relname="span"/>
+		<group id="84" type="span" parent="83" relname="joint"/>
+		<group id="85" type="multinuc" parent="87" relname="span"/>
+		<group id="86" type="span" parent="83" relname="joint"/>
+		<group id="87" type="span" parent="86" relname="span"/>
+		<group id="88" type="multinuc" parent="89" relname="span"/>
+		<group id="89" type="span" parent="90" relname="span"/>
+		<group id="90" type="span" parent="94" relname="span"/>
+		<group id="92" type="span" parent="93" relname="joint"/>
+		<group id="93" type="multinuc" parent="58" relname="span"/>
+		<group id="94" type="span" parent="95" relname="span"/>
+		<group id="95" type="span" parent="96" relname="span"/>
+		<group id="96" type="span" />
+	</body>
+</rst>

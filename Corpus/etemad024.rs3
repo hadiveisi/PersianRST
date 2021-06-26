@@ -1,0 +1,151 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="multinuc"/>
+			<rel name="cause" type="rst"/>
+			<rel name="comparison" type="multinuc"/>
+			<rel name="comparison" type="rst"/>
+			<rel name="condition" type="multinuc"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="contrast" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation" type="multinuc"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="explanation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="manner-means" type="rst"/>
+			<rel name="same" type="multinuc"/>
+			<rel name="summary" type="rst"/>
+			<rel name="temporal" type="multinuc"/>
+			<rel name="temporal" type="rst"/>
+			<rel name="textualorganization" type="multinuc"/>
+			<rel name="topichange" type="multinuc"/>
+			<rel name="topichange" type="rst"/>
+			<rel name="topicomment" type="multinuc"/>
+			<rel name="topicomment" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="101" relname="span">تاثیرات حضور کی‌روش در ایران زیاد مثبت نبود.</segment>
+		<segment id="2" parent="76" relname="joint">از نظر فنی و کیفیت فوتبالی ، پیشرفت‌هایی حاصل شد.</segment>
+		<segment id="3" parent="76" relname="joint">نتایج خوبی داشتیم</segment>
+		<segment id="4" parent="63" relname="span">و کی‌روش فوتبال ایران را به شکلی مهندسی کرد</segment>
+		<segment id="5" parent="4" relname="elaboration">که برای ۵سال در رنکینگ ای اف سی اول باشیم.</segment>
+		<segment id="6" parent="116" relname="span">به این خاطر می‌گویم «مهندسی‌» ،</segment>
+		<segment id="7" parent="65" relname="joint">که در دوران ایشان ما هیچ بازی دوستانه با تیم‌های درجه یک جهان نداشتیم.</segment>
+		<segment id="8" parent="65" relname="joint">حتی با تیم‌های متوسط بین المللی هم بازی نکردیم.</segment>
+		<segment id="9" parent="66" relname="contrast">تیم ژاپن در ماه‌های منتهی به جام جهانی بازی‌هایی با برزیل ، آرژانتین و اسپانیا داشت.</segment>
+		<segment id="10" parent="68" relname="span">ما فقط با کشورهایی بازی کردیم</segment>
+		<segment id="11" parent="10" relname="elaboration">که رنکینگی پایین‌تر از ۶۰ در جدول فیفا داشتند.</segment>
+		<segment id="12" parent="67" relname="joint">تنها تیم ترکیه حریف قابلی بود.</segment>
+		<segment id="13" parent="102" relname="explanation">از نظر فرهنگی ، او در همان دو نشست اول با مسوولان فوتبال ایران متوجه شد که با تعدادی مدیر آماتور طرف است.</segment>
+		<segment id="14" parent="102" relname="span">با توجه به این شرایط ، قراردادی یک سویه تنظیم کرد.</segment>
+		<segment id="15" parent="74" relname="span">البته می‌توان به همین قرارداد هم پایبند نبود.</segment>
+		<segment id="16" parent="117" relname="span">چراکه بندی در این قرارداد وجود داشت</segment>
+		<segment id="17" parent="70" relname="joint">که او باید دستیار ایرانی داشته ،</segment>
+		<segment id="18" parent="70" relname="joint">باید به تیم‌های پایه و به خصوص تیم امید نظارت داشته باشد</segment>
+		<segment id="19" parent="70" relname="joint">و همچنین همکاران دیگرش هم ایرانی باشند.</segment>
+		<segment id="20" parent="72" relname="joint">به اصرار ایشان وینگادا ، سرمربی تیم ملی امید شد</segment>
+		<segment id="21" parent="72" relname="joint">و با او در المپیک آسیایی بدترین نتایج تاریخ مان را کسب کردیم.</segment>
+		<segment id="22" parent="78" relname="joint">آقای کی‌روش و خانواده اش در همه جای دنیا بیمه هستند.</segment>
+		<segment id="23" parent="78" relname="joint">همینطور کی‌روش از پرداخت مالیات معاف بود.</segment>
+		<segment id="24" parent="78" relname="joint">نماینده رسانه‌ای و سرپرست تیم ملی را اخراج کردند.</segment>
+		<segment id="25" parent="78" relname="joint">همیشه برخوردی بدون احترام با مربیان ایرانی داشتند.</segment>
+		<segment id="26" parent="83" relname="span">ایشان فوتبال ایران را به شکل جزیره‌ای مدیریت کرد.</segment>
+		<segment id="27" parent="79" relname="same">نتایجی</segment>
+		<segment id="28" parent="27" relname="elaboration">که در جام جهانی گرفتیم ،</segment>
+		<segment id="29" parent="79" relname="same">از نظر کمی خوب بود ،</segment>
+		<segment id="30" parent="82" relname="span">اما از نظر کیفی بسیار بد بودیم.</segment>
+		<segment id="31" parent="81" relname="joint">مالکیت توپ مان از همه کمتر بود.</segment>
+		<segment id="32" parent="81" relname="joint">کمترین ضربه به سمت دروازه را داشتیم.</segment>
+		<segment id="33" parent="78" relname="joint">از نظر رفتاری هم بسیار با داوران و مربیان حریف پرخاشگری می‌کردند.</segment>
+		<segment id="34" parent="35" relname="attribution">به گفته آقای فغانی</segment>
+		<segment id="35" parent="84" relname="span">بازیکنان ما هم با داوران رفتار خوبی نداشتند</segment>
+		<segment id="36" parent="84" relname="elaboration">که این هم متاثر از مدیریت سرمربی است.</segment>
+		<segment id="37" parent="78" relname="joint">تصویر زیبایی از ما در جام جهانی ارایه نشد.</segment>
+		<segment id="38" parent="126" relname="evaluation">در مجموع عملکرد اجتماعی و رفتاری کی‌روش را پسندیده نمی‌دانم.</segment>
+		<segment id="39" parent="86" relname="span">اما عوامل رسانه ای ، به خصوص در فضای مجازی تبلیغاتی برای کی‌روش انجام می‌شود</segment>
+		<segment id="40" parent="39" relname="elaboration">که محبوبیت کاذب اجتماعی به ارمغان می‌آورد.</segment>
+		<segment id="41" parent="87" relname="same">اما کی‌روش هرگز بین کسانی</segment>
+		<segment id="42" parent="41" relname="elaboration">که فوتبال را درکمی‌کنند</segment>
+		<segment id="43" parent="87" relname="same">محبوبیتی ندارد.</segment>
+		<segment id="44" parent="88" relname="joint">مربی پرتغالی تیم ملی حتی با دیگر خارجی‌های لیگ برتر هم درگیر می‌شد.</segment>
+		<segment id="45" parent="88" relname="joint">با بازیکن‌های خوبی مثل غفوری و حسینی با لجاجت رفتار کردند.</segment>
+		<segment id="46" parent="89" relname="span">این‌ها مسایلی است</segment>
+		<segment id="47" parent="46" relname="elaboration">که ایشان خارج از چارچوب فوتبال انجام می‌دادند.</segment>
+		<segment id="48" parent="130" relname="joint">او در همان سال اول با برخی رسانه‌ای‌ها رابطه خیلی خوبی برقرار کرد.</segment>
+		<segment id="49" parent="90" relname="span">همچنین مساله دعوت از بازیکنان خارجی و سر زدن به خانه آن‌ها ، از مسایلی است</segment>
+		<segment id="50" parent="49" relname="elaboration">که امیدوارم شفاف و مستند ارایه بشود</segment>
+		<segment id="51" parent="90" relname="enablement">تا جامعه ورزش روی موج کاذب هیجانات رفتار نکنند.</segment>
+		<segment id="52" parent="93" relname="span">دوست دارم کی‌روش تا جام ملت‌ها در تیم ملی بماند.</segment>
+		<segment id="53" parent="52" relname="explanation">عیار واقعی او در این مسابقات مشخص می‌شود.</segment>
+		<segment id="54" parent="108" relname="span">اما ترجیح می‌دهد که در این مسابقات حضور نداشته باشد.</segment>
+		<segment id="55" parent="94" relname="span">با پیش شرط‌های غیرقابل اجرایی</segment>
+		<segment id="56" parent="55" relname="elaboration">که گذاشت</segment>
+		<segment id="57" parent="95" relname="span">نشان داد که قصد ندارد به این مسابقات بیاید.</segment>
+		<segment id="58" parent="95" relname="explanation">او می‌داند که سطح ژاپن ، استرالیا ، کره جنوبی و عربستان بالاتر از تیم ملی ایران است.</segment>
+		<segment id="59" parent="97" relname="contrast">خوشحال می‌شوم که کی‌روش با تیم ملی ، قهرمان جام ملت‌ها بشود ،</segment>
+		<segment id="60" parent="113" relname="span">اما هدف او این است که در این مسابقات حضور نداشته باشد.</segment>
+		<segment id="61" parent="98" relname="temporal">شاید حتی ترجیح بدهد با یک تخفیف بزرگی به فدراسیون مدت جام ملت‌ها را روی نیمکت تیم ملی نباشند</segment>
+		<segment id="62" parent="98" relname="temporal">و بعد دوباره برگردند.</segment>
+		<group id="63" type="span" parent="77" relname="span"/>
+		<group id="65" type="multinuc" parent="99" relname="span"/>
+		<group id="66" type="multinuc" parent="99" relname="elaboration"/>
+		<group id="67" type="multinuc" parent="66" relname="contrast"/>
+		<group id="68" type="span" parent="67" relname="joint"/>
+		<group id="70" type="multinuc" parent="16" relname="elaboration"/>
+		<group id="72" type="multinuc" parent="118" relname="cause"/>
+		<group id="74" type="span" parent="14" relname="elaboration"/>
+		<group id="76" type="multinuc" parent="1" relname="contrast"/>
+		<group id="77" type="span" parent="76" relname="joint"/>
+		<group id="78" type="multinuc" parent="126" relname="span"/>
+		<group id="79" type="multinuc" parent="80" relname="contrast"/>
+		<group id="80" type="multinuc" parent="26" relname="explanation"/>
+		<group id="81" type="multinuc" parent="30" relname="explanation"/>
+		<group id="82" type="span" parent="80" relname="contrast"/>
+		<group id="83" type="span" parent="78" relname="joint"/>
+		<group id="84" type="span" parent="85" relname="span"/>
+		<group id="85" type="span" parent="78" relname="joint"/>
+		<group id="86" type="span" parent="105" relname="contrast"/>
+		<group id="87" type="multinuc" parent="121" relname="span"/>
+		<group id="88" type="multinuc" parent="106" relname="span"/>
+		<group id="89" type="span" parent="106" relname="elaboration"/>
+		<group id="90" type="span" parent="91" relname="span"/>
+		<group id="91" type="span" parent="130" relname="joint"/>
+		<group id="92" type="multinuc" parent="114" relname="summary"/>
+		<group id="93" type="span" parent="92" relname="contrast"/>
+		<group id="94" type="span" parent="57" relname="manner-means"/>
+		<group id="95" type="span" parent="96" relname="span"/>
+		<group id="96" type="span" parent="54" relname="explanation"/>
+		<group id="97" type="multinuc" parent="114" relname="span"/>
+		<group id="98" type="multinuc" parent="60" relname="evaluation"/>
+		<group id="99" type="span" parent="100" relname="span"/>
+		<group id="100" type="span" parent="6" relname="elaboration"/>
+		<group id="101" type="span" parent="124" relname="span"/>
+		<group id="102" type="span" parent="119" relname="span"/>
+		<group id="105" type="multinuc" parent="132" relname="evaluation"/>
+		<group id="106" type="span" parent="123" relname="span"/>
+		<group id="108" type="span" parent="92" relname="contrast"/>
+		<group id="113" type="span" parent="97" relname="contrast"/>
+		<group id="114" type="span" parent="115" relname="span"/>
+		<group id="115" type="span" parent="132" relname="evaluation"/>
+		<group id="116" type="span" parent="63" relname="explanation"/>
+		<group id="117" type="span" parent="118" relname="cause"/>
+		<group id="118" type="multinuc" parent="15" relname="explanation"/>
+		<group id="119" type="span" parent="78" relname="joint"/>
+		<group id="121" type="span" parent="122" relname="span"/>
+		<group id="122" type="span" parent="105" relname="contrast"/>
+		<group id="123" type="span" parent="128" relname="span"/>
+		<group id="124" type="span" parent="131" relname="topichange"/>
+		<group id="126" type="span" parent="127" relname="span"/>
+		<group id="127" type="span" parent="101" relname="explanation"/>
+		<group id="128" type="span" parent="121" relname="elaboration"/>
+		<group id="130" type="multinuc" parent="123" relname="contrast"/>
+		<group id="131" type="multinuc" />
+		<group id="132" type="multinuc" parent="131" relname="topichange"/>
+	</body>
+</rst>

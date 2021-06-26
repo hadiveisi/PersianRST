@@ -1,0 +1,152 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="multinuc"/>
+			<rel name="cause" type="rst"/>
+			<rel name="comparison" type="multinuc"/>
+			<rel name="comparison" type="rst"/>
+			<rel name="condition" type="multinuc"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="contrast" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation" type="multinuc"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="explanation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="manner-means" type="rst"/>
+			<rel name="same" type="multinuc"/>
+			<rel name="summary" type="rst"/>
+			<rel name="temporal" type="multinuc"/>
+			<rel name="temporal" type="rst"/>
+			<rel name="textualorganization" type="multinuc"/>
+			<rel name="topichange" type="multinuc"/>
+			<rel name="topichange" type="rst"/>
+			<rel name="topicomment" type="multinuc"/>
+			<rel name="topicomment" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="59" relname="contrast">صاحب نظران درباره علل افزایش نرخ ارز ، دیدگاه‌های مختلفی دارند ،</segment>
+		<segment id="2" parent="59" relname="contrast">اما درباره یک نکته تقریبا اتفاق نظر دارند ؛</segment>
+		<segment id="3" parent="117" relname="span">تقاضای مردم عادی</segment>
+		<segment id="4" parent="3" relname="elaboration">که بر اثر التهابات روانی ، سراغ خرید ارز رفته‌اند ،</segment>
+		<segment id="5" parent="60" relname="same">از ۵۰ تا ۱۰۰ میلیون دلار فراتر نمی رود.</segment>
+		<segment id="6" parent="75" relname="span">تامین این تقاضا ، اساسا نمی تواند به جهش نرخ ارز منجر شود</segment>
+		<segment id="7" parent="6" relname="elaboration">و نیازمند استقرار نیروهای انتظامی در مراکز فروش آن در کلان شهرها و در میدان ۱۵ خرداد یا چهارراه استانبول تهران است.</segment>
+		<segment id="8" parent="94" relname="span">این تقاضا در مراکز و بخش‌های دیگری وجود دارد</segment>
+		<segment id="9" parent="8" relname="elaboration">که بانک مرکزی و دولت باید به شکل ارزی و ریالی ، آن را تامین کنند.</segment>
+		<segment id="10" parent="121" relname="cause">فشار بی امان مصارف داخلی در حوزه پرداخت حقوق ، صندوق‌های بازنشستگی و یارانه ماهانه ، موضوعی نیست که بتوان با آن با مماشات برخورد کرد.</segment>
+		<segment id="11" parent="121" relname="cause">در این شرایط تقویت و حتی حفظ ارزش پول ملی در برابر ارزهای خارجی ، به عنوان پدیده‌ای غیراولویت دار در نظر مجریان جلوه خواهد کرد.</segment>
+		<segment id="12" parent="124" relname="span">منابع دولت مشخص است ؛</segment>
+		<segment id="13" parent="64" relname="span">یا درآمد حاصل از نفت است</segment>
+		<segment id="14" parent="13" relname="elaboration">که آن هم به سادگی نقل وانتقال وجوه دریافتی اش امکان پذیر نیست</segment>
+		<segment id="15" parent="65" relname="span">یا مالیات و صادرات غیرنفتی است</segment>
+		<segment id="16" parent="62" relname="joint">که آن هم معمولا یا گاهی تحقق پیدا نمی کند</segment>
+		<segment id="17" parent="62" relname="joint">یا در تحقق تاخیر دارد.</segment>
+		<segment id="18" parent="118" relname="span">در دولت اصلاحات</segment>
+		<segment id="19" parent="18" relname="elaboration">که نگارنده در سازمان برنامه و بودجه فعالیت می‌کرد ،</segment>
+		<segment id="20" parent="68" relname="same">هزینه‌های دولت به اندازه امروز نبود.</segment>
+		<segment id="21" parent="69" relname="joint">امروز هزینه‌های جاری افزایش زیادی داشته</segment>
+		<segment id="22" parent="125" relname="span">و تامین منابع پرداخت یارانه نقدی نیز بر گرده دولت سنگینی می‌کند ؛</segment>
+		<segment id="23" parent="22" relname="elaboration">مصارفی که با توجه به مسایل اجتماعی و سیاسی ، کاستن از آن به غایت دشوار است.</segment>
+		<segment id="24" parent="25" relname="contrast">با وجود این هزینه‌های جاری ،</segment>
+		<segment id="25" parent="72" relname="span">همچنان نرخ بیکاری نیز خودنمایی می‌کند.</segment>
+		<segment id="26" parent="76" relname="span">نرخ بیکاری در تشکیل سرمایه و سرمایه گذاری کاهش می‌یابد ؛</segment>
+		<segment id="27" parent="73" relname="span">این موضوع یا در پروژه‌های عمرانی دولت محقق می‌شود</segment>
+		<segment id="28" parent="27" relname="elaboration">که درحال حاضر با کمبود اساسی مواجه است</segment>
+		<segment id="29" parent="78" relname="span">یا از سوی بخش غیردولتی باید دنبال شود.</segment>
+		<segment id="30" parent="79" relname="joint">بخش عمده‌ای از منابع بخش خصوصی به جای سرمایه گذاری در تولید و ایجاد اشتغال ، به سمت ساخت برج ، مال و پاساژهای لوکس در تهران و کلان شهرها حرکت کرده است</segment>
+		<segment id="31" parent="79" relname="joint">و شاهد اولویت گذاری در این حوزه از سوی خود مردم نیستیم.</segment>
+		<segment id="32" parent="80" relname="contrast">دولت بنای دخالت در امور شهروندان را ندارد ،</segment>
+		<segment id="33" parent="127" relname="span">اما سو استفاده از این دخالت نکردن نیز می‌تواند بهای گزافی برای کشور و مردم داشته باشد.</segment>
+		<segment id="34" parent="33" relname="explanation">الگوی تجملی و مسابقه ارتقای خودرو ، مسکن و سبک زندگی تا روستاها گسترده شده است.</segment>
+		<segment id="35" parent="84" relname="cause">در این شرایط ، تامین منابع برای دولت آسان نیست</segment>
+		<segment id="36" parent="84" relname="cause">و ناچار باید سراغ محل‌های جدید کسب درآمد برود.</segment>
+		<segment id="37" parent="108" relname="span">افزایش نرخ ارز در کنار فشار تقاضای داخلی می‌تواند دستاورد دولت در تک رقمی کردن تورم را نیز به خطر بیندازد ،</segment>
+		<segment id="38" parent="37" relname="elaboration">اما از آن گریزی نیست.</segment>
+		<segment id="39" parent="85" relname="contrast">البته می‌توان نرخ ارز را در بودجه به شکل واقع بینانه تعیین کرد ،</segment>
+		<segment id="40" parent="86" relname="joint">اما ممکن است به لحاظ اجتماعی و سیاسی این امر ممکن نباشد</segment>
+		<segment id="41" parent="86" relname="joint">و دولت نمی تواند واقعیت‌های موجود ارز را به عنوان یک هدف رسمی اعلام کند.</segment>
+		<segment id="42" parent="88" relname="span">فراموش نکنیم سپرده‌هایی در بانک‌ها وجود داشته</segment>
+		<segment id="43" parent="42" relname="elaboration">که بر اثر کاهش نرخ سود سپرده ، مردم آن‌ها را از این سامانه خارج کرده‌اند.</segment>
+		<segment id="44" parent="130" relname="span">سپرده‌های موجود در بعضی موسسات مالی نیز یا آزاد شده یا سوخته</segment>
+		<segment id="45" parent="44" relname="elaboration">که اینها در هجوم نقدینگی به سمت بازارهایی نظیر ارز و سکه و تا حدی مسکن ، بی تاثیر نیست.</segment>
+		<segment id="46" parent="131" relname="span">اتفاقات دیگری هم رخ داده است.</segment>
+		<segment id="47" parent="112" relname="span">روز گذشته در مجلس پیشنهاد شد از سود سپرده‌ها مالیات دریافت شود</segment>
+		<segment id="48" parent="47" relname="elaboration">که البته رای نیاورد.</segment>
+		<segment id="49" parent="119" relname="span">با این روند سیاست گذاری ، طبیعی است بخشی از مردم</segment>
+		<segment id="50" parent="49" relname="elaboration">که منابعی در اختیار دارند ،</segment>
+		<segment id="51" parent="90" relname="same">سراغ خرید ارز بروند.</segment>
+		<segment id="52" parent="53" relname="explanation">ما با انواع و اقسام پیچیدگی‌ها در نظام تدبیر اقتصادی مواجه هستیم.</segment>
+		<segment id="53" parent="91" relname="span">باید سرانجام به یک تصمیم جامع در سطوح بالای نظام برسیم.</segment>
+		<segment id="54" parent="139" relname="joint">مشکل امروز ایران ، فقط رابطه ریال و دلار نیست ،</segment>
+		<segment id="55" parent="139" relname="joint">باید روند سرمایه گذاری در کشور ، الگوی مصرفی مردم ، ایجاد اشتغال با استفاده از سرمایه‌های راکد داخلی و البته سرمایه گذاری مستقیم خارجی یک اولویت فوری در نظام تصمیم گیری کشور باشد.</segment>
+		<segment id="56" parent="93" relname="span">نمی توان از دولت انتظار معجزه در شرایط بسیار پیچیده فعلی را داشت ،</segment>
+		<segment id="57" parent="56" relname="elaboration">آن هم دولتی که پاسخ گوی نهادهای بسیاری در زمینه تامین ارز و ریال است.</segment>
+		<segment id="58" parent="116" relname="joint">درعین حال رسانه‌ها می‌توانند از توده‌ای شدن موضوع بسیار تخصصی و حساس ارز جلوگیری کنند.</segment>
+		<group id="59" type="multinuc" parent="122" relname="span"/>
+		<group id="60" type="multinuc" parent="75" relname="cause"/>
+		<group id="62" type="multinuc" parent="15" relname="elaboration"/>
+		<group id="63" type="multinuc" parent="12" relname="elaboration"/>
+		<group id="64" type="span" parent="63" relname="joint"/>
+		<group id="65" type="span" parent="63" relname="joint"/>
+		<group id="68" type="multinuc" parent="133" relname="background"/>
+		<group id="69" type="multinuc" parent="133" relname="span"/>
+		<group id="72" type="span" parent="129" relname="topicomment"/>
+		<group id="73" type="span" parent="74" relname="joint"/>
+		<group id="74" type="multinuc" parent="26" relname="enablement"/>
+		<group id="75" type="span" parent="95" relname="span"/>
+		<group id="76" type="span" parent="129" relname="topicomment"/>
+		<group id="78" type="span" parent="74" relname="joint"/>
+		<group id="79" type="multinuc" parent="81" relname="span"/>
+		<group id="80" type="multinuc" parent="81" relname="evaluation"/>
+		<group id="81" type="span" parent="83" relname="span"/>
+		<group id="83" type="span" parent="29" relname="contrast"/>
+		<group id="84" type="multinuc" parent="136" relname="cause"/>
+		<group id="85" type="multinuc" parent="108" relname="topicomment"/>
+		<group id="86" type="multinuc" parent="85" relname="contrast"/>
+		<group id="88" type="span" parent="89" relname="joint"/>
+		<group id="89" type="multinuc" parent="137" relname="background"/>
+		<group id="90" type="multinuc" parent="137" relname="span"/>
+		<group id="91" type="span" parent="111" relname="span"/>
+		<group id="93" type="span" parent="111" relname="contrast"/>
+		<group id="94" type="span" parent="120" relname="span"/>
+		<group id="95" type="span" parent="98" relname="contrast"/>
+		<group id="98" type="multinuc" parent="122" relname="elaboration"/>
+		<group id="102" type="span" parent="84" relname="cause"/>
+		<group id="108" type="span" parent="102" relname="span"/>
+		<group id="111" type="span" parent="144" relname="span"/>
+		<group id="112" type="span" parent="46" relname="elaboration"/>
+		<group id="116" type="multinuc" parent="143" relname="topicomment"/>
+		<group id="117" type="span" parent="60" relname="same"/>
+		<group id="118" type="span" parent="68" relname="same"/>
+		<group id="119" type="span" parent="90" relname="same"/>
+		<group id="120" type="span" parent="98" relname="contrast"/>
+		<group id="121" type="multinuc" parent="94" relname="elaboration"/>
+		<group id="122" type="span" parent="123" relname="span"/>
+		<group id="123" type="span" parent="140" relname="background"/>
+		<group id="124" type="span" parent="135" relname="joint"/>
+		<group id="125" type="span" parent="69" relname="joint"/>
+		<group id="127" type="span" parent="80" relname="contrast"/>
+		<group id="128" type="multinuc" parent="135" relname="joint"/>
+		<group id="129" type="multinuc" parent="128" relname="contrast"/>
+		<group id="130" type="span" parent="89" relname="joint"/>
+		<group id="131" type="span" parent="89" relname="joint"/>
+		<group id="133" type="span" parent="134" relname="span"/>
+		<group id="134" type="span" parent="128" relname="contrast"/>
+		<group id="135" type="multinuc" parent="136" relname="cause"/>
+		<group id="136" type="multinuc" parent="140" relname="span"/>
+		<group id="137" type="span" parent="138" relname="span"/>
+		<group id="138" type="span" parent="116" relname="joint"/>
+		<group id="139" type="multinuc" parent="91" relname="explanation"/>
+		<group id="140" type="span" parent="141" relname="span"/>
+		<group id="141" type="span" parent="142" relname="span"/>
+		<group id="142" type="span" parent="143" relname="topicomment"/>
+		<group id="143" type="multinuc" />
+		<group id="144" type="span" parent="116" relname="joint"/>
+	</body>
+</rst>

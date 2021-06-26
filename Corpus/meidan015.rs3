@@ -1,0 +1,80 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="multinuc"/>
+			<rel name="cause" type="rst"/>
+			<rel name="comparison" type="multinuc"/>
+			<rel name="comparison" type="rst"/>
+			<rel name="condition" type="multinuc"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="contrast" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation" type="multinuc"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="explanation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="manner-means" type="rst"/>
+			<rel name="same" type="multinuc"/>
+			<rel name="summary" type="rst"/>
+			<rel name="temporal" type="multinuc"/>
+			<rel name="temporal" type="rst"/>
+			<rel name="textualorganization" type="multinuc"/>
+			<rel name="topichange" type="multinuc"/>
+			<rel name="topichange" type="rst"/>
+			<rel name="topicomment" type="multinuc"/>
+			<rel name="topicomment" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="25" relname="span">اسپا به محلی گفته می‌شود</segment>
+		<segment id="2" parent="24" relname="joint">که از آب معدنی یا آب دریا برای‌ استحمام درمانی استفاده می‌شود</segment>
+		<segment id="3" parent="24" relname="joint">و معمولا دارای خدماتی همچون ماساژ برای مراقبت از پوست و بدن است.</segment>
+		<segment id="4" parent="26" relname="span">حالا ثروتمندان ایرانی هم از این امکانات با هزینه‌های بسیار بالا استفاده می‌کنند.</segment>
+		<segment id="5" parent="29" relname="joint">سالن‌های اسپا در ایران مبلغی با عنوان مبلغ ورودی دارند</segment>
+		<segment id="6" parent="27" relname="same">و علاوه بر پرداخت این مبلغ</segment>
+		<segment id="7" parent="8" relname="condition">در صورتی که تمایل به خدمات لاکچری وجود داشته باشد ،</segment>
+		<segment id="8" parent="28" relname="span">باید هزینه این خدمات به صورت جداگانه پرداخت شود.</segment>
+		<segment id="9" parent="10" relname="contrast">شما با پرداخت تقریبا یک میلیون تومان می‌توانید روز کامل و خوبی در اسپاهای ایرانی داشته باشید</segment>
+		<segment id="10" parent="33" relname="span">اما لوکس‌ترین خدمات اسپا در ایران چه خدماتی هستند</segment>
+		<segment id="11" parent="32" relname="joint">و چقدر هزینه برمی‌دارند ؟</segment>
+		<segment id="12" parent="35" relname="span">ماساژ شکلات لوکس‌ترین بخش خدمات اسپاهای ایرانی است</segment>
+		<segment id="13" parent="12" relname="elaboration">که در گران‌ترین سالن‌ اسپای تهران به مبلغ حدود یک میلیون تومان می‌رسد.</segment>
+		<segment id="14" parent="38" relname="span">یکی دیگر از خدمات لوکس اسپاهای ایرانی ماساژ شیر و عسل است</segment>
+		<segment id="15" parent="37" relname="joint">که فقط مخصوص زنان است</segment>
+		<segment id="16" parent="37" relname="joint">و معمولا از ۳۰۰ هزارتومان شروع می‌شود.</segment>
+		<segment id="17" parent="39" relname="span">ماساژ شمع هم یکی از روش‌های دیگر ماساژ است</segment>
+		<segment id="18" parent="17" relname="elaboration">که قیمت آن حدود ۴۰۰ هزارتومان است.</segment>
+		<segment id="19" parent="40" relname="joint">در ایران هزینه زنگی ثروتمندان ۱۷برابر افراد فقیر جامعه است</segment>
+		<segment id="20" parent="40" relname="joint">و در برخی موارد ثروتمندان با هزینه‌های سرسام‌آور زندگی اشرافی برای خود رقم زده‌اند.</segment>
+		<segment id="21" parent="42" relname="attribution">در عین‌حال برخی اقتصاددانان معتقدند</segment>
+		<segment id="22" parent="41" relname="joint">نابرابری‌ها در ایران به حد انفجار رسیده است</segment>
+		<segment id="23" parent="41" relname="joint">و شکاف طبقانی به شدت افزایش پیدا کرده است.</segment>
+		<group id="24" type="multinuc" parent="1" relname="elaboration"/>
+		<group id="25" type="span" parent="4" relname="background"/>
+		<group id="26" type="span" parent="45" relname="span"/>
+		<group id="27" type="multinuc" parent="29" relname="joint"/>
+		<group id="28" type="span" parent="27" relname="same"/>
+		<group id="29" type="multinuc" parent="26" relname="elaboration"/>
+		<group id="32" type="multinuc" parent="34" relname="topicomment"/>
+		<group id="33" type="span" parent="32" relname="joint"/>
+		<group id="34" type="multinuc" parent="46" relname="joint"/>
+		<group id="35" type="span" parent="36" relname="joint"/>
+		<group id="36" type="multinuc" parent="34" relname="topicomment"/>
+		<group id="37" type="multinuc" parent="14" relname="elaboration"/>
+		<group id="38" type="span" parent="36" relname="joint"/>
+		<group id="39" type="span" parent="36" relname="joint"/>
+		<group id="40" type="multinuc" parent="44" relname="contrast"/>
+		<group id="41" type="multinuc" parent="42" relname="span"/>
+		<group id="42" type="span" parent="43" relname="span"/>
+		<group id="43" type="span" parent="44" relname="contrast"/>
+		<group id="44" type="multinuc" parent="47" relname="evaluation"/>
+		<group id="45" type="span" parent="46" relname="joint"/>
+		<group id="46" type="multinuc" parent="47" relname="span"/>
+		<group id="47" type="span" parent="48" relname="span"/>
+		<group id="48" type="span" />
+	</body>
+</rst>

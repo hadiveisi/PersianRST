@@ -1,0 +1,72 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="multinuc"/>
+			<rel name="cause" type="rst"/>
+			<rel name="comparison" type="multinuc"/>
+			<rel name="comparison" type="rst"/>
+			<rel name="condition" type="multinuc"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="contrast" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation" type="multinuc"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="explanation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="manner-means" type="rst"/>
+			<rel name="same" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+			<rel name="summary" type="rst"/>
+			<rel name="temporal" type="multinuc"/>
+			<rel name="temporal" type="rst"/>
+			<rel name="textualorganization" type="multinuc"/>
+			<rel name="topichange" type="multinuc"/>
+			<rel name="topichange" type="rst"/>
+			<rel name="topicomment" type="multinuc"/>
+			<rel name="topicomment" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="19" relname="span">بنابر آمار خطاهای پزشکی</segment>
+		<segment id="2" parent="1" relname="elaboration">که توسط سازمان پزشکی قانونی اعلام شده ،</segment>
+		<segment id="3" parent="20" relname="span">به‌طور میانگین هر روز هشت مورد خطای پزشکی از سوی پزشکی قانونی به تایید می‌رسد.</segment>
+		<segment id="4" parent="21" relname="span">در سال گذشته ٧‌ هزار و ٣٨١ مورد پرونده با موضوع خطای پزشکی در پزشکی قانونی تشکیل شده</segment>
+		<segment id="5" parent="4" relname="elaboration">که ۴‌ هزار و ٣۵٨ پرونده به تبریه پزشک و ٣‌ هزار و ٢٣ پرونده به محکومیت پزشک منجر شده است.</segment>
+		<segment id="6" parent="23" relname="joint">جراحی زنان و زایمان و نازایی با ٩۴٣ مورد پرونده ارجاعی به پزشکی قانونی در صدر شکایت‌ها قرار داشته</segment>
+		<segment id="7" parent="23" relname="joint">و جراحی عمومی ، جراحی ارتوپدی ، دندانپزشکی و پزشک عمومی به ترتیب با ۶٣١ ، ۶٠۴ ، ۵۴٢ و ٣۶۶ مورد شکایت در رتبه‌های بعدی قرار دارند.</segment>
+		<segment id="8" parent="9" relname="attribution">آمارهای سازمان پزشکی قانونی نشان می‌دهد</segment>
+		<segment id="9" parent="24" relname="span">میزان شکایت‌ها با موضوع قصور پزشکی ، از‌ ۴٧١۴ مورد در سال ٩١ به ٧٣٨١ مورد شکایت در ‌سال ٩۴ افزایش پیدا کرده است.</segment>
+		<segment id="10" parent="25" relname="span">سازمان نظام پزشکی نیز آمار جداگانه‌ای منتشر کرده</segment>
+		<segment id="11" parent="27" relname="attribution">که بر اساس آن ،</segment>
+		<segment id="12" parent="26" relname="span">سال گذشته ١۵‌هزار مورد شکایت در این سازمان ثبت شده</segment>
+		<segment id="13" parent="28" relname="span">که در ۴٢‌ درصد موارد ، منجر به محکومیت پزشک شده است ؛</segment>
+		<segment id="14" parent="13" relname="elaboration">از جمله محرومیت دایم سه پزشک و محرومیت موقت ١١ پزشک از طبابت.</segment>
+		<segment id="15" parent="16" relname="cause">بیماران می‌توانند از سه مرجع قوه قضاییه ، سازمان نظام پزشکی و پزشکی قانونی شکایت‌های خود را اعلام کنند</segment>
+		<segment id="16" parent="30" relname="span">و مشخص نیست آمارهای ارایه شده توسط پزشکی قانونی و سازمان نظام پزشکی تا چه حد ممکن است همپوشانی داشته باشند.</segment>
+		<segment id="17" parent="30" relname="elaboration">سامانه ١۶٩٠ برای ثبت شکایت در خصوص قصورهای پزشکان در سازمان نظام پزشکی راه‌اندازی شده است.</segment>
+		<segment id="18" parent="34" relname="background">در پی درگذشت عباس کیارستمی و اطلاعات منتشر شده در مورد قصورهای صورت گرفته در روند درمانی وی ، انتقادات نسبت به اشتباهات پزشکان بالا گرفته است.</segment>
+		<group id="19" type="span" parent="3" relname="attribution"/>
+		<group id="20" type="span" parent="32" relname="span"/>
+		<group id="21" type="span" parent="20" relname="summary"/>
+		<group id="23" type="multinuc" parent="32" relname="elaboration"/>
+		<group id="24" type="span" parent="35" relname="contrast"/>
+		<group id="25" type="span" parent="35" relname="contrast"/>
+		<group id="26" type="span" parent="27" relname="span"/>
+		<group id="27" type="span" parent="29" relname="span"/>
+		<group id="28" type="span" parent="12" relname="elaboration"/>
+		<group id="29" type="span" parent="10" relname="elaboration"/>
+		<group id="30" type="span" parent="31" relname="span"/>
+		<group id="31" type="span" parent="36" relname="cause"/>
+		<group id="32" type="span" parent="33" relname="span"/>
+		<group id="33" type="span" parent="34" relname="span"/>
+		<group id="34" type="span" parent="38" relname="span"/>
+		<group id="35" type="multinuc" parent="36" relname="span"/>
+		<group id="36" type="span" parent="37" relname="span"/>
+		<group id="37" type="span" parent="33" relname="elaboration"/>
+		<group id="38" type="span" />
+	</body>
+</rst>

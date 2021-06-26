@@ -1,0 +1,174 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="multinuc"/>
+			<rel name="cause" type="rst"/>
+			<rel name="comparison" type="multinuc"/>
+			<rel name="comparison" type="rst"/>
+			<rel name="condition" type="multinuc"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="contrast" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation" type="multinuc"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="explanation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="manner-means" type="rst"/>
+			<rel name="same" type="multinuc"/>
+			<rel name="summary" type="rst"/>
+			<rel name="temporal" type="multinuc"/>
+			<rel name="temporal" type="rst"/>
+			<rel name="textualorganization" type="multinuc"/>
+			<rel name="topichange" type="multinuc"/>
+			<rel name="topichange" type="rst"/>
+			<rel name="topicomment" type="multinuc"/>
+			<rel name="topicomment" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="72" relname="background">اروپا به آنچه از آن نگران بود مبتلا شده است.</segment>
+		<segment id="2" parent="72" relname="span">این قاره اکنون در حال مشاهده خیز افراطی‌گرایی است.</segment>
+		<segment id="3" parent="79" relname="span">صرف نظر از راستگرایی افراطی</segment>
+		<segment id="4" parent="71" relname="joint">که در کشورهای مختلف اروپایی شکل گرفته</segment>
+		<segment id="5" parent="71" relname="joint">و حتی ساختار مستحکم اتحادیه اروپا را تهدید می‌کند ،</segment>
+		<segment id="6" parent="76" relname="span">یک نمونه تازه آن جنبش پگیدا در آلمان است</segment>
+		<segment id="7" parent="6" relname="elaboration">که علیه مهاجرین و اسلام‌گرایی در آلمان شکل گرفته است.</segment>
+		<segment id="8" parent="75" relname="background">زمانی که غده سرطانی داعش در موصل عراق سرباز کرده بود ،</segment>
+		<segment id="9" parent="73" relname="temporal">یک رگه سیاه خود را در آلمان و برلین نشان داد</segment>
+		<segment id="10" parent="131" relname="span">و شرایط در این کشور را</segment>
+		<segment id="11" parent="10" relname="elaboration">که هنوز از بقایای نازیسم رنج می‌برد ،</segment>
+		<segment id="12" parent="74" relname="same">برای حرکت متقابل ضد انسانی فراهم کرد.</segment>
+		<segment id="13" parent="92" relname="span">پگیدا جنبشی است</segment>
+		<segment id="14" parent="84" relname="joint">که در شرق آلمان و در شهری کوچک به نام درسدن آغاز شد</segment>
+		<segment id="15" parent="83" relname="attribution">و آخرین آمارها حاکی از آن است</segment>
+		<segment id="16" parent="82" relname="joint">که یک سوم آلمانی‌ها با این جنبش همراهی می‌کنند</segment>
+		<segment id="17" parent="82" relname="joint">و هفته‌یی یک بار تجمعاتی ضد مهاجرت و اسلامی شدن آلمان را برگزار می‌کنند.</segment>
+		<segment id="18" parent="87" relname="attribution">آن‌ها مدعی هستند</segment>
+		<segment id="19" parent="86" relname="joint">که مهاجران نه تنها بخشی از امکانات در آلمان را از آن خود کرده</segment>
+		<segment id="20" parent="86" relname="joint">بلکه آن‌ها یکی از عوامل افزایش نرخ بیکاری در این کشور هستند.</segment>
+		<segment id="21" parent="93" relname="span">این موج تبعیض سبب شده تا سیاستمداران آلمان نیز در این خصوص موضع بگیرند</segment>
+		<segment id="22" parent="21" relname="enablement">تا این رویکرد جنبش پگیدا موجب بازگشت دوران مشابه نازیست به این کشور نشود.</segment>
+		<segment id="23" parent="88" relname="contrast">جنبش پگیدا هرچند مدعی است که با راست‌های افراطی در این کشور ارتباطی ندارد</segment>
+		<segment id="24" parent="25" relname="attribution">اما گزارش منابع اطلاعاتی آلمان آشکار می‌کند</segment>
+		<segment id="25" parent="89" relname="span">که در میان تظاهرکنندگان تعداد زیادی از عوامل راست‌های افراطی در این کشور حضور دارند.</segment>
+		<segment id="26" parent="136" relname="joint">این موضوع نگران‌کننده موجب واکنش اجتماعی در آلمان نیز شده</segment>
+		<segment id="27" parent="107" relname="span">و موج دیگری در برابر این جنبش شکل گرفته</segment>
+		<segment id="28" parent="100" relname="span">که تلاش می‌کند مانع از آن شود که پگیدا به برندی از مردم آلمان تبدیل شود.</segment>
+		<segment id="29" parent="137" relname="span">مردمی</segment>
+		<segment id="30" parent="29" relname="elaboration">که در همبستگی با این جنبش ضد پگیدا به خیابان‌ها می‌آیند ،</segment>
+		<segment id="31" parent="90" relname="same">مسلمانان و مهاجران در این کشور را دوست خود می‌دانند</segment>
+		<segment id="32" parent="94" relname="joint">و به‌شدت با تظاهرات جنبش پگیدا مخالفند.</segment>
+		<segment id="33" parent="140" relname="span">در روزهای اخیر آن‌ها</segment>
+		<segment id="34" parent="33" relname="elaboration">که برای مقابله با جنبش دوشنبه‌شب برای مقابله با فراخوان جنبش پگیدا به خیابان‌ها آمده بودند</segment>
+		<segment id="35" parent="95" relname="same">تلاش کردند تا اجازه تجمع این جنبش را در خیابان‌ها ندهند.</segment>
+		<segment id="36" parent="101" relname="span">کلن اوج این اتفاق بود</segment>
+		<segment id="37" parent="96" relname="joint">که تظاهرکنندگان با پرچم‌های در دست و شعارهایی همچون ما مهاجران را دوست داریم به خیابان‌ها آمدند</segment>
+		<segment id="38" parent="96" relname="joint">و اجازه حضور جنبش پگیدا را در خیابان‌ها ندادند.</segment>
+		<segment id="39" parent="143" relname="span">همچنین در کلن ، بسیاری از ساکنان</segment>
+		<segment id="40" parent="39" relname="enablement">برای این که نشان دهند با این جنبش مخالف هستند</segment>
+		<segment id="41" parent="98" relname="same">چراغ‌های خانه را خاموش کردند ،</segment>
+		<segment id="42" parent="99" relname="enablement">تا مخالفت خود را با اسلام‌ستیزی و خارجی‌ستیزی اعلام کنند.</segment>
+		<segment id="43" parent="103" relname="span">حتی کلیسای جامع کلن نیز کاملا در خاموشی فرو رفت</segment>
+		<segment id="44" parent="43" relname="enablement">تا نشان دهد که مسیحیان نیز با این جنبش مخالف هستند.</segment>
+		<segment id="45" parent="118" relname="joint">گفتنی است پیش از این شورای مرکزی یهودیان آلمان نیز بر علیه این جنبش موضع‌گیری کرده</segment>
+		<segment id="46" parent="118" relname="joint">و حمایت خود را از اسلام‌گرایان آلمان اعلام نموده بود.</segment>
+		<segment id="47" parent="118" relname="joint">علاوه بر کلن هزاران نفر نیز در اشتوتگارت دست به تظاهرات زدند.</segment>
+		<segment id="48" parent="114" relname="span">شهردار اشتوتگارت ، فریتس کوهن ، پیام سیاسی روشنی در حمایت از هم‌پیوندی و پذیرش مهاجران در جامعه فرستاد.</segment>
+		<segment id="49" parent="50" relname="attribution">این سیاستمدار عضو حزب سبزهای آلمان گفت :</segment>
+		<segment id="50" parent="113" relname="span">اشتوتگارت به پناهندگان خوشامد می‌گوید.</segment>
+		<segment id="51" parent="118" relname="joint">در هامبورگ نیز بیش از یک‌هزار نفر علیه پگیدا تظاهرات کردند.</segment>
+		<segment id="52" parent="116" relname="span">همچنین در این شهر جنبشی به نام تگیدا به وجود آمده</segment>
+		<segment id="53" parent="52" relname="elaboration">که در گردهمایی خود در هامبورگ خواستار مدارا و گشایش جامعه در برابر پناهجویان و فرهنگ‌های دیگر شد.</segment>
+		<segment id="54" parent="117" relname="span">بر اساس گزارش‌ها بناست بزرگ‌ترین تجمع ضد جنبش پگیدا در برلین به دعوت ترک‌های مقیم آلمان برگزار شود</segment>
+		<segment id="55" parent="56" relname="attribution">که پیش‌بینی‌ها حاکی از آن است</segment>
+		<segment id="56" parent="111" relname="span">که بیش از ١۰ هزار نفر در این تظاهرات شرکت خواهند کرد.</segment>
+		<segment id="57" parent="149" relname="span">اما نکته‌یی</segment>
+		<segment id="58" parent="57" relname="elaboration">که در این بین وجود دارد ،</segment>
+		<segment id="59" parent="148" relname="same">این موضوع را نمی‌توان مختص به آلمان دانست.</segment>
+		<segment id="60" parent="124" relname="span">زیرا این موج افراط‌گرایی در هر نقطه‌یی از اروپا به نحوی در حال ظهور و بروز است.</segment>
+		<segment id="61" parent="119" relname="joint">در آلمان به شکل پگیدا ظهور کرده است</segment>
+		<segment id="62" parent="120" relname="span">و در انگلیس نیز به شکل حزب یوکیپ به رهبری نایجل فراژ ظهور پیدا کرده</segment>
+		<segment id="63" parent="62" relname="elaboration">که علیه قانون مهاجرت در بریتانیا فعالیت می‌کند</segment>
+		<segment id="64" parent="119" relname="joint">و در فرانسه نیز به شکل حزب راستگرای افراطی به رهبری مارین لوپن ظاهر شده است.</segment>
+		<segment id="65" parent="119" relname="joint">حتی جنبش تی پارتی در امریکا نیز به شکل دیگر نشانه قدرت گرفتن راستگرایان افراطی این کشور است.</segment>
+		<segment id="66" parent="122" relname="span">به باور تحلیلگران راستگرایان افراطی به خصوص در اروپا زنگ خطری هستند</segment>
+		<segment id="67" parent="66" relname="elaboration">که با ادامه بحران مالی باعث تقویت این جنبش‌ها خواهند شد.</segment>
+		<segment id="68" parent="122" relname="background">این در حالی است که بحران‌های خاورمیانه و قاره افریقا نیز باعث جریان موج عظیم مهاجرت به کشورهایی اروپایی شده است.</segment>
+		<segment id="69" parent="70" relname="attribution">به همین دلیل بسیاری از کارشناسان راهبردی به دولت‌های اروپایی پیشنهاد می‌کنند</segment>
+		<segment id="70" parent="121" relname="span">در راستای پایان بحران‌های خاورمیانه به ویژه در سوریه و فلسطین همکاری مسالمت آمیزی داشته باشند.</segment>
+		<group id="71" type="multinuc" parent="3" relname="elaboration"/>
+		<group id="72" type="span" parent="81" relname="span"/>
+		<group id="73" type="multinuc" parent="75" relname="span"/>
+		<group id="74" type="multinuc" parent="73" relname="temporal"/>
+		<group id="75" type="span" parent="77" relname="span"/>
+		<group id="76" type="span" parent="78" relname="span"/>
+		<group id="77" type="span" parent="76" relname="elaboration"/>
+		<group id="78" type="span" parent="132" relname="span"/>
+		<group id="79" type="span" parent="78" relname="manner-means"/>
+		<group id="81" type="span" parent="127" relname="span"/>
+		<group id="82" type="multinuc" parent="83" relname="span"/>
+		<group id="83" type="span" parent="85" relname="span"/>
+		<group id="84" type="multinuc" parent="13" relname="elaboration"/>
+		<group id="85" type="span" parent="84" relname="joint"/>
+		<group id="86" type="multinuc" parent="87" relname="span"/>
+		<group id="87" type="span" parent="91" relname="span"/>
+		<group id="88" type="multinuc" parent="138" relname="span"/>
+		<group id="89" type="span" parent="88" relname="contrast"/>
+		<group id="90" type="multinuc" parent="94" relname="joint"/>
+		<group id="91" type="span" parent="133" relname="span"/>
+		<group id="92" type="span" parent="135" relname="joint"/>
+		<group id="93" type="span" parent="91" relname="cause"/>
+		<group id="94" type="multinuc" parent="28" relname="elaboration"/>
+		<group id="95" type="multinuc" parent="142" relname="span"/>
+		<group id="96" type="multinuc" parent="36" relname="elaboration"/>
+		<group id="98" type="multinuc" parent="99" relname="span"/>
+		<group id="99" type="span" parent="102" relname="span"/>
+		<group id="100" type="span" parent="27" relname="elaboration"/>
+		<group id="101" type="span" parent="104" relname="joint"/>
+		<group id="102" type="span" parent="104" relname="joint"/>
+		<group id="103" type="span" parent="104" relname="joint"/>
+		<group id="104" type="multinuc" parent="142" relname="elaboration"/>
+		<group id="105" type="span" parent="108" relname="explanation"/>
+		<group id="107" type="span" parent="136" relname="joint"/>
+		<group id="108" type="span" parent="109" relname="span"/>
+		<group id="109" type="span" parent="138" relname="evaluation"/>
+		<group id="111" type="span" parent="54" relname="elaboration"/>
+		<group id="113" type="span" parent="48" relname="elaboration"/>
+		<group id="114" type="span" parent="118" relname="joint"/>
+		<group id="116" type="span" parent="118" relname="joint"/>
+		<group id="117" type="span" parent="118" relname="joint"/>
+		<group id="118" type="multinuc" parent="147" relname="topicomment"/>
+		<group id="119" type="multinuc" parent="60" relname="explanation"/>
+		<group id="120" type="span" parent="119" relname="joint"/>
+		<group id="121" type="span" parent="123" relname="cause"/>
+		<group id="122" type="span" parent="123" relname="span"/>
+		<group id="123" type="span" parent="125" relname="span"/>
+		<group id="124" type="span" parent="126" relname="span"/>
+		<group id="125" type="span" parent="124" relname="summary"/>
+		<group id="126" type="span" parent="150" relname="explanation"/>
+		<group id="127" type="span" parent="144" relname="background"/>
+		<group id="131" type="span" parent="74" relname="same"/>
+		<group id="132" type="span" parent="81" relname="explanation"/>
+		<group id="133" type="span" parent="135" relname="joint"/>
+		<group id="135" type="multinuc" parent="144" relname="span"/>
+		<group id="136" type="multinuc" parent="108" relname="span"/>
+		<group id="137" type="span" parent="90" relname="same"/>
+		<group id="138" type="span" parent="139" relname="span"/>
+		<group id="139" type="span" parent="135" relname="joint"/>
+		<group id="140" type="span" parent="95" relname="same"/>
+		<group id="142" type="span" parent="105" relname="span"/>
+		<group id="143" type="span" parent="98" relname="same"/>
+		<group id="144" type="span" parent="145" relname="span"/>
+		<group id="145" type="span" parent="147" relname="topicomment"/>
+		<group id="147" type="multinuc" parent="152" relname="evaluation"/>
+		<group id="148" type="multinuc" parent="150" relname="span"/>
+		<group id="149" type="span" parent="148" relname="same"/>
+		<group id="150" type="span" parent="151" relname="span"/>
+		<group id="151" type="span" parent="152" relname="evaluation"/>
+		<group id="152" type="multinuc" />
+	</body>
+</rst>

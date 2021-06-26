@@ -1,0 +1,150 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="multinuc"/>
+			<rel name="cause" type="rst"/>
+			<rel name="comparison" type="multinuc"/>
+			<rel name="comparison" type="rst"/>
+			<rel name="condition" type="multinuc"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="contrast" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation" type="multinuc"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="explanation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="manner-means" type="rst"/>
+			<rel name="same" type="multinuc"/>
+			<rel name="summary" type="rst"/>
+			<rel name="temporal" type="multinuc"/>
+			<rel name="temporal" type="rst"/>
+			<rel name="textualorganization" type="multinuc"/>
+			<rel name="topichange" type="multinuc"/>
+			<rel name="topichange" type="rst"/>
+			<rel name="topicomment" type="multinuc"/>
+			<rel name="topicomment" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="100" relname="span">«مشق شب» ابزاری ارتباطی بین دانش آموز ، والدین و اولیای مدرسه بوده است.</segment>
+		<segment id="2" parent="3" relname="condition">اگر بخواهیم بدون پیش داوری و قضاوت فلسفه وجودی «مشق شب» را بررسی و تحلیل کنیم</segment>
+		<segment id="3" parent="56" relname="span">این توصیف بهترین است که بگوییم وسیله ارتباطی است</segment>
+		<segment id="4" parent="58" relname="joint">بنابراین چه عنوان آن «مشق شب» باشد</segment>
+		<segment id="5" parent="58" relname="joint">چه عنوان دیگری به آن بدهیم</segment>
+		<segment id="6" parent="59" relname="span">باید وسیله ارتباط بین دانش آموز ، والدین و اولیای مدرسه را حفظ کنیم.</segment>
+		<segment id="7" parent="8" relname="manner-means">بنده نیز تا این اندازه که «مشق شب» وسیله ارتباط والدین با مدرسه است</segment>
+		<segment id="8" parent="60" relname="span">با وجود و انجام آن موافق هستم.</segment>
+		<segment id="9" parent="61" relname="joint">اما پرسش این است که چه زمانی «مشق شب» موجب بروز بحران شده</segment>
+		<segment id="10" parent="61" relname="joint">و حالتی خطرناک به خود می‌گیرد</segment>
+		<segment id="11" parent="62" relname="elaboration">که سیستم آموزشی ما تصمیم به حذف یا کاهش آن می‌گیرد.</segment>
+		<segment id="12" parent="72" relname="span">در پاسخ به این پرسش باید گفت آن زمانی «مشق شب» حالت خطرناک به خود می‌گیرد</segment>
+		<segment id="13" parent="65" relname="span">که ابزاری آسیب زننده در دست والدین دارای وسواس های خاص نظیر «کامل طلبی» می‌شود.</segment>
+		<segment id="14" parent="64" relname="joint">والدینی که گاه ممکن است حتی تحصیلات کافی نداشته باشند</segment>
+		<segment id="15" parent="64" relname="joint">یا درک درستی از وضعیت آموزش و شیوه یادگیری یا استعدادهای فرزند خود ندارند.</segment>
+		<segment id="16" parent="66" relname="same">به عبارت دیگر وزیر آموزش و پرورش نیز</segment>
+		<segment id="17" parent="16" relname="elaboration">که مدتی قبل خواهان حذف «مشق شب» از مدارس شد</segment>
+		<segment id="18" parent="66" relname="same">متوجه آن بخش خطرناک و بحران زای این ابزار شده بود.</segment>
+		<segment id="19" parent="68" relname="attribution">بخشی که با آن والدین تصور می‌کنند</segment>
+		<segment id="20" parent="68" relname="span">این «مشق شب» است</segment>
+		<segment id="21" parent="71" relname="joint">که فرزندشان را به موجودی خارق العاده در جامعه تبدیل می‌کند</segment>
+		<segment id="22" parent="71" relname="joint">یا از او یک نابغه می‌سازد.</segment>
+		<segment id="23" parent="74" relname="joint">بنابراین «مشق شب» از این منظر آسیب های بسیار زیادی دارد</segment>
+		<segment id="24" parent="74" relname="joint">و نقاط منفی آن بیش از تاثیرات مثبت آن ارزیابی می‌شود.</segment>
+		<segment id="25" parent="26" relname="condition">اگر از این زاویه به موضوع بنگریم</segment>
+		<segment id="26" parent="116" relname="span">می بینیم که والدین با «مشق شب» به دستیار آموزشی تبدیل شده‌اند</segment>
+		<segment id="27" parent="116" relname="contrast">در حالی که آن‌ها باید رابطه عاطفی با فرزند خود را در دستور کار داشته باشند.</segment>
+		<segment id="28" parent="82" relname="attribution">به بیانی ساده باید بر این نکته تاکید کنم</segment>
+		<segment id="29" parent="82" relname="span">که آسیب های «مشق شب» طیف متنوعی است ازجمله بروز رفتارهای «شبه بیش فعالانه» در کودکان و دانش آموزان یا بروز اختلالات یادگیری</segment>
+		<segment id="30" parent="80" relname="span">که به سبب مداخله والدینی رخ داده است</segment>
+		<segment id="31" parent="81" relname="joint">که به زبان عامیانه باید گفت کاربلد نیستند</segment>
+		<segment id="32" parent="81" relname="joint">و موجب ایجاد فشارهای روانی به فرزند خود شده‌اند.</segment>
+		<segment id="33" parent="83" relname="evaluation">این تحلیلی فارغ از جانبداری است.</segment>
+		<segment id="34" parent="85" relname="span">اما آنچه نباید از آن غافل شد این است</segment>
+		<segment id="35" parent="126" relname="span">که با حذف «مشق شب» ارتباط والدین با فرزند و اولیای مدرسه چگونه حفظ می‌شود ؟</segment>
+		<segment id="36" parent="86" relname="span">حفظ این ارتباط نباید به قیمتی تمام شود</segment>
+		<segment id="37" parent="36" relname="elaboration">که در آن مادر عاطفی دانش آموز ما به یک معلم یا دستیار آموزشی تبدیل شود.</segment>
+		<segment id="38" parent="108" relname="background">اما فارغ از این بحث نیز باید مراقب آسیبی دیگر باشیم.</segment>
+		<segment id="39" parent="87" relname="joint">البته باید دغدغه علما را جدی گرفت</segment>
+		<segment id="40" parent="87" relname="joint">و انتقاد آن‌ها را از منظری دیگر مورد توجه قرارداد ،</segment>
+		<segment id="41" parent="112" relname="span">اما جدای از آن والدین باید به این نکته حساس باشند</segment>
+		<segment id="42" parent="41" relname="elaboration">که چه سازمان ها و موسساتی از وسواس ها و نگرانی های آن‌ها سود می‌برند ؟</segment>
+		<segment id="43" parent="91" relname="span">وقتی والدینی داشته باشیم</segment>
+		<segment id="44" parent="90" relname="joint">که به کودک و استعداد او نگاهی خاص دارند</segment>
+		<segment id="45" parent="90" relname="joint">و می‌خوتهند از او یک نابغه یا موجود خارق العاده بیافرینند</segment>
+		<segment id="46" parent="92" relname="joint">طبعا از این فرصت عده‌ای سواستفاده می‌کنند</segment>
+		<segment id="47" parent="92" relname="joint">و برای عملی کردن چنین خواسته‌ای نقشه طراحی می‌کنند</segment>
+		<segment id="48" parent="92" relname="joint">و مبالغ آنچنانی مطالبه می‌کنند.</segment>
+		<segment id="49" parent="94" relname="span">ما باید این دو مبحث را از هم تفکیک کنیم</segment>
+		<segment id="50" parent="49" relname="elaboration">یعنی موضوع «مشق شب» به عنوان یک وسیله ارتباطی بین مثلث دانش آموز ، والدین و مدرسه و موضوع «مشق شب» به عنوان یک وسیله درآمدزایی برای گروه هایی خاص.</segment>
+		<segment id="51" parent="106" relname="joint">ما باید بتوانیم به راه حل بینابین برسیم.</segment>
+		<segment id="52" parent="95" relname="joint">تلاش ما در گام نخست باید حفظ رابطه والدین با اولیای مدرسه باشد</segment>
+		<segment id="53" parent="95" relname="joint">و باید از آن‌ها مراقبت کنیم</segment>
+		<segment id="54" parent="98" relname="joint">تا از نقش خود یعنی پدر و مادر بودن فاصله نگیرند</segment>
+		<segment id="55" parent="98" relname="joint">و به دستیاران آموزشی تبدیل نشوند.</segment>
+		<group id="56" type="span" parent="1" relname="summary"/>
+		<group id="58" type="multinuc" parent="6" relname="condition"/>
+		<group id="59" type="span" parent="100" relname="evaluation"/>
+		<group id="60" type="span" parent="101" relname="evaluation"/>
+		<group id="61" type="multinuc" parent="62" relname="span"/>
+		<group id="62" type="span" parent="63" relname="span"/>
+		<group id="63" type="span" parent="73" relname="topicomment"/>
+		<group id="64" type="multinuc" parent="13" relname="elaboration"/>
+		<group id="65" type="span" parent="12" relname="elaboration"/>
+		<group id="66" type="multinuc" parent="67" relname="span"/>
+		<group id="67" type="span" parent="70" relname="span"/>
+		<group id="68" type="span" parent="69" relname="span"/>
+		<group id="69" type="span" parent="67" relname="elaboration"/>
+		<group id="70" type="span" parent="72" relname="summary"/>
+		<group id="71" type="multinuc" parent="20" relname="elaboration"/>
+		<group id="72" type="span" parent="73" relname="span"/>
+		<group id="73" type="span" parent="120" relname="span"/>
+		<group id="74" type="multinuc" parent="123" relname="evaluation"/>
+		<group id="80" type="span" parent="29" relname="elaboration"/>
+		<group id="81" type="multinuc" parent="30" relname="elaboration"/>
+		<group id="82" type="span" parent="83" relname="span"/>
+		<group id="83" type="span" parent="121" relname="span"/>
+		<group id="85" type="span" parent="127" relname="joint"/>
+		<group id="86" type="span" parent="35" relname="background"/>
+		<group id="87" type="multinuc" parent="88" relname="contrast"/>
+		<group id="88" type="multinuc" parent="108" relname="span"/>
+		<group id="89" type="span" parent="88" relname="contrast"/>
+		<group id="90" type="multinuc" parent="43" relname="elaboration"/>
+		<group id="91" type="span" parent="93" relname="background"/>
+		<group id="92" type="multinuc" parent="93" relname="span"/>
+		<group id="93" type="span" parent="104" relname="span"/>
+		<group id="94" type="span" parent="106" relname="joint"/>
+		<group id="95" type="multinuc" parent="96" relname="span"/>
+		<group id="96" type="span" parent="99" relname="span"/>
+		<group id="97" type="span" parent="96" relname="enablement"/>
+		<group id="98" type="multinuc" parent="97" relname="span"/>
+		<group id="99" type="span" parent="114" relname="elaboration"/>
+		<group id="100" type="span" parent="101" relname="span"/>
+		<group id="101" type="span" parent="102" relname="span"/>
+		<group id="102" type="span" parent="119" relname="topichange"/>
+		<group id="104" type="span" parent="105" relname="span"/>
+		<group id="105" type="span" parent="112" relname="explanation"/>
+		<group id="106" type="multinuc" parent="114" relname="span"/>
+		<group id="108" type="span" parent="109" relname="span"/>
+		<group id="109" type="span" parent="127" relname="joint"/>
+		<group id="112" type="span" parent="89" relname="span"/>
+		<group id="114" type="span" parent="115" relname="span"/>
+		<group id="115" type="span" parent="128" relname="evaluation"/>
+		<group id="116" type="span" parent="117" relname="span"/>
+		<group id="117" type="span" parent="121" relname="summary"/>
+		<group id="119" type="multinuc" />
+		<group id="120" type="span" parent="124" relname="summary"/>
+		<group id="121" type="span" parent="122" relname="span"/>
+		<group id="122" type="span" parent="123" relname="evaluation"/>
+		<group id="123" type="multinuc" parent="124" relname="span"/>
+		<group id="124" type="span" parent="125" relname="span"/>
+		<group id="125" type="span" parent="119" relname="topichange"/>
+		<group id="126" type="span" parent="34" relname="elaboration"/>
+		<group id="127" type="multinuc" parent="128" relname="span"/>
+		<group id="128" type="span" parent="129" relname="span"/>
+		<group id="129" type="span" parent="119" relname="topichange"/>
+	</body>
+</rst>

@@ -1,0 +1,93 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="multinuc"/>
+			<rel name="cause" type="rst"/>
+			<rel name="comparison" type="multinuc"/>
+			<rel name="comparison" type="rst"/>
+			<rel name="condition" type="multinuc"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="contrast" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation" type="multinuc"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="explanation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="manner-means" type="rst"/>
+			<rel name="same" type="multinuc"/>
+			<rel name="summary" type="rst"/>
+			<rel name="temporal" type="multinuc"/>
+			<rel name="temporal" type="rst"/>
+			<rel name="textualorganization" type="multinuc"/>
+			<rel name="topichange" type="multinuc"/>
+			<rel name="topichange" type="rst"/>
+			<rel name="topicomment" type="multinuc"/>
+			<rel name="topicomment" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="32" relname="same">مایکل کوهن ؛</segment>
+		<segment id="2" parent="1" relname="elaboration">فردی که روزگاری وکیل شخصی و کارچاق کن غول مسکن نیویورکی بود ،</segment>
+		<segment id="3" parent="32" relname="same">در برابر دیدگان اعضای کمیته نظارت مجلس نمایندگان و دیدگان بهت زده میلیون‌ها تن در داخل و خارج از امریکا</segment>
+		<segment id="4" parent="3" relname="elaboration">که به صفحه تلویزیون‌های خود خیره مانده بودند ،</segment>
+		<segment id="5" parent="32" relname="same">سنگین ترین اتهامات ممکن را به رییس جمهوری امریکا وارد کرد.</segment>
+		<segment id="6" parent="33" relname="same">کوهن در همان دقایقی</segment>
+		<segment id="7" parent="6" relname="elaboration">که دونالد ترامپ دومین دیدار خود با کیم جونگ اون ، رهبر کره شمالی را در هانوی ویتنام می‌گذراند ،</segment>
+		<segment id="8" parent="33" relname="same">نه فقط رییس جمهوری امریکا را نژادپرست ، کلاهبردار و فریبکار خواند</segment>
+		<segment id="9" parent="38" relname="joint">که چک حق السکوت دونالد ترامپ برای استورمی دنیلز ، بازیگر فیلم‌های مستهجن را نیز در برابر دوربین‌ها گرفت</segment>
+		<segment id="10" parent="37" relname="attribution">و گفت ،</segment>
+		<segment id="11" parent="36" relname="joint">ترامپ در مورد فعالیت‌های تجاری با روس‌ها در زمان رقابت‌های انتخابات ۲۰۱۶ دروغ گفته</segment>
+		<segment id="12" parent="36" relname="joint">و اعضای ستاد انتخاباتی وی با سایت افشاگر ویکی لیکس برای تخریب وجهه هیلاری کلینتون ، رقیب دموکرات ، در تماس بوده‌اند.</segment>
+		<segment id="13" parent="41" relname="same">افشاگری کوهن در کمیته‌ای</segment>
+		<segment id="14" parent="13" relname="elaboration">که دموکرات‌ها هدایت آن را بر عهده دارند ،</segment>
+		<segment id="15" parent="41" relname="same">بزرگ ترین حمله به اعتبار ، حیثیت و جایگاه رییس جمهوری کنونی امریکا طی دو سال گذشته به شمار می‌آید ؛</segment>
+		<segment id="16" parent="42" relname="same">البته ترامپ و مشاوران وی ، اظهارات کوهن را دروغ و تلاشی</segment>
+		<segment id="17" parent="18" relname="enablement">برای فرار از مجازات</segment>
+		<segment id="18" parent="42" relname="same">عنوان کرده‌اند.</segment>
+		<segment id="19" parent="45" relname="contrast">با این حال ، این برعهده دموکرات‌های کنگره است که روایت وکیل سابق را بپذیرند یا روایت موکل سابق را.</segment>
+		<segment id="20" parent="66" relname="span">با توجه به جنگ تمام عیاری</segment>
+		<segment id="21" parent="64" relname="joint">که میان کاخ سفید جمهوریخواه و دموکرات‌های کنگره در جریان است</segment>
+		<segment id="22" parent="64" relname="joint">و با موضوع احداث دیوار و اعلام وضعیت فوق العاده ملی از جانب ترامپ شعله‌ورتر شده است ،</segment>
+		<segment id="23" parent="46" relname="same">به نظر می‌رسد که ادای شهادت کوهن زمینه را برای گشودن مسیری فراهم کند</segment>
+		<segment id="24" parent="23" relname="elaboration">که انتهای آن ، درخواست محاکمه و استیضاح رییس جمهوری امریکا باشد ؛</segment>
+		<segment id="25" parent="48" relname="contrast">البته شاید دموکرات‌ها برای گشودن این مسیر مشکل زیادی نداشته باشند</segment>
+		<segment id="26" parent="48" relname="contrast">اما برای به سرانجام رساندن آن ، باید از سد اکثریت سنای تحت کنترل جمهوریخواهان بگذرند.</segment>
+		<segment id="27" parent="50" relname="span">فضای عمیقا دوقطبی شده واشنگتن ، احتمال خالی کردن پشت رییس جمهوری جمهوریخواه از سوی هم حزبی جمهوریخواه را به شدت کاهش می‌دهد</segment>
+		<segment id="28" parent="27" relname="condition">حتی اگر افرادی همچون کوهن مدارک معتبرتری از فساد اخلاقی ، مالی و سیاسی دونالد ترامپ را رو کنند.</segment>
+		<segment id="29" parent="51" relname="comparison">شاید به همین دلیل نیز ترامپ بیش از این که نگران جنجال در ساختمان کاپیتال هیل در واشنگتن باشد ،</segment>
+		<segment id="30" parent="51" relname="comparison">به آرامش اتاق مذاکرات با رهبر کره شمالی دل بسته است.</segment>
+		<segment id="31" parent="80" relname="evaluation">با این حال ، آینده مشخص خواهد کرد که سرنوشت ترامپ را جنجال روز چهارشنبه در واشنگتن رقم خواهد زد یا آرامش در‌هانوی.</segment>
+		<group id="32" type="multinuc" parent="70" relname="span"/>
+		<group id="33" type="multinuc" parent="63" relname="joint"/>
+		<group id="36" type="multinuc" parent="37" relname="span"/>
+		<group id="37" type="span" parent="39" relname="span"/>
+		<group id="38" type="multinuc" parent="63" relname="joint"/>
+		<group id="39" type="span" parent="38" relname="joint"/>
+		<group id="41" type="multinuc" parent="73" relname="span"/>
+		<group id="42" type="multinuc" parent="45" relname="contrast"/>
+		<group id="45" type="multinuc" parent="73" relname="contrast"/>
+		<group id="46" type="multinuc" parent="76" relname="span"/>
+		<group id="48" type="multinuc" parent="76" relname="elaboration"/>
+		<group id="50" type="span" parent="79" relname="evaluation"/>
+		<group id="51" type="multinuc" parent="80" relname="span"/>
+		<group id="63" type="multinuc" parent="70" relname="elaboration"/>
+		<group id="64" type="multinuc" parent="20" relname="enablement"/>
+		<group id="66" type="span" parent="46" relname="same"/>
+		<group id="70" type="span" parent="71" relname="span"/>
+		<group id="71" type="span" parent="75" relname="span"/>
+		<group id="73" type="span" parent="74" relname="span"/>
+		<group id="74" type="span" parent="71" relname="evaluation"/>
+		<group id="75" type="span" parent="78" relname="evaluation"/>
+		<group id="76" type="span" parent="77" relname="span"/>
+		<group id="77" type="span" parent="78" relname="evaluation"/>
+		<group id="78" type="multinuc" parent="82" relname="topichange"/>
+		<group id="79" type="multinuc" parent="82" relname="topichange"/>
+		<group id="80" type="span" parent="81" relname="span"/>
+		<group id="81" type="span" parent="79" relname="evaluation"/>
+		<group id="82" type="multinuc" />
+	</body>
+</rst>

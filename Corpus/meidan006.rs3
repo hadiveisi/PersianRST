@@ -1,0 +1,86 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="multinuc"/>
+			<rel name="cause" type="rst"/>
+			<rel name="comparison" type="multinuc"/>
+			<rel name="comparison" type="rst"/>
+			<rel name="condition" type="multinuc"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="contrast" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation" type="multinuc"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="explanation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="manner-means" type="rst"/>
+			<rel name="same" type="multinuc"/>
+			<rel name="summary" type="rst"/>
+			<rel name="temporal" type="multinuc"/>
+			<rel name="temporal" type="rst"/>
+			<rel name="textualorganization" type="multinuc"/>
+			<rel name="topichange" type="multinuc"/>
+			<rel name="topichange" type="rst"/>
+			<rel name="topicomment" type="multinuc"/>
+			<rel name="topicomment" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="2" relname="attribution">رییس دفتر حسن روحانی می‌گوید</segment>
+		<segment id="2" parent="35" relname="span">«برای اعلام تعطیلی ادارات ، میزان آلودگی باید از حدی بیشتر باشد».</segment>
+		<segment id="3" parent="47" relname="span">محمود واعظی ارتباط میان آلودگی شدید هوا و بنزین تولید داخل را نیز تکذیب کرده</segment>
+		<segment id="4" parent="37" relname="attribution">و گفته</segment>
+		<segment id="5" parent="37" relname="span">«وضعیت بنزین ما نسبت به گذشته به مراتب بهتر شده است ؛</segment>
+		<segment id="6" parent="48" relname="span">الان بنزین یورو ۴ و یورو ۵</segment>
+		<segment id="7" parent="6" relname="elaboration">که تولید می‌کنیم</segment>
+		<segment id="8" parent="36" relname="same">قابل مقایسه با گذشته نیست</segment>
+		<segment id="9" parent="31" relname="joint">و همه این تولیدات نیز در کلانشهرها استفاده می‌شود».</segment>
+		<segment id="10" parent="55" relname="span">این صحبت‌ها در شرایطی مطرح می‌شود</segment>
+		<segment id="11" parent="40" relname="joint">که در حال حاضر وضعیت آلودگی هوای تهران در چهار منطقه به وضعیت اضطرار رسیده است</segment>
+		<segment id="12" parent="13" relname="attribution">و وزارت بهداشت اعلام کرده</segment>
+		<segment id="13" parent="41" relname="span">امروز شاهد شدیدترین وضعیت آلودگی در هفته اخیر هستیم.</segment>
+		<segment id="14" parent="42" relname="span">در مناطق ۱۸ و ۲ و ۱۱ و ۲۰ تهران شاخص آلودگی بسیار بالا بوده</segment>
+		<segment id="15" parent="14" relname="explanation">و شاخص آلودگی آن‌ها به ترتیب ۲۱۲ و ۲۰۵ و ۲۰۲ و ۲۱۳ است.</segment>
+		<segment id="16" parent="32" relname="attribution">بنابر اعلام وزارت بهداشت</segment>
+		<segment id="17" parent="49" relname="cause">میانگین شاخص آلودگی هوا در تمام ایستگاه‌های تهران ۱۷۵ بوده</segment>
+		<segment id="18" parent="49" relname="cause">و برای همه افراد ناسالم محسوب می‌شود.</segment>
+		<segment id="19" parent="51" relname="span">پیشتر اعلام شد</segment>
+		<segment id="20" parent="19" relname="cause">به‌دلیل آلودگی هوا ،</segment>
+		<segment id="21" parent="29" relname="same">امروز تمامی مدرسه‌های استان اصفهان ، کاشان و قم نیز تعطیل هستند.</segment>
+		<segment id="22" parent="30" relname="attribution">امروز احمد توکلی نیز اعلام کرد</segment>
+		<segment id="23" parent="54" relname="explanation">از آنجایی که همه اعضای مجمع‌تشخیص مصلحت‌ نظام بالای ۵۰ سال سن دارند ،</segment>
+		<segment id="24" parent="52" relname="span">جلسه‌های این نهاد</segment>
+		<segment id="25" parent="24" relname="explanation">به‌دلیل آلودگی‌ هوای تهران</segment>
+		<segment id="26" parent="53" relname="same">تعطیل شده است.</segment>
+		<group id="29" type="multinuc" parent="58" relname="joint"/>
+		<group id="30" type="span" parent="34" relname="span"/>
+		<group id="31" type="multinuc" parent="5" relname="explanation"/>
+		<group id="32" type="span" parent="50" relname="span"/>
+		<group id="34" type="span" parent="58" relname="joint"/>
+		<group id="35" type="span" parent="39" relname="joint"/>
+		<group id="36" type="multinuc" parent="31" relname="joint"/>
+		<group id="37" type="span" parent="38" relname="span"/>
+		<group id="38" type="span" parent="3" relname="elaboration"/>
+		<group id="39" type="multinuc" parent="43" relname="span"/>
+		<group id="40" type="multinuc" parent="10" relname="elaboration"/>
+		<group id="41" type="span" parent="40" relname="joint"/>
+		<group id="42" type="span" parent="40" relname="joint"/>
+		<group id="43" type="span" parent="46" relname="span"/>
+		<group id="46" type="span" parent="59" relname="contrast"/>
+		<group id="47" type="span" parent="39" relname="joint"/>
+		<group id="48" type="span" parent="36" relname="same"/>
+		<group id="49" type="multinuc" parent="32" relname="span"/>
+		<group id="50" type="span" parent="40" relname="joint"/>
+		<group id="51" type="span" parent="29" relname="same"/>
+		<group id="52" type="span" parent="53" relname="same"/>
+		<group id="53" type="multinuc" parent="54" relname="span"/>
+		<group id="54" type="span" parent="30" relname="span"/>
+		<group id="55" type="span" parent="43" relname="background"/>
+		<group id="58" type="multinuc" parent="59" relname="contrast"/>
+		<group id="59" type="multinuc" />
+	</body>
+</rst>

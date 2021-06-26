@@ -1,0 +1,70 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="multinuc"/>
+			<rel name="cause" type="rst"/>
+			<rel name="comparison" type="multinuc"/>
+			<rel name="comparison" type="rst"/>
+			<rel name="condition" type="multinuc"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="contrast" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation" type="multinuc"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="explanation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="manner-means" type="rst"/>
+			<rel name="same" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+			<rel name="summary" type="rst"/>
+			<rel name="temporal" type="multinuc"/>
+			<rel name="temporal" type="rst"/>
+			<rel name="textualorganization" type="multinuc"/>
+			<rel name="topichange" type="multinuc"/>
+			<rel name="topichange" type="rst"/>
+			<rel name="topicomment" type="multinuc"/>
+			<rel name="topicomment" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="19" relname="attribution">معاون صید و بنادر ماهیگیری سازمان شیلات ایران اعلام کرد :</segment>
+		<segment id="2" parent="3" relname="cause">از آنجایی که طرف مقابل ، دولت رسمی سومالی نیست ،</segment>
+		<segment id="3" parent="19" relname="span">روند آزادسازی صیادان دربند به کندی پیش می‌رود.</segment>
+		<segment id="4" parent="34" relname="joint">از فروردین ماه سال ۹۴ یعنی بیش از ۶۰۰ روز پیش لنج ناخدا جمال‌الدین دهواری به همراه ۲۰ صیاد در دام دزدان دریایی سومالی گرفتار شد.</segment>
+		<segment id="5" parent="23" relname="attribution">براساس آخرین خبرها</segment>
+		<segment id="6" parent="22" relname="joint">۸ نفر از این صیادان به علت شکنجه‌های جسمی دزدان دریایی سومالیایی کشته ، ۴ نفر از آن‌شها به کمک دولت سومالی موفق به فرار</segment>
+		<segment id="7" parent="22" relname="joint">و یک نفر نیز به تنهایی از دست دزدان دریایی فرار کرده است</segment>
+		<segment id="8" parent="22" relname="joint">و بعد از چند روز پیاده‌روی به وسیله دولت سومالی به ایران بازگشته است ،</segment>
+		<segment id="9" parent="24" relname="contrast">اما هنوز ۸ تن از صیادان ایرانی در چنگال دزدان دریایی اسیرند.</segment>
+		<segment id="10" parent="37" relname="span">علی اصغر مجاهدی ، معاون صید و بنادر ماهیگیری سازمان شیلات ایران همچنین از توافق با وزارت کشور برای جبران خسارت‌های ناشی از دزدی دریایی خبر داده است.</segment>
+		<segment id="11" parent="27" relname="span">علاوه بر وضعیت سخت صیادان دربند ایرانی ، خانواده این صیادان هم</segment>
+		<segment id="12" parent="11" relname="temporal">نزدیک به دو سال است که</segment>
+		<segment id="13" parent="26" relname="same">در اضطراب و نگرانی روزگار می‌گذرانند.</segment>
+		<segment id="14" parent="31" relname="joint">پیش از این صاحب لنج ۳۵۰ میلیون تومان پول از مساجد و اهالی شهر جمع کرده</segment>
+		<segment id="15" parent="31" relname="joint">و برای دزدها فرستاده بود</segment>
+		<segment id="16" parent="29" relname="span">اما رابطی</segment>
+		<segment id="17" parent="16" relname="elaboration">که قرار بود پول را به دزدان دریایی بدهد ،</segment>
+		<segment id="18" parent="28" relname="same">با پول‌ها فرار می‌کند.</segment>
+		<group id="19" type="span" parent="20" relname="span"/>
+		<group id="20" type="span" parent="21" relname="span"/>
+		<group id="21" type="span" parent="35" relname="topichange"/>
+		<group id="22" type="multinuc" parent="24" relname="contrast"/>
+		<group id="23" type="span" parent="25" relname="span"/>
+		<group id="24" type="multinuc" parent="23" relname="span"/>
+		<group id="25" type="span" parent="34" relname="joint"/>
+		<group id="26" type="multinuc" parent="36" relname="joint"/>
+		<group id="27" type="span" parent="26" relname="same"/>
+		<group id="28" type="multinuc" parent="30" relname="contrast"/>
+		<group id="29" type="span" parent="28" relname="same"/>
+		<group id="30" type="multinuc" parent="36" relname="joint"/>
+		<group id="31" type="multinuc" parent="30" relname="contrast"/>
+		<group id="34" type="multinuc" parent="20" relname="background"/>
+		<group id="35" type="multinuc" />
+		<group id="36" type="multinuc" parent="10" relname="elaboration"/>
+		<group id="37" type="span" parent="35" relname="topichange"/>
+	</body>
+</rst>

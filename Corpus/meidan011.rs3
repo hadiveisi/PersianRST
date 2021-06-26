@@ -1,0 +1,73 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="multinuc"/>
+			<rel name="cause" type="rst"/>
+			<rel name="comparison" type="multinuc"/>
+			<rel name="comparison" type="rst"/>
+			<rel name="condition" type="multinuc"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="contrast" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation" type="multinuc"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="explanation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="manner-means" type="rst"/>
+			<rel name="same" type="multinuc"/>
+			<rel name="summary" type="rst"/>
+			<rel name="temporal" type="multinuc"/>
+			<rel name="temporal" type="rst"/>
+			<rel name="textualorganization" type="multinuc"/>
+			<rel name="topichange" type="multinuc"/>
+			<rel name="topichange" type="rst"/>
+			<rel name="topicomment" type="multinuc"/>
+			<rel name="topicomment" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="21" relname="span">همسایه‌ معروف ورزشگاه شهید وطنی قایمشهر</segment>
+		<segment id="2" parent="1" relname="elaboration">که در برنامه نود هم به او پرداخته شد ،</segment>
+		<segment id="3" parent="20" relname="same">از فوتبال دیدن با دوستانش و در همسایگی کوتاه نیامد.</segment>
+		<segment id="4" parent="22" relname="joint">مرتضی هاشمی همیشه به همراه دوستانش در پشت بام خانه‌اش می‌نشستند</segment>
+		<segment id="5" parent="22" relname="joint">و فوتبال تماشا می‌کردند.</segment>
+		<segment id="6" parent="23" relname="contrast">اما مسیولان این ورزشگاه روز گذشته در اقدامی عجیب جلوی این خانه را با داربست و پرده پوشاندند.</segment>
+		<segment id="7" parent="25" relname="span">او هم در مقابل با نصب یک داربست بلندتر در حیاط خانه‌اش ارتفاع محل نشستن خود را بالاتر از داربست مسوولان برد</segment>
+		<segment id="8" parent="7" relname="enablement">تا بازهم بتواند بازی‌های خانگی نساجی را از داخل منزلش در حین صرف میوه و تنقلات تماشا کند.</segment>
+		<segment id="9" parent="39" relname="attribution">وی در این‌باره گفت :</segment>
+		<segment id="10" parent="28" relname="joint">«دیروز از خواب بیدار شدم</segment>
+		<segment id="11" parent="28" relname="joint">دیدم داربست زده‌اند ؛</segment>
+		<segment id="12" parent="35" relname="cause">من هم رفتم ۱۶۰هزار تومان داربست اجاره کردم.</segment>
+		<segment id="13" parent="38" relname="contrast">تماشای بازی استقلال ۳۰۰هزارتومان برایم خرج داشت.</segment>
+		<segment id="14" parent="31" relname="joint">در خانه خودم نشسته‌ام</segment>
+		<segment id="15" parent="31" relname="joint">و میوه می‌خورم</segment>
+		<segment id="16" parent="31" relname="joint">و با دوستانم فوتبال تماشا می‌کنم.</segment>
+		<segment id="17" parent="32" relname="topicomment">مگر ما خلاف می‌کنیم ؟</segment>
+		<segment id="18" parent="19" relname="condition">اگر بازم داربست‌شان را بالا ببرند ،</segment>
+		<segment id="19" parent="34" relname="span">من هم داربستم را بلندتر می‌کنم.»</segment>
+		<group id="20" type="multinuc" parent="26" relname="span"/>
+		<group id="21" type="span" parent="20" relname="same"/>
+		<group id="22" type="multinuc" parent="23" relname="contrast"/>
+		<group id="23" type="multinuc" parent="24" relname="cause"/>
+		<group id="24" type="multinuc" parent="26" relname="elaboration"/>
+		<group id="25" type="span" parent="24" relname="cause"/>
+		<group id="26" type="span" parent="27" relname="span"/>
+		<group id="27" type="span" parent="41" relname="span"/>
+		<group id="28" type="multinuc" parent="29" relname="cause"/>
+		<group id="29" type="multinuc" parent="39" relname="span"/>
+		<group id="31" type="multinuc" parent="32" relname="span"/>
+		<group id="32" type="span" parent="33" relname="span"/>
+		<group id="33" type="span" parent="38" relname="contrast"/>
+		<group id="34" type="span" parent="37" relname="joint"/>
+		<group id="35" type="multinuc" parent="29" relname="cause"/>
+		<group id="37" type="multinuc" parent="29" relname="cause"/>
+		<group id="38" type="multinuc" parent="35" relname="cause"/>
+		<group id="39" type="span" parent="40" relname="span"/>
+		<group id="40" type="span" parent="27" relname="topicomment"/>
+		<group id="41" type="span" />
+	</body>
+</rst>

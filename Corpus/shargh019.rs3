@@ -1,0 +1,103 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="multinuc"/>
+			<rel name="cause" type="rst"/>
+			<rel name="comparison" type="multinuc"/>
+			<rel name="comparison" type="rst"/>
+			<rel name="condition" type="multinuc"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="contrast" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation" type="multinuc"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="explanation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="manner-means" type="rst"/>
+			<rel name="same" type="multinuc"/>
+			<rel name="summary" type="rst"/>
+			<rel name="temporal" type="multinuc"/>
+			<rel name="temporal" type="rst"/>
+			<rel name="textualorganization" type="multinuc"/>
+			<rel name="topichange" type="multinuc"/>
+			<rel name="topichange" type="rst"/>
+			<rel name="topicomment" type="multinuc"/>
+			<rel name="topicomment" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="48" relname="span">تاثیر کلان شهر تهران بر مدیریت شهری در سراسر کشور و ملی بودن جایگاه شهردار تهران بر کسی پوشیده نیست.</segment>
+		<segment id="2" parent="1" relname="explanation">پیشانی و نماد انتخابات ۲۹ اردیبهشت ، در شهرداری تهران تجلی می‌یافت.</segment>
+		<segment id="3" parent="63" relname="span">بعد از بررسی گزینه‌هاو برنامه‌های مختلف ، محمدعلی نجفی ، از مدیران شناخته شده و توانای کشور</segment>
+		<segment id="4" parent="3" relname="elaboration">که سابقه وزارت‌های موفق و عضویت شش ساله در شورای شهر تهران را داشت ،</segment>
+		<segment id="5" parent="35" relname="same">با رای قاطع شورا به این سمت برگزیده شد.</segment>
+		<segment id="6" parent="49" relname="span">دعوت به کار چهره‌های دانشگاهی ، دارای سلامت مالی و مدیریتی ، فرهیخته و خوش فکر برای در پیش گرفته شدن رویکردهای علمی ، واقع بینانه و مبتنی بر شعارهای انتخاباتی اصلاح طلبان یعنی شفافیت ، سلامت و اطلاع رسانی بی ملاحظه به مردم ، اصلی‌ترین اقدامات شهردار تهران در همین مدت کوتاه است.</segment>
+		<segment id="7" parent="36" relname="joint">اقداماتی که تداوم آن می‌تواند بهترین دوره مدیریت شهری در تهران را رقم زده</segment>
+		<segment id="8" parent="36" relname="joint">و حتما منشا تحولات چشمگیری در شهرداری‌ های سراسر کشور شود.</segment>
+		<segment id="9" parent="64" relname="evaluation">این مسیله اهمیت نقش آفرینی اعضای شورا در مجاب کردن شهردار تهران برای ماندن در سمت خود را دوچندان می‌کند.</segment>
+		<segment id="10" parent="11" relname="background">بودجه عمرانی شهرداری‌هامعادل ۷۰ درصد بودجه عمرانی دولت است.</segment>
+		<segment id="11" parent="53" relname="span">اصلاح هزینه کرد درآمدهای بودجه در مسیر منطبق بر قوانین کشور و تغییر رویکردها و تقویت شاخص‌های بهره وری در مدیریت شهری به بازگشت اعتماد مردم به مدیریت شهری انجامیده</segment>
+		<segment id="12" parent="53" relname="cause">و سرمایه اجتماعی قابل توجهی را برای به حرکت درآوردن سایر محورها و چرخ‌های نظام اقتصادی کشور به همراه خواهد داشت.</segment>
+		<segment id="13" parent="73" relname="span">نگارنده از علل استعفای شهردار توانمند تهران بی اطلاع است.</segment>
+		<segment id="14" parent="67" relname="span">تا همین هفته گذشته در جلسات مداومی</segment>
+		<segment id="15" parent="14" relname="elaboration">که با شهرداران مناطق برگزار می‌شد ،</segment>
+		<segment id="16" parent="37" relname="same">نجفی با اراده‌ای استوار ، روحیه‌ای مثال زدنی و امیدوار به آینده به بررسی برنامه‌های کوتاه و میان مدت پایتخت مشغول بود.</segment>
+		<segment id="17" parent="38" relname="joint">شایعات درباره برکناری یا استعفا را با طنز منحصر به فرد خود پاسخ می‌داد</segment>
+		<segment id="18" parent="68" relname="span">و اشکالات و نارسایی‌های جدی را</segment>
+		<segment id="19" parent="18" relname="elaboration">که به سبب رعایت نکردن قوانین و مقررات در اداره شهر به ارث رسیده بود ،</segment>
+		<segment id="20" parent="40" relname="same">با تشریک مساعی و به یاری طلبیدن کارشناسان شاخص ، بررسی می‌کرد.</segment>
+		<segment id="21" parent="69" relname="span">بدهی ۵۲ هزار میلیاردی شهر تهران</segment>
+		<segment id="22" parent="21" relname="elaboration">که تا امروز مکشوف شده ،</segment>
+		<segment id="23" parent="75" relname="joint">سه برابر بودجه شهرداری تهران است</segment>
+		<segment id="24" parent="74" relname="span">و اگر در مدیریت شهری مفهوم ورشکستگی</segment>
+		<segment id="25" parent="24" relname="elaboration">که در شرکت‌های تجاری وجود دارد ،</segment>
+		<segment id="26" parent="42" relname="same">قابل بیان بود</segment>
+		<segment id="27" parent="43" relname="span">حتما شهرداری تهران به عنوان سازمان مالی و اقتصادی ورشکسته ، در نظر گرفته می‌شد.</segment>
+		<segment id="28" parent="79" relname="span">این که یک جریان سیاسی با رانت خاص خود ، چنین میراثی برای یک پایتخت باقی بگذارد و باز هم از غیر قابل اداره بودن شهر بعد از شهردار ۱۲ ساله خود سخن بگوید ، از مسایلی است که نمی‌توان مشابهی برای آن در سطح جهان یافت.</segment>
+		<segment id="29" parent="81" relname="span">نجفی ، انضباط ، قانون گرایی ، برنامه محوری و شفافیت با مردم را محور فعالیت‌های خود قرار داده است</segment>
+		<segment id="30" parent="80" relname="span">و این باید برای هر ایرانی ، مایه مباهات باشد نه این که ابر و باد و مه و خورشید و فلک به دنبال زمین گیرکردن این مدیر شایسته ، سلامت و توانمند</segment>
+		<segment id="31" parent="30" relname="elaboration">که ضد رابطه و باندبازی عمل می‌کند ،</segment>
+		<segment id="32" parent="45" relname="same">باشند.</segment>
+		<segment id="33" parent="86" relname="cause">او با وجود فشارهای کم نظیر ، براساس تشخیص خود مدیریت کرده</segment>
+		<segment id="34" parent="87" relname="span">و حذف این سرمایه ملی ، ضرر و خسارت جبران ناپذیری برای نظام مدیریت ایران به دنبال خواهد داشت.</segment>
+		<group id="35" type="multinuc" parent="70" relname="joint"/>
+		<group id="36" type="multinuc" parent="64" relname="span"/>
+		<group id="37" type="multinuc" parent="38" relname="joint"/>
+		<group id="38" type="multinuc" parent="13" relname="explanation"/>
+		<group id="40" type="multinuc" parent="38" relname="joint"/>
+		<group id="42" type="multinuc" parent="27" relname="condition"/>
+		<group id="43" type="span" parent="76" relname="evaluation"/>
+		<group id="45" type="multinuc" parent="29" relname="evaluation"/>
+		<group id="48" type="span" parent="71" relname="background"/>
+		<group id="49" type="span" parent="70" relname="joint"/> 
+		<group id="53" type="span" parent="66" relname="span"/>
+		<group id="63" type="span" parent="35" relname="same"/>
+		<group id="64" type="span" parent="65" relname="span"/>
+		<group id="65" type="span" parent="6" relname="elaboration"/>
+		<group id="66" type="span" parent="70" relname="joint"/>
+		<group id="67" type="span" parent="37" relname="same"/>
+		<group id="68" type="span" parent="40" relname="same"/>
+		<group id="69" type="span" parent="75" relname="joint"/>
+		<group id="70" type="multinuc" parent="71" relname="span"/>
+		<group id="71" type="span" parent="72" relname="span"/>
+		<group id="72" type="span" parent="83" relname="background"/>
+		<group id="73" type="span" parent="82" relname="contrast"/>
+		<group id="74" type="span" parent="42" relname="same"/>
+		<group id="75" type="multinuc" parent="76" relname="span"/>
+		<group id="76" type="span" parent="78" relname="span"/>
+		<group id="78" type="span" parent="28" relname="evaluation"/>
+		<group id="79" type="span" parent="82" relname="contrast"/>
+		<group id="80" type="span" parent="45" relname="same"/>
+		<group id="81" type="span" parent="86" relname="cause"/>
+		<group id="82" type="multinuc" parent="85" relname="evaluation"/>
+		<group id="83" type="span" parent="84" relname="span"/>
+		<group id="84" type="span" />
+		<group id="85" type="multinuc" parent="83" relname="span"/>
+		<group id="86" type="multinuc" parent="34" relname="explanation"/>
+		<group id="87" type="span" parent="85" relname="evaluation"/>
+	</body>
+</rst>

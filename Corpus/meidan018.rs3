@@ -1,0 +1,80 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="multinuc"/>
+			<rel name="cause" type="rst"/>
+			<rel name="comparison" type="multinuc"/>
+			<rel name="comparison" type="rst"/>
+			<rel name="condition" type="multinuc"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="contrast" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation" type="multinuc"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="explanation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="manner-means" type="rst"/>
+			<rel name="same" type="multinuc"/>
+			<rel name="summary" type="rst"/>
+			<rel name="temporal" type="multinuc"/>
+			<rel name="temporal" type="rst"/>
+			<rel name="textualorganization" type="multinuc"/>
+			<rel name="topichange" type="multinuc"/>
+			<rel name="topichange" type="rst"/>
+			<rel name="topicomment" type="multinuc"/>
+			<rel name="topicomment" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="24" relname="span">رییس انجمن زغال‌سنگ ایران با اعلام</segment>
+		<segment id="2" parent="1" relname="elaboration">اینکه معادن زغال سنگ ایمنی لازم را ندارند ،</segment>
+		<segment id="3" parent="23" relname="same">نسبت به تکرار حادثه یورت هشدار داده است.</segment>
+		<segment id="4" parent="29" relname="attribution">به گفته محمد مجتهدزاده</segment>
+		<segment id="5" parent="29" relname="span">تجهیزات معادن زغال سنگ ایران بسیار قدیمی است</segment>
+		<segment id="6" parent="25" relname="joint">چراکه دوره شکوفایی زغال سنگ ایران به سال‌های ۱۳۴۵ تا ۱۳۵۵ برمی‌گردد</segment>
+		<segment id="7" parent="25" relname="joint">و در آن زمان معادن زغال سنگ با آخرین تکنولوژی‌های روز دنیا فعالیت می‌کردند.</segment>
+		<segment id="8" parent="27" relname="span">اما اکنون بعد از گذشت ۴۰ سال از پیروزی انقلاب ، معدن طبس تنها واحد معدنی است</segment>
+		<segment id="9" parent="8" relname="elaboration">که از تکنولوژی روز دنیا بهره می‌برد</segment>
+		<segment id="10" parent="28" relname="joint">و مابقی واحدها شرایط بدتری نسبت به گذشته دارند.</segment>
+		<segment id="11" parent="37" relname="attribution">او همچنین اضافه کرده</segment>
+		<segment id="12" parent="31" relname="contrast">حادثه انفجار معدن زغال سنگ زمستان‌یورت آزادشهر توجه عمومی را نسبت به ایمنی معادن زغال سنگ بالا برد</segment>
+		<segment id="13" parent="32" relname="attribution">اما ارزیابی‌های نشان می‌دهد</segment>
+		<segment id="14" parent="34" relname="span">نقص‌هایی</segment>
+		<segment id="15" parent="14" relname="elaboration">که منجر به حادثه زمستان یورت گلستان شد ، در دیگر معادن نیز موجود است.</segment>
+		<segment id="16" parent="33" relname="same">تاکنون بارها درباره ناامن‌بودن معادن زغال‌سنگ ایران هشدار داده شده است</segment>
+		<segment id="17" parent="35" relname="contrast">اما همچنان کارفرمایان و دولت برای تجیهز این معادن اقدام عملی انجام نداده‌اند.</segment>
+		<segment id="18" parent="39" relname="contrast">در حال حاضر ۱۳هزار معدنچی در معادن زغال‌سنگ ایران کار می‌کنند</segment>
+		<segment id="19" parent="43" relname="joint">اما دولت به وظیفه‌اش برای ایمن‌سازی این معادن عمل نمی‌کند.</segment>
+		<segment id="20" parent="41" relname="span">در همین حال کارفرمایان هم مسیولان ایمنی را به خاطر</segment>
+		<segment id="21" parent="20" relname="elaboration">اینکه گزارش‌های مربوط به ایمنی کارگاه‌ را مطابق میل کارفرمایان تنظیم نمی‌کنند ،</segment>
+		<segment id="22" parent="40" relname="joint">اخراج می‌کنند.</segment>
+		<group id="23" type="multinuc" parent="44" relname="span"/>
+		<group id="24" type="span" parent="23" relname="same"/>
+		<group id="25" type="multinuc" parent="26" relname="contrast"/>
+		<group id="26" type="multinuc" parent="5" relname="cause"/>
+		<group id="27" type="span" parent="28" relname="joint"/>
+		<group id="28" type="multinuc" parent="26" relname="contrast"/>
+		<group id="29" type="span" parent="30" relname="span"/>
+		<group id="30" type="span" parent="46" relname="joint"/>
+		<group id="31" type="multinuc" parent="37" relname="span"/>
+		<group id="32" type="span" parent="36" relname="span"/>
+		<group id="33" type="multinuc" parent="35" relname="contrast"/>
+		<group id="34" type="span" parent="33" relname="same"/>
+		<group id="35" type="multinuc" parent="32" relname="span"/>
+		<group id="36" type="span" parent="31" relname="contrast"/>
+		<group id="37" type="span" parent="38" relname="span"/>
+		<group id="38" type="span" parent="46" relname="joint"/>
+		<group id="39" type="multinuc" parent="45" relname="background"/>
+		<group id="40" type="multinuc" parent="43" relname="joint"/>
+		<group id="41" type="span" parent="40" relname="joint"/>
+		<group id="43" type="multinuc" parent="39" relname="contrast"/>
+		<group id="44" type="span" parent="45" relname="span"/>
+		<group id="45" type="span" parent="47" relname="span"/>
+		<group id="46" type="multinuc" parent="44" relname="explanation"/>
+		<group id="47" type="span" />
+	</body>
+</rst>

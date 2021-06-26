@@ -1,0 +1,134 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="multinuc"/>
+			<rel name="cause" type="rst"/>
+			<rel name="comparison" type="multinuc"/>
+			<rel name="comparison" type="rst"/>
+			<rel name="condition" type="multinuc"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="contrast" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation" type="multinuc"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="explanation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="manner-means" type="rst"/>
+			<rel name="same" type="multinuc"/>
+			<rel name="summary" type="rst"/>
+			<rel name="temporal" type="multinuc"/>
+			<rel name="temporal" type="rst"/>
+			<rel name="textualorganization" type="multinuc"/>
+			<rel name="topichange" type="multinuc"/>
+			<rel name="topichange" type="rst"/>
+			<rel name="topicomment" type="multinuc"/>
+			<rel name="topicomment" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="121" relname="joint">ماجرای دستگیری نیکلا سارکوزی‌ ، رییس جمهور سابق فرانسه و همسرش کارلا برونی به اتهام تلاش برای خروج اموال خود از این کشور برای فرار از مالیات ، خبری تکان دهنده است.</segment>
+		<segment id="2" parent="97" relname="attribution">این مساله بار دیگر ثابت کرد</segment>
+		<segment id="3" parent="97" relname="span">که نحوه فعالیت و شیوه تفکر و عمل راست‌ها در اغلب نقاط دنیا به ویژه فرانسه به گونه ای است</segment>
+		<segment id="4" parent="3" relname="elaboration">که درگیر شدن آن‌ها در مسایل فساد انگیز مالی یا اعطای رانت به برخی لابی‌ها در آن‌ها بیشتر است</segment>
+		<segment id="5" parent="6" relname="cause">چه این که منافع شخصی برای آن‌ها اهمیت بیشتری دارد</segment>
+		<segment id="6" parent="54" relname="span">و به همین جهت ، بیشتر در معرض فریب و خطا قرار می‌گیرند.</segment>
+		<segment id="7" parent="96" relname="span">در سوی مقابل گروه‌های دیگر سیاسی به ویژه چپ‌های میانه</segment>
+		<segment id="8" parent="55" relname="joint">به دلیل پرنسیب اجتماعی</segment>
+		<segment id="9" parent="55" relname="joint">و این که به جامعه و مردم فکر می‌کنند ،</segment>
+		<segment id="10" parent="56" relname="same">شرایط متفاوتی نسبت به راست‌ها دارند</segment>
+		<segment id="11" parent="57" relname="joint">و عمدتا دچار فساد مالی نمی‌شوند.</segment>
+		<segment id="12" parent="108" relname="span">این که جایگاه و حرمت ریاست جمهوری در کشوری مثل فرانسه ، فدای منافع مادی شود امری بسیار مذموم در افکار عمومی آن‌ها و البته فضای بین المللی است</segment>
+		<segment id="13" parent="14" relname="attribution">و فرانسوی‌ها معتقدند</segment>
+		<segment id="14" parent="59" relname="span">هیچ چیز ، ارزش این جایگاه را ندارد.</segment>
+		<segment id="15" parent="98" relname="span">در عین حال فراموش نکنیم هنوز یک سال از برکناری رییس جمهور آلمان</segment>
+		<segment id="16" parent="15" relname="elaboration">که تخلف مالی کوچک تری را مرتکب شده بود ،</segment>
+		<segment id="17" parent="60" relname="same">نمی‌گذرد.</segment>
+		<segment id="18" parent="99" relname="span">این که در کمتر از یک سال ، روسای جمهور فعلی و پیشین مهم ترین کشورهای اروپایی</segment>
+		<segment id="19" parent="18" relname="cause">به علت فساد مالی ،</segment>
+		<segment id="20" parent="61" relname="same">با پرونده قضایی دست به گریبان شده اند ، امری قابل تامل است.</segment>
+		<segment id="21" parent="64" relname="span">بازداشت کردن رییس جمهور سابق در کشوری مانند فرانسه ، مستلزم این است که اتهام سنگین باشد</segment>
+		<segment id="22" parent="21" relname="condition">اگرنه پلیس و دستگاه قضایی ، وارد چنین موضوعی نمی‌شوند.</segment>
+		<segment id="23" parent="116" relname="span">این که اکنون دولت رقیب راست‌ها در فرانسه بر سر کار است ، نمی‌تواند نوعی «پاپوش درست کردن» برای رقیب را تداعی کند.</segment>
+		<segment id="24" parent="111" relname="contrast">شاید در مرحله شکایت و جنجال سازی در رقابت‌های انتخاباتی برای بیرون کردن کاندیدای رقیب از کارزار انتخاباتی ، چنین رفتارهایی از سوی جریانات سیاسی رقیب دیده شود</segment>
+		<segment id="25" parent="124" relname="span">اما دستگاه قضایی در این کشورها ، آبروی خود را فدای امیال دستگاه اجرایی نمی‌کند.</segment>
+		<segment id="26" parent="100" relname="span">باید توجه داشت در کشورهایی</segment>
+		<segment id="27" parent="26" relname="elaboration">که مدیریت در آن‌ها «وسعت» دارد</segment>
+		<segment id="28" parent="72" relname="same">مشاغل اداری رسمی آنقدر مهم نیست</segment>
+		<segment id="29" parent="73" relname="comparison">که در کشورهای «شرق» و جهان سوم اهمیت دارد.</segment>
+		<segment id="30" parent="75" relname="span">در کشورهای اروپایی ، شرکت‌های چندملیتی یا کمپانی‌ها ، شرکت‌های عظیمی هستند</segment>
+		<segment id="31" parent="30" relname="elaboration">که به اندازه یک دولت ، اثر گذار هستند.</segment>
+		<segment id="32" parent="74" relname="joint">در نزد آن‌ها مقامات اداری ، اهمیت عجیب و غریب شرق را ندارد.</segment>
+		<segment id="33" parent="92" relname="span">نکته دیگر به ضعف عملکردی آقای سارکوزی باز می‌گردد</segment>
+		<segment id="34" parent="78" relname="contrast">که اگرچه در محافل راستی محبوب بود</segment>
+		<segment id="35" parent="78" relname="span">اما در محافل عمومی ، فاقد اهمیتی بود</segment>
+		<segment id="36" parent="35" relname="elaboration">که یک رییس جمهور باید داشته باشد</segment>
+		<segment id="37" parent="101" relname="span">و «داشته»هایی</segment>
+		<segment id="38" parent="37" relname="elaboration">که باید در وجود مقام عالی اجرایی باشد</segment>
+		<segment id="39" parent="76" relname="same">را نداشت</segment>
+		<segment id="40" parent="79" relname="cause">و همین باعث شد تا تنها یک دوره در الیزه بماند.</segment>
+		<segment id="41" parent="42" relname="cause">آنچه مشخص است این که دموکراسی برای آن‌ها از همه ملاحظات مهم تر است ،</segment>
+		<segment id="42" parent="86" relname="span">بر این اساس ، در کشورهای دموکرات واقعی ، فساد در قدرت ، تعارف بردار نیست.</segment>
+		<segment id="43" parent="83" relname="joint">در عین حال تبریه شدن در دادگاه نیز ، موجب اعاده حیثیت یک مسوول شده</segment>
+		<segment id="44" parent="83" relname="joint">و به تقویت جایگاه او در قدرت و سیاست منجر خواهد شد.</segment>
+		<segment id="45" parent="129" relname="span">صرف رفتن به دادگاه برای افکار عمومی این کشورها ، به معنی مجرم بودن قطعی افراد تلقی نخواهد شد.</segment>
+		<segment id="46" parent="88" relname="span">اما نکته ، در برخورد بی اغماض با اتهامات است</segment>
+		<segment id="47" parent="46" relname="elaboration">که دامنه آن هر مقام و مسوولی را در بر می‌گیرد.</segment>
+		<group id="54" type="span" parent="105" relname="cause"/>
+		<group id="55" type="multinuc" parent="7" relname="cause"/>
+		<group id="56" type="multinuc" parent="57" relname="joint"/>
+		<group id="57" type="multinuc" parent="63" relname="contrast"/>
+		<group id="59" type="span" parent="12" relname="explanation"/>
+		<group id="60" type="multinuc" parent="65" relname="joint"/>
+		<group id="61" type="multinuc" parent="110" relname="span"/>
+		<group id="63" type="multinuc" parent="121" relname="joint"/>
+		<group id="64" type="span" parent="110" relname="explanation"/>
+		<group id="65" type="multinuc" parent="117" relname="span"/>
+		<group id="66" type="span" parent="117" relname="evaluation"/>
+		<group id="72" type="multinuc" parent="73" relname="comparison"/>
+		<group id="73" type="multinuc" parent="89" relname="span"/>
+		<group id="74" type="multinuc" parent="89" relname="explanation"/>
+		<group id="75" type="span" parent="74" relname="joint"/>
+		<group id="76" type="multinuc" parent="79" relname="span"/>
+		<group id="77" type="multinuc" parent="33" relname="elaboration"/>
+		<group id="78" type="span" parent="112" relname="span"/>
+		<group id="79" type="span" parent="80" relname="span"/>
+		<group id="80" type="span" parent="77" relname="joint"/>
+		<group id="83" type="multinuc" parent="127" relname="span"/>
+		<group id="86" type="span" parent="130" relname="span"/>
+		<group id="88" type="span" parent="45" relname="contrast"/>
+		<group id="89" type="span" parent="91" relname="span"/>
+		<group id="91" type="span" parent="25" relname="explanation"/>
+		<group id="92" type="span" parent="122" relname="contrast"/>
+		<group id="96" type="span" parent="56" relname="same"/>
+		<group id="97" type="span" parent="105" relname="span"/>
+		<group id="98" type="span" parent="60" relname="same"/>
+		<group id="99" type="span" parent="61" relname="same"/>
+		<group id="100" type="span" parent="72" relname="same"/>
+		<group id="101" type="span" parent="76" relname="same"/>
+		<group id="105" type="span" parent="106" relname="span"/>
+		<group id="106" type="span" parent="63" relname="contrast"/>
+		<group id="108" type="span" parent="65" relname="joint"/>
+		<group id="110" type="span" parent="66" relname="span"/>
+		<group id="111" type="multinuc" parent="23" relname="explanation"/>
+		<group id="112" type="span" parent="77" relname="joint"/>
+		<group id="116" type="span" parent="122" relname="contrast"/>
+		<group id="117" type="span" parent="118" relname="span"/>
+		<group id="118" type="span" parent="119" relname="background"/>
+		<group id="119" type="span" parent="120" relname="span"/>
+		<group id="120" type="span" parent="126" relname="span"/>
+		<group id="121" type="multinuc" parent="119" relname="span"/>
+		<group id="122" type="multinuc" parent="131" relname="span"/>
+		<group id="124" type="span" parent="111" relname="contrast"/>
+		<group id="126" type="span" />
+		<group id="127" type="span" parent="128" relname="span"/>
+		<group id="128" type="span" parent="86" relname="contrast"/>
+		<group id="129" type="span" parent="127" relname="explanation"/>
+		<group id="130" type="span" parent="131" relname="evaluation"/>
+		<group id="131" type="span" parent="132" relname="span"/>
+		<group id="132" type="span" parent="120" relname="elaboration"/>
+	</body>
+</rst>

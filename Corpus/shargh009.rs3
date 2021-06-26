@@ -1,0 +1,145 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="multinuc"/>
+			<rel name="cause" type="rst"/>
+			<rel name="comparison" type="multinuc"/>
+			<rel name="comparison" type="rst"/>
+			<rel name="condition" type="multinuc"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="contrast" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation" type="multinuc"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="explanation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="manner-means" type="rst"/>
+			<rel name="same" type="multinuc"/>
+			<rel name="summary" type="rst"/>
+			<rel name="temporal" type="multinuc"/>
+			<rel name="temporal" type="rst"/>
+			<rel name="textualorganization" type="multinuc"/>
+			<rel name="topichange" type="multinuc"/>
+			<rel name="topichange" type="rst"/>
+			<rel name="topicomment" type="multinuc"/>
+			<rel name="topicomment" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="65" relname="attribution">در خبرها آمده بود</segment>
+		<segment id="2" parent="65" relname="span">مجلس به دنبال اصلاح قانون «ممنوعیت به کارگیری بازنشستگان» است</segment>
+		<segment id="3" parent="63" relname="cause">که در آن برخی سمت‌ها از این منع استثنا شده بودند</segment>
+		<segment id="4" parent="63" relname="span">و همین مسیله بستری فراهم کرده بود</segment>
+		<segment id="5" parent="4" relname="enablement">که بسیاری از مدیران سالمند ، همچنان به فعالیت ادامه بدهند.</segment>
+		<segment id="6" parent="57" relname="same">برای کشوری</segment>
+		<segment id="7" parent="56" relname="joint">که بخش عمده‌ای از جمعیت آن در سن جوانی قرار داشته</segment>
+		<segment id="8" parent="56" relname="joint">و تحصیلات عالی دارند ،</segment>
+		<segment id="9" parent="57" relname="same">این اقدام حتما مفید خواهد بود.</segment>
+		<segment id="10" parent="59" relname="span">جوانان از انرژی بالاتر و نیروی بیشتر برخوردار بوده</segment>
+		<segment id="11" parent="58" relname="span">مشروط بر این که از شایستگانی انتخاب شوند</segment>
+		<segment id="12" parent="11" relname="elaboration">که با درک بهتر از مقتضیات امروز ایران و جهان بهره وری و کارایی بیشتری داشته باشند.</segment>
+		<segment id="13" parent="92" relname="background">اما به یک نکته کلیدی نیز باید توجه کرد.</segment>
+		<segment id="14" parent="62" relname="span">این اصلاحیه حتما در کنار یک سامانه کارآمد در ساختار اداره کشور می‌تواند معنای لازم را بدهد</segment>
+		<segment id="15" parent="14" relname="condition">و گرنه ممکن است مانند دوران دولت قبل ، شرایط را به مراتب بدتر کند.</segment>
+		<segment id="16" parent="92" relname="span">نمی توان گفت صرفا با اصلاح قانون منع به کارگیری بازنشستگان ، مشکل مدیریتی کشور حل خواهد شد.</segment>
+		<segment id="17" parent="94" relname="background">متاسفانه قوانین ایران تکه تکه بوده و کمتر ارتباط ارگانیکی با یکدیگر دارند.</segment>
+		<segment id="18" parent="93" relname="contrast">سیستم اداری و استخدامی کشور نیازمند آن است که به شکل سلسه مراتبی ، کارکنان دستگاه‌ها ارتقا یابند و به تدریج به راس هرم مدیریتی برسند.</segment>
+		<segment id="19" parent="68" relname="span">اما در سازمان‌های اداری معمولا ارتباط دقیقی میان بدنه و راس وجود ندارد.</segment>
+		<segment id="20" parent="67" relname="span">تغییر راس یک وزارتخانه یا دستگاه حاکمیتی سبب می‌شود افراد به شکل اتوبوسی از سازمان قبلی آن مدیر به سازمان جدید نقل مکان کنند ؛</segment>
+		<segment id="21" parent="20" relname="elaboration">منابع انسانی‌ای که بعدها جز رسوبات همان سیستم خواهند بود.</segment>
+		<segment id="22" parent="69" relname="same">این عارضه</segment>
+		<segment id="23" parent="24" relname="cause">به دلیل بها ندادن به تخصص و شایستگی در دهه‌های گذشته ،</segment>
+		<segment id="24" parent="69" relname="same">کار را به نقطه‌ای رسانده</segment>
+		<segment id="25" parent="70" relname="elaboration">که امروز ناگزیر از تصویب قانون ممنوعیت به کارگیری بازنشستگان هستیم ؛</segment>
+		<segment id="26" parent="71" relname="comparison">در صورتی که در یک سامانه پویا ، به شکل طبیعی این جایگزینی‌ها صورت می‌گیرد.</segment>
+		<segment id="27" parent="73" relname="joint">با پیشی گرفتن برخی معیارهای من درآوردی بر تخصص ، عملا سیستم کارشناسی کنار می‌رود</segment>
+		<segment id="28" parent="29" relname="attribution">و به طور طبیعی ، افرادی تصور می‌کنند</segment>
+		<segment id="29" parent="74" relname="span">می توانند همواره در مسیولیت باقی بمانند.</segment>
+		<segment id="30" parent="76" relname="same">اگر سامانه مدیریتی کشور به شیوه انتخاب اصلح از میان کارشناسان همان مجموعه</segment>
+		<segment id="31" parent="75" relname="joint">که سلسله مراتب تخصصی را طی کرده</segment>
+		<segment id="32" parent="75" relname="joint">و وابسته به فلان جریان و باند مالی نباشند ،</segment>
+		<segment id="33" parent="76" relname="same">عمل کند ،</segment>
+		<segment id="34" parent="77" relname="span">افزوده شدن امتیاز جوانی می‌تواند کامل کننده این حلقه باشد.</segment>
+		<segment id="35" parent="79" relname="same">فقط در این صورت است که از حضور افرادی</segment>
+		<segment id="36" parent="78" relname="joint">که به اسم جوانی ، به یک جریان خاص وابسته بوده</segment>
+		<segment id="37" parent="78" relname="joint">و اتفاقا علاقه مند به طی یک شبه ره صدساله و کسب منافع اقتصادی حتی بیشتر از فلان مدیر سالخورده متخلف هستند ،</segment>
+		<segment id="38" parent="79" relname="same">جلوگیری کرد.</segment>
+		<segment id="39" parent="113" relname="span">پست‌های مدیریتی یعنی فرصت</segment>
+		<segment id="40" parent="114" relname="span">و فرصت طلبان به شدت دنبال به دست آوردن آن هستند.</segment>
+		<segment id="41" parent="40" relname="elaboration">در بین جوانان نیز از این گونه افراد وجود دارند.</segment>
+		<segment id="42" parent="116" relname="contrast">مدیریت جوانان حتما برکات فراوانی دارد</segment>
+		<segment id="43" parent="83" relname="span">اما برای این صفت جوانی ، صفت‌هایی چون شایستگی نیز نیاز است</segment>
+		<segment id="44" parent="43" relname="enablement">تا در کنار درک درست جوانان کارشناس و شایسته از اقتضایات روز جهان ، جامعه با حضور این جوانان ، بانشاط شود.</segment>
+		<segment id="45" parent="117" relname="contrast">فراموش نکنیم مطالبه جامعه ما فقط جوانگرایی نیست</segment>
+		<segment id="46" parent="117" relname="contrast">بلکه شایسته سالاری است.</segment>
+		<segment id="47" parent="86" relname="span">متاسفانه در بین برخی دانشجویان خود ، با افرادی مواجه شدم</segment>
+		<segment id="48" parent="47" relname="elaboration">که علاقه مند بودند خود را به یک طیف خاص منتسب کنند.</segment>
+		<segment id="49" parent="120" relname="temporal">وقتی دلیل آن را سوال می‌کردم ،</segment>
+		<segment id="50" parent="51" relname="attribution">پاسخ می‌دانند</segment>
+		<segment id="51" parent="120" relname="span">فقط در این صورت است که می‌توانند امیدوار به کسب مدارج مدیریتی و استفاده از مواهب آن باشند.</segment>
+		<segment id="52" parent="121" relname="evaluation">در این منظومه فکری ، منافع ملی و توسعه کشور هیچ جایگاهی ندارد.</segment>
+		<segment id="53" parent="100" relname="span">پیشنهاد نگارنده این است که در کنار اصلاح این نوع قوانین ، مجلس و سازمان امور اداری و استخدامی ، معیارهایی برای استفاده از شایستگان جوان تدوین و به طور جدی آنها را اعمال کند.</segment>
+		<segment id="54" parent="90" relname="span">در غیر این صورت ممکن است به جای بازنشستگان ناکارآمد ، جوانان فرصت طلبی بر سر کار بیایند</segment>
+		<segment id="55" parent="54" relname="elaboration">که بدون طی کردن مراحل کارشناسی و سلسله مراتب مدیریتی ، تهدید تازه‌ای برای سیستم اداره کشور شوند.</segment>
+		<group id="56" type="multinuc" parent="6" relname="elaboration"/>
+		<group id="57" type="multinuc" parent="60" relname="span"/>
+		<group id="58" type="span" parent="10" relname="condition"/>
+		<group id="59" type="span" parent="60" relname="explanation"/>
+		<group id="60" type="span" parent="61" relname="span"/>
+		<group id="61" type="span" parent="91" relname="evaluation"/>
+		<group id="62" type="span" parent="16" relname="summary"/>
+		<group id="63" type="span" parent="64" relname="span"/>
+		<group id="64" type="span" parent="2" relname="elaboration"/>
+		<group id="65" type="span" parent="91" relname="span"/>
+		<group id="67" type="span" parent="19" relname="explanation"/>
+		<group id="68" type="span" parent="96" relname="span"/>
+		<group id="69" type="multinuc" parent="70" relname="span"/>
+		<group id="70" type="span" parent="71" relname="span"/>
+		<group id="71" type="span" parent="108" relname="span"/>
+		<group id="72" type="span" parent="68" relname="explanation"/>
+		<group id="73" type="multinuc" parent="99" relname="joint"/>
+		<group id="74" type="span" parent="73" relname="joint"/>
+		<group id="75" type="multinuc" parent="30" relname="elaboration"/>
+		<group id="76" type="multinuc" parent="34" relname="condition"/>
+		<group id="77" type="span" parent="109" relname="condition"/>
+		<group id="78" type="multinuc" parent="35" relname="elaboration"/>
+		<group id="79" type="multinuc" parent="109" relname="span"/>
+		<group id="83" type="span" parent="116" relname="contrast"/>
+		<group id="86" type="span" parent="87" relname="joint"/>
+		<group id="87" type="multinuc" parent="128" relname="explanation"/>
+		<group id="90" type="span" parent="53" relname="condition"/>
+		<group id="91" type="span" parent="107" relname="span"/>
+		<group id="92" type="span" parent="97" relname="span"/>
+		<group id="93" type="multinuc" parent="94" relname="span"/>
+		<group id="94" type="span" parent="111" relname="span"/>
+		<group id="95" type="span" parent="97" relname="explanation"/>
+		<group id="96" type="span" parent="93" relname="contrast"/>
+		<group id="97" type="span" parent="98" relname="span"/>
+		<group id="98" type="span" parent="130" relname="topicomment"/>
+		<group id="99" type="multinuc" parent="108" relname="summary"/>
+		<group id="100" type="span" parent="129" relname="evaluation"/>
+		<group id="107" type="span" parent="130" relname="topicomment"/>
+		<group id="108" type="span" parent="72" relname="span"/>
+		<group id="109" type="span" parent="125" relname="span"/>
+		<group id="111" type="span" parent="129" relname="span"/>
+		<group id="112" type="span" parent="111" relname="topicomment"/>
+		<group id="113" type="span" parent="125" relname="explanation"/>
+		<group id="114" type="span" parent="39" relname="elaboration"/>
+		<group id="116" type="multinuc" parent="118" relname="span"/>
+		<group id="117" type="multinuc" parent="118" relname="explanation"/>
+		<group id="118" type="span" parent="127" relname="span"/>
+		<group id="120" type="span" parent="121" relname="span"/>
+		<group id="121" type="span" parent="122" relname="span"/>
+		<group id="122" type="span" parent="87" relname="joint"/>
+		<group id="125" type="span" parent="126" relname="span"/>
+		<group id="126" type="span" parent="128" relname="span"/>
+		<group id="127" type="span" parent="126" relname="evaluation"/>
+		<group id="128" type="span" parent="112" relname="span"/>
+		<group id="129" type="span" parent="95" relname="span"/>
+		<group id="130" type="multinuc" />
+	</body>
+</rst>

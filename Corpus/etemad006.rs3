@@ -1,0 +1,186 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="multinuc"/>
+			<rel name="cause" type="rst"/>
+			<rel name="comparison" type="multinuc"/>
+			<rel name="comparison" type="rst"/>
+			<rel name="condition" type="multinuc"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="contrast" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation" type="multinuc"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="explanation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="manner-means" type="rst"/>
+			<rel name="same" type="multinuc"/>
+			<rel name="summary" type="rst"/>
+			<rel name="temporal" type="multinuc"/>
+			<rel name="temporal" type="rst"/>
+			<rel name="textualorganization" type="multinuc"/>
+			<rel name="topichange" type="multinuc"/>
+			<rel name="topichange" type="rst"/>
+			<rel name="topicomment" type="multinuc"/>
+			<rel name="topicomment" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="89" relname="joint">من منتقد رفتارها و برخوردهای خشن با دختران و زنان هستم</segment>
+		<segment id="2" parent="3" relname="summary">و به نظرم اینگونه برخوردها باعث نمی‌شود که زنان به حجاب روی بیاورند.</segment>
+		<segment id="3" parent="90" relname="span">به عبارت دگیر این رفتارها دینی نیست.</segment>
+		<segment id="4" parent="78" relname="joint">اسلام دین رحمت است</segment>
+		<segment id="5" parent="79" relname="span">و به مسلمانان امر نشده</segment>
+		<segment id="6" parent="5" relname="enablement">تا با مردم خشونت‌آمیز برخورد کنند.</segment>
+		<segment id="7" parent="111" relname="cause">البته باید این موضوع را بررسی کرد</segment>
+		<segment id="8" parent="81" relname="span">و از وزیر کشور هم تشکر می‌کنیم</segment>
+		<segment id="9" parent="8" relname="explanation">که سریعا دستور پیگیری صادر دادند</segment>
+		<segment id="10" parent="80" relname="joint">و البته ما نیز در مجلس پیگیر ماجرا هستیم.</segment>
+		<segment id="11" parent="91" relname="temporal">ابتدا باید ببینیم وزارت کشور چه اقدامی در این خصوص انجام می‌دهد</segment>
+		<segment id="12" parent="91" relname="temporal">متعاقب آن ما نیز نظارت و نتایج بررسی‌های وزارت کشور را پس از پیگیری به اطلاع مردم می‌رسانیم.</segment>
+		<segment id="13" parent="14" relname="background">گفتنی است که راه‌حل رفع خشونت علیه زنان در جامعه ، در لایحه امنیت خشونت در فضای عمومی نیز تعریف شده است.</segment>
+		<segment id="14" parent="114" relname="span">این رفتارها خشونت در فضای عمومی هستند</segment>
+		<segment id="15" parent="93" relname="condition">و اگر در این لایحه هم موضوع خشونت علیه زنان دیده نشده باشد ،</segment>
+		<segment id="16" parent="92" relname="temporal">می‌توانیم بازنگری کنیم</segment>
+		<segment id="17" parent="92" relname="temporal">در این قانون به آن اشاره کنیم</segment>
+		<segment id="18" parent="92" relname="temporal">و قانونا اعلام کنیم که کسی حق اعمال خشونت نسبت به زنان و دختران را ندارد.</segment>
+		<segment id="19" parent="94" relname="same">با این اوصاف فکر نمی‌کنم که افراد جامعه ما شایسته برخورد به این شکل</segment>
+		<segment id="20" parent="19" relname="elaboration">که در این فیلم بخصوص دیده می‌شود ،</segment>
+		<segment id="21" parent="94" relname="same">باشند.</segment>
+		<segment id="22" parent="118" relname="span">باید با افراد جامعه اعم از زن و مرد ، کودک و حتی با حیوانات با احترام رفتار کنیم.</segment>
+		<segment id="23" parent="22" relname="cause">ما حق آزار و اذیت نداریم.</segment>
+		<segment id="24" parent="121" relname="background">در حال حاضر ضرورت تصویب قانون و الزام ماموران پلیس به نصب دوربین برای حمایت و حفاظت از حقوق شهروندان و حتی متهمان و مجرمان بیش از هر زمانی احساس می‌شود.</segment>
+		<segment id="25" parent="96" relname="same">ما می‌بینیم دادستان تهران ، شهردار پایتخت را</segment>
+		<segment id="26" parent="95" relname="joint">به سبب این که در برنامه نمایشی یک سری دختر بچه حضور پیدا کرده</segment>
+		<segment id="27" parent="95" relname="joint">و هیچ اتفاق خاصی هم نیفتاده ،</segment>
+		<segment id="28" parent="95" relname="joint">هیچ شووناتی هم زیر پا گذاشته نشده ،</segment>
+		<segment id="29" parent="96" relname="same">بلافاصله ساعت ١۰ و ١١ شب فرا می‌خواند.</segment>
+		<segment id="30" parent="97" relname="same">از طرف دیگر ، می‌بینیم که</segment>
+		<segment id="31" parent="32" relname="temporal">در پی برگزاری مراسمی در یک مجتمع تجاری در مشهد</segment>
+		<segment id="32" parent="97" relname="same">و به فاصله یک روز پس از وقوع آن روز پنجشنبه ، بلافاصله مدیرکل ارشاد از کار برکنار می‌شود.</segment>
+		<segment id="33" parent="98" relname="contrast">پس شما می‌بینید برخوردهای سلبی این چنینی خیلی سریع و فوری صورت می‌گیرد</segment>
+		<segment id="34" parent="143" relname="span">ولی در مقابله با خشونت روا شده با مردم ، می‌بینیم که روند برخورد کاملا تغییر می‌کند.</segment>
+		<segment id="35" parent="36" relname="condition">گویی وقتی به مردم ظلم شود</segment>
+		<segment id="36" parent="126" relname="span">برخورد مناسبی با آن صورت نمی‌گیرد.</segment>
+		<segment id="37" parent="38" relname="attribution">ما وزیر کشور را دیدیم که گفت</segment>
+		<segment id="38" parent="127" relname="span">برخورد می‌کند</segment>
+		<segment id="39" parent="40" relname="attribution">و خانم دکتر ابتکار هم گفت</segment>
+		<segment id="40" parent="129" relname="span">پیگیراین ماجرا هستند.</segment>
+		<segment id="41" parent="42" relname="attribution">ما نمایندگان هم گفتیم</segment>
+		<segment id="42" parent="130" relname="span">پیگیری می‌کنیم.</segment>
+		<segment id="43" parent="158" relname="contrast">ما واقعا از وزیر کشور و نیروی انتظامی انتظار داشتیم که بلافاصله اقدامی صورت دهند.</segment>
+		<segment id="44" parent="157" relname="span">اما الان معلوم نیست چه سیاستی برای مواجهه با این ماجرا در پیش گرفته شده</segment>
+		<segment id="45" parent="156" relname="span">و چه بسا مدل برخورد برعکس شده باشد</segment>
+		<segment id="46" parent="155" relname="span">زیرا صحبت‌های جدیدی مطرح شده است.</segment>
+		<segment id="47" parent="101" relname="same">حالا برای تبریه کردن فردی</segment>
+		<segment id="48" parent="47" relname="elaboration">که این کار را کرده</segment>
+		<segment id="49" parent="101" relname="same">موارد دیگری مطرح شده است.</segment>
+		<segment id="50" parent="135" relname="span">چیزی که برای من نگران‌کننده است و واقعا جای تاسف دارد ، این که چه اصراری توسط بعضی‌ها وجود دارد</segment>
+		<segment id="51" parent="50" relname="enablement">که در مقابله با جامعه مدنی حرف بزنند ؟</segment>
+		<segment id="52" parent="102" relname="background">باید به این نکته توجه کنیم</segment>
+		<segment id="53" parent="102" relname="span">که در بسیاری موارد مردم برای آنکه نارضایتی خود را نشان دهند دست به حرکاتی می‌زنند</segment>
+		<segment id="54" parent="53" relname="enablement">تا فرد معترض به خود را عصبانی کنند.</segment>
+		<segment id="55" parent="103" relname="same">متاسفانه به جای این که سعی کنیم از آجرها و قطعات دیوار بلند بی‌اعتمادی</segment>
+		<segment id="56" parent="55" relname="elaboration">که دارد ایجاد می‌شود</segment>
+		<segment id="57" parent="103" relname="same">کم کنیم ،</segment>
+		<segment id="58" parent="109" relname="span">روز به روز به این قطعات ، اضافه می‌کنیم ،</segment>
+		<segment id="59" parent="106" relname="same">به گونه‌ای که کسانی</segment>
+		<segment id="60" parent="59" relname="elaboration">که مسوولیت دارند ،</segment>
+		<segment id="61" parent="62" relname="elaboration">حتی اگر بخواهند بپذیرند یا نپذیرند ،</segment>
+		<segment id="62" parent="106" relname="same">در یک طرف قرار گرفته‌اند و مردم در طرف دیگر.</segment>
+		<segment id="63" parent="108" relname="joint">نشانه‌هایش را این روزها در اصفهان و ورزنه ، ‌در کازرون و خیلی نقاط دیگر می‌بینیم.</segment>
+		<segment id="64" parent="65" relname="cause">باید توجه داشته باشیم که سال‌هاست فشارهایی بر مردم وجود داشته است</segment>
+		<segment id="65" parent="140" relname="span">و این‌ها مقاومتی مدنی است.</segment>
+		<segment id="66" parent="88" relname="joint">فکر می‌کنم باید بیش از گذشته به حریم‌ مردم احترام گذاشته شود</segment>
+		<segment id="67" parent="68" relname="condition">و وقتی دولت شعار حقوق شهروندی سر می‌دهد</segment>
+		<segment id="68" parent="87" relname="span">باید بیشتر آن را مورد توجه قرار دهد.</segment>
+		<segment id="69" parent="70" relname="condition">اگر می‌توانید پاس بدارید</segment>
+		<segment id="70" parent="85" relname="span">بگویید ،</segment>
+		<segment id="71" parent="72" relname="attribution">اگر به هر دلیلی نمی‌توانید ،</segment>
+		<segment id="72" parent="84" relname="span">صادقانه بگویید چه کسانی نمی‌گذارند و مردم در مواجهه با نقض حقوق شهروندی باید به کجا مراجعه کنند ؟</segment>
+		<segment id="73" parent="86" relname="background">این را از سر دلسوزی برای جامعه‌‌مان می‌گویم ؛</segment>
+		<segment id="74" parent="83" relname="elaboration">این روزها میزان نارضایتی خیلی زیاد است</segment>
+		<segment id="75" parent="82" relname="same">و نباید به آن‌ها</segment>
+		<segment id="76" parent="77" relname="manner-means">با رفتاری مشابه آنچه در این فیلم دیده شد ،</segment>
+		<segment id="77" parent="82" relname="same">دامن زد.</segment>
+		<group id="78" type="multinuc" parent="90" relname="cause"/>
+		<group id="79" type="span" parent="78" relname="joint"/>
+		<group id="80" type="multinuc" parent="110" relname="background"/>
+		<group id="81" type="span" parent="80" relname="joint"/>
+		<group id="82" type="multinuc" parent="83" relname="span"/>
+		<group id="83" type="span" parent="86" relname="span"/>
+		<group id="84" type="span" parent="138" relname="joint"/>
+		<group id="85" type="span" parent="138" relname="joint"/>
+		<group id="86" type="span" parent="137" relname="span"/>
+		<group id="87" type="span" parent="139" relname="span"/>
+		<group id="88" type="multinuc" parent="165" relname="span"/>
+		<group id="89" type="multinuc" parent="113" relname="cause"/>
+		<group id="90" type="span" parent="112" relname="span"/>
+		<group id="91" type="multinuc" parent="110" relname="span"/>
+		<group id="92" type="multinuc" parent="93" relname="span"/>
+		<group id="93" type="span" parent="115" relname="span"/>
+		<group id="94" type="multinuc" parent="117" relname="span"/>
+		<group id="95" type="multinuc" parent="29" relname="cause"/>
+		<group id="96" type="multinuc" parent="119" relname="joint"/>
+		<group id="97" type="multinuc" parent="119" relname="joint"/>
+		<group id="98" type="multinuc" parent="120" relname="span"/>
+		<group id="101" type="multinuc" parent="153" relname="span"/>
+		<group id="102" type="span" parent="136" relname="span"/>
+		<group id="103" type="multinuc" parent="105" relname="comparison"/>
+		<group id="105" type="multinuc" parent="141" relname="span"/>
+		<group id="106" type="multinuc" parent="108" relname="joint"/>
+		<group id="108" type="multinuc" parent="58" relname="explanation"/>
+		<group id="109" type="span" parent="105" relname="comparison"/>
+		<group id="110" type="span" parent="111" relname="span"/>
+		<group id="111" type="span" parent="113" relname="span"/>
+		<group id="112" type="span" parent="89" relname="joint"/>
+		<group id="113" type="span" parent="160" relname="span"/>
+		<group id="114" type="span" parent="115" relname="cause"/>
+		<group id="115" type="span" parent="122" relname="span"/>
+		<group id="117" type="span" parent="118" relname="cause"/>
+		<group id="118" type="span" parent="123" relname="span"/>
+		<group id="119" type="multinuc" parent="120" relname="explanation"/>
+		<group id="120" type="span" parent="121" relname="span"/>
+		<group id="121" type="span" parent="125" relname="span"/>
+		<group id="122" type="span" parent="124" relname="span"/>
+		<group id="123" type="span" parent="122" relname="cause"/>
+		<group id="124" type="span" parent="168" relname="span"/>
+		<group id="125" type="span" parent="162" relname="span"/>
+		<group id="126" type="span" parent="34" relname="elaboration"/>
+		<group id="127" type="span" parent="128" relname="joint"/>
+		<group id="128" type="multinuc" parent="159" relname="cause"/>
+		<group id="129" type="span" parent="128" relname="joint"/>
+		<group id="130" type="span" parent="128" relname="joint"/>
+		<group id="135" type="span" parent="152" relname="joint"/>
+		<group id="136" type="span" parent="152" relname="joint"/>
+		<group id="137" type="span" parent="139" relname="cause"/>
+		<group id="138" type="multinuc" parent="87" relname="elaboration"/>
+		<group id="139" type="span" parent="164" relname="span"/>
+		<group id="140" type="span" parent="141" relname="elaboration"/>
+		<group id="141" type="span" parent="142" relname="span"/>
+		<group id="142" type="span" parent="165" relname="background"/>
+		<group id="143" type="span" parent="98" relname="contrast"/>
+		<group id="152" type="multinuc" parent="153" relname="topicomment"/>
+		<group id="153" type="span" parent="154" relname="span"/>
+		<group id="154" type="span" parent="46" relname="cause"/>
+		<group id="155" type="span" parent="45" relname="cause"/>
+		<group id="156" type="span" parent="44" relname="evaluation"/>
+		<group id="157" type="span" parent="158" relname="contrast"/>
+		<group id="158" type="multinuc" parent="159" relname="span"/>
+		<group id="159" type="span" parent="161" relname="span"/>
+		<group id="160" type="span" parent="124" relname="background"/>
+		<group id="161" type="span" parent="125" relname="explanation"/>
+		<group id="162" type="span" parent="167" relname="span"/>
+		<group id="164" type="span" parent="88" relname="joint"/>
+		<group id="165" type="span" parent="166" relname="span"/>
+		<group id="166" type="span" parent="170" relname="span"/>
+		<group id="167" type="span" parent="169" relname="span"/>
+		<group id="168" type="span" parent="167" relname="topicomment"/>
+		<group id="169" type="span" parent="166" relname="topicomment"/>
+		<group id="170" type="span" />
+	</body>
+</rst>

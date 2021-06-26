@@ -1,0 +1,142 @@
+<rst>
+ <header>
+  <relations>
+   <rel name="attribution" type="rst"/>
+   <rel name="background" type="rst"/>
+   <rel name="causemult" type="multinuc"/>
+   <rel name="cause" type="rst"/>
+   <rel name="comparisonmult" type="multinuc"/>
+   <rel name="comparison" type="rst"/>
+   <rel name="conditionmult" type="multinuc"/>
+   <rel name="condition" type="rst"/>
+   <rel name="contrastmult" type="multinuc"/>
+   <rel name="contrast" type="rst"/>
+   <rel name="elaboration" type="rst"/>
+   <rel name="enablement" type="rst"/>
+   <rel name="evaluationmult" type="multinuc"/>
+   <rel name="evaluation" type="rst"/>
+   <rel name="explanation" type="rst"/>
+   <rel name="jointmult" type="multinuc"/>
+   <rel name="manner-means" type="rst"/>
+   <rel name="same" type="multinuc"/>
+   <rel name="summary" type="rst"/>
+   <rel name="temporalmult" type="multinuc"/>
+   <rel name="temporal" type="rst"/>
+   <rel name="textualorganizationmult" type="multinuc"/>
+   <rel name="topichangemult" type="multinuc"/>
+   <rel name="topichange" type="rst"/>
+   <rel name="topicommentmult" type="multinuc"/>
+   <rel name="topicomment" type="rst"/>
+  </relations>
+ </header>
+ <body>
+  <segment id="1" parent="2" relname="temporal">
+   پس از شروع بهار عربی در منطقه خاورمیانه
+  </segment>
+  <segment id="2" parent="38" relname="span">
+   بسیاری از کشورها در برابر آن ایستادگی کردند.
+  </segment>
+  <segment id="3" parent="4" relname="cause">
+   در این میان برداشت ترکیه به عنوان یکی از بازیگران منطقه این بود که سوریه در عرض سه ماه دچار تغییر و تحول بنیادین شود
+  </segment>
+  <segment id="4" parent="37" relname="span">
+   و در این مسیر تلاش‌هایی نیز انجام داد.
+  </segment>
+  <segment id="5" parent="28" relname="jointmult">
+   از سوی دیگر ایران در برابر تغییر و تحولات بنیادین در ساختار سیاسی سوریه واکنش نشان داد
+  </segment>
+  <segment id="6" parent="28" relname="jointmult">
+   و تصمیم گرفت از هم پیمان قدیمی خود حمایت کند.
+  </segment>
+  <segment id="7" parent="40" relname="span">
+   این عامل باعث تیرگی روابط ایران و ترکیه شد.
+  </segment>
+  <segment id="8" parent="39" relname="span">
+   پیش از این ایران و ترکیه روابط خوبی را پشت سر گذاشته بودند
+  </segment>
+      <segment id="9" parent="8" relname="explanation">و در عرصه‌های تجاری و بازرگانی، انرژی و همکاری در برابر «پ ک ک» با یکدیگر همکاری‌هایی داشتند.</segment>
+
+  <segment id="10" parent="11" relname="temporal">
+   پس از به وجودآمدن تنش در میان روابط ترکیه و ایران ،
+  </segment>
+  <segment id="11" parent="41" relname="span">
+   دو کشور سعی کردند که در برخی عرصه‌ها روابط سابق خود را تا حدودی احیا کنند.
+  </segment>
+  <segment id="12" parent="29" relname="same">
+   این همکاری‌ها به صورت محدود در مواردی
+  </segment>
+  <segment id="13" parent="14" relname="elaboration">
+   مانند برگزاری نشست ١۵ در استانبول
+  </segment>
+  <segment id="14" parent="54" relname="span">
+   اتفاق افتاد.
+  </segment>
+  <segment id="15" parent="30" relname="same">
+   در ماجرای مساله آزادی گروگان‌ها ما شاهد هستیم که ایران
+  </segment>
+  <segment id="16" parent="17" relname="enablement">
+   در راستای احیای همکاری‌های گذشته خود ،
+  </segment>
+  <segment id="17" parent="55" relname="span">
+   با ترکیه رایزنی کرد.
+  </segment>
+  <segment id="18" parent="19" relname="attribution">
+   از نظر ترکیه
+  </segment>
+  <segment id="19" parent="34" relname="span">
+   تمایل ایران برای رایزنی ، فرصت و امتیازی بود برای اثبات حسن نیت «آنکارا» در قبال تهران ،
+  </segment>
+  <segment id="20" parent="34" relname="cause">
+   زیرا همگامی ترکیه می‌توانست اندکی از تنش موجود در روابط دو کشور را تعدیل کند.
+  </segment>
+  <segment id="21" parent="32" relname="span">
+   به نظر می‌رسد سوریه در این ماجرا نتوانسته نقشی جدی ایفا کند.
+  </segment>
+  <segment id="22" parent="21" relname="cause">
+   زیرا دولت سوریه در میان مخالفان جایگاهی ندارد.
+  </segment>
+  <segment id="23" parent="31" relname="jointmult">
+   از سوی دیگر گروگان‌ها در اختیار مخالفان بودند نه دولت بشار اسد.
+  </segment>
+  <segment id="24" parent="53" relname="span">
+   بنابراین طبیعی بود ترکیه
+  </segment>
+  <segment id="25" parent="24" relname="elaboration">
+   که دارای مناسبات نزدیکی با معارضان سوری است ،
+  </segment>
+  <segment id="26" parent="33" relname="same">
+   نقش محوری در پایان گروگانگیری ایرانی‌ها ایفا کند.
+  </segment>
+  <group id="55" parent="30" relname="same" type="span"/>
+  <group id="54" parent="29" relname="same" type="span"/>
+  <group id="53" parent="33" relname="same" type="span"/>
+  <segment id="27" parent="44" relname="causemult">
+   این گام مثبت «آنکارا» می‌تواند دیپلمات‌های ایرانی وترکیه‌ای را به افزایش همکاری در حوزه‌های مورد اختلاف دیگر ، ترغیب کند.
+  </segment>
+  <group id="28" parent="7" relname="cause" type="multinuc"/>
+  <group id="29" parent="41" relname="elaboration" type="multinuc"/>
+  <group id="30" parent="47" relname="jointmult" type="multinuc"/>
+  <group id="31" parent="35" relname="evaluation" type="multinuc"/>
+  <group id="32" parent="31" relname="jointmult" type="span"/>
+  <group id="33" parent="35" relname="span" type="multinuc"/>
+  <group id="34" parent="48" relname="span" type="span"/>
+  <group id="35" parent="45" relname="span" type="span"/>
+  <group id="36" parent="51" relname="background" type="multinuc"/>
+  <group id="37" parent="36" relname="jointmult" type="span"/>
+  <group id="38" parent="36" relname="jointmult" type="span"/>
+  <group id="39" parent="40" relname="background" type="span"/>
+  <group id="40" parent="43" relname="span" type="span"/>
+  <group id="41" parent="42" relname="contrastmult" type="span"/>
+  <group id="42" parent="50" relname="span" type="multinuc"/>
+  <group id="43" parent="42" relname="contrastmult" type="span"/>
+  <group id="44" parent="50" relname="explanation" type="multinuc"/>
+  <group id="45" parent="46" relname="span" type="span"/>
+  <group id="46" parent="49" relname="span" type="span"/>
+  <group id="47" parent="46" relname="attribution" type="multinuc"/>
+  <group id="48" parent="47" relname="jointmult" type="span"/>
+  <group id="49" parent="44" relname="causemult" type="span"/>
+  <group id="50" parent="51" relname="span" type="span"/>
+  <group id="51" parent="52" relname="span" type="span"/>
+  <group id="52" type="span"/>
+ </body>
+</rst>

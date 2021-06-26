@@ -1,0 +1,150 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="multinuc"/>
+			<rel name="cause" type="rst"/>
+			<rel name="comparison" type="multinuc"/>
+			<rel name="comparison" type="rst"/>
+			<rel name="condition" type="multinuc"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="contrast" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation" type="multinuc"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="explanation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="manner-means" type="rst"/>
+			<rel name="same" type="multinuc"/>
+			<rel name="summary" type="rst"/>
+			<rel name="temporal" type="multinuc"/>
+			<rel name="temporal" type="rst"/>
+			<rel name="textualorganization" type="multinuc"/>
+			<rel name="topichange" type="multinuc"/>
+			<rel name="topichange" type="rst"/>
+			<rel name="topicomment" type="multinuc"/>
+			<rel name="topicomment" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="114" relname="span">درباره بازتاب خبر کودک آزاری و رفتار خلاف اخلاق معاون یک دبیرستان پسرانه تهران در فضای مجازی چند نکته مهم شایان توجه است.</segment>
+		<segment id="2" parent="3" relname="explanation">سخن در این باب بسیار است</segment>
+		<segment id="3" parent="62" relname="span">و ناگزیر به اختصار و اشاره‌ام :</segment>
+		<segment id="4" parent="68" relname="span">١-وزارت آموزش وپرورش به عنوان وزارتخانه مسیول ، در کار خبررسانی کاملا منفعل عمل کرده است.</segment>
+		<segment id="5" parent="6" relname="attribution">عناصر این خبر نشان می‌داد</segment>
+		<segment id="6" parent="115" relname="span">که به سرعت موجی بلند خواهد ساخت.</segment>
+		<segment id="7" parent="65" relname="condition">اگر مسیولان این وزارتخانه درک رسانه‌ای داشتند ،</segment>
+		<segment id="8" parent="9" relname="explanation">به دلیل تسلط و اختیارات اداری</segment>
+		<segment id="9" parent="63" relname="span">می توانستند به سرعت اخبار موثق را از همان مدرسه گرفته</segment>
+		<segment id="10" parent="64" relname="joint">و با انتشار اخبار درست و دقیق در آشنایی افکار عمومی با واقعیت اثرگذار باشند.</segment>
+		<segment id="11" parent="120" relname="span">٢-تلویزیون رسانه‌ای است که می‌تواند به فوریت نسبت به مسایل مختلف واکنش نشان دهد.</segment>
+		<segment id="12" parent="69" relname="contrast">با وجوداین در حالی که از حدود غروب دوشنبه موج این خبر فراگیر شده بود ،</segment>
+		<segment id="13" parent="119" relname="span">اما تلویزیون نیز منفعل برخورد کرد.</segment>
+		<segment id="14" parent="118" relname="same">بی عملی وزارتخانه مسیول و تلویزیون در همان مدت طلایی دیشب تا الان</segment>
+		<segment id="15" parent="14" relname="elaboration">که این یادداشت نوشته می‌شود (عصر روز سه شنبه) ،</segment>
+		<segment id="16" parent="118" relname="same">میدان وسیعی برای «خبربازی» در فضای مجازی باز کرده است.</segment>
+		<segment id="17" parent="86" relname="span">۳-در اطلاع رسانی از اخبار مربوط به حوادث ، خصوصا موضوعات خلاف اخلاق ، رعایت حقوق قربانی یا قربانیان و حتی وابستگان آنها بسیار مهم است.</segment>
+		<segment id="18" parent="19" relname="background">به ویژه وقتی قربانی یا قربانیان کودک باشند ،</segment>
+		<segment id="19" parent="73" relname="span">بیشتر باید از این نظر حمایت شوند.</segment>
+		<segment id="20" parent="121" relname="joint">روزنامه‌نگاری حرفه‌ای به این اصول آگاه است</segment>
+		<segment id="21" parent="121" relname="joint">و آن را رعایت می‌کند.</segment>
+		<segment id="22" parent="74" relname="same">کمااین که در اولین خبری</segment>
+		<segment id="23" parent="22" relname="elaboration">که از این حادثه به وسیله یک خبرگزاری رسمی منتشر شد ،</segment>
+		<segment id="24" parent="74" relname="same">این نکات رعایت شد</segment>
+		<segment id="25" parent="130" relname="span">اما فضای مجازی محیطی عمومی است</segment>
+		<segment id="26" parent="125" relname="joint">که هرکس می‌تواند در آن مطلبی بگذارد</segment>
+		<segment id="27" parent="125" relname="joint">یا خبری منتشر کند.</segment>
+		<segment id="28" parent="77" relname="same">گاه ممکن است</segment>
+		<segment id="29" parent="30" relname="explanation">به خاطر هیجانات یا ایجاد کشش بیشتر یا جلب توجه یا دلایل دیگر ،</segment>
+		<segment id="30" parent="77" relname="same">پیرایه‌هایی هم به خبر اضافه شود یا ساخته شود.</segment>
+		<segment id="31" parent="128" relname="cause">در این صورت کشف حقیقت دشوارتر خواهد شد.</segment>
+		<segment id="32" parent="80" relname="contrast">در حالی که هنوز جزییات مهم و اصلی حادثه معلوم نبوده است ،</segment>
+		<segment id="33" parent="80" relname="contrast">در خیلی از مطالب فضای مجازی حتی عنوان جرم را هم معلوم کردند.</segment>
+		<segment id="34" parent="81" relname="same">جرایمی سنگین</segment>
+		<segment id="35" parent="34" relname="elaboration">که مجازات آنها ممکن است مرگ باشد</segment>
+		<segment id="36" parent="81" relname="same">و آثار روانی و اجتماعی ناگواری برای قربانیان هم درپی داشته باشد.</segment>
+		<segment id="37" parent="38" relname="condition">۴- وقتی ما نتوانیم تصویری درست و واقعی از حادثه‌ای- آن هم با خصوصیات حادثه مورد بحث- داشته باشیم ،</segment>
+		<segment id="38" parent="111" relname="span">طبعا در تحلیل علل و عوامل حادثه ، گره گشایی از حادثه ، یافتن راه‌حل‌های مبارزه با بزه و حتی دفاع و حمایت از قربانیان موفق نخواهیم بود.</segment>
+		<segment id="39" parent="134" relname="span">در انواع جرایم یا رفتارهای نابهنجار یا خلاف اخلاق ، خصوصیات متفاوتی وجود دارد</segment>
+		<segment id="40" parent="39" relname="elaboration">و هرکدام آثار فردی و اجتماعی مختلفی تولید می‌کند.</segment>
+		<segment id="41" parent="109" relname="span">کاستن و افزودن به عناصر یک خبر ، مانع از شناخت واقعیت و مواجهه با آن است.</segment>
+		<segment id="42" parent="91" relname="comparison">خبر هرچه به مرز فاجعه نزدیک‌تر باشد ،</segment>
+		<segment id="43" parent="91" relname="comparison">مهم‌تر و جذاب‌تر است</segment>
+		<segment id="44" parent="45" relname="condition">اما نمی توان وقتی هنوز چیزی به دقت روشن نیست ،</segment>
+		<segment id="45" parent="92" relname="span">بر اساس عنصر خیال خبر را مهم‌تر و جذاب‌تر کرد.</segment>
+		<segment id="46" parent="47" relname="contrast">۵-شاید در این فضای پرتب و هیجان ، خواندن این که حتی حقوق شخص متهم هم باید محفوظ بماند ، کمی برای خواننده محترم نامانوس باشد.</segment>
+		<segment id="47" parent="99" relname="span">دفاع از قربانیان نمی تواند به قیمت نقض حقوق اولیه متهم تمام شود.</segment>
+		<segment id="48" parent="138" relname="span">او هر جرمی مرتکب شده باشد ، باید پس از دادرسی عادلانه به هر مجازاتی</segment>
+		<segment id="49" parent="48" relname="elaboration">که لازم است</segment>
+		<segment id="50" parent="139" relname="same">محکوم شود ؛</segment>
+		<segment id="51" parent="140" relname="temporal">در حالی که حیثیت و حقوق او نیز محفوظ بماند.</segment>
+		<segment id="52" parent="142" relname="same">۶-وقتی سوژه خبر انسان‌هایی هستند</segment>
+		<segment id="53" parent="52" relname="elaboration">که دچار آسیب‌های روانی و جسمانی شده اند ،</segment>
+		<segment id="54" parent="142" relname="same">شیوه انتشار خبر بسیار سخت‌تر و پیچیده‌تر است.</segment>
+		<segment id="55" parent="56" relname="explanation">ممکن است افشای همه چیز در عرصه عمومی ، بیشتر به آنها آسیب بزند.</segment>
+		<segment id="56" parent="103" relname="span">به همین دلیل است که در پرونده‌های خلاف عفت عمومی دادگاه غیرعلنی برگزار می‌شود.</segment>
+		<segment id="57" parent="104" relname="span">بازی خبری با فاجعه ، در این قبیل موارد چه بسا موجب آسیب بیشتر آسیب دیدگان شود.</segment>
+		<segment id="58" parent="105" relname="joint">۷-نکته آخر این که اگر تلویزیون به عنوان رسانه‌ای بسیار مهم و اثرگذار به وظایف حرفه‌ای خود به درستی عمل کند</segment>
+		<segment id="59" parent="105" relname="joint">و بگذارند مطبوعات کشور در آزادی و استقلال و امنیت فعالیت کنند ،</segment>
+		<segment id="60" parent="106" relname="joint">با قدرت گرفتن دوباره فضای رسانه‌ای حرفه‌ای و رسمی کشور ، از سهم فضای مجازی در اطلاع رسانی کاسته شود</segment>
+		<segment id="61" parent="106" relname="joint">و روزنامه‌نگاری حرفه‌ای و آزاد حتما ظرفیت آن را دارد که فضای رسانه‌ای کشور را در اختیار خود بگیرد.</segment>
+		<group id="62" type="span" parent="1" relname="elaboration"/>
+		<group id="63" type="span" parent="64" relname="joint"/>
+		<group id="64" type="multinuc" parent="65" relname="span"/>
+		<group id="65" type="span" parent="66" relname="span"/>
+		<group id="66" type="span" parent="117" relname="span"/>
+		<group id="68" type="span" parent="113" relname="joint"/>
+		<group id="69" type="multinuc" parent="11" relname="contrast"/>
+		<group id="73" type="span" parent="17" relname="elaboration"/>
+		<group id="74" type="multinuc" parent="123" relname="explanation"/>
+		<group id="77" type="multinuc" parent="128" relname="span"/>
+		<group id="80" type="multinuc" parent="84" relname="joint"/>
+		<group id="81" type="multinuc" parent="84" relname="joint"/>
+		<group id="83" type="multinuc" parent="86" relname="elaboration"/>
+		<group id="84" type="multinuc" parent="132" relname="cause"/>
+		<group id="86" type="span" parent="133" relname="span"/>
+		<group id="91" type="multinuc" parent="93" relname="contrast"/>
+		<group id="92" type="span" parent="93" relname="contrast"/>
+		<group id="93" type="multinuc" parent="94" relname="span"/>
+		<group id="94" type="span" parent="41" relname="manner-means"/>
+		<group id="99" type="span" parent="100" relname="span"/>
+		<group id="100" type="span" parent="113" relname="joint"/>
+		<group id="101" type="span" parent="143" relname="span"/>
+		<group id="103" type="span" parent="57" relname="summary"/>
+		<group id="104" type="span" parent="101" relname="explanation"/>
+		<group id="105" type="multinuc" parent="107" relname="condition"/>
+		<group id="106" type="multinuc" parent="107" relname="span"/>
+		<group id="107" type="span" parent="108" relname="span"/>
+		<group id="108" type="span" parent="113" relname="joint"/>
+		<group id="109" type="span" parent="136" relname="joint"/>
+		<group id="111" type="span" parent="137" relname="span"/>
+		<group id="113" type="multinuc" parent="114" relname="elaboration"/>
+		<group id="114" type="span" parent="144" relname="span"/>
+		<group id="115" type="span" parent="66" relname="cause"/>
+		<group id="117" type="span" parent="4" relname="explanation"/>
+		<group id="118" type="multinuc" parent="13" relname="elaboration"/>
+		<group id="119" type="span" parent="69" relname="contrast"/>
+		<group id="120" type="span" parent="113" relname="joint"/>
+		<group id="121" type="multinuc" parent="123" relname="span"/>
+		<group id="123" type="span" parent="124" relname="span"/>
+		<group id="124" type="span" parent="83" relname="contrast"/>
+		<group id="125" type="multinuc" parent="25" relname="elaboration"/>
+		<group id="128" type="span" parent="129" relname="span"/>
+		<group id="129" type="span" parent="125" relname="joint"/>
+		<group id="130" type="span" parent="132" relname="cause"/>
+		<group id="132" type="multinuc" parent="83" relname="contrast"/>
+		<group id="133" type="span" parent="113" relname="joint"/>
+		<group id="134" type="span" parent="136" relname="joint"/>
+		<group id="136" type="multinuc" parent="111" relname="summary"/>
+		<group id="137" type="span" parent="113" relname="joint"/>
+		<group id="138" type="span" parent="139" relname="same"/>
+		<group id="139" type="multinuc" parent="140" relname="temporal"/>
+		<group id="140" type="multinuc" parent="99" relname="explanation"/>
+		<group id="142" type="multinuc" parent="101" relname="span"/>
+		<group id="143" type="span" parent="113" relname="joint"/>
+		<group id="144" type="span" />
+	</body>
+</rst>

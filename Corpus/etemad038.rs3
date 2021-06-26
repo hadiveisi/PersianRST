@@ -1,0 +1,136 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="multinuc"/>
+			<rel name="cause" type="rst"/>
+			<rel name="comparison" type="multinuc"/>
+			<rel name="comparison" type="rst"/>
+			<rel name="condition" type="multinuc"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="contrast" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation" type="multinuc"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="explanation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="manner-means" type="rst"/>
+			<rel name="same" type="multinuc"/>
+			<rel name="summary" type="rst"/>
+			<rel name="temporal" type="multinuc"/>
+			<rel name="temporal" type="rst"/>
+			<rel name="textualorganization" type="multinuc"/>
+			<rel name="topichange" type="multinuc"/>
+			<rel name="topichange" type="rst"/>
+			<rel name="topicomment" type="multinuc"/>
+			<rel name="topicomment" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="52" relname="attribution">در خبرها آمده است</segment>
+		<segment id="2" parent="3" relname="condition">«در صورت تصویب نمایندگان مجلس شورای اسلامی ،</segment>
+		<segment id="3" parent="49" relname="span">قیمت بنزین ۱۵۰۰ تومان می‌شود</segment>
+		<segment id="4" parent="5" relname="condition">که اگر با پیشنهاد شهرداری تهران مبنی بر برقراری نرخ ۱۵ درصد عوارض بنزین مازاد بر وضع موجود در شهر تهران موافقت شود ،</segment>
+		<segment id="5" parent="51" relname="span">قیمت نهایی بنزین در تهران ۱۶۵۰ تومان خواهد شد.»</segment>
+		<segment id="6" parent="54" relname="contrast">من از یک طرف موافق با تصویب و اجرای این طرح هستم ،</segment>
+		<segment id="7" parent="54" relname="contrast">اما این موافقت مشروط است.</segment>
+		<segment id="8" parent="9" relname="condition">این پیشنهاد شهرداری تهران تنها در صورتی معقول است</segment>
+		<segment id="9" parent="55" relname="span">که تمامی درآمد حاصل از این ۱۵۰ تومان هزینه اضافی در هر لیتر بنزین در تهران ، صرف توسعه و بهبود وضعیت حمل ونقل عمومی پایتخت شود.</segment>
+		<segment id="10" parent="56" relname="attribution">اگر قرار باشد هزینه حمل ونقل برای شهروندان تهرانی افزایش پیدا کند</segment>
+		<segment id="11" parent="56" relname="span">در ازای آن باید این امکان به آن‌ها داده شود</segment>
+		<segment id="12" parent="58" relname="span">که از میان گزینه‌های مختلف برای سفرهای شهری ، حق انتخاب داشته باشند.</segment>
+		<segment id="13" parent="57" relname="span">نبودن این حق انتخاب در عمل به این معناست</segment>
+		<segment id="14" parent="13" relname="elaboration">که طرح ارایه شده دست کم از جهت کاهش آلودگی هوا ، موثر نخواهد بود.</segment>
+		<segment id="15" parent="60" relname="same">نداشتن راهکار موازی با افزایش قیمت بنزین در عمل منجر به این می‌شود</segment>
+		<segment id="16" parent="17" relname="condition">که اگر قیمت را به ۲ هزار تومان هم برسانیم</segment>
+		<segment id="17" parent="61" relname="span">باز هم آنچنان از میزان آلودگی و فشردگی ترافیک کاسته نشود ،</segment>
+		<segment id="18" parent="61" relname="cause">چون شهروندان چاره دیگری برای رسیدن از نقطه الف به نقطه ب ندارند.</segment>
+		<segment id="19" parent="62" relname="condition">اگر کسی برای رسیدن از خانه به محل کار قرار باشد بارها در میان مترو ، اتوبوس و تاکسی جابه جا شود ،</segment>
+		<segment id="20" parent="62" relname="span">طبیعی است که ترجیح می‌دهد به خاطر اولویت داشتن زمان ، راحت‌ترین گزینه در دسترس را انتخاب کند</segment>
+		<segment id="21" parent="20" relname="elaboration">و آن هم خودروی شخصی است.</segment>
+		<segment id="22" parent="23" relname="condition">اگر قرار است پیشنهاد افزایش قیمت بنزین در تهران بیشتر از سایر نقاط کشور به اجرا درآید</segment>
+		<segment id="23" parent="64" relname="span">باید برای همراهی شهروندان ، سامانی به وضعیت حمل ونقل عمومی داد.</segment>
+		<segment id="24" parent="65" relname="same">نکته دومی که در همه دنیا هم مورد قبول است</segment>
+		<segment id="25" parent="66" relname="span">این که آلوده کننده باید بهای آن را هم بپردازد.</segment>
+		<segment id="26" parent="67" relname="contrast">برای همین است که در همه جا سهمی که افراد می‌پردازند به میزان این آلوده کنندگی وسایل نقلیه شان بازمی گردد</segment>
+		<segment id="27" parent="70" relname="span">اما ما درست بر خلاف این قاعده عمل می‌کنیم.</segment>
+		<segment id="28" parent="69" relname="comparison">هرچه خودرویی قدیمی‌تر ، با امنیت کمتر و میزان آلودگی بیشتر باشد</segment>
+		<segment id="29" parent="69" relname="comparison">عوارض کمتری به نسبت خودروهای جدید می‌پردازد.</segment>
+		<segment id="30" parent="71" relname="span">این برعکس بودن میزان پرداخت عوارض یک کار غیرمنطقی است</segment>
+		<segment id="31" parent="30" relname="elaboration">که باید اصلاح شود.</segment>
+		<segment id="32" parent="93" relname="span">این هم از جمله عواملی است</segment>
+		<segment id="33" parent="32" relname="enablement">که در کنار حمل ونقل عمومی مناسب می‌تواند عامل گران شدن سوخت را توجیه کند.</segment>
+		<segment id="34" parent="72" relname="span">گران شدن بنزین در پایتخت به خودی خود مانند اجرای طرح ترافیک و طرح زوج و فرد است ،</segment>
+		<segment id="35" parent="34" relname="elaboration">طرحی که به تنهایی خاصیتی ندارد.</segment>
+		<segment id="36" parent="72" relname="elaboration">طرحی که اجرای آن به تنهایی تنها به معنای افزایش درآمد شهرداری است نه برطرف کننده مشکل آلودگی هوا.</segment>
+		<segment id="37" parent="74" relname="contrast">نمی توان تنها بنزین را گران کرد</segment>
+		<segment id="38" parent="74" relname="contrast">و از سوی دیگر اجازه داد که ساختمان‌ها از کوه‌ها بالا بروند.</segment>
+		<segment id="39" parent="75" relname="contrast">نمی شود فقط عامل بنزین را نشانه گرفت</segment>
+		<segment id="40" parent="75" relname="contrast">و به رفع آلودگی امید بست.</segment>
+		<segment id="41" parent="77" relname="attribution">باید از شهردار محترم پرسید</segment>
+		<segment id="42" parent="76" relname="joint">که آیا قرار است در کنار این پیشنهاد به فکر مدیریت کاربری اراضی شهر ، مدیریت تقاضای سفرهای شهری و گسترش خدمات الکترونیک هم باشند</segment>
+		<segment id="43" parent="76" relname="joint">یا این که تنها یک تکه از پازل را در دست دارند</segment>
+		<segment id="44" parent="76" relname="joint">و با همان یک تکه قرار است مشکل را حل کنند ؟</segment>
+		<segment id="45" parent="83" relname="span">ماجرای آلودگی هوای پایتخت مانند حکایت فیل در تاریکی مولانا شده است ،</segment>
+		<segment id="46" parent="79" relname="joint">هر کسی دارد به بخشی از این بدنه دست می‌کشد</segment>
+		<segment id="47" parent="79" relname="joint">و دریافت خودش را دارد.</segment>
+		<segment id="48" parent="81" relname="evaluation">وقت آن رسیده است که شمع روشن کنیم و تمامی اجزای این فیل را ببینیم.</segment>
+		<group id="49" type="span" parent="50" relname="joint"/>
+		<group id="50" type="multinuc" parent="52" relname="span"/>
+		<group id="51" type="span" parent="50" relname="joint"/>
+		<group id="52" type="span" parent="53" relname="span"/>
+		<group id="53" type="span" parent="99" relname="background"/>
+		<group id="54" type="multinuc" parent="84" relname="span"/>
+		<group id="55" type="span" parent="85" relname="span"/>
+		<group id="56" type="span" parent="82" relname="span"/>
+		<group id="57" type="span" parent="12" relname="cause"/>
+		<group id="58" type="span" parent="11" relname="attribution"/>
+		<group id="59" type="span" parent="60" relname="same"/>
+		<group id="60" type="multinuc" parent="86" relname="span"/>
+		<group id="61" type="span" parent="59" relname="span"/>
+		<group id="62" type="span" parent="63" relname="span"/>
+		<group id="63" type="span" parent="86" relname="elaboration"/>
+		<group id="64" type="span" parent="89" relname="span"/>
+		<group id="65" type="multinuc" parent="92" relname="span"/>
+		<group id="66" type="span" parent="65" relname="same"/>
+		<group id="67" type="multinuc" parent="25" relname="cause"/>
+		<group id="68" type="span" parent="67" relname="contrast"/>
+		<group id="69" type="multinuc" parent="27" relname="elaboration"/>
+		<group id="70" type="span" parent="68" relname="span"/>
+		<group id="71" type="span" parent="70" relname="evaluation"/>
+		<group id="72" type="span" parent="73" relname="span"/>
+		<group id="73" type="span" parent="96" relname="span"/>
+		<group id="74" type="multinuc" parent="95" relname="joint"/>
+		<group id="75" type="multinuc" parent="95" relname="joint"/>
+		<group id="76" type="multinuc" parent="77" relname="span"/>
+		<group id="77" type="span" parent="78" relname="span"/>
+		<group id="78" type="span" parent="96" relname="evaluation"/>
+		<group id="79" type="multinuc" parent="81" relname="span"/>
+		<group id="80" type="span" parent="45" relname="elaboration"/>
+		<group id="81" type="span" parent="80" relname="span"/>
+		<group id="82" type="span" parent="88" relname="span"/>
+		<group id="83" type="span" parent="101" relname="evaluation"/>
+		<group id="84" type="span" parent="85" relname="background"/>
+		<group id="85" type="span" parent="91" relname="span"/>
+		<group id="86" type="span" parent="87" relname="span"/>
+		<group id="87" type="span" parent="82" relname="cause"/>
+		<group id="88" type="span" parent="55" relname="cause"/>
+		<group id="89" type="span" parent="90" relname="span"/>
+		<group id="90" type="span" parent="98" relname="joint"/>
+		<group id="91" type="span" parent="89" relname="summary"/>
+		<group id="92" type="span" parent="94" relname="span"/>
+		<group id="93" type="span" parent="92" relname="elaboration"/>
+		<group id="94" type="span" parent="98" relname="joint"/>
+		<group id="95" type="multinuc" parent="73" relname="explanation"/>
+		<group id="96" type="span" parent="97" relname="span"/>
+		<group id="97" type="span" parent="100" relname="evaluation"/>
+		<group id="98" type="multinuc" parent="99" relname="span"/>
+		<group id="99" type="span" parent="100" relname="span"/>
+		<group id="100" type="span" parent="101" relname="span"/>
+		<group id="101" type="span" parent="102" relname="span"/>
+		<group id="102" type="span" />
+	</body>
+</rst>

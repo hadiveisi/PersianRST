@@ -1,0 +1,143 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="multinuc"/>
+			<rel name="cause" type="rst"/>
+			<rel name="comparison" type="multinuc"/>
+			<rel name="comparison" type="rst"/>
+			<rel name="condition" type="multinuc"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="contrast" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation" type="multinuc"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="explanation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="manner-means" type="rst"/>
+			<rel name="same" type="multinuc"/>
+			<rel name="summary" type="rst"/>
+			<rel name="temporal" type="multinuc"/>
+			<rel name="temporal" type="rst"/>
+			<rel name="textualorganization" type="multinuc"/>
+			<rel name="topichange" type="multinuc"/>
+			<rel name="topichange" type="rst"/>
+			<rel name="topicomment" type="multinuc"/>
+			<rel name="topicomment" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="110" relname="span">باید مبارزه با پولشویی را به عنوان یک فرصت پاس بداریم ؛</segment>
+		<segment id="2" parent="113" relname="span">روشن است که این اتفاق نفع اقتصاد ایران است ؛</segment>
+		<segment id="3" parent="2" relname="elaboration">مبارزه با پولشویی ، مبارزه با پول‌های کثیف ، قاچاق کالا و ارز ، مواد مخدر و … </segment>
+		<segment id="4" parent="110" relname="evaluation">این مبارزه باید در دستور کار تمام حاکمیت قرار گیرد.</segment>
+		<segment id="5" parent="6" relname="condition">نکته این است که امکان ندارد با فساد مبارزه کنیم</segment>
+		<segment id="6" parent="58" relname="span">اما مبارزه با پولشویی را در دستور کار قرار ندهیم.</segment>
+		<segment id="7" parent="59" relname="same">عمده‌ترین مشکل اقتصاد ایران</segment>
+		<segment id="8" parent="7" relname="elaboration">که متاسفانه تندروها و محافظه کاران به آن توجهی نشان نمی‌دهند ،</segment>
+		<segment id="9" parent="59" relname="same">فرار مالیاتی و پولشویی است.</segment>
+		<segment id="10" parent="60" relname="topicomment">چه کسانی در این کشور پولشویی می‌کنند ؟</segment>
+		<segment id="11" parent="60" relname="topicomment">کسانی که فرار مالیاتی دارند.</segment>
+		<segment id="12" parent="64" relname="background">شما نگاه کنید</segment>
+		<segment id="13" parent="63" relname="contrast">آقای ظریف هفته گذشته از وجود پولشویی گسترده در کشور خبر داد</segment>
+		<segment id="14" parent="62" relname="same">اما متاسفانه حتی از این چهره</segment>
+		<segment id="15" parent="61" relname="joint">که یکی از بهترین دیپلمات‌های ماست</segment>
+		<segment id="16" parent="61" relname="joint">و حرف درست و مستندی زد ،</segment>
+		<segment id="17" parent="62" relname="same">حمایت نکردند.</segment>
+		<segment id="18" parent="67" relname="span">پرسش این است که چرا به ظریف حمله می‌شود ،</segment>
+		<segment id="19" parent="18" relname="background">وقتی ایران بهشت دلالان و واسطه گران است.</segment>
+		<segment id="20" parent="114" relname="background">توجه کنید</segment>
+		<segment id="21" parent="68" relname="contrast">نسبت مالیات به تولید ناخالص داخلی در کشور ما ۷. ۵ درصد است ،</segment>
+		<segment id="22" parent="68" relname="contrast">در حالی که این شاخص در ترکیه ۲۰ درصد و در کشورهای اسکاندیناوی مثل سوید ، نروژ ، دانمارک و فنلاند این رقم حدود ۵۰ درصد است.</segment>
+		<segment id="23" parent="89" relname="topicomment">قضیه روشن نیست ؟</segment>
+		<segment id="24" parent="77" relname="span">به خاطر این است که ما باید جلوی فرار مالیاتی را بگیریم</segment>
+		<segment id="25" parent="70" relname="condition">چون اگر جلوی فرار مالیاتی گرفته شود</segment>
+		<segment id="26" parent="69" relname="temporal">پولشویی هم به تبع آن کاهش می‌یابد</segment>
+		<segment id="27" parent="69" relname="temporal">و اقتصاد ما به شفافیت بیشتری می‌رسد.</segment>
+		<segment id="28" parent="69" relname="temporal">از آن سو درآمدهای دولت هم افزایش می‌یابد.</segment>
+		<segment id="29" parent="81" relname="evaluation">مساله شاقی نیست.</segment>
+		<segment id="30" parent="79" relname="same">کسانی</segment>
+		<segment id="31" parent="30" relname="elaboration">که در این کشور درآمدهای نجومی دارند</segment>
+		<segment id="32" parent="79" relname="same">درآمدهای آنها قابل رصد و پیگیری است.</segment>
+		<segment id="33" parent="80" relname="cause">سازمان‌های اطلاعاتی و امنیتی کشور می‌توانند این درآمدها را رصد کنند.</segment>
+		<segment id="34" parent="72" relname="background">شما توجه کنید</segment>
+		<segment id="35" parent="72" relname="span">فقط در سال گذشته مطابق آمارهای رسمی ۱۲. ۵ میلیارد دلار کالای قاچاق وارد این کشور شده است</segment>
+		<segment id="36" parent="37" relname="condition">و اگر شما این عدد را در ۴۵۰۰ تومان ضرب کنید</segment>
+		<segment id="37" parent="66" relname="span">یعنی ۵۰ هزار میلیارد تومان کالای قاچاق.</segment>
+		<segment id="38" parent="74" relname="span">این فقط یک قلم پولشویی است</segment>
+		<segment id="39" parent="38" relname="elaboration">که در این کشور روی داده است.</segment>
+		<segment id="40" parent="41" relname="topicomment">خب من که کالای قاچاق وارد کشور نکرده ام ،</segment>
+		<segment id="41" parent="83" relname="span">چه کسی کالای قاچاق وارد کرده است ؟</segment>
+		<segment id="42" parent="84" relname="joint">۵۰ هزار میلیارد تومان که از طریق چمدان رد و بدل نمی‌شود ،</segment>
+		<segment id="43" parent="84" relname="joint">این تبادلات مالی از طریق همین سیستم بانکی صورت می‌گیرد.</segment>
+		<segment id="44" parent="101" relname="background">در واقع وقتی از پولشویی گسترده در اقتصاد ایران سخن می‌گوییم</segment>
+		<segment id="45" parent="100" relname="joint">یک گزاره یا ادعای سیاسی را طرح نمی‌کنیم</segment>
+		<segment id="46" parent="102" relname="span">و کاملا یک حرف اقتصادی می‌زنیم</segment>
+		<segment id="47" parent="46" relname="elaboration">که در قالب اعداد امکان مطالعه دارد.</segment>
+		<segment id="48" parent="105" relname="background">به عنوان مثال وقتی که لایحه بودجه ۹۷ توسط رییس جمهور ارایه شد</segment>
+		<segment id="49" parent="104" relname="attribution">ایشان گفت</segment>
+		<segment id="50" parent="104" relname="span">که ۲۵ درصد نقدینگی در اختیار موسسات غیرمجاز است</segment>
+		<segment id="51" parent="50" relname="elaboration">که زمینه برای هر گونه فسادی را فراهم کرده است.</segment>
+		<segment id="52" parent="108" relname="same">متاسفانه تندرو‌ها در داخل</segment>
+		<segment id="53" parent="54" relname="explanation">از آنجایی که درکی از شرایط اقتصاد داخلی و شرایط جهانی دارند ،</segment>
+		<segment id="54" parent="108" relname="same">با اعلام مخالفت‌ها و فشارها ، مانع مبارزه با پولشویی در ایران می‌شوند.</segment>
+		<group id="58" type="span" parent="129" relname="cause"/>
+		<group id="59" type="multinuc" parent="126" relname="span"/>
+		<group id="60" type="multinuc" parent="126" relname="elaboration"/>
+		<group id="61" type="multinuc" parent="14" relname="elaboration"/>
+		<group id="62" type="multinuc" parent="63" relname="contrast"/>
+		<group id="63" type="multinuc" parent="64" relname="span"/>
+		<group id="64" type="span" parent="65" relname="span"/>
+		<group id="65" type="span" parent="88" relname="span"/>
+		<group id="66" type="span" parent="35" relname="elaboration"/>
+		<group id="67" type="span" parent="65" relname="topicomment"/>
+		<group id="68" type="multinuc" parent="114" relname="span"/>
+		<group id="69" type="multinuc" parent="70" relname="span"/>
+		<group id="70" type="span" parent="71" relname="span"/>
+		<group id="71" type="span" parent="24" relname="explanation"/>
+		<group id="72" type="span" parent="73" relname="span"/>
+		<group id="73" type="span" parent="82" relname="span"/>
+		<group id="74" type="span" parent="73" relname="elaboration"/>
+		<group id="77" type="span" parent="118" relname="span"/>
+		<group id="79" type="multinuc" parent="80" relname="span"/>
+		<group id="80" type="span" parent="81" relname="span"/>
+		<group id="81" type="span" parent="116" relname="span"/>
+		<group id="82" type="span" parent="92" relname="span"/>
+		<group id="83" type="span" parent="82" relname="evaluation"/>
+		<group id="84" type="multinuc" parent="92" relname="elaboration"/>
+		<group id="86" type="span" parent="123" relname="span"/>
+		<group id="88" type="span" parent="90" relname="background"/>
+		<group id="89" type="span" parent="90" relname="span"/>
+		<group id="90" type="span" parent="120" relname="span"/>
+		<group id="92" type="span" parent="117" relname="span"/>
+		<group id="100" type="multinuc" parent="101" relname="span"/>
+		<group id="101" type="span" parent="103" relname="span"/>
+		<group id="102" type="span" parent="100" relname="joint"/>
+		<group id="103" type="span" parent="107" relname="span"/>
+		<group id="104" type="span" parent="105" relname="span"/>
+		<group id="105" type="span" parent="106" relname="span"/>
+		<group id="106" type="span" parent="103" relname="elaboration"/>
+		<group id="107" type="span" parent="109" relname="contrast"/>
+		<group id="108" type="multinuc" parent="109" relname="contrast"/>
+		<group id="109" type="multinuc" parent="128" relname="evaluation"/>
+		<group id="110" type="span" parent="112" relname="span"/>
+		<group id="112" type="span" parent="86" relname="summary"/>
+		<group id="113" type="span" parent="1" relname="explanation"/>
+		<group id="114" type="span" parent="89" relname="span"/>
+		<group id="116" type="span" parent="77" relname="manner-means"/>
+		<group id="117" type="span" parent="118" relname="elaboration"/>
+		<group id="118" type="span" parent="119" relname="span"/>
+		<group id="119" type="span" parent="125" relname="topicomment"/>
+		<group id="120" type="span" parent="125" relname="topicomment"/>
+		<group id="123" type="span" parent="128" relname="span"/>
+		<group id="125" type="multinuc" parent="123" relname="explanation"/>
+		<group id="126" type="span" parent="127" relname="span"/>
+		<group id="127" type="span" parent="129" relname="cause"/>
+		<group id="128" type="span" parent="130" relname="span"/>
+		<group id="129" type="multinuc" parent="86" relname="span"/>
+		<group id="130" type="span" />
+	</body>
+</rst>

@@ -1,0 +1,116 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="multinuc"/>
+			<rel name="cause" type="rst"/>
+			<rel name="comparison" type="multinuc"/>
+			<rel name="comparison" type="rst"/>
+			<rel name="condition" type="multinuc"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="contrast" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation" type="multinuc"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="explanation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="manner-means" type="rst"/>
+			<rel name="same" type="multinuc"/>
+			<rel name="summary" type="rst"/>
+			<rel name="temporal" type="multinuc"/>
+			<rel name="temporal" type="rst"/>
+			<rel name="textualorganization" type="multinuc"/>
+			<rel name="topichange" type="multinuc"/>
+			<rel name="topichange" type="rst"/>
+			<rel name="topicomment" type="multinuc"/>
+			<rel name="topicomment" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="42" relname="attribution">برابر اصل ١٢۴ قانون اساسی</segment>
+		<segment id="2" parent="40" relname="span">رییس جمهور می‌تواند برای انجام وظایف قانونی اش معاونانی داشته باشد.</segment>
+		<segment id="3" parent="40" relname="contrast">قانونگذار محدودیتی برای تعداد معاونین نگذاشته</segment>
+		<segment id="4" parent="41" relname="elaboration">و تنها گفته شده که معاون اول مسوولیت هماهنگی سایر معاونت‌ها را بر عهده دارد.</segment>
+		<segment id="5" parent="45" relname="attribution">برابر اصل ١٢۶ قانون اساسی ،</segment>
+		<segment id="6" parent="45" relname="span">رییس جمهور مسوولیت امور برنامه و بودجه و امور استخدامی و اداری کشور را برعهده دارد</segment>
+		<segment id="7" parent="44" relname="span">که می‌تواند آن را به عهده دیگری بگذارد</segment>
+		<segment id="8" parent="7" relname="enablement">تا اختیارات خود را به آن معاونت تفویض کند.</segment>
+		<segment id="9" parent="48" relname="attribution">در اصل ١٢۷ قانون اساسی گفته می‌شود</segment>
+		<segment id="10" parent="47" relname="joint">که رییس جمهور در موارد خاص و برحسب ضرورت با تصویب هیات وزیران نماینده یا نمایندگان ویژه با اختیارات معین تعیین می‌کند.</segment>
+		<segment id="11" parent="47" relname="joint">تصمیمات شان در حکم تصمیم رییس جمهور است.</segment>
+		<segment id="12" parent="51" relname="span">لذا ایجاد معاونت‌های مختلف در طول مدت جمهوری اسلامی مثل امور زنان ، معاونت حقوقی ، معاونت پارلمانی طی زمان ایجاد شده است.</segment>
+		<segment id="13" parent="88" relname="contrast">تا چند دوره گذشته معاونت حقوقی و پارلمانی یکی بودند.</segment>
+		<segment id="14" parent="88" relname="contrast">تجمیع این دو معاونت چندان خوب نیست.</segment>
+		<segment id="15" parent="52" relname="span">معاونت حقوقی یک نوع کارایی دارد</segment>
+		<segment id="16" parent="15" relname="elaboration">که معاونت پارلمانی ندارد.</segment>
+		<segment id="17" parent="54" relname="contrast">معاون پارلمانی کسی است که به امور مجلس اشراف داشته باشد</segment>
+		<segment id="18" parent="55" relname="span">اما معاونت حقوقی مسوولیت هماهنگی و ارتباط بین وزارتخانه ها ، نهادهای وابسته به ریاست جمهوری و قوه مجریه را بر عهده دارد.</segment>
+		<segment id="19" parent="85" relname="span">در واقع وکیل حقوقی رییس جمهور است</segment>
+		<segment id="20" parent="19" relname="elaboration">که اختیارات قضایی فرم دهنده روابط بین وزارتخانه‌ها را دارد.</segment>
+		<segment id="21" parent="84" relname="span">یکی از اختیارات مهم رییس جمهور تهیه لوایح قانونی است.</segment>
+		<segment id="22" parent="56" relname="span">در قانون اساسی و با تاثیری</segment>
+		<segment id="23" parent="22" relname="elaboration">که شورای نگهبان از شرح وظایف رییس قوه قضاییه آورده است ،</segment>
+		<segment id="24" parent="82" relname="same">لوایح قضایی را باید این قوه تهیه کند</segment>
+		<segment id="25" parent="57" relname="elaboration">که با تکیه بر اصل ١۵۸ صورت می‌گیرد.</segment>
+		<segment id="26" parent="83" relname="span">دیگر امور اجرایی مملکت</segment>
+		<segment id="27" parent="26" relname="elaboration">که نیاز به لوایح قضایی دارد ،</segment>
+		<segment id="28" parent="60" relname="same">به عهده رییس جمهور و در حوزه کاری معاونت حقوقی است.</segment>
+		<segment id="29" parent="61" relname="span">معاونت حقوقی در واقع یک شخصیت مستدل حقوقی است</segment>
+		<segment id="30" parent="29" relname="elaboration">که به قایم مقامی رییس جمهور امور مربوط به وزارتخانه ها ، ارتباط ، تضاد و تداخل شان و تهیه لوایح قضایی بر عهده این جایگاه است.</segment>
+		<segment id="31" parent="71" relname="span">معاون حقوقی شرح وظیفه سنگینی دارد.</segment>
+		<segment id="32" parent="63" relname="span">قانون اساسی به نمایندگان اجازه سوال و استیضاح وزرا و همچنین طرح پرسش و حتی اعلام عدم کفایت سیاسی رییس جمهور را داده</segment>
+		<segment id="33" parent="32" relname="elaboration">که دفاع از آن به عهده معاونت حقوقی رییس جمهور است.</segment>
+		<segment id="34" parent="64" relname="joint">بر همین اساس تجمیع معاونت حقوقی و پارلمانی کارساز نبود</segment>
+		<segment id="35" parent="64" relname="joint">و در دولت آقای روحانی این دو معاونت جدا شدند.</segment>
+		<segment id="36" parent="93" relname="span">معاونت حقوقی بعد از معاون اول</segment>
+		<segment id="37" parent="36" relname="elaboration">که مسوولیت و جایگاه ویژه ای در دولت دارد ،</segment>
+		<segment id="38" parent="65" relname="same">یکی از قدرتمندترین معاونت‌های ریاست جمهوری است</segment>
+		<segment id="39" parent="66" relname="explanation">چون نقشی اساسی در جهت تنظیم روابط بین سازمان ها ، وزارتخانه‌ها و ارتباط رییس جمهور با لوایح قضایی و مجلس را بر عهده دارد.</segment>
+		<group id="40" type="span" parent="41" relname="span"/>
+		<group id="41" type="span" parent="42" relname="span"/>
+		<group id="42" type="span" parent="43" relname="span"/>
+		<group id="43" type="span" parent="49" relname="joint"/>
+		<group id="44" type="span" parent="6" relname="elaboration"/>
+		<group id="45" type="span" parent="46" relname="span"/>
+		<group id="46" type="span" parent="49" relname="joint"/>
+		<group id="47" type="multinuc" parent="48" relname="span"/>
+		<group id="48" type="span" parent="50" relname="span"/>
+		<group id="49" type="multinuc" parent="12" relname="cause"/>
+		<group id="50" type="span" parent="49" relname="joint"/>
+		<group id="51" type="span" parent="95" relname="background"/>
+		<group id="52" type="span" parent="80" relname="span"/>
+		<group id="54" type="multinuc" parent="52" relname="explanation"/>
+		<group id="55" type="span" parent="54" relname="contrast"/>
+		<group id="56" type="span" parent="82" relname="same"/>
+		<group id="57" type="span" parent="58" relname="span"/>
+		<group id="58" type="span" parent="21" relname="explanation"/>
+		<group id="60" type="multinuc" parent="69" relname="contrast"/>
+		<group id="61" type="span" parent="62" relname="joint"/>
+		<group id="62" type="multinuc" parent="86" relname="span"/>
+		<group id="63" type="span" parent="31" relname="elaboration"/>
+		<group id="64" type="multinuc" parent="92" relname="evaluation"/>
+		<group id="65" type="multinuc" parent="66" relname="span"/>
+		<group id="66" type="span" parent="77" relname="span"/>
+		<group id="69" type="multinuc" parent="86" relname="cause"/>
+		<group id="71" type="span" parent="62" relname="joint"/>
+		<group id="77" type="span" parent="94" relname="summary"/>
+		<group id="80" type="span" parent="89" relname="span"/>
+		<group id="82" type="multinuc" parent="57" relname="span"/>
+		<group id="83" type="span" parent="60" relname="same"/>
+		<group id="84" type="span" parent="69" relname="contrast"/>
+		<group id="85" type="span" parent="18" relname="summary"/>
+		<group id="86" type="span" parent="87" relname="span"/>
+		<group id="87" type="span" parent="90" relname="joint"/>
+		<group id="88" type="multinuc" parent="80" relname="evaluation"/>
+		<group id="89" type="span" parent="90" relname="joint"/>
+		<group id="90" type="multinuc" parent="92" relname="span"/>
+		<group id="92" type="span" parent="94" relname="span"/>
+		<group id="93" type="span" parent="65" relname="same"/>
+		<group id="94" type="span" parent="95" relname="span"/>
+		<group id="95" type="span" parent="96" relname="span"/>
+		<group id="96" type="span" />
+	</body>
+</rst>

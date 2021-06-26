@@ -1,0 +1,107 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="multinuc"/>
+			<rel name="cause" type="rst"/>
+			<rel name="comparison" type="multinuc"/>
+			<rel name="comparison" type="rst"/>
+			<rel name="condition" type="multinuc"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="contrast" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation" type="multinuc"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="explanation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="manner-means" type="rst"/>
+			<rel name="same" type="multinuc"/>
+			<rel name="summary" type="rst"/>
+			<rel name="temporal" type="multinuc"/>
+			<rel name="temporal" type="rst"/>
+			<rel name="textualorganization" type="multinuc"/>
+			<rel name="topichange" type="multinuc"/>
+			<rel name="topichange" type="rst"/>
+			<rel name="topicomment" type="multinuc"/>
+			<rel name="topicomment" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="39" relname="span">چرایی دنبال کردن بحث عفو عمومی مساله مهمی است</segment>
+		<segment id="2" parent="3" relname="condition">که اگر مخالفان به آن توجه کنند</segment>
+		<segment id="3" parent="38" relname="span">از میزان مخالفت شان کاسته خواهد شد.</segment>
+		<segment id="4" parent="53" relname="span">عفو عمومی در مجلس بحث بر سر چیزی درحدود ٢ هزار میلیارد سرمایه‌ایرانیان مقیم خارج از کشور است</segment>
+		<segment id="5" parent="4" relname="elaboration">و ما باید برای بازگشت این سرمایه‌ها تلاش کنیم.</segment>
+		<segment id="6" parent="40" relname="joint">اگرچه بحثی درمورد مسایل امنیتی نیست</segment>
+		<segment id="7" parent="40" relname="joint">و اگر کسی مرتکب تخلفی شده</segment>
+		<segment id="8" parent="40" relname="joint">یا به عنوان مثال اقدامی در راستای براندازی و خصومت علیه مردم کشور داشته ،</segment>
+		<segment id="9" parent="54" relname="span">مورد حمایت این طرح نیست.</segment>
+		<segment id="10" parent="62" relname="joint">ما به دنبال عفو عمومی از موضع عزت هستیم ، نه از موضع ترس.</segment>
+		<segment id="11" parent="62" relname="joint">ما می‌خواهیم از تاثیرگذاری بهانه جویی‌ها در مباحث حقوق بشری ممانعت کنیم.</segment>
+		<segment id="12" parent="86" relname="span">در حال حاضر عدم توجیه برخی نمایندگان مخالف منجر به عدم تصویب فوریت این طرح شده :</segment>
+		<segment id="13" parent="55" relname="span">متاسفانه نمایندگان مخالف از دیدگاهی مخالفت می‌کردند</segment>
+		<segment id="14" parent="13" relname="elaboration">که چندان ارتباطی به محتوای طرح نداشت ،</segment>
+		<segment id="15" parent="59" relname="background">آن چنان که در صحن شاهد بودیم ،</segment>
+		<segment id="16" parent="50" relname="joint">مثلا یکی از مخالفان به حادثه تروریستی اهواز اشاره کرد</segment>
+		<segment id="17" parent="49" relname="attribution">و گفت</segment>
+		<segment id="18" parent="19" relname="explanation">که چون استکبار جهانی به دنبال ایجاد ناامنی در کشور است ،</segment>
+		<segment id="19" parent="49" relname="span">نباید این طرح تصویب شود.</segment>
+		<segment id="20" parent="61" relname="joint">اما این طرح ربطی به استکبار جهانی ندارد.</segment>
+		<segment id="21" parent="42" relname="same">تروریسم کوری</segment>
+		<segment id="22" parent="41" relname="joint">که در اهواز اتفاق افتاد</segment>
+		<segment id="23" parent="41" relname="joint">و به استکبار جهانی وصل است</segment>
+		<segment id="24" parent="42" relname="same">به طور قطع محکوم است.</segment>
+		<segment id="25" parent="81" relname="span">ما امروز در شرایط بسیار حساسی به سر می‌بریم</segment>
+		<segment id="26" parent="43" relname="same">کسانی</segment>
+		<segment id="27" parent="26" relname="elaboration">که مخالف این طرح هستند</segment>
+		<segment id="28" parent="43" relname="same">طوری صحبت می‌کنند</segment>
+		<segment id="29" parent="44" relname="elaboration">که گویا ما می‌خواهیم امریکا را عفو کنیم.</segment>
+		<segment id="30" parent="31" relname="explanation">بحث ما این است که برای افزایش اقتدار نظام جمهوری اسلامی و برای افزایش اعتماد عمومی و برای این که هرروز ما را متهم نکنند که در زندان‌های شما چه می‌گذرد</segment>
+		<segment id="31" parent="80" relname="span">این طرح مطرح شده است.</segment>
+		<segment id="32" parent="47" relname="same">این طرح شامل محکومیت قصاص و کسانی</segment>
+		<segment id="33" parent="32" relname="elaboration">که قصد براندازی نظام جمهوری اسلامی را داشته‌اند</segment>
+		<segment id="34" parent="47" relname="same">هم نمی شود.</segment>
+		<segment id="35" parent="63" relname="span">ما به دنبال ایجاد امنیت برای ایرانیانی هستیم</segment>
+		<segment id="36" parent="48" relname="joint">که به وطن خویش علاقه دارند</segment>
+		<segment id="37" parent="48" relname="joint">و هیچگاه خیانتی به منافع ملی ایران نکرده‌اند.</segment>
+		<group id="38" type="span" parent="1" relname="elaboration"/>
+		<group id="39" type="span" parent="74" relname="background"/>
+		<group id="40" type="multinuc" parent="9" relname="condition"/>
+		<group id="41" type="multinuc" parent="21" relname="elaboration"/>
+		<group id="42" type="multinuc" parent="61" relname="joint"/>
+		<group id="43" type="multinuc" parent="44" relname="span"/>
+		<group id="44" type="span" parent="78" relname="span"/>
+		<group id="47" type="multinuc" parent="70" relname="joint"/>
+		<group id="48" type="multinuc" parent="35" relname="elaboration"/>
+		<group id="49" type="span" parent="51" relname="span"/>
+		<group id="50" type="multinuc" parent="59" relname="span"/>
+		<group id="51" type="span" parent="50" relname="joint"/>
+		<group id="53" type="span" parent="64" relname="span"/>
+		<group id="54" type="span" parent="85" relname="span"/>
+		<group id="55" type="span" parent="12" relname="elaboration"/>
+		<group id="59" type="span" parent="60" relname="span"/>
+		<group id="60" type="span" parent="65" relname="contrast"/>
+		<group id="61" type="multinuc" parent="65" relname="contrast"/>
+		<group id="62" type="multinuc" parent="54" relname="explanation"/>
+		<group id="63" type="span" parent="70" relname="joint"/>
+		<group id="64" type="span" parent="74" relname="span"/>
+		<group id="65" type="multinuc" parent="55" relname="explanation"/>
+		<group id="70" type="multinuc" parent="80" relname="elaboration"/>
+		<group id="71" type="multinuc" parent="72" relname="span"/>
+		<group id="72" type="span" parent="73" relname="span"/>
+		<group id="73" type="span" parent="64" relname="summary"/>
+		<group id="74" type="span" parent="75" relname="span"/>
+		<group id="75" type="span" />
+		<group id="78" type="span" parent="25" relname="explanation"/>
+		<group id="79" type="span" parent="84" relname="cause"/>
+		<group id="80" type="span" parent="79" relname="span"/>
+		<group id="81" type="span" parent="84" relname="cause"/>
+		<group id="82" type="span" parent="71" relname="contrast"/>
+		<group id="84" type="multinuc" parent="82" relname="span"/>
+		<group id="85" type="span" parent="53" relname="elaboration"/>
+		<group id="86" type="span" parent="71" relname="contrast"/>
+	</body>
+</rst>

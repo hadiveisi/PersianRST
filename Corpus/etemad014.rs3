@@ -1,0 +1,105 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="multinuc"/>
+			<rel name="cause" type="rst"/>
+			<rel name="comparison" type="multinuc"/>
+			<rel name="comparison" type="rst"/>
+			<rel name="condition" type="multinuc"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="contrast" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation" type="multinuc"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="explanation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="manner-means" type="rst"/>
+			<rel name="same" type="multinuc"/>
+			<rel name="summary" type="rst"/>
+			<rel name="temporal" type="multinuc"/>
+			<rel name="temporal" type="rst"/>
+			<rel name="textualorganization" type="multinuc"/>
+			<rel name="topichange" type="multinuc"/>
+			<rel name="topichange" type="rst"/>
+			<rel name="topicomment" type="multinuc"/>
+			<rel name="topicomment" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="57" relname="span">علاقه‌مندی نهادهای مختلف به تاسیس بانک غیر قابل درک است.</segment>
+		<segment id="2" parent="35" relname="span">اوایل انقلاب همه نهادها و وزارتخانه‌ها قصد تاسیس دانشگاه را داشتند</segment>
+		<segment id="3" parent="2" relname="enablement">تا در این دانشگاه‌ها نیروهای متخصص تربیت کنند.</segment>
+		<segment id="4" parent="58" relname="span">در حال حاضر هم همه قصد تاسیس بانک دارند</segment>
+		<segment id="5" parent="4" relname="evaluation">که اقدام درستی نیست.</segment>
+		<segment id="6" parent="70" relname="span">نهادها با تشکیلاتی</segment>
+		<segment id="7" parent="6" relname="elaboration">که دارند</segment>
+		<segment id="8" parent="36" relname="same">نمی‌توانند یک بانک را به صورت حرفه‌ای اداره کنند ،</segment>
+		<segment id="9" parent="40" relname="span">زیرا در این شرایط صاحب بانک دارای قدرتی است</segment>
+		<segment id="10" parent="9" relname="elaboration">که نحوه استفاده از این قدرت‌ها با منافع سپرده گذاران سازش ندارد.</segment>
+		<segment id="11" parent="54" relname="background">نمونه آن بانک های وابسته به نیروهای مسلح است.</segment>
+		<segment id="12" parent="71" relname="span">نظام این بانک‌ها فرماندهی است ،</segment>
+		<segment id="13" parent="12" relname="summary">یعنی زیردست باید از مافوق خود اطاعت کند.</segment>
+		<segment id="14" parent="41" relname="joint">این درحالی است که بانک باید استقلال رای داشته باشد</segment>
+		<segment id="15" parent="59" relname="span">و طوری رفتار کند</segment>
+		<segment id="16" parent="15" relname="manner-means">که بیش از رعایت منافع سهامدار ، منافع سپرده گذاران را رعایت کند.</segment>
+		<segment id="17" parent="18" relname="cause">نقش بانک مرکزی حفظ امنیت صاحبان سپرده است.</segment>
+		<segment id="18" parent="63" relname="span">بانک مرکزی نباید به هیچ بانکی اجازه دهد از سپرده گذاران برای اعطای اعتبار به صاحبان آن بانک استفاده کند.</segment>
+		<segment id="19" parent="43" relname="span">درحالی که آستان مقدس قصد دارد بانک تاسیس کند</segment>
+		<segment id="20" parent="19" relname="enablement">تا از سرمایه سپرده گذاران استفاده کند.</segment>
+		<segment id="21" parent="51" relname="span">این کار خلاف ضوابط حرفه‌ای بانکداری است.</segment>
+		<segment id="22" parent="45" relname="joint">بانک باید بررسی کند که چگونه ریسک از دست رفتن سپرده مردم را مدیریت کند</segment>
+		<segment id="23" parent="46" relname="background">و زمانی که وام پرداخت می‌کند</segment>
+		<segment id="24" parent="46" relname="span">باید این نکته را رعایت کند</segment>
+		<segment id="25" parent="24" relname="elaboration">که به یک وام گیرنده بیش از حد معینی تسهیلات نپردازد.</segment>
+		<segment id="26" parent="48" relname="background">اما زمانی که غولی مانند آستان قدس صاحب بانک باشد</segment>
+		<segment id="27" parent="47" relname="joint">مدیر بانک نمی‌تواند جوانب را رعایت کند</segment>
+		<segment id="28" parent="47" relname="joint">و مجبور می‌شود هر آنچه آستان قدس می‌خواهد را در اختیارش قرار دهد.</segment>
+		<segment id="29" parent="53" relname="span">هدف آستان قدس برای تاسیس بانک استفاده از سپرده های مردم برای شرکت‌ها و موسسات تولیدی خود است.</segment>
+		<segment id="30" parent="49" relname="span">زیرا مبالغی طلب می‌کند</segment>
+		<segment id="31" parent="30" relname="elaboration">که یک بانک معمولی حرفه‌ای حاضر نیست ، بپردازد.</segment>
+		<segment id="32" parent="50" relname="span">نباید این تصور به وجود آید که برخی نهادها می‌خواهند از وجوه مردم استفاده کنند</segment>
+		<segment id="33" parent="32" relname="elaboration">و دیر یا زود به سرنوشت موسسات غیرمجاز گرفتار شوند.</segment>
+		<segment id="34" parent="69" relname="evaluation">امیدوارم آستان قدس در این دام گرفتار نشود.</segment>
+		<group id="35" type="span" parent="37" relname="comparison"/>
+		<group id="36" type="multinuc" parent="38" relname="span"/>
+		<group id="37" type="multinuc" parent="1" relname="elaboration"/>
+		<group id="38" type="span" parent="61" relname="span"/>
+		<group id="39" type="span" parent="57" relname="explanation"/>
+		<group id="40" type="span" parent="38" relname="explanation"/>
+		<group id="41" type="multinuc" parent="42" relname="contrast"/>
+		<group id="42" type="multinuc" parent="54" relname="span"/>
+		<group id="43" type="span" parent="64" relname="span"/>
+		<group id="44" type="multinuc" parent="68" relname="span"/>
+		<group id="45" type="multinuc" parent="56" relname="contrast"/>
+		<group id="46" type="span" parent="62" relname="span"/>
+		<group id="47" type="multinuc" parent="48" relname="span"/>
+		<group id="48" type="span" parent="52" relname="span"/>
+		<group id="49" type="span" parent="29" relname="explanation"/>
+		<group id="50" type="span" parent="68" relname="evaluation"/>
+		<group id="51" type="span" parent="43" relname="evaluation"/>
+		<group id="52" type="span" parent="56" relname="contrast"/>
+		<group id="53" type="span" parent="64" relname="summary"/>
+		<group id="54" type="span" parent="55" relname="span"/>
+		<group id="55" type="span" parent="61" relname="elaboration"/>
+		<group id="56" type="multinuc" parent="21" relname="explanation"/>
+		<group id="57" type="span" parent="60" relname="span"/>
+		<group id="58" type="span" parent="37" relname="comparison"/>
+		<group id="59" type="span" parent="41" relname="joint"/>
+		<group id="60" type="span" parent="66" relname="topichange"/>
+		<group id="61" type="span" parent="39" relname="span"/>
+		<group id="62" type="span" parent="45" relname="joint"/>
+		<group id="63" type="span" parent="44" relname="contrast"/>
+		<group id="64" type="span" parent="65" relname="span"/>
+		<group id="65" type="span" parent="44" relname="contrast"/>
+		<group id="66" type="multinuc" />
+		<group id="67" type="span" parent="66" relname="topichange"/>
+		<group id="68" type="span" parent="69" relname="span"/>
+		<group id="69" type="span" parent="67" relname="span"/>
+		<group id="70" type="span" parent="36" relname="same"/>
+		<group id="71" type="span" parent="42" relname="contrast"/>
+	</body>
+</rst>

@@ -1,0 +1,82 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="multinuc"/>
+			<rel name="cause" type="rst"/>
+			<rel name="comparison" type="multinuc"/>
+			<rel name="comparison" type="rst"/>
+			<rel name="condition" type="multinuc"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="contrast" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation" type="multinuc"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="explanation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="manner-means" type="rst"/>
+			<rel name="same" type="multinuc"/>
+			<rel name="summary" type="rst"/>
+			<rel name="temporal" type="multinuc"/>
+			<rel name="temporal" type="rst"/>
+			<rel name="textualorganization" type="multinuc"/>
+			<rel name="topichange" type="multinuc"/>
+			<rel name="topichange" type="rst"/>
+			<rel name="topicomment" type="multinuc"/>
+			<rel name="topicomment" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="66" relname="cause">انصراف دو خریدار بزرگ چینی خبر شوکه کننده برای فعالان حوزه انرژی نیست ،</segment>
+		<segment id="2" parent="67" relname="span">سیاست‌های فروش نفت در دوران تحریم دستخوش تغییرات گسترده شده است.</segment>
+		<segment id="3" parent="25" relname="joint">به نظر می‌رسد در حال حاضر فقط عراق به صورت مستقیم اقدام به خرید نفت از ایران می‌کند</segment>
+		<segment id="4" parent="25" relname="joint">و باقی کشورها ، همسو با سیاست‌های جدید وزارت نفت نیازهای خود را از بازارهای خاکستری تامین می‌کنند ،</segment>
+		<segment id="5" parent="52" relname="cause">شرکت ملی نفت با دارا بودن بیش از ۴۶ نفتکش فعال در کلاس‌های مختلف ، قابلیت ذخیره سازی بیش از ۸۰ میلیون بشکه نفت روی آب‌ها برای زمان طولانی را دارد</segment>
+		<segment id="6" parent="52" relname="cause">و این ظرفیت فرصت مناسبی برای انتقال آن به حوزهای پرمصرف نفت ایران را فراهم کرده است.</segment>
+		<segment id="7" parent="65" relname="evaluation">این نفتکش‌ها بازویی قوی برای فروش نفت در این سبک است.</segment>
+		<segment id="8" parent="51" relname="same">عمده شرکت‌های چینی</segment>
+		<segment id="9" parent="8" relname="explanation">به دلیل داشتن مراودات با شرکت‌های امریکایی و انجام تراکنش‌های دلاری</segment>
+		<segment id="10" parent="51" relname="same">خواهان مخفی ماندن اطلاعات تجاری خود در مورد خرید نفت ایران هستند.</segment>
+		<segment id="11" parent="70" relname="cause">با توجه به پیش بینی فروش ١. ۵ میلیون بشکه نفت و فرآورده و میعات گازی در بودجه ۹۸ و همچنین افزایش قیمت نفت و برابری قیمت ریال و دلار به نظر نمی رسد ، دولت در تامین بخشی‌های بزرگی از بودجه به مشکل بخورد.</segment>
+		<segment id="12" parent="37" relname="contrast">برخلاف تصور بازار ، درخواست برای خرید نفت ایران کاهش چشمگیری پیدا نکرده</segment>
+		<segment id="13" parent="37" relname="contrast">اما طریقه معاملات نفتی در شیوه‌های جدید نیاز به زمان بیشتری برای هماهنگی مشتری‌ها در نحوه تحویل بار یا پرداخت وجه دارد.</segment>
+		<segment id="14" parent="15" relname="attribution">عده‌ای اعتقاد دارند</segment>
+		<segment id="15" parent="30" relname="span">عدم بارگیری نفت در ٢ هفته گذشته نشانه‌هایی است از پیروزی تحریم‌های امریکا ،</segment>
+		<segment id="16" parent="61" relname="span">اما برخلاف دیدگاه‌ها می‌توان به چند دلیل اشاره کرد.</segment>
+		<segment id="17" parent="59" relname="cause">عمده بار نفتی ایران که به صورت تحویل در مقصد به فروش می‌رسد</segment>
+		<segment id="18" parent="59" relname="cause">و این موضوع باعث افزایش تردد نفتکش‌ها شده</segment>
+		<segment id="19" parent="60" relname="span">و احتمالا این عدم بارگیری نشان دهنده تکمیل بودن ظرفیت ناوگان حمل تحت اجاره شرکت ملی نفت است.</segment>
+		<segment id="20" parent="31" relname="joint">همچنین عمده نفتکش‌های ایران با GPS‌هایی خاموش در آب‌ها به حرکت درمی آیند.</segment>
+		<segment id="21" parent="31" relname="joint">دپوی نفت در خارج از مرزهای دریایی ایران و نزدیک کردن این بار به مقاصد پرمصرف یکی از راهکارهای عملیاتی موفق در دوران تحریم است.</segment>
+		<segment id="22" parent="42" relname="attribution">بیژن زنگنه بارها اعلام کرده</segment>
+		<segment id="23" parent="41" relname="contrast">راهکارهای جدید دور زدن تحریم‌ها نمی تواند توضیحات واضحی ارایه کند ،</segment>
+		<segment id="24" parent="41" relname="contrast">اما رصد و رهگیری گزارش‌های بازار در مقاصد پرفروش نشان دهنده موفقیت شیخ الوزرا در به سرانجام رساندن این ماموریت بزرگ بوده است.</segment>
+		<group id="25" type="multinuc" parent="2" relname="elaboration"/>
+		<group id="30" type="span" parent="44" relname="contrast"/>
+		<group id="31" type="multinuc" parent="16" relname="elaboration"/>
+		<group id="37" type="multinuc" parent="63" relname="span"/>
+		<group id="41" type="multinuc" parent="42" relname="span"/>
+		<group id="42" type="span" parent="43" relname="span"/>
+		<group id="43" type="span" parent="72" relname="evaluation"/>
+		<group id="44" type="multinuc" parent="63" relname="explanation"/>
+		<group id="51" type="multinuc" parent="55" relname="explanation"/>
+		<group id="52" type="multinuc" parent="65" relname="evaluation"/>
+		<group id="53" type="span" parent="67" relname="elaboration"/>
+		<group id="55" type="span" parent="53" relname="span"/>
+		<group id="59" type="multinuc" parent="19" relname="evaluation"/>
+		<group id="60" type="span" parent="31" relname="joint"/>
+		<group id="61" type="span" parent="44" relname="contrast"/>
+		<group id="63" type="span" parent="72" relname="span"/>
+		<group id="65" type="multinuc" parent="55" relname="span"/>
+		<group id="66" type="multinuc" parent="69" relname="topichange"/>
+		<group id="67" type="span" parent="68" relname="span"/>
+		<group id="68" type="span" parent="66" relname="cause"/>
+		<group id="69" type="multinuc" />
+		<group id="70" type="multinuc" parent="69" relname="topichange"/>
+		<group id="71" type="span" parent="70" relname="cause"/>
+		<group id="72" type="span" parent="71" relname="span"/>
+	</body>
+</rst>

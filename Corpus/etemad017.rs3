@@ -1,0 +1,79 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="multinuc"/>
+			<rel name="cause" type="rst"/>
+			<rel name="comparison" type="multinuc"/>
+			<rel name="comparison" type="rst"/>
+			<rel name="condition" type="multinuc"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="contrast" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation" type="multinuc"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="explanation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="manner-means" type="rst"/>
+			<rel name="same" type="multinuc"/>
+			<rel name="summary" type="rst"/>
+			<rel name="temporal" type="multinuc"/>
+			<rel name="temporal" type="rst"/>
+			<rel name="textualorganization" type="multinuc"/>
+			<rel name="topichange" type="multinuc"/>
+			<rel name="topichange" type="rst"/>
+			<rel name="topicomment" type="multinuc"/>
+			<rel name="topicomment" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="28" relname="span">بنیاد مستضعفان از نظر تشکیلات و نوع مدیریت در زمره هلدینگ‌های اقتصادی است</segment>
+		<segment id="2" parent="24" relname="joint">که در دو دهه اول بعد از انقلاب اسلامی خودش را ورای قوانین بانک مرکزی و وزارت اقتصاد می‌دانست</segment>
+		<segment id="3" parent="24" relname="joint">و به گزارش دادن قایل نبود.</segment>
+		<segment id="4" parent="27" relname="contrast">اما بررسی صورت‌های مالی بنیاد مستضعفان در سال‌های اخیر از تغییر رویکرد حکایت دارد.</segment>
+		<segment id="5" parent="30" relname="span">صورت‌های مالی بنیاد به قول ما حسابرس‌ها مقبول است</segment>
+		<segment id="6" parent="5" relname="evaluation">و این نکته برای هلدینگی با قریب به ١۸۰ شرکت اقتصادی بسیار حایز اهمیت و مثبت ارزیابی می‌شود.</segment>
+		<segment id="7" parent="29" relname="span">مقبول بودن صورت‌های مالی یک هلدینگ با این وسعت از فعالیت معنایش این است</segment>
+		<segment id="8" parent="7" relname="elaboration">که آن تشکیلات اقتصادی رویکردی را اتخاذ کرده که. . . رفتاری منضبط و شفاف داشته باشد.</segment>
+		<segment id="9" parent="31" relname="span">البته ناگفته نماند شفافیت برای نهادهایی مانند بنیاد مستضعفان خیلی دشوار است</segment>
+		<segment id="10" parent="9" relname="cause">به این دلیل که از شرکت‌های زیرمجموعه آنها توقعات خیلی زیادی وجود دارد.</segment>
+		<segment id="11" parent="37" relname="elaboration">به هر حال در تمام دنیا بنیادهایی از این جنس ، منافع شان جنبه عمومی دارد.</segment>
+		<segment id="12" parent="32" relname="span">در مورد موسساتی مانند بنیاد هم می‌تواند همین اتفاق روی دهد</segment>
+		<segment id="13" parent="12" relname="condition">اما پیش شرط آن رعایت قواعد اقتصاد است.</segment>
+		<segment id="14" parent="15" relname="attribution">بررسی صورت‌های مالی بنیاد و گزارش ‌ای مدیریتی این هلدینگ نشان می‌دهد</segment>
+		<segment id="15" parent="33" relname="span">که این تشکیلات خودش را وارد این بازی کرده و تلاش می‌کند قاعده را رعایت کند.</segment>
+		<segment id="16" parent="33" relname="manner-means">بنیاد باید با پایبندی به اصل رقابت در اقتصاد و پرهیز از استفاده از رانت این رویه را تقویت کند.</segment>
+		<segment id="17" parent="35" relname="span">انتشار گزارش صورت‌های مالی و گزارش عملکرد هلدینگ به زبان انگلیسی و ارسال آن برای مراجع بین المللی یکی دیگر از رویکردهایی است</segment>
+		<segment id="18" parent="17" relname="elaboration">که در سال‌های اخیر انجام می‌شود.</segment>
+		<segment id="19" parent="35" relname="elaboration">این روند می‌تواند در آینده برای جذب سرمایه گذاری‌های خارجی در طرح‌های بنیاد موثر باشد.</segment>
+		<segment id="20" parent="25" relname="same">وقت آن رسیده که همه تشکیلات اقتصادی غیردولتی</segment>
+		<segment id="21" parent="20" relname="elaboration">که از جنس بنیاد به شمار می‌روند</segment>
+		<segment id="22" parent="25" relname="same">به قواعد بازی احترام بگذارند</segment>
+		<segment id="23" parent="26" relname="joint">و در مسیر شفافیت گام بردارند.</segment>
+		<group id="24" type="multinuc" parent="1" relname="elaboration"/>
+		<group id="25" type="multinuc" parent="26" relname="joint"/>
+		<group id="26" type="multinuc" parent="42" relname="evaluation"/>
+		<group id="27" type="multinuc" parent="41" relname="background"/>
+		<group id="28" type="span" parent="27" relname="contrast"/>
+		<group id="29" type="span" parent="30" relname="elaboration"/>
+		<group id="30" type="span" parent="36" relname="span"/>
+		<group id="31" type="span" parent="36" relname="elaboration"/>
+		<group id="32" type="span" parent="40" relname="evaluation"/>
+		<group id="33" type="span" parent="34" relname="span"/>
+		<group id="34" type="span" parent="39" relname="joint"/>
+		<group id="35" type="span" parent="38" relname="span"/>
+		<group id="36" type="span" parent="37" relname="span"/>
+		<group id="37" type="span" parent="40" relname="span"/>
+		<group id="38" type="span" parent="39" relname="joint"/>
+		<group id="39" type="multinuc" parent="42" relname="span"/>
+		<group id="40" type="span" parent="41" relname="span"/>
+		<group id="41" type="span" parent="44" relname="span"/>
+		<group id="42" type="span" parent="43" relname="span"/>
+		<group id="43" type="span" parent="45" relname="span"/>
+		<group id="44" type="span" parent="43" relname="summary"/>
+		<group id="45" type="span" />
+	</body>
+</rst>

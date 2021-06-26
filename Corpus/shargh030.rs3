@@ -1,0 +1,122 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="multinuc"/>
+			<rel name="cause" type="rst"/>
+			<rel name="comparison" type="multinuc"/>
+			<rel name="comparison" type="rst"/>
+			<rel name="condition" type="multinuc"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="contrast" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation" type="multinuc"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="explanation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="manner-means" type="rst"/>
+			<rel name="same" type="multinuc"/>
+			<rel name="summary" type="rst"/>
+			<rel name="temporal" type="multinuc"/>
+			<rel name="temporal" type="rst"/>
+			<rel name="textualorganization" type="multinuc"/>
+			<rel name="topichange" type="multinuc"/>
+			<rel name="topichange" type="rst"/>
+			<rel name="topicomment" type="multinuc"/>
+			<rel name="topicomment" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="92" relname="span">موضوع احتمال کسری ١۷هزارمیلیارتومانی یارانه‌ها قبلا به عنوان معضل ناکافی بودن منابع پرداخت‌شده ، بارها از سوی اقتصاددانان عنوان شده بود‪.</segment>
+		<segment id="2" parent="1" relname="elaboration">‬ این سکه استفاده دولت از منابع غیرهدفمندی برای تامین یارانه نقدی خانوار ، امری خلاف قانون است.</segment>
+		<segment id="3" parent="93" relname="span">اگرچه این موضوع خبر از سومدیریت در نحوه اجرای طرح هدفمندی می‌دهد</segment>
+		<segment id="4" parent="48" relname="joint">اما مشکلات این طرح ، فراتر از این مسایل است</segment>
+		<segment id="5" parent="48" relname="joint">و ردپای نگاهی غیراقتصادی در اصرار بر پرداخت نقدی به مردم از ابتدا مشخص بود.</segment>
+		<segment id="6" parent="51" relname="joint">از سوی دیگر وقتی در مقیاسی به این بزرگی ، پرداخت یارانه صورت می‌گیرد - حدود ۵۰‌میلیون نفر و به قول دولت ۷۰‌میلیون نفر- امکان بررسی ونظارت بر صحت و سقم ادعای دولت در پرداخت ماهانه این مبلغ کاری بسیار پرهزینه بوده</segment>
+		<segment id="7" parent="51" relname="joint">و شاید امکان‌پذیر نباشد.</segment>
+		<segment id="8" parent="94" relname="span">اتفاقی</segment>
+		<segment id="9" parent="8" relname="elaboration">که در این فضا می‌افتد ،</segment>
+		<segment id="10" parent="52" relname="same">این است که بیم آن می‌رود بخشی از این منابع به سمت و سوی دیگر انحراف پیدا کند.</segment>
+		<segment id="11" parent="72" relname="span">شاید به همین دلیل هیچ‌کس نمی‌تواند آمارهای اعلام شده را تایید کند.</segment>
+		<segment id="12" parent="73" relname="span">از ابتدا ، زمینه‌سازی برای اجرای طرح دارای مشکلاتی بود.</segment>
+		<segment id="13" parent="53" relname="same">فرم‌هایی</segment>
+		<segment id="14" parent="13" relname="elaboration">که در ابتدا به عنوان «ثبت اطلاعات خانوار» تهیه شد</segment>
+		<segment id="15" parent="53" relname="same">هیچ وقت اجرا نشد.</segment>
+		<segment id="16" parent="69" relname="background">توجه داشته باشید</segment>
+		<segment id="17" parent="56" relname="attribution">طبق اعلام مرکز آمار ،</segment>
+		<segment id="18" parent="55" relname="joint">۳۰‌درصد جمعیت در روستاها به سر می‌برند</segment>
+		<segment id="19" parent="54" relname="same">و در شهرها</segment>
+		<segment id="20" parent="19" relname="elaboration">تا جایی که می‌دانم</segment>
+		<segment id="21" parent="54" relname="same">خیلی از خانوارها</segment>
+		<segment id="22" parent="21" relname="elaboration">که جزو طبقه متوسط و نسبتا پایین نیز به شمار می‌روند ،</segment>
+		<segment id="23" parent="54" relname="same">یارانه دریافت نمی‌کنند.</segment>
+		<segment id="24" parent="25" relname="contrast">این اشکال از روز اول مطرح بود</segment>
+		<segment id="25" parent="66" relname="span">اما فضای هیجانی ، امکان طرح مسایل جدی و دقیق را نمی‌دهد.</segment>
+		<segment id="26" parent="65" relname="span">نکته مهم دیگر این است که پرداخت به بنگاه‌های تولیدی نیز همان مسایل را دارد</segment>
+		<segment id="27" parent="26" relname="elaboration">که در پرداخت به خانوارها به چشم می‌خورد.</segment>
+		<segment id="28" parent="57" relname="same">شناسایی بنگاه‌ها و پرداخت ۳۰‌درصدی به آن‌ها</segment>
+		<segment id="29" parent="28" relname="elaboration">-که اصلا عددی در مقابل هزینه‌های امروز به شمار نمی‌رود به حساب نمی‌آید-</segment>
+		<segment id="30" parent="57" relname="same">دشواری‌های خاص خود را دارد</segment>
+		<segment id="31" parent="58" relname="joint">اما به دلیل این که صدای آن‌ها بلندتر از مردم است</segment>
+		<segment id="32" parent="58" relname="joint">و می‌توانند انعکاس دهند که به بنگاه مشابه آن‌ها چند برابر پرداخت صورت گرفته ،</segment>
+		<segment id="33" parent="67" relname="span">ترجیح داده شده که اساسا کل این بخش نادیده گرفته شود.</segment>
+		<segment id="34" parent="35" relname="background">در خاتمه سوال اساسی‌تر دیگری باید پاسخ داده شود.</segment>
+		<segment id="35" parent="86" relname="span">این که آیا تعدیل تولید در کشور ، برنامه‌ریزی‌شده بوده است ؟</segment>
+		<segment id="36" parent="78" relname="topicomment">نگارنده بر این باور است که جایگزینی واردات ، امری اتفاقی و تصادفی نبود.</segment>
+		<segment id="37" parent="59" relname="joint">دولتی</segment>
+		<segment id="38" parent="37" relname="elaboration">که می‌توانست منابع هنگفت نفتی که بالغ بر ۷۰۰میلیارد دلار در این هفت سال بوده و حتی نیمی از آن را در تولید کشور مصروف کند ،</segment>
+		<segment id="39" parent="59" relname="joint">چرا به این کار مبادرت نورزیده است ؟</segment>
+		<segment id="40" parent="60" relname="joint">اگر این اتفاق رخ می‌داد</segment>
+		<segment id="41" parent="60" relname="joint">و این مبلغ در اختیار بخش خصوصی توانمند قرار می‌گرفت ،</segment>
+		<segment id="42" parent="63" relname="span">می‌توانست موجب رونق کشور ، افزایش تولید ناخالص ملی و تولید اشتغال مولد شود.</segment>
+		<segment id="43" parent="61" relname="temporal">آنگاه با مزیت تولید ، هزینه تولید کالا کاهش می‌یافت ،</segment>
+		<segment id="44" parent="45" relname="cause">به علت افزایش شغل و دستمزد ،</segment>
+		<segment id="45" parent="62" relname="span">یارانه نقدی فقط به اقشار نیازمند تعلق می‌گرفت</segment>
+		<segment id="46" parent="61" relname="temporal">و این‌طور به دلیل تورم ، بی‌اثر نمی‌شد.</segment>
+		<group id="48" type="multinuc" parent="49" relname="span"/>
+		<group id="49" type="span" parent="64" relname="span"/>
+		<group id="51" type="multinuc" parent="70" relname="contrast"/>
+		<group id="52" type="multinuc" parent="11" relname="evaluation"/>
+		<group id="53" type="multinuc" parent="12" relname="elaboration"/>
+		<group id="54" type="multinuc" parent="55" relname="joint"/>
+		<group id="55" type="multinuc" parent="56" relname="span"/>
+		<group id="56" type="span" parent="69" relname="span"/>
+		<group id="57" type="multinuc" parent="67" relname="contrast"/>
+		<group id="58" type="multinuc" parent="33" relname="cause"/>
+		<group id="59" type="multinuc" parent="77" relname="topicomment"/>
+		<group id="60" type="multinuc" parent="42" relname="condition"/>
+		<group id="61" type="multinuc" parent="76" relname="span"/>
+		<group id="62" type="span" parent="61" relname="temporal"/>
+		<group id="63" type="span" parent="76" relname="condition"/>
+		<group id="64" type="span" parent="70" relname="contrast"/>
+		<group id="65" type="span" parent="83" relname="span"/>
+		<group id="66" type="span" parent="71" relname="elaboration"/>
+		<group id="67" type="span" parent="68" relname="span"/>
+		<group id="68" type="span" parent="65" relname="elaboration"/>
+		<group id="69" type="span" parent="71" relname="span"/>
+		<group id="70" type="multinuc" parent="74" relname="span"/>
+		<group id="71" type="span" parent="81" relname="span"/>
+		<group id="72" type="span" parent="75" relname="span"/>
+		<group id="73" type="span" parent="72" relname="explanation"/>
+		<group id="74" type="span" parent="82" relname="span"/>
+		<group id="75" type="span" parent="74" relname="topicomment"/>
+		<group id="76" type="span" parent="77" relname="span"/>
+		<group id="77" type="span" parent="78" relname="span"/>
+		<group id="78" type="span" parent="79" relname="span"/>
+		<group id="79" type="span" parent="87" relname="span"/>
+		<group id="80" type="multinuc" parent="82" relname="explanation"/>
+		<group id="81" type="span" parent="80" relname="comparison"/>
+		<group id="82" type="span" parent="84" relname="span"/>
+		<group id="83" type="span" parent="80" relname="comparison"/>
+		<group id="84" type="span" parent="88" relname="joint"/>
+		<group id="86" type="span" parent="79" relname="topicomment"/>
+		<group id="87" type="span" parent="88" relname="joint"/>
+		<group id="88" type="multinuc" />
+		<group id="92" type="span" parent="3" relname="background"/>
+		<group id="93" type="span" parent="49" relname="contrast"/>
+		<group id="94" type="span" parent="52" relname="same"/>
+	</body>
+</rst>

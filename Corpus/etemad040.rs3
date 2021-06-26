@@ -1,0 +1,91 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="multinuc"/>
+			<rel name="cause" type="rst"/>
+			<rel name="comparison" type="multinuc"/>
+			<rel name="comparison" type="rst"/>
+			<rel name="condition" type="multinuc"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="contrast" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation" type="multinuc"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="explanation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="manner-means" type="rst"/>
+			<rel name="same" type="multinuc"/>
+			<rel name="summary" type="rst"/>
+			<rel name="temporal" type="multinuc"/>
+			<rel name="temporal" type="rst"/>
+			<rel name="textualorganization" type="multinuc"/>
+			<rel name="topichange" type="multinuc"/>
+			<rel name="topichange" type="rst"/>
+			<rel name="topicomment" type="multinuc"/>
+			<rel name="topicomment" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="29" relname="span">درباره حوادث اخیر ، رفتار شناسی معترضان بیانگر دو سطح از اعتراض است :</segment>
+		<segment id="2" parent="1" relname="elaboration">سطح اول مطالبات اقتصادی و معیشتی است و سطح دوم تخریب گری.</segment>
+		<segment id="3" parent="4" relname="comparison">همان طور که مقام معظم رهبری و رییس جمهور گفته‌اند</segment>
+		<segment id="4" parent="30" relname="span">باید مرز بندی شفاف میان اعتراض قانونی و تخریبگری داشته باشیم.</segment>
+		<segment id="5" parent="33" relname="cause">دولت و شخص رییس جمهور با مردم صادق هستند.</segment>
+		<segment id="6" parent="32" relname="same">از همین رو رییس جمهور نسبت به حل و فصل مشکلاتی</segment>
+		<segment id="7" parent="6" relname="elaboration">که در کشور به وجود می‌آید</segment>
+		<segment id="8" parent="32" relname="same">حساسیت ویژه‌ای دارند.</segment>
+		<segment id="9" parent="35" relname="span">همچنین باید به این موضوع توجه داشت که حجم چالش‌ها و مشکلات به حدی است</segment>
+		<segment id="10" parent="9" relname="elaboration">که نمی توان از دولت انتظار معجزه داشت.</segment>
+		<segment id="11" parent="12" relname="attribution">به اعتقاد من</segment>
+		<segment id="12" parent="58" relname="span">در این شرایط باید تلاش حداکثری برای اقناع افکار عمومی انجام شود</segment>
+		<segment id="13" parent="58" relname="enablement">که مردم در جریان چالش‌ها و مشکلات دولت قرار گیرند</segment>
+		<segment id="14" parent="60" relname="enablement">تا با آگاهی از واقعیت‌های موجود جامعه رفتار خود را تنظیم کنند.</segment>
+		<segment id="15" parent="16" relname="attribution">من باور دارم</segment>
+		<segment id="16" parent="52" relname="span">جامعه نسبت به نظام سیاسی اعتماد و اعتقاد دارد.</segment>
+		<segment id="17" parent="38" relname="contrast">جامعه نسبت به دولت و خدمات آن قدردان است</segment>
+		<segment id="18" parent="38" relname="contrast">اما باید نخبگان ، اصحاب رسانه و به ویژه صدا و سیما رسالت خود را برای انعکاس خدمات دولت و نظام به افکار عمومی بیشتر به خرج دهند.</segment>
+		<segment id="19" parent="45" relname="span">سه نکته کلیدی را باید در این مقطع مدنظر قرار داد.</segment>
+		<segment id="20" parent="41" relname="span">یک حل و فصل مشکلات موسسات مالی و اعتباری است</segment>
+		<segment id="21" parent="20" relname="elaboration">که چالش عمده‌ای در نظام سیاسی است.</segment>
+		<segment id="22" parent="44" relname="span">نکته دوم مساله بیکاری ، فقر و شکاف طبقاتی و مساله سوم فساد در سیستم است.</segment>
+		<segment id="23" parent="43" relname="contrast">مردم حاضر هستند کمبودها را در کشور تحمل کنند</segment>
+		<segment id="24" parent="43" relname="contrast">اما تبعیض و فساد را هرگز.</segment>
+		<segment id="25" parent="48" relname="span">همه دولتمردان ، روشنفکران و اصحاب رسانه باید در ایجاد امید مردم به آینده تلاش کنند.</segment>
+		<segment id="26" parent="46" relname="contrast">اگر همه امکانات را فراهم کنیم</segment>
+		<segment id="27" parent="46" relname="contrast">اما بذر امید کاشته نشود</segment>
+		<segment id="28" parent="47" relname="span">خدمات و تلاش‌ها نادیده گرفته می‌شود.</segment>
+		<group id="29" type="span" parent="65" relname="span"/>
+		<group id="30" type="span" parent="29" relname="evaluation"/>
+		<group id="32" type="multinuc" parent="33" relname="span"/>
+		<group id="33" type="span" parent="34" relname="span"/>
+		<group id="34" type="span" parent="49" relname="joint"/>
+		<group id="35" type="span" parent="49" relname="joint"/>
+		<group id="38" type="multinuc" parent="39" relname="span"/>
+		<group id="39" type="span" parent="40" relname="span"/>
+		<group id="40" type="span" parent="59" relname="explanation"/>
+		<group id="41" type="span" parent="42" relname="joint"/>
+		<group id="42" type="multinuc" parent="19" relname="elaboration"/>
+		<group id="43" type="multinuc" parent="22" relname="elaboration"/>
+		<group id="44" type="span" parent="42" relname="joint"/>
+		<group id="45" type="span" parent="63" relname="joint"/>
+		<group id="46" type="multinuc" parent="28" relname="condition"/>
+		<group id="47" type="span" parent="25" relname="cause"/>
+		<group id="48" type="span" parent="63" relname="joint"/>
+		<group id="49" type="multinuc" parent="66" relname="background"/>
+		<group id="52" type="span" parent="39" relname="summary"/>
+		<group id="58" type="span" parent="60" relname="span"/>
+		<group id="59" type="span" parent="62" relname="span"/>
+		<group id="60" type="span" parent="59" relname="span"/>
+		<group id="62" type="span" parent="64" relname="span"/>
+		<group id="63" type="multinuc" parent="66" relname="span"/>
+		<group id="64" type="span" parent="63" relname="joint"/>
+		<group id="65" type="span" parent="68" relname="topicomment"/>
+		<group id="66" type="span" parent="67" relname="span"/>
+		<group id="67" type="span" parent="68" relname="topicomment"/>
+		<group id="68" type="multinuc" />
+	</body>
+</rst>

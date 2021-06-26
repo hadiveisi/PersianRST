@@ -1,0 +1,100 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="multinuc"/>
+			<rel name="cause" type="rst"/>
+			<rel name="comparison" type="multinuc"/>
+			<rel name="comparison" type="rst"/>
+			<rel name="condition" type="multinuc"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="contrast" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation" type="multinuc"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="explanation" type="multinuc"/>
+			<rel name="explanation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="manner-means" type="rst"/>
+			<rel name="same" type="multinuc"/>
+			<rel name="summary" type="rst"/>
+			<rel name="temporal" type="multinuc"/>
+			<rel name="temporal" type="rst"/>
+			<rel name="textualorganization" type="multinuc"/>
+			<rel name="topichange" type="multinuc"/>
+			<rel name="topichange" type="rst"/>
+			<rel name="topicomment" type="multinuc"/>
+			<rel name="topicomment" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="2" relname="attribution">متصرفان زمین‌های پناهگاه حیات‌وحش میانکاله ادعا می‌کنند</segment>
+		<segment id="2" parent="44" relname="span">که از زمان اصلاحات ارضی در بهمن ماه سال ۱۳۴۱ اسناد مشاع در اختیار دارند.</segment>
+		<segment id="3" parent="42" relname="background">شهریورماه ۹۸ اخباری مبنی بر تصرفات غیرقانونی یکی از بکرترین تالاب‌های کشور ( پناهگاه حیات‌وحش میانکاله ) منتشر شد.</segment>
+		<segment id="4" parent="45" relname="attribution">تصاویر منتشر شده حاکی از این بود</segment>
+		<segment id="5" parent="45" relname="span">که با عقب‌نشینی آب دریا ، بخش عمده‌ای از ساحل جنوب خلیج گرگان ، از قره‌تپه و بهشهر تا کردکوی و بندر ترکمن ، به زمین‌های کشاورزی تبدیل شده</segment>
+		<segment id="6" parent="5" relname="elaboration">که عمدتاً به کاشت جو دیم اختصاص یافته است.</segment>
+		<segment id="7" parent="32" relname="cause">تنها در منطقه قره‌تپه در جنوب غربی پناهگاه ، نزدیک به ۲۰۰۰ هکتار از زمین‌ها تغییر کاربری یافته و</segment>
+		<segment id="8" parent="32" relname="cause">به زمین‌های کشاورزی تبدیل شده‌اند.</segment>
+		<segment id="9" parent="36" relname="attribution">عکس‌های هوایی نشان می‌داد</segment>
+		<segment id="10" parent="55" relname="span">روندی</segment>
+		<segment id="11" parent="10" relname="elaboration">که طی یک دهه آغاز شده بود ،</segment>
+		<segment id="12" parent="47" relname="same">طی چهار تا پنج سال گذشته با عقب‌نشینی آب دریا تسریع شده</segment>
+		<segment id="13" parent="35" relname="cause">و حجم زمین‌خواری‌ها بیش از پیش افزایش یافته است.</segment>
+		<segment id="14" parent="57" relname="span">اداره کل محیط‌زیست مازندران</segment>
+		<segment id="15" parent="14" relname="elaboration">که پس از افشای ماجرا توسط فعالان محیط‌زیست چاره‌ای جز تایید زمین‌خواری‌ها نداشت ،</segment>
+		<segment id="16" parent="48" relname="same">از تشکیل پرونده قضایی و ورود دادستان به موضوع خبر داد.</segment>
+		<segment id="17" parent="37" relname="span">اقدامی که در نتیجه آن تعداد محدودی پرونده تشکیل شد</segment>
+		<segment id="18" parent="17" relname="contrast">اگرچه هیچکدام به زمین‌های قره‌تپه مربوط نبود.</segment>
+		<segment id="19" parent="60" relname="evaluation">نکته قابل توجه آنجاست که اساساً زمین‌های لب‌شور پناهگاه میانکاله ( قره‌تپه ) از نظر کشاورزی ارزش چندانی ندارند</segment>
+		<segment id="20" parent="58" relname="span">و همین موضوع این گمانه را تقویت می‌کند</segment>
+		<segment id="21" parent="20" relname="elaboration">که پس از گذشت چند سال و تثبیت وضعیت موجود ( زمین‌خواری‌های گسترده ) شهرک‌های ویلایی و ساخت و سازهای ییلاقی از درون این زمین‌ها سر برآورد.</segment>
+		<segment id="22" parent="59" relname="span">پناهگاه حیات‌وحش میانکاله</segment>
+		<segment id="23" parent="22" relname="attribution">طبق مصوبه شماره ۱۲ مورخ ۱۲/۰۸/۱۳۴۸ شورای عالی سازمان شکاربانی و نظارت بر صید وقت</segment>
+		<segment id="24" parent="38" relname="same">به‌عنوان منطقه حفاظت شده اعلام شد</segment>
+		<segment id="25" parent="52" relname="cause">و متعاقب آن و به‌دلیل اهمیت اکولوژیک منطقه</segment>
+		<segment id="26" parent="27" relname="attribution">براساس مصوبه ۷۸ مورخ ۱۲/۰۵/۱۳۵۴ شورای عالی حفاظت محیط‌زیست مندرج در روزنامه رسمی شماره ۸۹۲۱ مورخ ۲۸/۰۵/۱۳۵۴</segment>
+		<segment id="27" parent="52" relname="span">با وسعت۶۶,۹۳۳ هکتار به‌عنوان پناهگاه حیات‌وحش میانکاله ارتقا یافت.</segment>
+		<segment id="28" parent="40" relname="attribution">اما متصرفان اکنون ادعا می‌کنند</segment>
+		<segment id="29" parent="40" relname="span">که از زمان اصلاحات ارضی در بهمن ماه سال ۱۳۴۱ اسناد مشاع در اختیار دارند !</segment>
+		<segment id="30" parent="39" relname="joint">اسنادی که نه نقشه جانمایی دارد و نه پلاک مشخص</segment>
+		<segment id="31" parent="39" relname="joint">و در عین حال ، تمام متصرفان در همان زمان ( سال ۴۱ ) حق الارض مشاع دریافت کرده‌اند.</segment>
+		<group id="32" type="multinuc" parent="33" relname="elaboration"/>
+		<group id="33" type="span" parent="34" relname="span"/>
+		<group id="34" type="span" parent="41" relname="joint"/>
+		<group id="35" type="multinuc" parent="36" relname="span"/>
+		<group id="36" type="span" parent="46" relname="span"/>
+		<group id="37" type="span" parent="49" relname="elaboration"/>
+		<group id="38" type="multinuc" parent="43" relname="temporal"/>
+		<group id="39" type="multinuc" parent="29" relname="elaboration"/>
+		<group id="40" type="span" parent="53" relname="span"/>
+		<group id="41" type="multinuc" parent="42" relname="span"/>
+		<group id="42" type="span" parent="56" relname="span"/>
+		<group id="43" type="multinuc" parent="54" relname="contrast"/>
+		<group id="44" type="span" parent="63" relname="span"/>
+		<group id="45" type="span" parent="33" relname="span"/>
+		<group id="46" type="span" parent="41" relname="joint"/>
+		<group id="47" type="multinuc" parent="35" relname="cause"/>
+		<group id="48" type="multinuc" parent="49" relname="span"/>
+		<group id="49" type="span" parent="50" relname="span"/>
+		<group id="50" type="span" parent="62" relname="joint"/>
+		<group id="51" type="span" parent="43" relname="temporal"/>
+		<group id="52" type="span" parent="51" relname="span"/>
+		<group id="53" type="span" parent="54" relname="contrast"/>
+		<group id="54" type="multinuc" parent="64" relname="span"/>
+		<group id="55" type="span" parent="47" relname="same"/>
+		<group id="56" type="span" parent="61" relname="topicomment"/>
+		<group id="57" type="span" parent="48" relname="same"/>
+		<group id="58" type="span" parent="60" relname="evaluation"/>
+		<group id="59" type="span" parent="38" relname="same"/>
+		<group id="60" type="multinuc" parent="62" relname="joint"/>
+		<group id="61" type="multinuc" parent="44" relname="background"/>
+		<group id="62" type="multinuc" parent="61" relname="topicomment"/>
+		<group id="63" type="span" parent="64" relname="summary"/>
+		<group id="64" type="span" parent="65" relname="span"/>
+		<group id="65" type="span" />
+	</body>
+</rst>

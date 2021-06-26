@@ -1,0 +1,81 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="multinuc"/>
+			<rel name="cause" type="rst"/>
+			<rel name="comparison" type="multinuc"/>
+			<rel name="comparison" type="rst"/>
+			<rel name="condition" type="multinuc"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="contrast" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation" type="multinuc"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="explanation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="manner-means" type="rst"/>
+			<rel name="same" type="multinuc"/>
+			<rel name="summary" type="rst"/>
+			<rel name="temporal" type="multinuc"/>
+			<rel name="temporal" type="rst"/>
+			<rel name="textualorganization" type="multinuc"/>
+			<rel name="topichange" type="multinuc"/>
+			<rel name="topichange" type="rst"/>
+			<rel name="topicomment" type="multinuc"/>
+			<rel name="topicomment" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="53" relname="background">به صورت بدیهی در هر سازمان و وزارتخانه ای ، مجموعه‌ای اسناد و اطلاعات سری ، محرمانه و طبقه بندی شده وجود دارد.</segment>
+		<segment id="2" parent="55" relname="cause">در کلیپ منتشر شده درباره موضوع رییس سابق سازمان صدا و سیمای جمهوری اسلامی ایران و بازرس ویژه او نیز ادعا شده مجموعه اسناد خارج شده ، مطالب حساسی است</segment>
+		<segment id="3" parent="58" relname="span">بنابراین به نظر می‌رسد اسناد خارج شده ، اسناد حساسی بوده باشد</segment>
+		<segment id="4" parent="25" relname="joint">که کارمندان سازمان هم حق دسترسی به آن را نداشته‌اند</segment>
+		<segment id="5" parent="25" relname="joint">چه برسد به این که عالی ترین مقام سابق این سازمان اقدام به خروج آن‌ها از کشور کند.</segment>
+		<segment id="6" parent="29" relname="condition">اگر فرض مطرح شده صحیح باشد ،</segment>
+		<segment id="7" parent="29" relname="span">می توانیم به قانون مجازات اسلامی رجوع کنیم</segment>
+		<segment id="8" parent="28" relname="joint">چرا که در این قانون برای این موضوع جرم انگاری شده</segment>
+		<segment id="9" parent="28" relname="joint">و مجازات‌های قابل توجهی نیز در نظر گرفته شده است.</segment>
+		<segment id="10" parent="11" relname="condition">اگر اسناد خارج شده از کشور با امنیت ملی در ارتباط باشد ،</segment>
+		<segment id="11" parent="31" relname="span">مقام‌های امنیتی با استناد به قوانین می‌توانند در جهت مقابله با آن اقدام کنند.</segment>
+		<segment id="12" parent="59" relname="span">اما این موضوع بار روانی نیز برای جامعه در پی دارد.</segment>
+		<segment id="13" parent="44" relname="span">در چند وقت اخیر اسناد و مطالب موجود در صدا و سیما در رادیو و تلویزیون‌های بیگانه و خارج از کشور پخش شد</segment>
+		<segment id="14" parent="43" relname="span">که موج تعجب مردم را در پی داشت</segment>
+		<segment id="15" parent="14" relname="elaboration">و این کلیپ می‌تواند بار دیگر این موضوع را تشدید کند.</segment>
+		<segment id="16" parent="42" relname="span">ودر آن مورد موضوع فروش اسناد صدا و سیمای جمهوری اسلامی ایران مطرح بود</segment>
+		<segment id="17" parent="41" relname="span">که همین مساله بیانگر حضور و وجود عناصری به اصطلاح نامحرم در این سازمان است</segment>
+		<segment id="18" parent="34" relname="joint">که سازمان‌ها و نهادهای امنیتی باید به این موضوع ورود کرده</segment>
+		<segment id="19" parent="34" relname="joint">و چگونگی خروج و فروش این اسناد در زمان آقای سرافراز را در کنار موضوع کلیپ منتشر شده روشن کنند.</segment>
+		<segment id="20" parent="35" relname="joint">در شرایط کنونی نیز با توجه به حساسیت موضوع ، شورای نظارت بر صدا و سیما در کنار سازمان بازرسی کل کشور نیز می‌توانند با اتکا به قواعد و قوانین موجود در کشور به موضوع خروج اسناد ادعا شده در کلیپ از کشور ورود کرده</segment>
+		<segment id="21" parent="35" relname="joint">و با تشکیل جلسات فوق العاده ، ابعاد مختلف پرونده را روشن کرده</segment>
+		<segment id="22" parent="35" relname="joint">و به اطلاع عموم مردم برسانند</segment>
+		<segment id="23" parent="36" relname="enablement">تا از این طریق گامی در جهت تقویت اعتماد عمومی برداشته شود.</segment>
+		<group id="25" type="multinuc" parent="3" relname="elaboration"/>
+		<group id="28" type="multinuc" parent="7" relname="explanation"/>
+		<group id="29" type="span" parent="30" relname="span"/>
+		<group id="30" type="span" parent="48" relname="span"/>
+		<group id="31" type="span" parent="30" relname="elaboration"/>
+		<group id="32" type="span" parent="12" relname="explanation"/>
+		<group id="34" type="multinuc" parent="17" relname="evaluation"/>
+		<group id="35" type="multinuc" parent="36" relname="span"/>
+		<group id="36" type="span" parent="37" relname="span"/>
+		<group id="37" type="span" parent="60" relname="cause"/>
+		<group id="41" type="span" parent="16" relname="elaboration"/>
+		<group id="42" type="span" parent="44" relname="elaboration"/>
+		<group id="43" type="span" parent="13" relname="elaboration"/>
+		<group id="44" type="span" parent="32" relname="span"/>
+		<group id="48" type="span" parent="49" relname="topicomment"/>
+		<group id="49" type="multinuc" parent="56" relname="span"/>
+		<group id="52" type="span" parent="49" relname="topicomment"/>
+		<group id="53" type="span" parent="52" relname="span"/>
+		<group id="55" type="multinuc" parent="53" relname="span"/>
+		<group id="56" type="span" parent="57" relname="span"/>
+		<group id="57" type="span" />
+		<group id="58" type="span" parent="55" relname="cause"/>
+		<group id="59" type="span" parent="60" relname="cause"/>
+		<group id="60" type="multinuc" parent="56" relname="evaluation"/>
+	</body>
+</rst>

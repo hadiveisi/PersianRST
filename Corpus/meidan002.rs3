@@ -1,0 +1,83 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="Antithesis" type="rst"/>
+			<rel name="Background" type="rst"/>
+			<rel name="Cause" type="rst"/>
+			<rel name="Circumstance" type="rst"/>
+			<rel name="Concession" type="rst"/>
+			<rel name="Condition" type="rst"/>
+			<rel name="Conjunction" type="multinuc"/>
+			<rel name="Contrast" type="multinuc"/>
+			<rel name="Disjunction" type="multinuc"/>
+			<rel name="Elaboration" type="rst"/>
+			<rel name="Enablement" type="rst"/>
+			<rel name="Evaluation" type="rst"/>
+			<rel name="Evidence" type="rst"/>
+			<rel name="Interpretation" type="rst"/>
+			<rel name="Joint" type="multinuc"/>
+			<rel name="Justify" type="rst"/>
+			<rel name="Motivation" type="rst"/>
+			<rel name="Otherwise" type="rst"/>
+			<rel name="Purpose" type="rst"/>
+			<rel name="Restatement" type="rst"/>
+			<rel name="Result" type="rst"/>
+			<rel name="Sequence" type="multinuc"/>
+			<rel name="Solutionhood" type="rst"/>
+			<rel name="Summary" type="rst"/>
+			<rel name="attribution" type="rst"/>
+			<rel name="comparisonmult" type="multinuc"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="explanation" type="rst"/>
+			<rel name="explanationmult" type="multinuc"/>
+			<rel name="jointmult" type="multinuc"/>
+			<rel name="same" type="multinuc"/>
+			<rel name="summary" type="rst"/>
+			<rel name="temporalmult" type="multinuc"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="2" relname="explanation">به‌دنبال شیوع گسترده ویروس کرونا</segment>
+		<segment id="2" parent="24" relname="span">میزان فروش کتاب «طاعون» آلبر کامو در کشورهای فرانسه و ایتالیا به طور قابل‌توجهی افزایش پیدا کرد.</segment>
+		<segment id="3" parent="40" relname="attribution">طبق گزارش موسسه ادیستات که آمار فروش کتاب‌ها را ارایه می‌دهد ،</segment>
+		<segment id="4" parent="28" relname="span">میزان فروش رمان «طاعون» در فرانسه از زمان شیوع ویروس کرونا به طرز عجیبی افزایش یافته</segment>
+		<segment id="5" parent="4" relname="explanation">و تنها در طی ۸ هفته اول سال جدید میلادی ۱۸۰۰ نسخه از آن به فروش رسیده است.</segment>
+		<segment id="6" parent="30" relname="span">این در حالی است که فروش این رمان در همین بازه زمانی در سال ۲۰۱۹</segment>
+		<segment id="7" parent="6" relname="Background">که خبری از کرونا نبود</segment>
+		<segment id="8" parent="29" relname="same">به زحمت به ۴۰۰ نسخه می‌رسید.</segment>
+		<segment id="9" parent="25" relname="jointmult">در ایتالیا نیز میزان فروش این کتاب سه برابر افزایش یافت.</segment>
+		<segment id="10" parent="33" relname="span">آلبرکامو در رمان «طاعون»</segment>
+		<segment id="11" parent="10" relname="Background">که در سال ۱۹۴۷ منتشر شد</segment>
+		<segment id="12" parent="32" relname="same">وقایع روزمره ساکنین شهر اوران الجزایر را در دوران شیوع بیماری طاعون در اواسط قرن ۲۰ میلادی روایت کرده است.</segment>
+		<segment id="13" parent="34" relname="temporalmult">این رمان پس از انتشار به یکی از پرفروش‌ترین کتاب‌ها تبدیل شد</segment>
+		<segment id="14" parent="34" relname="temporalmult">و شهرت کامو را به بیرون از مرزهای فرانسه گسترش داد.</segment>
+		<segment id="15" parent="36" relname="span">پیش از این نیز افزایش استقبال از آثار ادبی پس از یک رویداد خاص در فرانسه وجود داشته است.</segment>
+		<segment id="16" parent="37" relname="jointmult">در سال گذشته بعد از سوختن کلیسای نوتردام پاریس استقبال مردم برای خواندن رمان «گوژپشت نوتردام» ویکتور هوگو افزایش پیدا کرد.</segment>
+		<segment id="17" parent="37" relname="jointmult">همچنین بعد از حمله‌های داعش در پاریس در سال ۲۰۱۵ میزان فروش رمان «پاریس جشن بیکران» همینگوی بسیار افزایش داشت.</segment>
+		<segment id="18" parent="39" relname="span">این‌طور به نظر می‌رسد زمان‌هایی</segment>
+		<segment id="19" parent="18" relname="Background">که ناکارآمدی دولت‌ها برای مردم مسجل می‌شود</segment>
+		<segment id="20" parent="38" relname="same">رجوع به تاریخ و آگاهی از تجربه‌های پیشین اهمیت ویژه‌ای در جامعه پیدا می‌کند</segment>
+		<group id="21" type="span" />
+		<group id="22" type="span" parent="21" relname="span"/>
+		<group id="23" type="span" parent="22" relname="span"/>
+		<group id="24" type="span" parent="23" relname="span"/>
+		<group id="25" type="multinuc" parent="24" relname="summary"/>
+		<group id="26" type="span" parent="25" relname="jointmult"/>
+		<group id="27" type="multinuc" parent="40" relname="span"/>
+		<group id="28" type="span" parent="27" relname="comparisonmult"/>
+		<group id="29" type="multinuc" parent="27" relname="comparisonmult"/>
+		<group id="30" type="span" parent="29" relname="same"/>
+		<group id="31" type="span" parent="23" relname="elaboration"/>
+		<group id="32" type="multinuc" parent="41" relname="span"/>
+		<group id="33" type="span" parent="32" relname="same"/>
+		<group id="34" type="multinuc" parent="41" relname="elaboration"/>
+		<group id="35" type="span" parent="22" relname="elaboration"/>
+		<group id="36" type="span" parent="35" relname="span"/>
+		<group id="37" type="multinuc" parent="15" relname="elaboration"/>
+		<group id="38" type="multinuc" parent="36" relname="evaluation"/>
+		<group id="39" type="span" parent="38" relname="same"/>
+		<group id="40" type="span" parent="26" relname="span"/>
+		<group id="41" type="span" parent="31" relname="span"/>
+	</body>
+</rst>

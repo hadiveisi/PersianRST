@@ -1,0 +1,108 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="multinuc"/>
+			<rel name="cause" type="rst"/>
+			<rel name="comparison" type="multinuc"/>
+			<rel name="comparison" type="rst"/>
+			<rel name="condition" type="multinuc"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="contrast" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation" type="multinuc"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="explanation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="manner-means" type="rst"/>
+			<rel name="same" type="multinuc"/>
+			<rel name="summary" type="rst"/>
+			<rel name="temporal" type="multinuc"/>
+			<rel name="temporal" type="rst"/>
+			<rel name="textualorganization" type="multinuc"/>
+			<rel name="topichange" type="multinuc"/>
+			<rel name="topichange" type="rst"/>
+			<rel name="topicomment" type="multinuc"/>
+			<rel name="topicomment" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="61" relname="span">حضور رضا پهلوی ولیعهد سابق ایران در تلویزیون رسمی دولتی چین ، اسباب تکدرخاطر بسیاری از مسوولان و دولتمردان ما را فراهم ساخته ؛</segment>
+		<segment id="2" parent="1" relname="cause">زیرا به تعبیر سفارت ایران در چین ، این اقدام «کم سابقه و معنادار» و نوعی «مداخله در امور داخلی ایران» تلقی می شود.</segment>
+		<segment id="3" parent="49" relname="cause">این ارزیابی ، منحصر به ایران نیست</segment>
+		<segment id="4" parent="49" relname="cause">زیرا حتی چینی‌ها هم حساسیت مشابهی دارند.</segment>
+		<segment id="5" parent="71" relname="span">به عنوان مثال ، در گذشته‌هایی نه چندان دور ، هر کشوری</segment>
+		<segment id="6" parent="5" relname="elaboration">که با تایپه (چین ملی یا تایوان) مناسبات برقرار می‌کرد</segment>
+		<segment id="7" parent="36" relname="same">با واکنش بسیار تند و اعتراض آمیز پکن روبه رو می‌شد</segment>
+		<segment id="8" parent="40" relname="joint">زیرا چین ، تایوان را بخشی از خاک خود تلقی می‌کرد</segment>
+		<segment id="9" parent="72" relname="span">و بر این اساس ، هر کشوری</segment>
+		<segment id="10" parent="38" relname="joint">که تایوان را به رسمیت می‌شناخت</segment>
+		<segment id="11" parent="38" relname="joint">و با آن رابطه دیپلماتیک برقرار می‌کرد ،</segment>
+		<segment id="12" parent="37" relname="same">مشمول اعتراض تند و تیز چینی‌ها واقع می‌شد.</segment>
+		<segment id="13" parent="41" relname="joint">البته مدت هاست که چین حساسیت خود را نسبت به تایوان تا حدود زیادی از دست داده</segment>
+		<segment id="14" parent="41" relname="joint">و حتی روابط تجاری هم با آن برقرار کرده است.</segment>
+		<segment id="15" parent="73" relname="span">اما در مورد دوم</segment>
+		<segment id="16" parent="15" relname="elaboration">که پیرامون «دالای لاما» است ،</segment>
+		<segment id="17" parent="42" relname="cause">وضعیت به همین گونه است ؛</segment>
+		<segment id="18" parent="74" relname="span">هر کشوری</segment>
+		<segment id="19" parent="18" relname="elaboration">که از «دالای لاما» رهبر بودایی‌های تبت چین دعوت کند ،</segment>
+		<segment id="20" parent="43" relname="joint">با اعتراض شدید پکن روبه رو می‌شود.</segment>
+		<segment id="21" parent="75" relname="span">بنابراین حتی با معیارهای مقبول پکن ، دعوت از رضا پهلوی</segment>
+		<segment id="22" parent="21" relname="enablement">برای حضور در تلویزیون دولتی این کشور ،</segment>
+		<segment id="23" parent="51" relname="same">قابل دفاع نیست.</segment>
+		<segment id="24" parent="76" relname="span">رضا پهلوی ، خود را رهبر طیفی از مخالفان حاکمیت</segment>
+		<segment id="25" parent="24" relname="elaboration">که به نام سلطنت طلبان مشهور شده‌اند ،</segment>
+		<segment id="26" parent="52" relname="same">می‌داند</segment>
+		<segment id="27" parent="55" relname="span">و انتظار نمی‌رفت ، رسانه ملی چین ؛ پذیرای فردی از اپوزیسیون ایران باشد.</segment>
+		<segment id="28" parent="29" relname="attribution">چینی‌ها در وتو نکردن قطعنامه‌های تحریم ایران در شورای امنیت سازمان ملل ، معمولا تاکید می‌کنند</segment>
+		<segment id="29" parent="77" relname="span">برای حفظ منافع تجاری و سیاسی با اروپا و آمریکا و برای صیانت از منافع ملی شان ، ناچار به چنین موضع گیری‌ای شده‌اند</segment>
+		<segment id="30" parent="59" relname="span">اما در مورد دعوت از رضا پهلوی دیگر چنین توجیهی هم قابل دفاع نیست.</segment>
+		<segment id="31" parent="32" relname="condition">اگر ولیعهد سابق ایران در تلویزیون چین ظاهر نمی‌شد</segment>
+		<segment id="32" parent="58" relname="span">آمریکایی‌ها یا اتحادیه اروپا کدامین اعتراض را به چین وارد می‌کردند ؟</segment>
+		<segment id="33" parent="66" relname="span">البته کل رخداد را نبایستی خیلی بزرگ نمایی کرد.</segment>
+		<segment id="34" parent="60" relname="span">خوشبینانه باید امیدوار بود که این اتفاق ، در ضعف شناخت مقامات چینی از حساسیت‌های ایرانی‌ها ریشه داشته است.</segment>
+		<segment id="35" parent="34" relname="elaboration">توضیح آتی مقامات رسمی چین می‌تواند عیار انطباق این گمانه را با واقعیت ، آشکار کند.</segment>
+		<group id="36" type="multinuc" parent="39" relname="span"/>
+		<group id="37" type="multinuc" parent="40" relname="joint"/>
+		<group id="38" type="multinuc" parent="9" relname="elaboration"/>
+		<group id="39" type="span" parent="47" relname="span"/>
+		<group id="40" type="multinuc" parent="39" relname="cause"/>
+		<group id="41" type="multinuc" parent="44" relname="contrast"/>
+		<group id="42" type="multinuc" parent="45" relname="background"/>
+		<group id="43" type="multinuc" parent="45" relname="span"/>
+		<group id="44" type="multinuc" parent="65" relname="joint"/>
+		<group id="45" type="span" parent="46" relname="span"/>
+		<group id="46" type="span" parent="64" relname="evaluation"/>
+		<group id="47" type="span" parent="50" relname="explanation"/>
+		<group id="49" type="multinuc" parent="50" relname="span"/>
+		<group id="50" type="span" parent="62" relname="span"/>
+		<group id="51" type="multinuc" parent="54" relname="span"/>
+		<group id="52" type="multinuc" parent="27" relname="cause"/>
+		<group id="54" type="span" parent="63" relname="span"/>
+		<group id="55" type="span" parent="54" relname="cause"/>
+		<group id="56" type="multinuc" parent="67" relname="span"/>
+		<group id="58" type="span" parent="30" relname="topicomment"/>
+		<group id="59" type="span" parent="56" relname="contrast"/>
+		<group id="60" type="span" parent="33" relname="evaluation"/>
+		<group id="61" type="span" parent="69" relname="span"/>
+		<group id="62" type="span" parent="65" relname="joint"/>
+		<group id="63" type="span" parent="64" relname="evaluation"/>
+		<group id="64" type="multinuc" parent="44" relname="contrast"/>
+		<group id="65" type="multinuc" parent="61" relname="explanation"/>
+		<group id="66" type="span" parent="67" relname="evaluation"/>
+		<group id="67" type="span" parent="68" relname="span"/>
+		<group id="68" type="span" parent="69" relname="topicomment"/>
+		<group id="69" type="span" parent="70" relname="span"/>
+		<group id="70" type="span" />
+		<group id="71" type="span" parent="36" relname="same"/>
+		<group id="72" type="span" parent="37" relname="same"/>
+		<group id="73" type="span" parent="42" relname="cause"/>
+		<group id="74" type="span" parent="43" relname="joint"/>
+		<group id="75" type="span" parent="51" relname="same"/>
+		<group id="76" type="span" parent="52" relname="same"/>
+		<group id="77" type="span" parent="56" relname="contrast"/>
+	</body>
+</rst>

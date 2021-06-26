@@ -1,0 +1,94 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="multinuc"/>
+			<rel name="cause" type="rst"/>
+			<rel name="comparison" type="multinuc"/>
+			<rel name="comparison" type="rst"/>
+			<rel name="condition" type="multinuc"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="contrast" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation" type="multinuc"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="explanation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="manner-means" type="rst"/>
+			<rel name="same" type="multinuc"/>
+			<rel name="summary" type="rst"/>
+			<rel name="temporal" type="multinuc"/>
+			<rel name="temporal" type="rst"/>
+			<rel name="textualorganization" type="multinuc"/>
+			<rel name="topichange" type="multinuc"/>
+			<rel name="topichange" type="rst"/>
+			<rel name="topicomment" type="multinuc"/>
+			<rel name="topicomment" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="72" relname="cause">مذاکره یکی از اصول جدی ، کم هزینه و مهم ترین راهبرد بین دولت‌ها و قدرت‌ها برای پیشبرد منافع ملی شان است.</segment>
+		<segment id="2" parent="58" relname="span">همیشه در دنیای سیاست برای پیگیری منافع ملی با یک مشکل جدی رو به رو هستیم</segment>
+		<segment id="3" parent="2" relname="elaboration">و آن محدودیت منابع است.</segment>
+		<segment id="4" parent="31" relname="joint">ممکن است رودررویی و غیرهمسو بودن منافع کشور‌ها باعث منازعه و کشمکش بین کشورها شود</segment>
+		<segment id="5" parent="31" relname="joint">و مشکلات جدی در دنیا به وجود بیاورد.</segment>
+		<segment id="6" parent="40" relname="span">مذاکره یکی از شناخته شده ترین توصیه شده ترین و بهترین راهکارها برای حل چنین منازعه‌هایی است</segment>
+		<segment id="7" parent="6" relname="elaboration">که کارشناسان روابط بین الملل آن را توصیه می‌کنند.</segment>
+		<segment id="8" parent="32" relname="joint">این مذاکرات می‌تواند به صورت دو یا چندجانبه پیگیری شود.</segment>
+		<segment id="9" parent="32" relname="joint">همچنین می‌تواند با حضور چند دولت در مذاکرات سازمان‌های بین المللی نیز دخیل شوند.</segment>
+		<segment id="10" parent="45" relname="span">مساله کره شمالی یکی از منازعات چندین ساله در جهان است.</segment>
+		<segment id="11" parent="33" relname="span">از سال ۱۹۵۱ با دخالت امریکا شاهد جنگی جدی بودیم</segment>
+		<segment id="12" parent="11" relname="elaboration">که نهایتا باعث شد تا کره به دو کشور تقسیم شود.</segment>
+		<segment id="13" parent="34" relname="joint">از آن زمان رهبران کره شمالی چیزی حدود سه نسل در فضای تخاصم با امریکا حکمرانی کرده اند.</segment>
+		<segment id="14" parent="59" relname="joint">این اتفاق نادر است</segment>
+		<segment id="15" parent="59" relname="joint">و باید در این مساله تامل کرد.</segment>
+		<segment id="16" parent="36" relname="span">البته باید منتظر بمانیم</segment>
+		<segment id="17" parent="16" relname="enablement">تا ببینیم نتیجه مثبتی از این مذاکرات به دست می‌آید یا نه.</segment>
+		<segment id="18" parent="37" relname="comparison">در این مذاکره رهبر کره شمالی شخصیتی جوان و غیر قابل پیش بینی است.</segment>
+		<segment id="19" parent="37" relname="comparison">ترامپ هم چنین ویژگی‌هایی دارد.</segment>
+		<segment id="20" parent="61" relname="span">بنابراین پیش بینی سرنوشت این مذاکرات بسیار سخت خواهد بود.</segment>
+		<segment id="21" parent="38" relname="contrast">در چنین شرایطی شاید عده‌ای به فکر مذاکره بین ایران و امریکا بیفتند</segment>
+		<segment id="22" parent="67" relname="span">اما به هر حال این مساله نیازمند مطالعه جدی در ویژگی‌های هیات حاکمه امریکا و بررسی امکانات است.</segment>
+		<segment id="23" parent="68" relname="span">به هر حال رییس جمهور امریکا معروف به ضدیت با ایران است.</segment>
+		<segment id="24" parent="23" relname="evaluation">از این رو باید مساله مورد تامل قرار بگیرد.</segment>
+		<segment id="25" parent="39" relname="joint">نه می‌توان امکان تحقق این مذاکره را رد کرد</segment>
+		<segment id="26" parent="39" relname="joint">و نه به صورت یکجانبه در مورد آن بحث کرد.</segment>
+		<segment id="27" parent="69" relname="span">این مساله باید از طریق قوه عاقله نظام حل و فصل شود.</segment>
+		<segment id="28" parent="54" relname="joint">به هر حال هیات حاکمه امریکا معاهده بین المللی برجام را زیر پا گذاشته</segment>
+		<segment id="29" parent="54" relname="joint">و تصمیماتی از این دست نیازمند بررسی دقیق است.</segment>
+		<group id="31" type="multinuc" parent="42" relname="topicomment"/>
+		<group id="32" type="multinuc" parent="40" relname="elaboration"/>
+		<group id="33" type="span" parent="34" relname="joint"/>
+		<group id="34" type="multinuc" parent="10" relname="elaboration"/>
+		<group id="36" type="span" parent="60" relname="span"/>
+		<group id="37" type="multinuc" parent="20" relname="cause"/>
+		<group id="38" type="multinuc" parent="52" relname="span"/>
+		<group id="39" type="multinuc" parent="52" relname="evaluation"/>
+		<group id="40" type="span" parent="41" relname="span"/>
+		<group id="41" type="span" parent="42" relname="topicomment"/>
+		<group id="42" type="multinuc" parent="70" relname="summary"/>
+		<group id="45" type="span" parent="62" relname="span"/>
+		<group id="52" type="span" parent="64" relname="span"/>
+		<group id="54" type="multinuc" parent="27" relname="explanation"/>
+		<group id="57" type="multinuc" parent="73" relname="topichange"/>
+		<group id="58" type="span" parent="72" relname="cause"/>
+		<group id="59" type="multinuc" parent="45" relname="evaluation"/>
+		<group id="60" type="span" parent="62" relname="evaluation"/>
+		<group id="61" type="span" parent="36" relname="explanation"/>
+		<group id="62" type="span" parent="63" relname="span"/>
+		<group id="63" type="span" parent="73" relname="topichange"/>
+		<group id="64" type="span" parent="57" relname="topicomment"/>
+		<group id="67" type="span" parent="38" relname="contrast"/>
+		<group id="68" type="span" parent="22" relname="explanation"/>
+		<group id="69" type="span" parent="57" relname="topicomment"/>
+		<group id="70" type="span" parent="71" relname="span"/>
+		<group id="71" type="span" parent="74" relname="background"/>
+		<group id="72" type="multinuc" parent="70" relname="span"/>
+		<group id="73" type="multinuc" parent="74" relname="span"/>
+		<group id="74" type="span" parent="75" relname="span"/>
+		<group id="75" type="span" />
+	</body>
+</rst>

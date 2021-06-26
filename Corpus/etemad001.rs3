@@ -1,0 +1,111 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="multinuc"/>
+			<rel name="cause" type="rst"/>
+			<rel name="comparison" type="multinuc"/>
+			<rel name="comparison" type="rst"/>
+			<rel name="condition" type="multinuc"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="contrast" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation" type="multinuc"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="explanation" type="rst"/>
+			<rel name="explanation" type="multinuc"/>			
+			<rel name="joint" type="multinuc"/>
+			<rel name="manner-means" type="rst"/>
+			<rel name="same" type="multinuc"/>
+			<rel name="summary" type="rst"/>
+			<rel name="temporal" type="multinuc"/>
+			<rel name="temporal" type="rst"/>
+			<rel name="textualorganization" type="multinuc"/>
+			<rel name="topichange" type="multinuc"/>
+			<rel name="topichange" type="rst"/>
+			<rel name="topicomment" type="multinuc"/>
+			<rel name="topicomment" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="54" relname="span">برای تحلیل وضعیت بازار مسکن و ارزیابی از آینده احتمالی آن ، باید تمام عوامل موجود در اقتصاد ایران را تحلیل کرد</segment>
+		<segment id="2" parent="1" relname="explanation">زیرا مسکن نیز مانند دیگر حوزه‌ها ، از شرایط کلان اقتصادی تاثیر می‌پذیرد.</segment>
+		<segment id="3" parent="72" relname="span">یکی از اصلی ترین مسایلی</segment>
+		<segment id="4" parent="3" relname="elaboration">که امروز اقتصاد ایران با آن دست و پنجه نرم می‌کند ،</segment>
+		<segment id="5" parent="55" relname="same">تورم و افزایش نقدینگی است ،</segment>
+		<segment id="6" parent="37" relname="joint"> ؛ مساله‌ای که از سویی به معیشت مردم فشار وارد می‌کند</segment>
+		<segment id="7" parent="37" relname="joint">و از سوی دیگر نظم بازارها را بر هم می‌ریزد.</segment>
+		<segment id="8" parent="38" relname="background">وقتی میزان نقدینگی سرگردان در اقتصاد افزایش پیدا می‌کند ،</segment>
+		<segment id="9" parent="38" relname="span">صاحبان این نقدینگی به دنبال تزریق منابع خود به بازارهایی هستند</segment>
+		<segment id="10" parent="9" relname="elaboration">که بیشترین سود را در اختیارشان قرار دهد</segment>
+		<segment id="11" parent="46" relname="elaboration">و نمونه این اتفاق را سال گذشته در بازارهایی مانند ارز ، طلا ، مسکن و خودرو مشاهده کردیم.</segment>
+		<segment id="12" parent="59" relname="span">با تداوم روند رو به رشد نقدینگی احتمالا همین شرایط در سال آینده نیز قابل تصور خواهد بود.</segment>
+		<segment id="13" parent="89" relname="span">در ماه‌های گذشته بازار بورس با بازدهی بالایی</segment>
+		<segment id="14" parent="13" relname="elaboration">که از خود نشان داده ،</segment>
+		<segment id="15" parent="39" relname="same">توانسته بخشی از این نقدینگی موجود در جامعه را جذب خود کند</segment>
+		<segment id="16" parent="58" relname="cause">و به همین دلیل میزان نوسانات قیمتی در دیگر بازارها کم شده یا متوقف شده است.</segment>
+		<segment id="17" parent="60" relname="span">در چنین بستری بازار مسکن با شرایط خاص خود نیز مواجه است.</segment>
+		<segment id="18" parent="40" relname="contrast">در ماه‌های گذشته با افزایش قیمت مصالح و افزایش هزینه خدمات مانند حقوق نیروی انسانی ، قیمت تمام شده خانه برای فعالان این حوزه افزایش یافته است</segment>
+		<segment id="19" parent="40" relname="contrast">اما در کنار آن با توجه به افزایش جدی قیمت‌ها از سال ۹۷ تاکنون بازار عملا فضای جدیدی برای افزایش قیمت جدی تر ندارد.</segment>
+		<segment id="20" parent="21" relname="condition">اگر متقاضیان مسکن را به دو دسته عمده تقسیم کنیم</segment>
+		<segment id="21" parent="63" relname="span">این تحلیل شرایط ساده‌تر خواهد شد.</segment>
+		<segment id="22" parent="41" relname="joint">متقاضیان مسکن یا تقاضای واقعی دارند</segment>
+		<segment id="23" parent="42" relname="span">یا سفته‌بازانی هستند</segment>
+		<segment id="24" parent="23" relname="elaboration">که به دنبال سود هستند.</segment>
+		<segment id="25" parent="26" relname="explanation">با افزایش قیمت رخ داده در ماه‌های گذشته قدرت خرید متقاضیان واقعی خانه کاهش یافته</segment>
+		<segment id="26" parent="50" relname="span">و از این رو نمی‌توان انتظار داشت در سال آینده تفاوت جدی در عملکرد آن‌ها به وجود آید.</segment>
+		<segment id="27" parent="28" relname="explanation">از سوی دیگر با توجه به افزایش قیمت رخ داده در سال قبل ، انتظار افزایش قیمت هم‌راستا با تورم دور از انتظار است</segment>
+		<segment id="28" parent="52" relname="span">و این رو نمی‌توان توقع داشت که دلال‌ها فعلا به این بازار بازگردند.</segment>
+		<segment id="29" parent="83" relname="span">با این تفاسیر در شرایطی</segment>
+		<segment id="30" parent="43" relname="contrast">که قیمت ساخت مسکن افزایش یافته</segment>
+		<segment id="31" parent="43" relname="contrast">اما شرایط برای بالا بردن قیمت‌ها مناسب نیست</segment>
+		<segment id="32" parent="44" relname="same">احتمال کاهش تقاضا برای ساخت و سازهای جدید وجود دارد</segment>
+		<segment id="33" parent="84" relname="joint">و از سوی دیگر نیز دلالان علاقه چندانی برای ورود به بازاری جا مانده از نرخ تورم دارند</segment>
+		<segment id="34" parent="84" relname="joint">و نه متقاضیان واقعی قدرت خریدی بهبود یافته‌ای خواهند داشت ؛</segment>
+		<segment id="35" parent="66" relname="span">از این رو احتمالا بازار مسکن در سال ۹۹ ، افزایش قیمتی محدود و نه به اندازه تورم و البته کاهش تقاضا و به دنبال آن کاهش معاملات را تجربه خواهد کرد ،</segment>
+		<segment id="36" parent="35" relname="elaboration">موضوعی که شاید به تداوم رکود در این بازار منجر شود.</segment>
+		<group id="37" type="multinuc" parent="56" relname="elaboration"/>
+		<group id="38" type="span" parent="46" relname="span"/>
+		<group id="39" type="multinuc" parent="58" relname="cause"/>
+		<group id="40" type="multinuc" parent="61" relname="span"/>
+		<group id="41" type="multinuc" parent="63" relname="elaboration"/>
+		<group id="42" type="span" parent="41" relname="joint"/>
+		<group id="43" type="multinuc" parent="29" relname="elaboration"/>
+		<group id="44" type="multinuc" parent="86" relname="span"/>
+		<group id="45" type="span" parent="54" relname="elaboration"/>
+		<group id="46" type="span" parent="47" relname="span"/>
+		<group id="47" type="span" parent="74" relname="evaluation"/>
+		<group id="50" type="span" parent="78" relname="joint"/>
+		<group id="52" type="span" parent="78" relname="joint"/>
+		<group id="54" type="span" parent="69" relname="span"/>
+		<group id="55" type="multinuc" parent="56" relname="span"/>
+		<group id="56" type="span" parent="45" relname="span"/>
+		<group id="57" type="span" parent="73" relname="span"/>
+		<group id="58" type="multinuc" parent="12" relname="explanation"/>
+		<group id="59" type="span" parent="74" relname="evaluation"/>
+		<group id="60" type="span" parent="90" relname="span"/>
+		<group id="61" type="span" parent="62" relname="span"/>
+		<group id="62" type="span" parent="17" relname="elaboration"/>
+		<group id="63" type="span" parent="79" relname="span"/>
+		<group id="66" type="span" parent="85" relname="joint"/>
+		<group id="69" type="span" parent="57" relname="background"/>
+		<group id="72" type="span" parent="55" relname="same"/>
+		<group id="73" type="span" parent="60" relname="background"/>
+		<group id="74" type="multinuc" parent="57" relname="span"/>
+		<group id="78" type="multinuc" parent="81" relname="span"/>
+		<group id="79" type="span" parent="81" relname="cause"/>
+		<group id="81" type="span" parent="82" relname="span"/>
+		<group id="82" type="span" parent="61" relname="summary"/>
+		<group id="83" type="span" parent="44" relname="same"/>
+		<group id="84" type="multinuc" parent="86" relname="explanation"/>
+		<group id="85" type="multinuc" parent="88" relname="evaluation"/>
+		<group id="86" type="span" parent="87" relname="span"/>
+		<group id="87" type="span" parent="85" relname="joint"/>
+		<group id="88" type="multinuc" />
+		<group id="89" type="span" parent="39" relname="same"/>
+		<group id="90" type="span" parent="88" relname="evaluation"/>
+	</body>
+</rst>

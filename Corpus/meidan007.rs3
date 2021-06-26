@@ -1,0 +1,91 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="multinuc"/>
+			<rel name="cause" type="rst"/>
+			<rel name="comparison" type="multinuc"/>
+			<rel name="comparison" type="rst"/>
+			<rel name="condition" type="multinuc"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="contrast" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation" type="multinuc"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="explanation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="manner-means" type="rst"/>
+			<rel name="same" type="multinuc"/>
+			<rel name="summary" type="rst"/>
+			<rel name="temporal" type="multinuc"/>
+			<rel name="temporal" type="rst"/>
+			<rel name="textualorganization" type="multinuc"/>
+			<rel name="topichange" type="multinuc"/>
+			<rel name="topichange" type="rst"/>
+			<rel name="topicomment" type="multinuc"/>
+			<rel name="topicomment" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="46" relname="span">شورای شهر تهران در جلسه روز گذشته خود ، با طرح صیانت از باغات مخالفت کرد.</segment>
+		<segment id="2" parent="56" relname="span">این در حالیست</segment>
+		<segment id="3" parent="55" relname="temporal">که هر روز از تعداد باغات تهران کاسته می‌شود</segment>
+		<segment id="4" parent="55" relname="temporal">و به جای آن برج‌ها و ساختمان‌های بلندمرتبه در مناطق مختلف ایجاد می‌شود.</segment>
+		<segment id="5" parent="42" relname="attribution">محمد سالاری ، یکی از مخالفان این طرح ، خود گفته</segment>
+		<segment id="6" parent="41" relname="contrast">که باغات تهران در «وضعیتی اورژانسی» به سر می‌برند</segment>
+		<segment id="7" parent="57" relname="span">«اما در عین حال باید این را هم در نظر گرفت</segment>
+		<segment id="8" parent="7" relname="elaboration">که محدودیت بیش از اندازه خود موجب دوری مردم از قانون خواهد شد».</segment>
+		<segment id="9" parent="60" relname="span">یکی دیگر از مخالفان این طرح اسماعیل دوستی بوده</segment>
+		<segment id="10" parent="48" relname="span">که او هم در عین تایید این</segment>
+		<segment id="11" parent="10" relname="elaboration">که «روح حاکم بر شهر تهران به گونه‌ای است که شهر برای زندگی نیست» ،</segment>
+		<segment id="12" parent="59" relname="same">با تصویب چنین طرحی مخالفت کرده است.</segment>
+		<segment id="13" parent="43" relname="joint">مهدی چمران رییس شورای شهر تهران ، احمد دنیامالی و حبیب کاشانی نیز از مخالفان جدی این طرح هستند.</segment>
+		<segment id="14" parent="31" relname="attribution">محمد حقانی ، رییس کمیته محیط زیست شورای شهر تهران ، در این خصوص گفته</segment>
+		<segment id="15" parent="29" relname="contrast">«بالغ بر ۷۰ درصد اعضای شورای شهر تهران مخالف لغو مصوبه برج-باغ‌ها هستند.</segment>
+		<segment id="16" parent="29" relname="contrast">دلیل منطقی نیز برای این مساله مطرح نمی‌شود.</segment>
+		<segment id="17" parent="30" relname="joint">در واقع یک عده از اعضای شورا که سکوت کردند ،</segment>
+		<segment id="18" parent="30" relname="joint">تنها بنده و آقای حافظی موافق لغو این مصوبه هستیم».</segment>
+		<segment id="19" parent="35" relname="attribution">وی افزوده</segment>
+		<segment id="20" parent="34" relname="background">«سه سال است که این طرح به فردا موکول می‌شود.</segment>
+		<segment id="21" parent="32" relname="contrast">امروز هم تلاش کردیم تا لغو آن رای بیاورد</segment>
+		<segment id="22" parent="32" relname="contrast">اما تدبیر دوستان در شورا این بود که رای نیاورد.</segment>
+		<segment id="23" parent="33" relname="contrast">در حالی که ۵ ماه تمام بر روی این طرح کار کارشناسی انجام شده است».</segment>
+		<segment id="24" parent="37" relname="attribution">بر اساس ماده ۳ این طرح ،</segment>
+		<segment id="25" parent="62" relname="span">شهرداری مکلف است آن قسمت از اراضی</segment>
+		<segment id="26" parent="25" relname="elaboration">که در نتیجه اجرای طرح‌های تکفیکی اراضی مزروعی و باغات به تملک شهرداری در می‌آید</segment>
+		<segment id="27" parent="52" relname="same">را صرفا به توسعه فضا سبز اختصاص دهد</segment>
+		<segment id="28" parent="36" relname="joint">و از اختصاص آن به هر نحو در سایر کاربری خدمات شهری خودداری نماید.</segment>
+		<group id="29" type="multinuc" parent="30" relname="joint"/>
+		<group id="30" type="multinuc" parent="31" relname="span"/>
+		<group id="31" type="span" parent="39" relname="span"/>
+		<group id="32" type="multinuc" parent="33" relname="span"/>
+		<group id="33" type="span" parent="34" relname="span"/>
+		<group id="34" type="span" parent="35" relname="span"/>
+		<group id="35" type="span" parent="40" relname="span"/>
+		<group id="36" type="multinuc" parent="37" relname="span"/>
+		<group id="37" type="span" parent="53" relname="span"/>
+		<group id="38" type="multinuc" parent="47" relname="evaluation"/>
+		<group id="39" type="span" parent="38" relname="joint"/>
+		<group id="40" type="span" parent="38" relname="joint"/>
+		<group id="41" type="multinuc" parent="42" relname="span"/>
+		<group id="42" type="span" parent="44" relname="span"/>
+		<group id="43" type="multinuc" parent="46" relname="elaboration"/>
+		<group id="44" type="span" parent="43" relname="joint"/>
+		<group id="46" type="span" parent="47" relname="span"/>
+		<group id="47" type="span" parent="61" relname="span"/>
+		<group id="48" type="span" parent="59" relname="same"/>
+		<group id="52" type="multinuc" parent="36" relname="joint"/>
+		<group id="53" type="span" parent="61" relname="elaboration"/>
+		<group id="55" type="multinuc" parent="2" relname="elaboration"/>
+		<group id="56" type="span" parent="1" relname="background"/>
+		<group id="57" type="span" parent="41" relname="contrast"/>
+		<group id="59" type="multinuc" parent="9" relname="elaboration"/>
+		<group id="60" type="span" parent="43" relname="joint"/>
+		<group id="61" type="span" parent="63" relname="span"/>
+		<group id="62" type="span" parent="52" relname="same"/>
+		<group id="63" type="span" />
+	</body>
+</rst>

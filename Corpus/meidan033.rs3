@@ -1,0 +1,101 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="multinuc"/>
+			<rel name="cause" type="rst"/>
+			<rel name="comparison" type="multinuc"/>
+			<rel name="comparison" type="rst"/>
+			<rel name="condition" type="multinuc"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="contrast" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation" type="multinuc"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="explanation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="manner-means" type="rst"/>
+			<rel name="same" type="multinuc"/>
+			<rel name="summary" type="rst"/>
+			<rel name="temporal" type="multinuc"/>
+			<rel name="temporal" type="rst"/>
+			<rel name="textualorganization" type="multinuc"/>
+			<rel name="topichange" type="multinuc"/>
+			<rel name="topichange" type="rst"/>
+			<rel name="topicomment" type="multinuc"/>
+			<rel name="topicomment" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="36" relname="attribution">رییس سازمان تعزیرات حکومتی در یک برنامه تلویزیونی گفته</segment>
+		<segment id="2" parent="36" relname="span">«مافیای ثروت و قدرت در بخش‌های اجرایی و حاکمیتی تنیده شده است</segment>
+		<segment id="3" parent="4" relname="condition">که هر مسیولی بخواهد در مقابل آن بایستد</segment>
+		<segment id="4" parent="35" relname="span">به سختی می‌تواند دوام بیاورد».</segment>
+		<segment id="5" parent="42" relname="span">علیرضا جمشیدی قاچاقچیان بزرگ و سازمان یافته در کشور را داری «حاشیه امن» توصیف کرده</segment>
+		<segment id="6" parent="40" relname="attribution">و افزوده</segment>
+		<segment id="7" parent="38" relname="span">«من برای بررسی یک پرونده ۳۶ میلیاردی قاچاق نفت ۱۰ جلسه برگزار کردم</segment>
+		<segment id="8" parent="7" relname="elaboration">که مسیر این پرونده در مسیر حق و درست هدایت شود</segment>
+		<segment id="9" parent="39" relname="contrast">اما از زمین و زمان فشار وارد می‌کردند».</segment>
+		<segment id="10" parent="45" relname="span">او همچنین به وضعیت قاچاق در گمرگ پرداخته</segment>
+		<segment id="11" parent="43" relname="attribution">و اشاره کرده</segment>
+		<segment id="12" parent="43" relname="span">در گمرک به طور نظام‌مند مدیریتی ایجاد شده</segment>
+		<segment id="13" parent="12" relname="elaboration">که مقابله با آن‌ها با مقاومت شدید و فشار روبرو می‌شود.</segment>
+		<segment id="14" parent="63" relname="joint">رییس سازمان تعزیرات حکومتی ، گمرکات کشور را نیازمند «جراحی» توصیف کرده</segment>
+		<segment id="15" parent="47" relname="attribution">و در مورد مناطق آزاد اظهار داشته</segment>
+		<segment id="16" parent="46" relname="joint">« مناطق آزاد به محل قاچاق تبدیل شده‌اند</segment>
+		<segment id="17" parent="46" relname="joint">و مشکلی از مرزنشینان و مردم محروم حل نکرده است».</segment>
+		<segment id="18" parent="65" relname="attribution">وی گفته</segment>
+		<segment id="19" parent="65" relname="span">«افراد خاصی» کالای ذخیره شده پشت مرزها را وارد می‌کنند</segment>
+		<segment id="20" parent="19" relname="elaboration">که شناختن آن‌ها کار مشکلی نیست.</segment>
+		<segment id="21" parent="50" relname="attribution">این عضو «ستاد مبارزه با قاچاق کالا و ارز» افزوده</segment>
+		<segment id="22" parent="23" relname="attribution">«اولین بار در صدا و سیما می‌گویم</segment>
+		<segment id="23" parent="50" relname="span">بازرسان تعزیرات حکومتی برای نخستین بار فقط پنج هزار تومان برای قاچاق دارو می‌توانند قاچاقچی را جریمه کنند».</segment>
+		<segment id="24" parent="66" relname="span">جمشیدی همچنین به برخی اظهارات در خصوص انحلال سازمان حمایت از مصرف کنندگان واکنش نشان داده</segment>
+		<segment id="25" parent="67" relname="attribution">و گفته</segment>
+		<segment id="26" parent="53" relname="contrast">«اکنون با فشار و اصرار ، گشت‌های تعزیرات را ادامه می‌دهیم</segment>
+		<segment id="27" parent="55" relname="attribution">اما آقایان می‌گویند</segment>
+		<segment id="28" parent="54" relname="joint">سازمان تعزیرات و سازمان حمایت حکومتی باید منحل</segment>
+		<segment id="29" parent="54" relname="joint">و اقتصاد رقابتی شود ،</segment>
+		<segment id="30" parent="58" relname="joint">آیا این اقتصاد رقابتی است ؟</segment>
+		<segment id="31" parent="58" relname="joint">چگونه است در برخی وزارتخانه‌ها ، بازرسی‌ها کم شده است</segment>
+		<segment id="32" parent="58" relname="joint">یا آن را به بخش خصوصی واگذار کرده اند ؟»</segment>
+		<segment id="33" parent="60" relname="joint">سال گذشته عباس آخوندی ، وزیر راه و شهرسازی ، عملکرد سازمان حمایت از مصرف‌کنندگان را «کمونیستی» دانسته</segment>
+		<segment id="34" parent="60" relname="joint">و خواستار انحلال آن شده بود.</segment>
+		<group id="35" type="span" parent="2" relname="elaboration"/>
+		<group id="36" type="span" parent="37" relname="span"/>
+		<group id="37" type="span" parent="73" relname="span"/>
+		<group id="38" type="span" parent="39" relname="contrast"/>
+		<group id="39" type="multinuc" parent="40" relname="span"/>
+		<group id="40" type="span" parent="41" relname="span"/>
+		<group id="41" type="span" parent="5" relname="explanation"/>
+		<group id="42" type="span" parent="37" relname="explanation"/>
+		<group id="43" type="span" parent="71" relname="span"/>
+		<group id="45" type="span" parent="72" relname="joint"/>
+		<group id="46" type="multinuc" parent="47" relname="span"/>
+		<group id="47" type="span" parent="48" relname="span"/>
+		<group id="48" type="span" parent="63" relname="joint"/>
+		<group id="50" type="span" parent="51" relname="span"/>
+		<group id="51" type="span" parent="63" relname="joint"/>
+		<group id="52" type="span" parent="57" relname="span"/>
+		<group id="53" type="multinuc" parent="67" relname="span"/>
+		<group id="54" type="multinuc" parent="55" relname="span"/>
+		<group id="55" type="span" parent="56" relname="span"/>
+		<group id="56" type="span" parent="53" relname="contrast"/>
+		<group id="57" type="span" parent="24" relname="elaboration"/>
+		<group id="58" type="multinuc" parent="52" relname="topicomment"/>
+		<group id="60" type="multinuc" parent="66" relname="background"/>
+		<group id="63" type="multinuc" parent="71" relname="evaluation"/>
+		<group id="64" type="span" parent="63" relname="joint"/>
+		<group id="65" type="span" parent="64" relname="span"/>
+		<group id="66" type="span" parent="68" relname="span"/>
+		<group id="67" type="span" parent="52" relname="span"/>
+		<group id="68" type="span" parent="72" relname="joint"/>
+		<group id="70" type="span" parent="10" relname="elaboration"/>
+		<group id="71" type="span" parent="70" relname="span"/>
+		<group id="72" type="multinuc" />
+		<group id="73" type="span" parent="72" relname="joint"/>
+	</body>
+</rst>

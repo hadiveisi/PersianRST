@@ -1,0 +1,104 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="multinuc"/>
+			<rel name="cause" type="rst"/>
+			<rel name="comparison" type="multinuc"/>
+			<rel name="comparison" type="rst"/>
+			<rel name="condition" type="multinuc"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="contrast" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation" type="multinuc"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="explanation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="manner-means" type="rst"/>
+			<rel name="same" type="multinuc"/>
+			<rel name="summary" type="rst"/>
+			<rel name="temporal" type="multinuc"/>
+			<rel name="temporal" type="rst"/>
+			<rel name="textualorganization" type="multinuc"/>
+			<rel name="topichange" type="multinuc"/>
+			<rel name="topichange" type="rst"/>
+			<rel name="topicomment" type="multinuc"/>
+			<rel name="topicomment" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="36" relname="attribution">به گفته برخی معدنچیان معدن یورت ،</segment>
+		<segment id="2" parent="36" relname="span">باتری به باتری‌‌کردن لوکوموتیو داخل معدن علت انفجار نبوده</segment>
+		<segment id="3" parent="35" relname="joint">چراکه این لوکوموتیو پیدا شده</segment>
+		<segment id="4" parent="35" relname="joint">و کاملا سالم است.</segment>
+		<segment id="5" parent="6" relname="attribution">به اعتقاد آنها</segment>
+		<segment id="6" parent="38" relname="span">علت انفجار ازدحام گاز و بسته‌شدن مسیر خروج بوده است.</segment>
+		<segment id="7" parent="42" relname="contrast">یک روز پس از انفجار در معدن زمستان‌یورت باتری‌به باتری لوکوموتیو در معدن ، باعث انفجار اعلام شده بود</segment>
+		<segment id="8" parent="40" relname="attribution">اما دو کارگر این معدن اعلام کردند</segment>
+		<segment id="9" parent="39" relname="joint">که این لوکوموتیو پیدا شده</segment>
+		<segment id="10" parent="39" relname="joint">و موضوع باتری به باتری نبوده است.</segment>
+		<segment id="11" parent="49" relname="attribution">به گفته این کارگران</segment>
+		<segment id="12" parent="47" relname="span">همه ۱۳جسدی</segment>
+		<segment id="13" parent="12" relname="elaboration">که دیروز پیدا شد ،</segment>
+		<segment id="14" parent="48" relname="span">دچار خفگی</segment>
+		<segment id="15" parent="14" relname="cause">بر اثر ازدحام گاز و بسته شدن مسیر خروج</segment>
+		<segment id="16" parent="46" relname="same">شده بودند.</segment>
+		<segment id="17" parent="54" relname="attribution">به گفته آنها</segment>
+		<segment id="18" parent="51" relname="joint">لوکومتیو باتری به باتری نکرده</segment>
+		<segment id="19" parent="51" relname="joint">و اصلا امکان این کار وجود ندارد.</segment>
+		<segment id="20" parent="52" relname="cause">لوکومتیو سالم بوده است</segment>
+		<segment id="21" parent="52" relname="cause">و علت انفجار ، باید چیز دیگری باشد.</segment>
+		<segment id="22" parent="57" relname="attribution">به گفته این کارگران</segment>
+		<segment id="23" parent="56" relname="joint">انفجار بر اثر افزایش حجم گاز متان بوده</segment>
+		<segment id="24" parent="56" relname="joint">و باید زودتر ، گاز از معدن خارج می‌شده است.</segment>
+		<segment id="25" parent="26" relname="attribution">در حالیکه سازمان استاندارد اعلام کرده</segment>
+		<segment id="26" parent="60" relname="span">وزارت کار و وزارت صنایع مسیول ایمنی این معدن بوده‌اند ،</segment>
+		<segment id="27" parent="63" relname="cause">مسیولان این وزارتخانه تلاش کردند علت حادثه را به یک «خطای انسانی» کاهش دهند</segment>
+		<segment id="28" parent="63" relname="cause">و فرضیه باتری به باتری‌کردن از طرف وزیر صنعت مطرح و به سرعت از طرف رسانه‌ها به عنوان علت اصلی حادثه منتشر شد.</segment>
+		<segment id="29" parent="65" relname="span">این معدن</segment>
+		<segment id="30" parent="29" relname="attribution">به گفته دبیر اتحادیه صادرکنندگان محصولات معدنی</segment>
+		<segment id="31" parent="66" relname="span">هیچ‌کدام از فاکتورهای ایمنی</segment>
+		<segment id="32" parent="31" relname="elaboration">که معادن زغال‌سنگ باید داشته باشند</segment>
+		<segment id="33" parent="64" relname="same">را نداشته است</segment>
+		<segment id="34" parent="67" relname="contrast">با این‌حال مسیولان همچنان تلاش می‌کنند خطای انسانی را عامل اصلی جلوه دهند.</segment>
+		<group id="35" type="multinuc" parent="2" relname="cause"/>
+		<group id="36" type="span" parent="37" relname="span"/>
+		<group id="37" type="span" parent="43" relname="cause"/>
+		<group id="38" type="span" parent="43" relname="cause"/>
+		<group id="39" type="multinuc" parent="40" relname="span"/>
+		<group id="40" type="span" parent="41" relname="span"/>
+		<group id="41" type="span" parent="68" relname="span"/>
+		<group id="42" type="multinuc" parent="44" relname="background"/>
+		<group id="43" type="multinuc" parent="44" relname="span"/>
+		<group id="44" type="span" parent="45" relname="span"/>
+		<group id="45" type="span" parent="70" relname="contrast"/>
+		<group id="46" type="multinuc" parent="49" relname="span"/>
+		<group id="47" type="span" parent="46" relname="same"/>
+		<group id="48" type="span" parent="46" relname="same"/>
+		<group id="49" type="span" parent="50" relname="span"/>
+		<group id="50" type="span" parent="69" relname="joint"/>
+		<group id="51" type="multinuc" parent="53" relname="cause"/>
+		<group id="52" type="multinuc" parent="53" relname="span"/>
+		<group id="53" type="span" parent="54" relname="span"/>
+		<group id="54" type="span" parent="55" relname="span"/>
+		<group id="55" type="span" parent="69" relname="joint"/>
+		<group id="56" type="multinuc" parent="57" relname="span"/>
+		<group id="57" type="span" parent="59" relname="span"/>
+		<group id="59" type="span" parent="69" relname="joint"/>
+		<group id="60" type="span" parent="71" relname="contrast"/>
+		<group id="63" type="multinuc" parent="71" relname="span"/>
+		<group id="64" type="multinuc" parent="67" relname="contrast"/>
+		<group id="65" type="span" parent="64" relname="same"/>
+		<group id="66" type="span" parent="64" relname="same"/>
+		<group id="67" type="multinuc" parent="73" relname="joint"/>
+		<group id="68" type="span" parent="42" relname="contrast"/>
+		<group id="69" type="multinuc" parent="41" relname="explanation"/>
+		<group id="70" type="multinuc" />
+		<group id="71" type="span" parent="72" relname="span"/>
+		<group id="72" type="span" parent="73" relname="joint"/>
+		<group id="73" type="multinuc" parent="70" relname="contrast"/>
+	</body>
+</rst>

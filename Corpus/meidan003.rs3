@@ -1,0 +1,148 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="multinuc"/>
+			<rel name="cause" type="rst"/>
+			<rel name="comparison" type="multinuc"/>
+			<rel name="comparison" type="rst"/>
+			<rel name="condition" type="multinuc"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="contrast" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation" type="multinuc"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="explanation" type="multinuc"/>
+			<rel name="explanation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="manner-means" type="rst"/>
+			<rel name="same" type="multinuc"/>
+			<rel name="summary" type="rst"/>
+			<rel name="temporal" type="multinuc"/>
+			<rel name="temporal" type="rst"/>
+			<rel name="textualorganization" type="multinuc"/>
+			<rel name="topichange" type="multinuc"/>
+			<rel name="topichange" type="rst"/>
+			<rel name="topicomment" type="multinuc"/>
+			<rel name="topicomment" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="82" relname="span">مردم روستای میراحمد غریبی‌ها از توابع شهرستان ایذه</segment>
+		<segment id="2" parent="1" relname="elaboration">که سال‌هاست با چالش رانش زمین روبه‌رو هستند ،</segment>
+		<segment id="3" parent="69" relname="same">همچنان در خانه‌های ناامن خود زندگی می‌کنند</segment>
+		<segment id="4" parent="55" relname="joint">و وضعیت محل سکونتشان در مرحله هشدار جدی است.</segment>
+		<segment id="5" parent="6" relname="contrast">به‌رغم انتشار چندین گزارش از وضعیت روستای میراحمد غریبی‌ها و قول‌های متعدد مسیولان برای ساماندهی وضعیت این روستا ،</segment>
+		<segment id="6" parent="57" relname="span">تاکنون هیچ اقدام عملی برای تخلیه روستا صورت نگرفته است.</segment>
+		<segment id="7" parent="56" relname="contrast">منطقه میراحمد غریبی‌ها از سال ۸۳ و روزهای آغازین بهره‌برداری از سد کارون سه ، دچار رانش شد</segment>
+		<segment id="8" parent="71" relname="span">اما شدت این رانش‌ها در سال‌های اخیر زیاد ‌و زیادتر شده‌</segment>
+		<segment id="9" parent="8" relname="cause">به طوری که شکاف‌های بزرگی در اطراف این روستا پدید آمده است.</segment>
+		<segment id="10" parent="75" relname="attribution">یکی از اهالی روستای میراحمد درباره آخرین وضعیت این روستا می‌گوید</segment>
+		<segment id="11" parent="58" relname="temporal">«چندی پیش بعد از شکایات متعدد ، کارشناسی برای قیمت‌گذاری منازل راهی میراحمد شد</segment>
+		<segment id="12" parent="58" relname="temporal">و قیمتی برای این خانه‌ها در نظر گرفت ؛</segment>
+		<segment id="13" parent="84" relname="joint">ولی با قیمت اعلام شده توسط وی حتی نمی‌توان یک خانه در یک روستای همجوار اجاره کرد ،</segment>
+		<segment id="14" parent="84" relname="joint">چه رسد به خریدن خانه جایگزین.</segment>
+		<segment id="15" parent="59" relname="joint">در این کارشناسی‌ها حتی باغ‌های ما را مورد توجه قرار ندادند</segment>
+		<segment id="16" parent="17" relname="attribution">و می‌گویند</segment>
+		<segment id="17" parent="60" relname="span">فقط پول خانه‌ها را می‌دهیم ؛</segment>
+		<segment id="18" parent="89" relname="joint">با این پول‌های ناچیز چه باید می‌کردیم ؟</segment>
+		<segment id="19" parent="72" relname="contrast">در حال حاضر ما با کار روی باغ و زمین کشاورزی زندگی را می‌گذرانیم ،</segment>
+		<segment id="20" parent="21" relname="condition">در صورت تخلیه روستا</segment>
+		<segment id="21" parent="63" relname="span">چه باید بکنیم ،</segment>
+		<segment id="22" parent="63" relname="background">فکری هم برای اشتغال مردم روستا نشده است.</segment>
+		<segment id="23" parent="74" relname="contrast">پس از اعتراض مردم به این قیمت‌ها یک کارشناس دیگر به منطقه آمد</segment>
+		<segment id="24" parent="76" relname="cause">که باز هم قیمت‌های پیشنهادی مورد قبول مردم قرار نگرفت</segment>
+		<segment id="25" parent="76" relname="cause">و اهالی به ناچار به ادامه زندگی در روستای میراحمد تن داده‌اند.</segment>
+		<segment id="26" parent="109" relname="attribution">او توضیح داده</segment>
+		<segment id="27" parent="90" relname="span">«با بارش‌های اخیر چندین شکاف در اطراف روستا شکل گرفته است ؛</segment>
+		<segment id="28" parent="67" relname="temporal">چندین بار نیز مردم با لرزش زمین از خانه‌های خود بیرون آمدند</segment>
+		<segment id="29" parent="30" relname="temporal">و پس از این که با شهر ایذه و روستاهای همجوار تماس گرفتیم</segment>
+		<segment id="30" parent="66" relname="span">متوجه شدیم که این لرزش‌ها فقط در میراحمد رخ داده است.</segment>
+		<segment id="31" parent="92" relname="joint">روستای میراحمد بی‌گناه و بی‌پناه در زندان سد کارون سه گرفتار شده</segment>
+		<segment id="32" parent="92" relname="joint">و هیچکس برای رهایی مردم دست به کار نمی‌شود.</segment>
+		<segment id="33" parent="91" relname="span">از مسوولان می‌خواهیم</segment>
+		<segment id="34" parent="33" relname="temporal">قبل از این که اتفاق محتمل رخ دهد</segment>
+		<segment id="35" parent="61" relname="same">اقدام لازم برای حفظ جان مردم را انجام دهند».</segment>
+		<segment id="36" parent="102" relname="attribution">بخشدار دهدز نیز درباره وضعیت روستای میراحمد غریبی‌ها گفته</segment>
+		<segment id="37" parent="62" relname="joint">«چندین‌بار نامه‌نگاری‌ لازم را با مدیریت بحران استانداری خوزستان انجام دادیم</segment>
+		<segment id="38" parent="96" relname="span">و خطرات موجود</segment>
+		<segment id="39" parent="38" relname="elaboration">که روستای میراحمد را تهدید می‌کند ،</segment>
+		<segment id="40" parent="95" relname="same">گوشزد کردیم.</segment>
+		<segment id="41" parent="42" relname="cause">متاسفانه ادارات کل مربوطه مانند راه و شهرسازی و بنیاد مسکن کارهای مربوط به خود را به درستی انجام نداده‌اند</segment>
+		<segment id="42" parent="99" relname="span">و در عمل هیچ کاری در میراحمد صورت نگرفته است.</segment>
+		<segment id="43" parent="100" relname="span">مردم میراحمد روی انتقال به منطقه رودکلو اصرار دارند</segment>
+		<segment id="44" parent="98" relname="span">و این در حالی است</segment>
+		<segment id="45" parent="44" relname="elaboration">که در مرحله نخست ، رودکلو موافقت‌نامه‌های مورد نظر را کسب نکرد».</segment>
+		<segment id="46" parent="78" relname="span">در نشست شهریور ماه سال ۹۶ مدیریت بحران استان خوزستان در دهدز مقرر شده بود روستای میراحمد غریبی‌ها با توجه به مطالعات زمین شناسی و آثار رانش و خطرات احتمالی به مکان امن جابجا شود ،</segment>
+		<segment id="47" parent="46" relname="elaboration">که تاکنون این امر محقق نشده است.</segment>
+		<segment id="48" parent="103" relname="span">اواخر فصل پاییز سال گذشته ، پنج خانه روستایی در روستای میراحمد غریبی‌ها</segment>
+		<segment id="49" parent="48" relname="cause">به‌دلیل بارش باران و جنس خاک منطقه</segment>
+		<segment id="50" parent="79" relname="same">تخریب شده بود ،</segment>
+		<segment id="51" parent="105" relname="contrast">اما در این حادثه به کسی صدمه وارد نشد.</segment>
+		<segment id="52" parent="108" relname="span">میراحمد غریبی‌ها با حدود ۷۰۰ نفر سکنه در بخش دهدز شهرستان ایذه قرار گرفته است ؛</segment>
+		<segment id="53" parent="80" relname="span">دهدز با مساحت تقریبی یک هزار و ۳۲۱ کیلومتر مربع دارای جمعیتی بالغ بر ۲۰ هزار نفر است</segment>
+		<segment id="54" parent="53" relname="elaboration">که در سه دهستان دهدز ، دنباله‌رود شمالی و دنباله‌رود جنوبی متشکل از ۱۰۳ روستا زندگی می‌کنند.</segment>
+		<group id="55" type="multinuc" parent="83" relname="contrast"/>
+		<group id="56" type="multinuc" parent="70" relname="elaboration"/>
+		<group id="57" type="span" parent="83" relname="contrast"/>
+		<group id="58" type="multinuc" parent="64" relname="contrast"/>
+		<group id="59" type="multinuc" parent="87" relname="span"/>
+		<group id="60" type="span" parent="59" relname="joint"/>
+		<group id="61" type="multinuc" parent="93" relname="span"/>
+		<group id="62" type="multinuc" parent="68" relname="contrast"/>
+		<group id="63" type="span" parent="73" relname="span"/>
+		<group id="64" type="multinuc" parent="65" relname="joint"/>
+		<group id="65" type="multinuc" parent="75" relname="span"/>
+		<group id="66" type="span" parent="67" relname="temporal"/>
+		<group id="67" type="multinuc" parent="27" relname="elaboration"/>
+		<group id="68" type="multinuc" parent="102" relname="span"/>
+		<group id="69" type="multinuc" parent="55" relname="joint"/>
+		<group id="70" type="span" parent="81" relname="span"/>
+		<group id="71" type="span" parent="56" relname="contrast"/>
+		<group id="72" type="multinuc" parent="89" relname="joint"/>
+		<group id="73" type="span" parent="72" relname="contrast"/>
+		<group id="74" type="multinuc" parent="65" relname="joint"/>
+		<group id="75" type="span" parent="77" relname="span"/>
+		<group id="76" type="multinuc" parent="74" relname="contrast"/>
+		<group id="77" type="span" parent="111" relname="joint"/>
+		<group id="78" type="span" parent="104" relname="span"/>
+		<group id="79" type="multinuc" parent="105" relname="span"/>
+		<group id="80" type="span" parent="52" relname="elaboration"/>
+		<group id="81" type="span" parent="112" relname="span"/>
+		<group id="82" type="span" parent="69" relname="same"/>
+		<group id="83" type="multinuc" parent="70" relname="span"/>
+		<group id="84" type="multinuc" parent="85" relname="span"/>
+		<group id="85" type="span" parent="86" relname="span"/>
+		<group id="86" type="span" parent="64" relname="contrast"/>
+		<group id="87" type="span" parent="88" relname="span"/>
+		<group id="88" type="span" parent="85" relname="explanation"/>
+		<group id="89" type="multinuc" parent="87" relname="topicomment"/>
+		<group id="90" type="span" parent="92" relname="joint"/>
+		<group id="91" type="span" parent="61" relname="same"/>
+		<group id="92" type="multinuc" parent="110" relname="explanation"/>
+		<group id="93" type="span" parent="110" relname="explanation"/>
+		<group id="94" type="span" parent="111" relname="joint"/>
+		<group id="95" type="multinuc" parent="62" relname="joint"/>
+		<group id="96" type="span" parent="95" relname="same"/>
+		<group id="97" type="multinuc" parent="68" relname="contrast"/>
+		<group id="98" type="span" parent="43" relname="contrast"/>
+		<group id="99" type="span" parent="97" relname="cause"/>
+		<group id="100" type="span" parent="97" relname="cause"/>
+		<group id="101" type="span" parent="111" relname="joint"/>
+		<group id="102" type="span" parent="101" relname="span"/>
+		<group id="103" type="span" parent="79" relname="same"/>
+		<group id="104" type="span" parent="112" relname="background"/>
+		<group id="105" type="span" parent="107" relname="span"/>
+		<group id="106" type="span" parent="78" relname="cause"/>
+		<group id="107" type="span" parent="106" relname="span"/>
+		<group id="108" type="span" parent="107" relname="elaboration"/>
+		<group id="109" type="span" parent="94" relname="span"/>
+		<group id="110" type="multinuc" parent="109" relname="span"/>
+		<group id="111" type="multinuc" parent="81" relname="summary"/>
+		<group id="112" type="span" parent="113" relname="span"/>
+		<group id="113" type="span" />
+	</body>
+</rst>

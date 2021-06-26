@@ -1,0 +1,70 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="multinuc"/>
+			<rel name="cause" type="rst"/>
+			<rel name="comparison" type="multinuc"/>
+			<rel name="comparison" type="rst"/>
+			<rel name="condition" type="multinuc"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="contrast" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation" type="multinuc"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="explanation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="manner-means" type="rst"/>
+			<rel name="same" type="multinuc"/>
+			<rel name="summary" type="rst"/>
+			<rel name="temporal" type="multinuc"/>
+			<rel name="temporal" type="rst"/>
+			<rel name="textualorganization" type="multinuc"/>
+			<rel name="topichange" type="multinuc"/>
+			<rel name="topichange" type="rst"/>
+			<rel name="topicomment" type="multinuc"/>
+			<rel name="topicomment" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="19" relname="span">«اولویت پیاده‌ به سواره» یکی از شعارهای مدیران جدید شهر بود ،</segment>
+		<segment id="2" parent="20" relname="span">آنها در کمپین‌های انتخاباتیشان سیاست‌های شهردار سابق برای حذف پیاده‌ها از روی زمین را نقد می‌کردند.</segment>
+		<segment id="3" parent="21" relname="joint">این انتقادها به ویژه زیرگذر چهارراه ولیعصر را هدف گرفته بود</segment>
+		<segment id="4" parent="21" relname="joint">و بارها حذف پیاده‌ها از روی زمین به نفع تردد خودروها در این نقطه مهم شهر مورد نقد قرار گرفت.</segment>
+		<segment id="5" parent="26" relname="span">حالا در کمتر از چهار ماه از روی کارآمدن مدیران جدید ، تقاطع خیابان ولیعصر و خیابان فاطمی با یکی دیگر از این نوع طرح‌ها مواجه شده</segment>
+		<segment id="6" parent="5" relname="elaboration">و خیابان نرده‌کشی شده است.</segment>
+		<segment id="7" parent="27" relname="joint">دسترسی پیاده‌روهای این قسمت از شهر به خیابان قطع شده</segment>
+		<segment id="8" parent="22" relname="span">و یک پل هوایی نیمه‌کاره ساخته شده است</segment>
+		<segment id="9" parent="8" relname="elaboration">که حتی پله‌برقی هم ندارد.</segment>
+		<segment id="10" parent="30" relname="evaluation">با این نرده‌کشی‌ها عملا رفت و آمد مردم مختل شده است.</segment>
+		<segment id="11" parent="32" relname="span">رفت و آمد در بقیه مناطق شهر هم برای پیاده‌ها چندان راحت نیست.</segment>
+		<segment id="12" parent="11" relname="explanation">وضعیت چهارراه ولیعصر و میدان هفت‌تیر هم کمابیش مشابه همینجاست.</segment>
+		<segment id="13" parent="35" relname="span">آماده‌سازی شهر برای رفت و آمد راحت‌تر پیاده‌ها یکی از سیاست‌های کلانی است</segment>
+		<segment id="14" parent="34" relname="joint">که در اغلب شهرهای توسعه‌یافته جهان در پیش گرفته شده است</segment>
+		<segment id="15" parent="34" relname="joint">و مدیران شهر تلاش می‌کنند رفت و آمد خودروها را به نفع پیاده‌ها محدود کنند.</segment>
+		<segment id="16" parent="24" relname="span">این درحالیست که حتی برای مدیران جدید شهر تهران با همه شعارهایی</segment>
+		<segment id="17" parent="16" relname="elaboration">که سردادند</segment>
+		<segment id="18" parent="23" relname="same">همچنان خودروها در اولویت قرار دارند.</segment>
+		<group id="19" type="span" parent="25" relname="contrast"/>
+		<group id="20" type="span" parent="1" relname="explanation"/>
+		<group id="21" type="multinuc" parent="2" relname="elaboration"/>
+		<group id="22" type="span" parent="27" relname="joint"/>
+		<group id="23" type="multinuc" parent="36" relname="contrast"/>
+		<group id="24" type="span" parent="23" relname="same"/>
+		<group id="25" type="multinuc" parent="37" relname="evaluation"/>
+		<group id="26" type="span" parent="29" relname="cause"/>
+		<group id="27" type="multinuc" parent="29" relname="cause"/>
+		<group id="29" type="multinuc" parent="30" relname="span"/>
+		<group id="30" type="span" parent="31" relname="span"/>
+		<group id="31" type="span" parent="33" relname="span"/>
+		<group id="32" type="span" parent="31" relname="elaboration"/>
+		<group id="33" type="span" parent="25" relname="contrast"/>
+		<group id="34" type="multinuc" parent="13" relname="elaboration"/>
+		<group id="35" type="span" parent="36" relname="contrast"/>
+		<group id="36" type="multinuc" parent="37" relname="evaluation"/>
+		<group id="37" type="multinuc" />
+	</body>
+</rst>

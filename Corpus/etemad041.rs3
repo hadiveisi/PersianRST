@@ -1,0 +1,127 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="multinuc"/>
+			<rel name="cause" type="rst"/>
+			<rel name="comparison" type="multinuc"/>
+			<rel name="comparison" type="rst"/>
+			<rel name="condition" type="multinuc"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="contrast" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation" type="multinuc"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="explanation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="manner-means" type="rst"/>
+			<rel name="same" type="multinuc"/>
+			<rel name="summary" type="rst"/>
+			<rel name="temporal" type="multinuc"/>
+			<rel name="temporal" type="rst"/>
+			<rel name="textualorganization" type="multinuc"/>
+			<rel name="topichange" type="multinuc"/>
+			<rel name="topichange" type="rst"/>
+			<rel name="topicomment" type="multinuc"/>
+			<rel name="topicomment" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="48" relname="joint">به راستی هدف از اقدامات اخیر رییس جمهور سابق چیست</segment>
+		<segment id="2" parent="48" relname="joint">و چه اهدافی را دنبال می‌کند ؟</segment>
+		<segment id="3" parent="49" relname="elaboration">این سوالی است که در این روز‌ها خیلی از دست اندرکاران دنیای سیاست به ذهن شان متبادر شده است.</segment>
+		<segment id="4" parent="103" relname="span">جناب آقای احمدی نژاد دو دوره به مدت ۸ سال منصب بسیار مهم ریاست جمهوری اسلامی ایران را یدک کشیده‌اند.</segment>
+		<segment id="5" parent="51" relname="span">بی شک دوران ۸ سال مورد نظر یکی از دوران جنجالی و پر از اتفاقات مهم همراه با وقایع گوناگون سیاسی و اقتصادی در تاریخ معاصر ما بوده</segment>
+		<segment id="6" parent="5" relname="elaboration">که در کمتر دورانی از تاریخ معاصر رخ داده است.</segment>
+		<segment id="7" parent="53" relname="span">عملکرد ایشان را تاریخ قضاوت خواهد کرد</segment>
+		<segment id="8" parent="7" relname="elaboration">و طبیعتا در این زمان مختصر نمی توان حتی فهرست وار به این مطالب پرداخت.</segment>
+		<segment id="9" parent="55" relname="same">مردم ما به ویژه کسانی</segment>
+		<segment id="10" parent="54" relname="joint">که اندکی با سیاست آشنایی داشته</segment>
+		<segment id="11" parent="54" relname="joint">و منافع کشور برای شان اهمیت دارد</segment>
+		<segment id="12" parent="55" relname="same">لحظه به لحظه عملکرد ایشان و دولت شان را در زمینه‌های مختلف زیر ذره بین قرار داده و تحت نظر گرفته‌اند.</segment>
+		<segment id="13" parent="92" relname="elaboration">این عملکرد اعم از سیاست خارجی ، اقتصاد ، صنعت ، کشاورزی ، بهداشت و نحوه استفاده بهینه از منابع عظیم نفت و گاز و چگونگی مصرف آن برای مردم بار‌ها و بارها مورد نقد قرار گرفته</segment>
+		<segment id="14" parent="106" relname="evaluation">و متاسفانه دولت احمدی نژاد در کمتر موردی حایز نمره قبولی شده است.</segment>
+		<segment id="15" parent="57" relname="span">اما آنچه که در این نوشتار مختصر قابل ذکر است اقدامات و رفتار اخیر ایشان و چرخش کامل مواضع او و دوستان شان است.</segment>
+		<segment id="16" parent="94" relname="span">این چرخش انتقاداتی است</segment>
+		<segment id="17" parent="16" relname="elaboration">که ایشان اخیرا از قوه قضاییه و دولت وقت به عمل می‌آورد.</segment>
+		<segment id="18" parent="58" relname="span">با کمال تعجب مشاهده می‌شود در خلال این مطالب مسایلی عنوان می‌شود</segment>
+		<segment id="19" parent="18" relname="elaboration">که می‌تواند مصداق مواد ۶۰۸ ، ۶۹۷ و ۶۹۸ از قانون مجازات اسلامی یعنی مصداق توهین ، افترا و نشر اکاذیب باشد.</segment>
+		<segment id="20" parent="59" relname="same">همه می‌دانیم که</segment>
+		<segment id="21" parent="20" relname="attribution">مطابق اصول و قواعد حقوقی و قوانین حاکم بر جامعه</segment>
+		<segment id="22" parent="59" relname="same">کلیه افراد مملکت در هر پست و مقامی ، در برابر قانون مساوی هستند.</segment>
+		<segment id="23" parent="96" relname="joint">این معنا و سایر مفاهیم اولیه حقوقی را قطعا شخص رییس جمهور سابق و مشاوران حقوقی ایشان و یاران شان اشراف کامل دارند</segment>
+		<segment id="24" parent="97" relname="span">اما چرا با وجود این اشراف با آگاهی از تبعات منفی این اقدامات همچنان این دوره تسلسل ادامه دارد.</segment>
+		<segment id="25" parent="24" relname="evaluation">الله واعلم :</segment>
+		<segment id="26" parent="67" relname="same">شکی نیست اینگونه رفتار‌ها و گفتار‌ها صرف نظر از تاثیرات نا مطلوبی</segment>
+		<segment id="27" parent="26" relname="elaboration">که ممکن است باعث ایجاد تشنج و نا آرامی در جامعه شود</segment>
+		<segment id="28" parent="67" relname="same">اثرات سو خود را بر اخلاق سیاسی و رفتار اجتماعی مردم در جامعه خواهد گذاشت.</segment>
+		<segment id="29" parent="68" relname="same">اخیرا یکی از نمایندگان محترم مجلس شورای اسلامی</segment>
+		<segment id="30" parent="29" relname="elaboration">که نایب رییس مجلس نیز هستند</segment>
+		<segment id="31" parent="68" relname="same">تقاضا کرده‌اند برای روشن شدن افکار عمومی آقای احمدی نژاد در دادگاه علنی محاکمه شوند</segment>
+		<segment id="32" parent="99" relname="cause">و عده‌ای از مسوولان نیز در قالب طنز و جد اظهارنظری درباره اقدامات اخیر ایشان به عمل آورده‌اند.</segment>
+		<segment id="33" parent="100" relname="explanation">قطعا اقتدار قوه قضاییه ایجاب می‌کند که با هرگونه تخلف و قانون شکنی از سوی هر صاحب مقام و صاحب منصب برخورد قانونی به عمل آید.</segment>
+		<segment id="34" parent="70" relname="same">ای کاش پاره‌ای از مواضع فعلی ایشان</segment>
+		<segment id="35" parent="34" relname="elaboration">که بر آن اصرار می‌شود</segment>
+		<segment id="36" parent="70" relname="same">در زمان دولت شان ارایه و از آن دفاع می‌شد</segment>
+		<segment id="37" parent="72" relname="condition">و ای کاش اگر واقعا مطالبی برای گفتن دارند</segment>
+		<segment id="38" parent="73" relname="joint">نه در قالب بگم بگم‌ها بلکه در چارچوب رعایت مسایل قانونی و در محیط آرام و به دور از حاشیه بیان می‌شد</segment>
+		<segment id="39" parent="73" relname="joint">یا عنوان شکایت مطرح شود.</segment>
+		<segment id="40" parent="77" relname="span">نکته آخر آن است که در هفته‌های اخیر شاهد بودیم متاسفانه پاره‌ای از مقامات مملکتی نیز در گفتار خویش از عبارات و جملاتی استفاده کردند</segment>
+		<segment id="41" parent="75" relname="joint">که متناسب با جایگاه شان نبوده</segment>
+		<segment id="42" parent="75" relname="joint">و مورد انتقاد اندیشمندان و فرهیختگان قرار گرفته‌اند.</segment>
+		<segment id="43" parent="78" relname="joint">جامعه نیاز به آرامش و امنیت دارد</segment>
+		<segment id="44" parent="79" relname="same">و طبعا پاره‌ای از رفتار‌های اینچنینی</segment>
+		<segment id="45" parent="44" relname="elaboration">که در هفته‌های اخیر شاهد آن بودیم</segment>
+		<segment id="46" parent="79" relname="same">نه تنها کمک به تثبیت آرامش نمی کند</segment>
+		<segment id="47" parent="117" relname="contrast">بلکه این مقوله را دچار ضعف خواهد کرد.</segment>
+		<group id="48" type="multinuc" parent="49" relname="span"/>
+		<group id="49" type="span" parent="50" relname="span"/>
+		<group id="50" type="span" parent="110" relname="background"/>
+		<group id="51" type="span" parent="4" relname="elaboration"/>
+		<group id="53" type="span" parent="108" relname="joint"/>
+		<group id="54" type="multinuc" parent="9" relname="elaboration"/>
+		<group id="55" type="multinuc" parent="92" relname="span"/>
+		<group id="57" type="span" parent="114" relname="topicomment"/>
+		<group id="58" type="span" parent="98" relname="span"/>
+		<group id="59" type="multinuc" parent="96" relname="joint"/>
+		<group id="61" type="multinuc" parent="58" relname="contrast"/>
+		<group id="64" type="multinuc" parent="110" relname="span"/>
+		<group id="67" type="multinuc" parent="86" relname="cause"/>
+		<group id="68" type="multinuc" parent="99" relname="cause"/>
+		<group id="70" type="multinuc" parent="71" relname="joint"/>
+		<group id="71" type="multinuc" parent="115" relname="joint"/>
+		<group id="72" type="span" parent="74" relname="span"/>
+		<group id="73" type="multinuc" parent="72" relname="span"/>
+		<group id="74" type="span" parent="71" relname="joint"/>
+		<group id="75" type="multinuc" parent="40" relname="elaboration"/>
+		<group id="77" type="span" parent="113" relname="topicomment"/>
+		<group id="78" type="multinuc" parent="113" relname="topicomment"/>
+		<group id="79" type="multinuc" parent="117" relname="contrast"/>
+		<group id="86" type="multinuc" parent="115" relname="joint"/>
+		<group id="92" type="span" parent="107" relname="span"/>
+		<group id="94" type="span" parent="95" relname="span"/>
+		<group id="95" type="span" parent="15" relname="elaboration"/>
+		<group id="96" type="multinuc" parent="61" relname="contrast"/>
+		<group id="97" type="span" parent="61" relname="contrast"/>
+		<group id="98" type="span" parent="94" relname="evaluation"/>
+		<group id="99" type="multinuc" parent="100" relname="span"/>
+		<group id="100" type="span" parent="101" relname="span"/>
+		<group id="101" type="span" parent="86" relname="cause"/>
+		<group id="103" type="span" parent="108" relname="joint"/>
+		<group id="106" type="multinuc" parent="109" relname="joint"/>
+		<group id="107" type="span" parent="106" relname="evaluation"/>
+		<group id="108" type="multinuc" parent="109" relname="joint"/>
+		<group id="109" type="multinuc" parent="64" relname="contrast"/>
+		<group id="110" type="span" parent="116" relname="span"/>
+		<group id="111" type="span" parent="112" relname="span"/>
+		<group id="112" type="span" parent="64" relname="contrast"/>
+		<group id="113" type="multinuc" parent="115" relname="joint"/>
+		<group id="114" type="multinuc" parent="111" relname="span"/>
+		<group id="115" type="multinuc" parent="114" relname="topicomment"/>
+		<group id="116" type="span" />
+		<group id="117" type="multinuc" parent="78" relname="joint"/>
+	</body>
+</rst>

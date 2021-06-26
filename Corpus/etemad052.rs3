@@ -1,0 +1,108 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="multinuc"/>
+			<rel name="cause" type="rst"/>
+			<rel name="comparison" type="multinuc"/>
+			<rel name="comparison" type="rst"/>
+			<rel name="condition" type="multinuc"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="contrast" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation" type="multinuc"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="explanation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="manner-means" type="rst"/>
+			<rel name="same" type="multinuc"/>
+			<rel name="summary" type="rst"/>
+			<rel name="temporal" type="multinuc"/>
+			<rel name="temporal" type="rst"/>
+			<rel name="textualorganization" type="multinuc"/>
+			<rel name="topichange" type="multinuc"/>
+			<rel name="topichange" type="rst"/>
+			<rel name="topicomment" type="multinuc"/>
+			<rel name="topicomment" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="39" relname="cause">طبیعی است که زندگی امروزی بشر پا به پای تحولات تکنولوژیک پیش می‌رود</segment>
+		<segment id="2" parent="39" relname="cause">و سبب می‌شود تا مردم گام به گام زندگی خود را با این تکنولوژی هماهنگ کنند ،</segment>
+		<segment id="3" parent="77" relname="span">از این رو و با استفاده از تکنولوژی‌های جدید ، سازوکارهای جدیدی در جامعه شکل می‌گیرد ،</segment>
+		<segment id="4" parent="3" relname="elaboration">حالا این ساز و کارها می‌تواند از درون ساختار دولت و مدیریت جامعه شکل بگیرد یا شیوه زندگی مردم و فعالیت‌های اقتصادی ، فرهنگی و اقتصادی آن‌ها حتی فعالیت آموزشی و حقوق شهروندی</segment>
+		<segment id="5" parent="39" relname="cause">و در نتیجه به این شکل گسترش یابد.</segment>
+		<segment id="6" parent="41" relname="span">بنابراین به نظر می‌رسد محروم کردن مردم از حق پیشرفت و توسعه خیلی به مصلحت عمومی نزدیک نیست</segment>
+		<segment id="7" parent="81" relname="span">البته می‌دانیم که هر دستاورد تمدنی جدید و تکنولوژیک جدید بالطبع چالش‌ها و فرصت هایی را ایجاد می‌کند</segment>
+		<segment id="8" parent="79" relname="joint">که باید همه تلاش‌های مدیریت‌ها و دولت‌ها درراستای به حداقل رساندن تهدیدهای این گونه دستاوردها باشد</segment>
+		<segment id="9" parent="79" relname="joint">و از طرفی تلاش شود تا استفاده از فرصت‌ها به حداکثری برسد.</segment>
+		<segment id="10" parent="43" relname="joint">چنانچه رییس جمهور هم در صحبت‌های اخیر خود ارتباطات و فناوری اطلاعات را نماد تحول جوامع در حوزه تکنولوژی دانسته</segment>
+		<segment id="11" parent="43" relname="joint">و مقاومت در برابر فناوری‌ها و تحولات نوین را رویکردی قدیمی می‌داند.</segment>
+		<segment id="12" parent="43" relname="joint">ایشان شناخت درست و فرهنگسازی را تنها راه مدیریت و پیشگیری از مشکلات فناوری می‌داند.</segment>
+		<segment id="13" parent="49" relname="attribution">به گفته رییس جمهور ،</segment>
+		<segment id="14" parent="45" relname="span">عادت انسان‌ها در استفاده از یک امکان و وسیله گاهی به طور طبیعی تبدیل به حق می‌شود</segment>
+		<segment id="15" parent="14" relname="elaboration">که هر نوع مخالفت با آن اقدامی نادرست از سوی استفاده کنندگان به حساب می‌آید</segment>
+		<segment id="16" parent="46" relname="contrast">و از سوی دیگر نیز عده‌ایهمواره با هر پدیده جدیدی مخالفت و مقابله می‌کنند</segment>
+		<segment id="17" parent="80" relname="joint">و این دو خصیصه اجتماعی ، عرصه ارتباطات و تجهیزات ارتباطاتی را نیز شامل شده</segment>
+		<segment id="18" parent="80" relname="joint">و شاهد هستیم که همچنان عده‌ایبا پدیده هایی جدید به ویژه در زمینه فناوری‌های ارتباطی و اطلاعاتی مخالفت می‌کنند.</segment>
+		<segment id="19" parent="51" relname="span">اما ممنوعیت در دنیای امروزی کارکرد درازمدت و موثری ندارد</segment>
+		<segment id="20" parent="52" relname="joint">چون تکنولوژی مدام راه‌های جایگزین خلق می‌کند</segment>
+		<segment id="21" parent="52" relname="joint">و مردم را به تخطی از قوانین و استفاده افراطی از این گونه ابزار تشویق می‌کند.</segment>
+		<segment id="22" parent="55" relname="contrast">امروزه آمار نشان می‌دهد</segment>
+		<segment id="23" parent="54" relname="contrast">که در گذشته حدود ۸٢درصد از مردم از تلگرام استفاده می‌کردند</segment>
+		<segment id="24" parent="54" relname="contrast">ولی با فیلترینگ فضای مجازی میزان استفاده مردم تنها به ۷٢درصد تغییر یافت</segment>
+		<segment id="25" parent="57" relname="span">و آن ۸درصد باقی مانده مربوط به محدودیت استفاده سازمان‌های دولتی بود</segment>
+		<segment id="26" parent="25" relname="elaboration">که به اجبار از آن فاصله گرفتند.</segment>
+		<segment id="27" parent="59" relname="joint">در واقع با محدود کردن استفاده از فضای مجازی در میزان استفاده مردم تغییری حاصل نشد</segment>
+		<segment id="28" parent="59" relname="joint">و تنها باعث شد که مردم به جای محدود شدن راه‌های دور زدن را یاد بگیرند.</segment>
+		<segment id="29" parent="61" relname="attribution">این اتفاق نشان داد</segment>
+		<segment id="30" parent="60" relname="span">که به هر حال این تکنولوژی دستاوردهایی را برای مردم دارد</segment>
+		<segment id="31" parent="30" relname="elaboration">که نمی خواهند به راحتی آن را از دست بدهند</segment>
+		<segment id="32" parent="61" relname="span">و با محدود کردن به فکر پیدا کردن راه‌های فرار و دور زدن ، بوده و هستند.</segment>
+		<segment id="33" parent="63" relname="joint">بنابراین باید به جای ایجاد محدودیت بیشتر برای مردم ، به سمت تولید آگاهی و فرهنگسازی مردم حرکت کرده</segment>
+		<segment id="34" parent="63" relname="joint">و در خانواده و جوانان نسبت به این مهم حساسیت ایجاد کرد</segment>
+		<segment id="35" parent="65" relname="joint">که حداقل از عوارض ناخوشایند استفاده نابجا از فضای مجازی مصون بمانند</segment>
+		<segment id="36" parent="65" relname="joint">و خودشان به نوعی پلیس خود باشند</segment>
+		<segment id="37" parent="65" relname="joint">و به خود کنترلی برسند.</segment>
+		<group id="39" type="multinuc" parent="6" relname="evaluation"/>
+		<group id="41" type="span" parent="75" relname="contrast"/>
+		<group id="43" type="multinuc" parent="72" relname="span"/>
+		<group id="44" type="span" parent="75" relname="contrast"/>
+		<group id="45" type="span" parent="46" relname="contrast"/>
+		<group id="46" type="multinuc" parent="48" relname="span"/>
+		<group id="48" type="span" parent="49" relname="span"/>
+		<group id="49" type="span" parent="53" relname="span"/>
+		<group id="50" type="multinuc" parent="72" relname="summary"/>
+		<group id="51" type="span" parent="50" relname="contrast"/>
+		<group id="52" type="multinuc" parent="19" relname="explanation"/>
+		<group id="53" type="span" parent="50" relname="contrast"/>
+		<group id="54" type="multinuc" parent="56" relname="span"/>
+		<group id="55" type="span" parent="58" relname="span"/>
+		<group id="56" type="span" parent="55" relname="span"/>
+		<group id="57" type="span" parent="56" relname="elaboration"/>
+		<group id="58" type="span" parent="82" relname="cause"/>
+		<group id="59" type="multinuc" parent="82" relname="cause"/>
+		<group id="60" type="span" parent="32" relname="cause"/>
+		<group id="61" type="span" parent="62" relname="span"/>
+		<group id="62" type="span" parent="67" relname="cause"/>
+		<group id="63" type="multinuc" parent="64" relname="span"/>
+		<group id="64" type="span" parent="66" relname="span"/>
+		<group id="65" type="multinuc" parent="64" relname="enablement"/>
+		<group id="66" type="span" parent="67" relname="cause"/>
+		<group id="67" type="multinuc" parent="84" relname="span"/>
+		<group id="72" type="span" parent="73" relname="span"/>
+		<group id="73" type="span" parent="81" relname="evaluation"/>
+		<group id="75" type="multinuc" />
+		<group id="77" type="span" parent="39" relname="cause"/>
+		<group id="79" type="multinuc" parent="7" relname="elaboration"/>
+		<group id="80" type="multinuc" parent="48" relname="elaboration"/>
+		<group id="81" type="span" parent="86" relname="span"/>
+		<group id="82" type="multinuc" parent="84" relname="evaluation"/>
+		<group id="84" type="span" parent="85" relname="span"/>
+		<group id="85" type="span" parent="86" relname="evaluation"/>
+		<group id="86" type="span" parent="44" relname="span"/>
+	</body>
+</rst>

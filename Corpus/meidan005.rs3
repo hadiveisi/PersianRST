@@ -1,0 +1,59 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="multinuc"/>
+			<rel name="cause" type="rst"/>
+			<rel name="comparison" type="multinuc"/>
+			<rel name="comparison" type="rst"/>
+			<rel name="condition" type="multinuc"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="contrast" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation" type="multinuc"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="explanation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="manner-means" type="rst"/>
+			<rel name="same" type="multinuc"/>
+			<rel name="summary" type="rst"/>
+			<rel name="temporal" type="multinuc"/>
+			<rel name="temporal" type="rst"/>
+			<rel name="textualorganization" type="multinuc"/>
+			<rel name="topichange" type="multinuc"/>
+			<rel name="topichange" type="rst"/>
+			<rel name="topicomment" type="multinuc"/>
+			<rel name="topicomment" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="2" relname="attribution">به گفته فرماندار رودسر</segment>
+		<segment id="2" parent="16" relname="span">حدود ۶۰ درصد باغات مرکبات شهرستان رودسر بر اثر بارش برف آسیب دیده اند.</segment>
+		<segment id="3" parent="29" relname="attribution">معاون بهبود تولیدات گیاهی گیلان نیز گفته است</segment>
+		<segment id="4" parent="30" relname="contrast">که میزان خسارت‌های برف درباغات کیوی و مرکبات در دست بررسی است</segment>
+		<segment id="5" parent="30" relname="contrast">اما به ۱۵۰۰ هکتار از باغات مرکبات گیلان خسارت وارد شده است.</segment>
+		<segment id="6" parent="7" relname="attribution">حبیب جهانساز می‌گوید</segment>
+		<segment id="7" parent="19" relname="span">«خسارات شامل شکستگی سرشاخه‌ها ، چروکیدگی برگ‌ها و یخ زدگی میوه‌هاست».</segment>
+		<segment id="8" parent="20" relname="joint">برف روزهای گذشته راه‌های ارتباطی و برق در استان گیلان را با قطعی و اختلال جدی رو به رو کرد.</segment>
+		<segment id="9" parent="20" relname="joint">هشت نفر نیز در استان گیلان در اثر برف کشته و ده‌ها نفر زخمی شده‌اند.</segment>
+		<segment id="10" parent="31" relname="contrast">اگرچه هواشناسی از روزهای قبل در رابطه با بارش شدید برف و کاهش دما هشدار داده بود</segment>
+		<segment id="11" parent="12" relname="attribution">اما اعلام خسارات و گزارش‌های دست‌اول مردمی حکایت از آن دارد</segment>
+		<segment id="12" parent="15" relname="span">که تمهیدات لازم برای آمادگی در برابر برف و کاهش خسارات شهری و کشاورزی برقرار نشده بوده است.</segment>
+		<group id="15" type="span" parent="31" relname="contrast"/>
+		<group id="16" type="span" parent="18" relname="span"/>
+		<group id="18" type="span" parent="32" relname="span"/>
+		<group id="19" type="span" parent="18" relname="elaboration"/>
+		<group id="20" type="multinuc" parent="21" relname="explanation"/>
+		<group id="21" type="span" parent="22" relname="span"/>
+		<group id="22" type="span" parent="33" relname="evaluation"/>
+		<group id="25" type="span" parent="16" relname="summary"/>
+		<group id="29" type="span" parent="25" relname="span"/>
+		<group id="30" type="multinuc" parent="29" relname="span"/>
+		<group id="31" type="multinuc" parent="21" relname="span"/>
+		<group id="32" type="span" parent="33" relname="evaluation"/>
+		<group id="33" type="multinuc" />
+	</body>
+</rst>

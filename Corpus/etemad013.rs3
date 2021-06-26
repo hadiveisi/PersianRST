@@ -1,0 +1,75 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="multinuc"/>
+			<rel name="cause" type="rst"/>
+			<rel name="comparison" type="multinuc"/>
+			<rel name="comparison" type="rst"/>
+			<rel name="condition" type="multinuc"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="contrast" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation" type="multinuc"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="explanation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="manner-means" type="rst"/>
+			<rel name="same" type="multinuc"/>
+			<rel name="summary" type="rst"/>
+			<rel name="temporal" type="multinuc"/>
+			<rel name="temporal" type="rst"/>
+			<rel name="textualorganization" type="multinuc"/>
+			<rel name="topichange" type="multinuc"/>
+			<rel name="topichange" type="rst"/>
+			<rel name="topicomment" type="multinuc"/>
+			<rel name="topicomment" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="49" relname="contrast">آقای جهانگیری یکی از امتیازات ویژه دولت بود</segment>
+		<segment id="2" parent="48" relname="same">اما آقای رییس جمهور</segment>
+		<segment id="3" parent="4" relname="manner-means">آنچنان که شایسته و بایسته است</segment>
+		<segment id="4" parent="48" relname="same">از این ظرفیت بهره گیری نکرد.</segment>
+		<segment id="5" parent="23" relname="cause">معاون اول با برخی وزرای اقتصادی از جمله وزیر صنعت و معدن ، وزیر نفت ، وزیر کشاورزی و … سابقه همکاری چند ساله دارد</segment>
+		<segment id="6" parent="22" relname="same">و با اتکا به همین سابقه می‌توانست نقش موثری در هماهنگی و رفع نابسامانی‌هایی</segment>
+		<segment id="7" parent="6" relname="elaboration">که در چینش کابینه دوازدهم وجود داشت ،</segment>
+		<segment id="8" parent="22" relname="same">ایفا کند.</segment>
+		<segment id="9" parent="31" relname="span">معاون اول رییس جمهور در زمینه اقتصادی تجربه و سبقه زیادی دارد.</segment>
+		<segment id="10" parent="38" relname="span">تصمیم قاطع دولت در مورد تک نرخی شدن ارز نیز به همت آقای جهانگیری گرفته شد.</segment>
+		<segment id="11" parent="12" relname="cause">نوسانات بازار ارز بسیار حساس و بحرانی بود</segment>
+		<segment id="12" parent="24" relname="span">و دولت باید زودتر از اینها دراین باره تصمیم می‌گرفت.</segment>
+		<segment id="13" parent="26" relname="span">بالاخره هم آقای جهانگیری به عنوان میدان دار این ماجرا تصمیم خوبی گرفت.</segment>
+		<segment id="14" parent="27" relname="joint">البته این تصمیم برای اجرایی شدن اقداماتی را می‌طلبد</segment>
+		<segment id="15" parent="28" relname="span">و زمانی می‌توان گفت عملی شده است</segment>
+		<segment id="16" parent="15" relname="elaboration">که ارز به سیستم بانکی کشور و صرافی‌ها تزریق و قیمت اعلام شده فروخته شود.</segment>
+		<segment id="17" parent="40" relname="joint">جهانگیری در سطوح مختلف از بخشداری گرفته تا فرمانداری ، استانداری ، معاونت وزیر و نمایندگی مجلس تا معاون اولی تجربه کسب کرده</segment>
+		<segment id="18" parent="40" relname="joint">و اشراف خوبی بر مسایل اقتصادی دارد.</segment>
+		<segment id="19" parent="52" relname="evaluation">جای تعجب دارد که در دولت آقای روحانی به خوبی از این ظرفیت استفاده نشد.</segment>
+		<segment id="20" parent="53" relname="evaluation">به اعتقاد من به نفع رییس جمهور است که با دادن اختیارات به او از ظرفیت جهانگیری استفاده کند.</segment>
+		<group id="22" type="multinuc" parent="23" relname="span"/>
+		<group id="23" type="span" parent="37" relname="span"/>
+		<group id="24" type="span" parent="25" relname="temporal"/>
+		<group id="25" type="multinuc" parent="10" relname="explanation"/>
+		<group id="26" type="span" parent="25" relname="temporal"/>
+		<group id="27" type="multinuc" parent="38" relname="elaboration"/>
+		<group id="28" type="span" parent="27" relname="joint"/>
+		<group id="31" type="span" parent="41" relname="joint"/>
+		<group id="37" type="span" parent="41" relname="joint"/>
+		<group id="38" type="span" parent="39" relname="span"/>
+		<group id="39" type="span" parent="9" relname="elaboration"/>
+		<group id="40" type="multinuc" parent="42" relname="span"/>
+		<group id="41" type="multinuc" parent="42" relname="summary"/>
+		<group id="42" type="span" parent="50" relname="span"/>
+		<group id="48" type="multinuc" parent="49" relname="contrast"/>
+		<group id="49" type="multinuc" parent="51" relname="span"/>
+		<group id="50" type="span" parent="51" relname="contrast"/>
+		<group id="51" type="span" parent="52" relname="span"/>
+		<group id="52" type="span" parent="53" relname="span"/>
+		<group id="53" type="span" parent="54" relname="span"/>
+		<group id="54" type="span" />
+	</body>
+</rst>

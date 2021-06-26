@@ -1,0 +1,88 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="multinuc"/>
+			<rel name="cause" type="rst"/>
+			<rel name="comparison" type="multinuc"/>
+			<rel name="comparison" type="rst"/>
+			<rel name="condition" type="multinuc"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="contrast" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation" type="multinuc"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="explanation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="manner-means" type="rst"/>
+			<rel name="same" type="multinuc"/>
+			<rel name="summary" type="rst"/>
+			<rel name="temporal" type="multinuc"/>
+			<rel name="temporal" type="rst"/>
+			<rel name="textualorganization" type="multinuc"/>
+			<rel name="topichange" type="multinuc"/>
+			<rel name="topichange" type="rst"/>
+			<rel name="topicomment" type="multinuc"/>
+			<rel name="topicomment" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="48" relname="span">افزایش تقاضا برای ورود به کارشناسی‌ارشد در سال‌های اخیر یک افزایش غیرمعمول است</segment>
+		<segment id="2" parent="3" relname="attribution">چرا که بررسی تجربه کشورهای مشابه کشور ما نشان می‌دهد</segment>
+		<segment id="3" parent="28" relname="span">که این افزایش تا حد بسیار زیادی غیرکارشناسی است.</segment>
+		<segment id="4" parent="51" relname="same">در رابطه با دلایل افزایش تقاضا برای ورود به دوره کارشناسی‌ارشد می‌توان گفت که</segment>
+		<segment id="5" parent="6" relname="background">وقتی دانشجو در دوره لیسانس و پس از فارغ‌التحصیلی از این دوره نمی‌تواند در بازار کار سهم قابل توجهی به دست بیاورد ،</segment>
+		<segment id="6" parent="52" relname="span">سعی در ادامه تحصیل و ورود به دوره کارشناسی ارشد دارد.</segment>
+		<segment id="7" parent="49" relname="span">این مورد هم‌اکنون باعث شده تعداد زیادی از فارغ‌التحصیلان دوره لیسانس برای ورود به کارشناسی‌ارشد اقدام کنند.</segment>
+		<segment id="8" parent="29" relname="span">از طرف دیگر نکته حایز اهمیت تلاشی است</segment>
+		<segment id="9" parent="8" relname="elaboration">که دانشگاه‌های کشور برای افزایش سهم خود در پذیرش دانشجویان در دوره‌های کارشناسی‌ارشد دارند ،</segment>
+		<segment id="10" parent="42" relname="span">مقداری از این افزایش ظرفیت از سوی دانشگاه‌ها قابل تقدیر است</segment>
+		<segment id="11" parent="10" relname="contrast">اما مساله مهم تحمیل ظرفیت از سوی متقاضیان و جامعه به دانشگاه‌های کشور است.</segment>
+		<segment id="12" parent="56" relname="span">در طرف دیگر این افزایش ظرفیت تا حدی می‌تواند برای دانشگاه‌های کشور به نکته نگران‌کننده‌ای تبدیل شود.</segment>
+		<segment id="13" parent="30" relname="span">هم‌اکنون شیوه آموزشی در دوره کارشناسی‌ارشد در برخی دانشگاه‌ها به شکل پژوهش‌محور است</segment>
+		<segment id="14" parent="13" relname="elaboration">که دانشگاه‌ها باید با امکانات آزمایشگاهی ، کارگاهی و سایر امکانات آموزش‌هایی را به دانشجویان ارایه دهند</segment>
+		<segment id="15" parent="16" relname="condition">حال اگر دانشگاه‌ها بیش از ظرفیت خود اقدام به پذیرش دانشجو کنند</segment>
+		<segment id="16" parent="40" relname="span">نگرانی‌هایی برای کاهش کیفیت به وجود می‌آید.</segment>
+		<segment id="17" parent="58" relname="same">نکته دیگر این است که</segment>
+		<segment id="18" parent="57" relname="condition">اگر دانشگاه‌های ما توان پاسخگویی به سیل متقاضیان ورود به کارشناسی‌ارشد را نداشته باشند</segment>
+		<segment id="19" parent="57" relname="span">شاهد مهاجرت و اعزام برخی متقاضیان به کشورهایی می‌شویم</segment>
+		<segment id="20" parent="19" relname="elaboration">که حتی سطح علمی پایین‌تری نسبت به دانشگاه‌های ما دارند.</segment>
+		<segment id="21" parent="59" relname="cause">این مساله باعث می‌شود بخش زیادی از توان علمی و نیروی انسانی کشور به همراه بخش زیادی از ارز کشور به کشورهای دیگر وارد شود.</segment>
+		<segment id="22" parent="62" relname="span">نکته دیگر بحث عدم تعادل ظرفیت‌ها بین رشته‌های فنی ، مهندسی و علوم پایه در مقایسه با علوم‌انسانی است.</segment>
+		<segment id="23" parent="61" relname="joint">بسیاری از مراکز دانشگاهی معتبر در دنیا در رشته‌های فنی ، مهندسی و علوم پایه تولید علم می‌کنند</segment>
+		<segment id="24" parent="61" relname="joint">و نسبت تولید علم در این رشته‌ها نسبت به علوم‌انسانی قابل مقایسه نیست.</segment>
+		<segment id="25" parent="36" relname="span">این که چرا هم‌اکنون بخش زیادی از ظرفیت‌های دانشگاه‌های کشور برای دوره کارشناسی‌ارشد مربوط به رشته‌های علوم‌انسانی می‌شود به گسترش بی‌رویه پذیرش در رشته‌های علوم‌انسانی در مقطع لیسانس برمی‌گردد.</segment>
+		<segment id="26" parent="35" relname="span">در حال حاضر بخش زیادی از دانشجویان ما در دوره لیسانس جذب رشته‌های علوم‌انسانی می‌شوند</segment>
+		<segment id="27" parent="26" relname="cause">که این مساله در نوع خود باعث عدم تعادل پذیرش در رشته‌های دانشگاهی می‌شود.</segment>
+		<group id="28" type="span" parent="1" relname="explanation"/>
+		<group id="29" type="span" parent="46" relname="span"/>
+		<group id="30" type="span" parent="40" relname="background"/>
+		<group id="31" type="span" parent="58" relname="same"/>
+		<group id="33" type="multinuc" parent="22" relname="elaboration"/>
+		<group id="35" type="span" parent="25" relname="elaboration"/>
+		<group id="36" type="span" parent="33" relname="contrast"/>
+		<group id="40" type="span" parent="41" relname="span"/>
+		<group id="41" type="span" parent="12" relname="explanation"/>
+		<group id="42" type="span" parent="43" relname="contrast"/>
+		<group id="43" type="multinuc" parent="29" relname="evaluation"/>
+		<group id="46" type="span" parent="47" relname="joint"/>
+		<group id="47" type="multinuc" parent="63" relname="topicomment"/>
+		<group id="48" type="span" parent="63" relname="topicomment"/>
+		<group id="49" type="span" parent="53" relname="elaboration"/>
+		<group id="51" type="multinuc" parent="53" relname="span"/>
+		<group id="52" type="span" parent="51" relname="same"/>
+		<group id="53" type="span" parent="54" relname="span"/>
+		<group id="54" type="span" parent="47" relname="joint"/>
+		<group id="56" type="span" parent="43" relname="contrast"/>
+		<group id="57" type="span" parent="31" relname="span"/>
+		<group id="58" type="multinuc" parent="59" relname="span"/>
+		<group id="59" type="span" parent="60" relname="span"/>
+		<group id="60" type="span" parent="47" relname="joint"/>
+		<group id="61" type="multinuc" parent="33" relname="contrast"/>
+		<group id="62" type="span" parent="47" relname="joint"/>
+		<group id="63" type="multinuc" />
+	</body>
+</rst>

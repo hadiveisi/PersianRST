@@ -1,0 +1,88 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="multinuc"/>
+			<rel name="cause" type="rst"/>
+			<rel name="comparison" type="multinuc"/>
+			<rel name="comparison" type="rst"/>
+			<rel name="condition" type="multinuc"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="contrast" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation" type="multinuc"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="explanation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="manner-means" type="rst"/>
+			<rel name="same" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+			<rel name="summary" type="rst"/>
+			<rel name="temporal" type="multinuc"/>
+			<rel name="temporal" type="rst"/>
+			<rel name="textualorganization" type="multinuc"/>
+			<rel name="topichange" type="multinuc"/>
+			<rel name="topichange" type="rst"/>
+			<rel name="topicomment" type="multinuc"/>
+			<rel name="topicomment" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="27" relname="attribution">رییس موسسه مطالعات و تحقیقات اجتماعی دانشگاه تهران ، گفته</segment>
+		<segment id="2" parent="26" relname="cause">نگاه سرمایه‌داری در اداره شهرها باعث دوقطبی‌شدن شهرهای بزرگ شده</segment>
+		<segment id="3" parent="26" relname="cause">به گونه‌ای که فقرا جرات پا گذاشتن به مناطق عیان‌نشین را ندارند.</segment>
+		<segment id="4" parent="5" relname="attribution">حسین ایمانی جاجرمی معتقد است</segment>
+		<segment id="5" parent="29" relname="span">حق بر شهر گروه‌های مختلف اجتماعی با تبدیل فضای شهر به فضای مبادله و کالایی کردن زندگی نقض شده است.</segment>
+		<segment id="6" parent="33" relname="attribution">به گفته او</segment>
+		<segment id="7" parent="31" relname="span">شهرداری و تمام دستگاه‌هایی</segment>
+		<segment id="8" parent="7" relname="elaboration">که وارد کارهای پولی شده‌اند</segment>
+		<segment id="9" parent="30" relname="same">در این مسیر حرکت کرده‌</segment>
+		<segment id="10" parent="35" relname="cause">و متوجه نبوده‌اند</segment>
+		<segment id="11" parent="12" relname="background">که وقتی چنین سیاست اقتصادی را دنبال می‌کنند</segment>
+		<segment id="12" parent="36" relname="span">باید با پیامدهای آن نیز مواجه شوند.</segment>
+		<segment id="13" parent="40" relname="attribution">به گفته او</segment>
+		<segment id="14" parent="15" relname="cause">ساخت مراکز عمومی مانند پارک و مدرسه سود مادی ندارد</segment>
+		<segment id="15" parent="39" relname="span">و برای همین امروز حتی نمی‌توان زمین بازی برای کودکان در تهران ایجاد کرد</segment>
+		<segment id="16" parent="38" relname="joint">چون قیمت زمین بالاست</segment>
+		<segment id="17" parent="38" relname="joint">و گروه‌های کاسب‌کار بر زمین‌ها چنگ انداخته‌اند.</segment>
+		<segment id="18" parent="43" relname="attribution">به اعتقاد این جامعه‌شناس</segment>
+		<segment id="19" parent="42" relname="cause">با چنین اقداماتی فرآیند طرد اجتماعی در فضای شهری شروع می‌شود</segment>
+		<segment id="20" parent="42" relname="cause">و عملا گروه‌های کم‌درآمد از شهر حذف می‌شوند.</segment>
+		<segment id="21" parent="45" relname="joint">کاسب‌کارسالاری در حکمرانی شهری از سال‌ها پیش مورد مطالعه قرار گرفته</segment>
+		<segment id="22" parent="45" relname="joint">و اثرات مخرب آن بر روی زندگی مردم در شهرها بررسی شده است.</segment>
+		<segment id="23" parent="46" relname="attribution">برخی نظریه‌پردازان شهری مانند دیوید هاروی معتقدند</segment>
+		<segment id="24" parent="46" relname="span">کاسب‌کار‌سالاری با نوع خاصی از فعالیت‌ها و خدمات مانند ساخت مجتمع‌های تجاری پرزرق و برق گره خورده</segment>
+		<segment id="25" parent="24" relname="elaboration">که می‌توانند شهرها را بحران‌های پولی قابل توجهی روبرو کنند.</segment>
+		<group id="26" type="multinuc" parent="27" relname="span"/>
+		<group id="27" type="span" parent="28" relname="span"/>
+		<group id="28" type="span" parent="51" relname="topicomment"/>
+		<group id="29" type="span" parent="48" relname="span"/>
+		<group id="30" type="multinuc" parent="32" relname="contrast"/>
+		<group id="31" type="span" parent="30" relname="same"/>
+		<group id="32" type="multinuc" parent="33" relname="span"/>
+		<group id="33" type="span" parent="34" relname="span"/>
+		<group id="34" type="span" parent="29" relname="elaboration"/>
+		<group id="35" type="multinuc" parent="32" relname="contrast"/>
+		<group id="36" type="span" parent="35" relname="cause"/>
+		<group id="38" type="multinuc" parent="39" relname="cause"/>
+		<group id="39" type="span" parent="40" relname="span"/>
+		<group id="40" type="span" parent="41" relname="span"/>
+		<group id="41" type="span" parent="49" relname="joint"/>
+		<group id="42" type="multinuc" parent="43" relname="span"/>
+		<group id="43" type="span" parent="44" relname="span"/>
+		<group id="44" type="span" parent="49" relname="joint"/>
+		<group id="45" type="multinuc" parent="50" relname="topicomment"/>
+		<group id="46" type="span" parent="47" relname="span"/>
+		<group id="47" type="span" parent="50" relname="topicomment"/>
+		<group id="48" type="span" parent="52" relname="joint"/>
+		<group id="49" type="multinuc" parent="52" relname="joint"/>
+		<group id="50" type="multinuc" parent="53" relname="attribution"/>
+		<group id="51" type="multinuc" parent="53" relname="span"/>
+		<group id="52" type="multinuc" parent="51" relname="topicomment"/>
+		<group id="53" type="span" parent="54" relname="span"/>
+		<group id="54" type="span" />
+	</body>
+</rst>

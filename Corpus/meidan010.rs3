@@ -1,0 +1,84 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="multinuc"/>
+			<rel name="cause" type="rst"/>
+			<rel name="comparison" type="multinuc"/>
+			<rel name="comparison" type="rst"/>
+			<rel name="condition" type="multinuc"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="contrast" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation" type="multinuc"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="explanation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="manner-means" type="rst"/>
+			<rel name="same" type="multinuc"/>
+			<rel name="summary" type="rst"/>
+			<rel name="temporal" type="multinuc"/>
+			<rel name="temporal" type="rst"/>
+			<rel name="textualorganization" type="multinuc"/>
+			<rel name="topichange" type="multinuc"/>
+			<rel name="topichange" type="rst"/>
+			<rel name="topicomment" type="multinuc"/>
+			<rel name="topicomment" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="2" relname="attribution">ناهید خداکرمی عضو شورای شهر تهران می‌گوید</segment>
+		<segment id="2" parent="26" relname="span">شهرداری تهران تصمیم گرفته هم‌چون سال‌های گذشته ، امسال نیز در ایام محرم نمایشگاه «عطر سیب» را برگزار کند.</segment>
+		<segment id="3" parent="29" relname="joint">وی برگزاری این برنامه‌ها را «خارج از محدوده‌ی وظایف شهرداری» توصیف کرده</segment>
+		<segment id="4" parent="32" relname="attribution">و گفته</segment>
+		<segment id="5" parent="6" relname="manner-means">«در سال‌های گذشته صدها هیات بدون آنکه شرایط لازم را داشته باشند ،</segment>
+		<segment id="6" parent="32" relname="span">فقط و فقط با هدف استفاده از بن و بودجه شهرداری تاسیس شدند».</segment>
+		<segment id="7" parent="31" relname="span">نمایشگاه «عطر سیب»</segment>
+		<segment id="8" parent="7" relname="temporal">ده سال است که</segment>
+		<segment id="9" parent="30" relname="same">برای حمایت از هیات‌های مذهبی و تکریم ایام محرم توسط شهرداری تهران برگزار می‌شود.</segment>
+		<segment id="10" parent="34" relname="joint">این حمایت‌ها هر ساله بخش قابل توجهی از منابع شهرداری تهران را به خود اختصاص ‌داده</segment>
+		<segment id="11" parent="34" relname="joint">و در سه سال گذشته ، هر سال نزدیک به ۷ میلیارد تومان برای برپایی این نمایشگاه از بودجه شهرداری هزینه شده است.</segment>
+		<segment id="12" parent="37" relname="attribution">عضو شورای شهر معتقد است</segment>
+		<segment id="13" parent="36" relname="cause">«بودجه شهرداری از عوارض پرداخت شده توسط مردم تامین می‌شود</segment>
+		<segment id="14" parent="39" relname="joint">و می‌باید صرف نگهداشت و امور شهر شود</segment>
+		<segment id="15" parent="38" relname="span">و نباید عوارض مردم خرج مواردی شود</segment>
+		<segment id="16" parent="15" relname="elaboration">که جزو وظایف شهرداری نیست».</segment>
+		<segment id="17" parent="44" relname="attribution">به گفته خداکرمی</segment>
+		<segment id="18" parent="43" relname="joint">تحمیل چنین هزینه‌هایی به شهر خلاف مصوبه شورای شهر است</segment>
+		<segment id="19" parent="43" relname="joint">و این تصمیم بدون مشورت با شورا اتخاذ شده است ؛</segment>
+		<segment id="20" parent="45" relname="attribution">وی اعلام کرده</segment>
+		<segment id="21" parent="45" relname="span">شهردار قصد دارد از محل بودجه‌ی در اختیار برای این نمایشگاه هزینه کند</segment>
+		<segment id="22" parent="21" relname="contrast">و این جدا از بودجه ۲/۳ میلیارد تومانی تصویب شده برای «تکریم آیین‌ها و فعالیت‌های عاشورایی و اربعین» و بودجه ۱۰ میلیارد تومانی شهرداری برای برگزاری مراسم پیاده‌روی اربعین است.</segment>
+		<segment id="23" parent="24" relname="attribution">طبق اعلام این عضو شورای شهر تهران ،</segment>
+		<segment id="24" parent="48" relname="span">شهرداری تهران در حال حاضر حدود ۵۰هزار میلیارد تومان بدهی دارد. </segment>
+		<group id="25" type="multinuc" parent="41" relname="span"/>
+		<group id="26" type="span" parent="25" relname="topicomment"/>
+		<group id="28" type="span" parent="29" relname="joint"/>
+		<group id="29" type="multinuc" parent="25" relname="topicomment"/>
+		<group id="30" type="multinuc" parent="33" relname="cause"/>
+		<group id="31" type="span" parent="30" relname="same"/>
+		<group id="32" type="span" parent="28" relname="span"/>
+		<group id="33" type="multinuc" parent="41" relname="elaboration"/>
+		<group id="34" type="multinuc" parent="35" relname="contrast"/>
+		<group id="35" type="multinuc" parent="33" relname="cause"/>
+		<group id="36" type="multinuc" parent="37" relname="span"/>
+		<group id="37" type="span" parent="40" relname="span"/>
+		<group id="38" type="span" parent="39" relname="joint"/>
+		<group id="39" type="multinuc" parent="36" relname="cause"/>
+		<group id="40" type="span" parent="35" relname="contrast"/>
+		<group id="41" type="span" parent="42" relname="span"/>
+		<group id="42" type="span" parent="51" relname="span"/>
+		<group id="43" type="multinuc" parent="44" relname="span"/>
+		<group id="44" type="span" parent="49" relname="span"/>
+		<group id="45" type="span" parent="46" relname="span"/>
+		<group id="46" type="span" parent="47" relname="contrast"/>
+		<group id="47" type="multinuc" parent="49" relname="elaboration"/>
+		<group id="48" type="span" parent="47" relname="contrast"/>
+		<group id="49" type="span" parent="50" relname="span"/>
+		<group id="50" type="span" parent="42" relname="evaluation"/>
+		<group id="51" type="span" />
+	</body>
+</rst>

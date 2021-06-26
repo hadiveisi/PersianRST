@@ -1,0 +1,141 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="multinuc"/>
+			<rel name="cause" type="rst"/>
+			<rel name="comparison" type="multinuc"/>
+			<rel name="comparison" type="rst"/>
+			<rel name="condition" type="multinuc"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="contrast" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation" type="multinuc"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="explanation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="manner-means" type="rst"/>
+			<rel name="same" type="multinuc"/>
+			<rel name="summary" type="rst"/>
+			<rel name="temporal" type="multinuc"/>
+			<rel name="temporal" type="rst"/>
+			<rel name="textualorganization" type="multinuc"/>
+			<rel name="topicdrift" type="multinuc"/>
+			<rel name="topichange" type="multinuc"/>
+			<rel name="topichange" type="rst"/>
+			<rel name="topicomment" type="multinuc"/>
+			<rel name="topicomment" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="79" relname="span">امیرکبیر ، یکی از سیاست مداران نمونه ایران ، پیش از دوران صدراعظمی ، پنج سال را در عثمانی با دولت آن کشور و دولت‌های روس و انگلیس مشغول مذاکره بود.</segment>
+		<segment id="2" parent="56" relname="span">در این مذاکرات بارها دشواری برای امیرکبیر پیش آمد.</segment>
+		<segment id="3" parent="4" relname="explanation">در یک مورد بر اثر زدن تهمتی به امیرکبیر</segment>
+		<segment id="4" parent="52" relname="span">کسانی به خانه او حمله و اتاق او را غارت کردند ؛</segment>
+		<segment id="5" parent="53" relname="span">با این هدف که شخصیت امیر را لکه‌دار کنند</segment>
+		<segment id="6" parent="5" relname="enablement">تا او مذاکرات را ترک کند</segment>
+		<segment id="7" parent="80" relname="temporal">اما امیرکبیر به فراست مقصود آنان را دریافت.</segment>
+		<segment id="8" parent="80" relname="temporal">همه این ‌ا را تحمل کرد</segment>
+		<segment id="9" parent="80" relname="temporal">و نتیجه آن دفاع از حق و حقوق سرزمینی ایران بود.</segment>
+		<segment id="10" parent="62" relname="span">او چنان تاثیرگذار بود</segment>
+		<segment id="11" parent="61" relname="span">که حتی پس از مرگ هم از اتهام و ناسزاگویی در امان نماند.</segment>
+		<segment id="12" parent="57" relname="joint">تا آنجا که برخی علنا به او امیر شقی گفتند</segment>
+		<segment id="13" parent="57" relname="joint">و او را در شمار قاتلان ایمه خواندند ؛</segment>
+		<segment id="14" parent="59" relname="joint">کسی که اموال خود را وقف مسجد ، مدرسه و تاسیساتی در کربلا کرده بود</segment>
+		<segment id="15" parent="59" relname="joint">و پیکر او در کنار سیدالشهدا دفن شد.</segment>
+		<segment id="16" parent="86" relname="joint">یکی از وزرای خارجه ، زمانی در جمعی خصوصی ، در پاسخ به سوالی درباره سیاست مداران قدیم ایران ، از وثوق الدوله نام برد</segment>
+		<segment id="17" parent="83" relname="attribution">و گفت :</segment>
+		<segment id="18" parent="63" relname="same">او برای کاری</segment>
+		<segment id="19" parent="18" relname="elaboration">که فکر می‌کرد منافع ایران در آن است ،</segment>
+		<segment id="20" parent="63" relname="same">آبروی خود را هزینه کرد.</segment>
+		<segment id="21" parent="64" relname="contrast">البته این قرارداد و شخصیت وثوق الدوله از موضوعات پربحث در تاریخ معاصر بوده ،</segment>
+		<segment id="22" parent="64" relname="contrast">ولی درخور توجه است.</segment>
+		<segment id="23" parent="66" relname="same">مجتهدی</segment>
+		<segment id="24" parent="65" relname="joint">که می‌توانست قاضی باشد و</segment>
+		<segment id="25" parent="65" relname="joint">در عرصه سیاست حضوری بی واسطه داشت ،</segment>
+		<segment id="26" parent="66" relname="same">درباره وثوق الدوله نظری کم و بیش شبیه همان سخن دارد.</segment>
+		<segment id="27" parent="70" relname="joint">مدرس از مخالفان پرحرارت و فعال قرارداد ١۹١۹ بود</segment>
+		<segment id="28" parent="70" relname="joint">و می‌توان گفت فعالیت او در ناکامی این قرارداد تاثیری بسزا داشت.</segment>
+		<segment id="29" parent="90" relname="attribution">مدرس می‌گفت</segment>
+		<segment id="30" parent="90" relname="span">من با ماده اول قرارداد مخالفم</segment>
+		<segment id="31" parent="32" relname="attribution">زیرا این ماده تصریح می‌کند</segment>
+		<segment id="32" parent="69" relname="span">که استقلال ایران را به رسمیت می‌شناسد.</segment>
+		<segment id="33" parent="87" relname="comparison">مثل این که کسی سیادت من را به رسیمت بشناسد.</segment>
+		<segment id="34" parent="89" relname="evaluation">همین به رسمیت شناختن خود نوعی زیرسیوال بردن است.</segment>
+		<segment id="35" parent="72" relname="contrast">در این که مدرس به جد با این قرارداد مخالف بود ، هیچ شبهه‌ای نیست ؛</segment>
+		<segment id="36" parent="71" relname="span">اما در کابینه بعدی از طرفداران پروپاقرص وثوق الدوله بود ؛</segment>
+		<segment id="37" parent="36" relname="explanation">با این استدلال که در عالم سیاست اختلاف نظر نباید به کینه ورزی یا به قول امروزی به حذف منجر شود.</segment>
+		<segment id="38" parent="74" relname="joint">این فهرست را می‌شود باز هم ادامه داد</segment>
+		<segment id="39" parent="74" relname="joint">و مثال‌های بیشتری را برشمرد.</segment>
+		<segment id="40" parent="73" relname="condition">اگر از سیاست مداران بگذریم ،</segment>
+		<segment id="41" parent="95" relname="joint">لااقل در ٢۰۰ سال گذشته مانند دوره دفاع مقدس بسیاری از جوانان برومند این مملکت جان خود را کف دست گرفته</segment>
+		<segment id="42" parent="95" relname="joint">و جان فشانی کردند</segment>
+		<segment id="43" parent="96" relname="enablement">تا همگان بدانند بر سر تمامیت ارضی با کسی تعارف نداریم.</segment>
+		<segment id="44" parent="99" relname="contrast">در چنین وضعیتی بگذار رسانه‌هایی به تصور خود ، خادمی را خاین جلوه دهند.</segment>
+		<segment id="45" parent="75" relname="joint">مردم و تاریخ که می‌دانند</segment>
+		<segment id="46" parent="47" relname="condition">و حتی اگر ندانند</segment>
+		<segment id="47" parent="76" relname="span">ایران که پابرجاست.</segment>
+		<segment id="48" parent="77" relname="same">همان کتاب «تاریخ جامع ایران»</segment>
+		<segment id="49" parent="48" relname="elaboration">که پشت سر وزیر امور خارجه امروز ماست ،</segment>
+		<segment id="50" parent="77" relname="same">نشان می‌دهد</segment>
+		<segment id="51" parent="78" relname="span">که چرا ایران ، ایران ماند.</segment>
+		<group id="52" type="span" parent="54" relname="span"/>
+		<group id="53" type="span" parent="52" relname="enablement"/>
+		<group id="54" type="span" parent="55" relname="contrast"/>
+		<group id="55" type="multinuc" parent="2" relname="explanation"/>
+		<group id="56" type="span" parent="1" relname="elaboration"/>
+		<group id="57" type="multinuc" parent="58" relname="span"/>
+		<group id="58" type="span" parent="60" relname="span"/>
+		<group id="59" type="multinuc" parent="58" relname="contrast"/>
+		<group id="60" type="span" parent="11" relname="explanation"/>
+		<group id="61" type="span" parent="10" relname="elaboration"/>
+		<group id="62" type="span" parent="82" relname="attribution"/>
+		<group id="63" type="multinuc" parent="67" relname="span"/>
+		<group id="64" type="multinuc" parent="84" relname="background"/>
+		<group id="65" type="multinuc" parent="23" relname="elaboration"/>
+		<group id="66" type="multinuc" parent="84" relname="span"/>
+		<group id="67" type="span" parent="83" relname="span"/>
+		<group id="68" type="span" parent="86" relname="joint"/>
+		<group id="69" type="span" parent="87" relname="comparison"/>
+		<group id="70" type="multinuc" parent="92" relname="span"/>
+		<group id="71" type="span" parent="72" relname="contrast"/>
+		<group id="72" type="multinuc" parent="93" relname="elaboration"/>
+		<group id="73" type="span" parent="100" relname="span"/>
+		<group id="74" type="multinuc" parent="97" relname="span"/>
+		<group id="75" type="multinuc" parent="99" relname="contrast"/>
+		<group id="76" type="span" parent="75" relname="joint"/>
+		<group id="77" type="multinuc" parent="51" relname="attribution"/>
+		<group id="78" type="span" parent="75" relname="joint"/>
+		<group id="79" type="span" parent="101" relname="joint"/>
+		<group id="80" type="multinuc" parent="82" relname="span"/>
+		<group id="81" type="span" parent="55" relname="contrast"/>
+		<group id="82" type="span" parent="81" relname="span"/>
+		<group id="83" type="span" parent="68" relname="span"/>
+		<group id="84" type="span" parent="85" relname="span"/>
+		<group id="85" type="span" parent="67" relname="evaluation"/>
+		<group id="86" type="multinuc" parent="101" relname="joint"/>
+		<group id="87" type="multinuc" parent="89" relname="span"/>
+		<group id="88" type="span" parent="30" relname="explanation"/>
+		<group id="89" type="span" parent="88" relname="span"/>
+		<group id="90" type="span" parent="91" relname="span"/>
+		<group id="91" type="span" parent="92" relname="explanation"/>
+		<group id="92" type="span" parent="93" relname="span"/>
+		<group id="93" type="span" parent="94" relname="span"/>
+		<group id="94" type="span" parent="101" relname="joint"/>
+		<group id="95" type="multinuc" parent="96" relname="span"/>
+		<group id="96" type="span" parent="73" relname="span"/>
+		<group id="97" type="span" parent="98" relname="span"/>
+		<group id="98" type="span" parent="102" relname="elaboration"/>
+		<group id="99" type="multinuc" parent="104" relname="span"/>
+		<group id="100" type="span" parent="97" relname="explanation"/>
+		<group id="101" type="multinuc" parent="102" relname="span"/>
+		<group id="102" type="span" parent="103" relname="span"/>
+		<group id="103" type="span" parent="106" relname="evaluation"/>
+		<group id="104" type="span" parent="105" relname="span"/>
+		<group id="105" type="span" parent="106" relname="evaluation"/>
+		<group id="106" type="multinuc" />
+	</body>
+</rst>

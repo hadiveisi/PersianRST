@@ -1,0 +1,64 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="multinuc"/>
+			<rel name="cause" type="rst"/>
+			<rel name="comparison" type="multinuc"/>
+			<rel name="comparison" type="rst"/>
+			<rel name="condition" type="multinuc"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="contrast" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation" type="multinuc"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="explanation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="manner-means" type="rst"/>
+			<rel name="same" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+			<rel name="summary" type="rst"/>
+			<rel name="temporal" type="multinuc"/>
+			<rel name="temporal" type="rst"/>
+			<rel name="textualorganization" type="multinuc"/>
+			<rel name="topichange" type="multinuc"/>
+			<rel name="topichange" type="rst"/>
+			<rel name="topicomment" type="multinuc"/>
+			<rel name="topicomment" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="15" relname="contrast">دمای شهرهای مختلف خوزستان به بالای ۵۰ درجه سانتی گراد رسیده است ،</segment>
+		<segment id="2" parent="15" relname="contrast">اما کارگران باید همچون شرایط عادی به کار خود ادامه دهند.</segment>
+		<segment id="3" parent="4" relname="attribution">بر اساس اعلام اداره کل هواشناسی خوزستان ،</segment>
+		<segment id="4" parent="16" relname="span">دمای هوای امروز در بستان و شادگان ۵۱ ، آبادان ۵۰ ، اهواز ، امیدیه ، بهبهان ، رادار اهواز و شوش ۴۹ درجه سانتی گراد گزارش شده است.</segment>
+		<segment id="5" parent="17" relname="span">نقاط مختلف خوزستان فردا با افزایش دما مواجه خواهند شد</segment>
+		<segment id="6" parent="5" relname="manner-means">به طوری که دما در بستان و شادگان به ۵۱ ، آبادان ، اهواز ، امیدیه ، بهبهان ، رادار اهواز و شوش به ۵۰ و در رامهرمز ، شوشتر ، ماهشهر ، آغاجاری و گتوند به ۴۹ درجه سانتیگراد می‌رسد.</segment>
+		<segment id="7" parent="18" relname="span">با وجود چنین شرایطی سختی</segment>
+		<segment id="8" parent="7" relname="elaboration">که عبور و مرور روزمره را نیز مختل می‌کند ،</segment>
+		<segment id="9" parent="18" relname="manner-means">آن طور که خانه کارگر خوزستان اعلام کرده ،</segment>
+		<segment id="10" parent="22" relname="joint">کاهش ساعت کاری در دمای بالای ۴۹ درجه سانتیگراد تنها شامل کارمندان شده ،</segment>
+		<segment id="11" parent="20" relname="span">و کارگران</segment>
+		<segment id="12" parent="11" relname="elaboration">که بیشتر در فضای باز مشغول به کار هستند</segment>
+		<segment id="13" parent="19" relname="same">را شامل نمی شود.</segment>
+		<segment id="14" parent="24" relname="background">گرمای شدید یک هفته گذشته باعث فوت یک کارگر در این استان شد.</segment>
+		<group id="15" type="multinuc" parent="27" relname="span"/>
+		<group id="16" type="span" parent="26" relname="joint"/>
+		<group id="17" type="span" parent="26" relname="joint"/>
+		<group id="18" type="span" parent="21" relname="span"/>
+		<group id="19" type="multinuc" parent="22" relname="joint"/>
+		<group id="20" type="span" parent="19" relname="same"/>
+		<group id="21" type="span" parent="23" relname="contrast"/>
+		<group id="22" type="multinuc" parent="23" relname="span"/>
+		<group id="23" type="span" parent="24" relname="span"/>
+		<group id="24" type="span" parent="25" relname="span"/>
+		<group id="25" type="span" parent="28" relname="cause"/>
+		<group id="26" type="multinuc" parent="27" relname="elaboration"/>
+		<group id="27" type="span" parent="28" relname="span"/>
+		<group id="28" type="span" parent="29" relname="span"/>
+		<group id="29" type="span" />
+	</body>
+</rst>

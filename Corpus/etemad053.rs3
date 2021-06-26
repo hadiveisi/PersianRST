@@ -1,0 +1,155 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="multinuc"/>
+			<rel name="cause" type="rst"/>
+			<rel name="comparison" type="multinuc"/>
+			<rel name="comparison" type="rst"/>
+			<rel name="condition" type="multinuc"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="contrast" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation" type="multinuc"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="explanation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="manner-means" type="rst"/>
+			<rel name="same" type="multinuc"/>
+			<rel name="summary" type="rst"/>
+			<rel name="temporal" type="multinuc"/>
+			<rel name="temporal" type="rst"/>
+			<rel name="textualorganization" type="multinuc"/>
+			<rel name="topichange" type="multinuc"/>
+			<rel name="topichange" type="rst"/>
+			<rel name="topicomment" type="multinuc"/>
+			<rel name="topicomment" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="65" relname="span">بخشی از کودکان با عنوان «کودکان در شرایط دشوار» شناخته می‌شوند.</segment>
+		<segment id="2" parent="64" relname="span">این اصطلاح اشاره به آن گروه از کودکانی دارد</segment>
+		<segment id="3" parent="63" relname="span">که حق بقا ، رشد ، امنیت و مشارکت شان به خطر افتاده است ؛</segment>
+		<segment id="4" parent="3" relname="elaboration">خطری که به صورت روزانه آن‌ها را تهدید می‌کند.</segment>
+		<segment id="5" parent="69" relname="span">یکی از مهم ترین گروه‌های جمعیتی این کودکان در خطر عبارتند از کودکانی</segment>
+		<segment id="6" parent="66" relname="joint">که مادران شان تابعیت ایرانی دارند</segment>
+		<segment id="7" parent="66" relname="joint">و پدران شان ندارند</segment>
+		<segment id="8" parent="122" relname="span">و عمدتا از میان اتباع کشور افغانستان هستند</segment>
+		<segment id="9" parent="68" relname="joint">که گفته می‌شود تعدادشان به ۳ میلیون نفر می‌رسد</segment>
+		<segment id="10" parent="68" relname="joint">و حالا ۴۰ سال است که در این کشور زندگی می‌کنند.</segment>
+		<segment id="11" parent="70" relname="contrast">آمار دقیقی از این گروه کودکان اعلام نشده است</segment>
+		<segment id="12" parent="70" relname="contrast">اما بنا بر تخمین‌ها بین ۵۰۰ هزار تا یک میلیون کودک و شاید هم بیشتر در این گروه قرار می‌گیرند.</segment>
+		<segment id="13" parent="14" relname="enablement">برای حمایت از کودکان در شرایط دشوار و مهم ترین گروه آن‌ها ،</segment>
+		<segment id="14" parent="71" relname="span">باید لایحه اعطای تابعیت به فرزندان مادران ایرانی تصویب شود تا تابعیت از مادر به فرزند برسد.</segment>
+		<segment id="15" parent="102" relname="topicomment">اما در راه تصویب این لایحه چه گروه‌های مخالفی وجود دارند ؟</segment>
+		<segment id="16" parent="128" relname="span">دسته اول گروه‌های اجتماعی هستند</segment>
+		<segment id="17" parent="123" relname="joint">که در ۴۰ سال گذشته از نیروی کار مطیع و ارزان کارگران افغانستانی در بخش کشاورزی ، ساختمان و خدمات شهری در این کشور استفاده کرده‌اند</segment>
+		<segment id="18" parent="124" relname="span">و نگرانی شان این است</segment>
+		<segment id="19" parent="20" relname="condition">که اگر این تابعیت به فرزندان این افراد داده شود ،</segment>
+		<segment id="20" parent="73" relname="span">نتوانند مانند گذشته از این نیروی کار مطیع و بی حقوق سواستفاده کنند</segment>
+		<segment id="21" parent="127" relname="evaluation">و بنابراین در مقابل این لایحه خواهند ایستاد.</segment>
+		<segment id="22" parent="78" relname="span">گروه دوم کسانی هستند</segment>
+		<segment id="23" parent="22" relname="elaboration">که در چرخه ترافیک انسانی قرار دارند.</segment>
+		<segment id="24" parent="79" relname="contrast">در حال حاضر یک افغانستانی می‌تواند با ۳۰۰ هزار تومان از شهر تهران به کشورش بازگردد</segment>
+		<segment id="25" parent="79" relname="contrast">اما برای اینکه به ایران بیاید باید چیزی بین ۳ تا ۵ میلیون تومان هزینه کند.</segment>
+		<segment id="26" parent="80" relname="span">یعنی گروهی</segment>
+		<segment id="27" parent="81" relname="joint">که دارای پاسپورت نیستند</segment>
+		<segment id="28" parent="81" relname="joint">و رفت وآمدشان غیرقانونی است.</segment>
+		<segment id="29" parent="83" relname="span">تفاوت میان این ۳۰۰ هزار تومان تا ۵ میلیون تومان عبارت است از یک پول سیاه</segment>
+		<segment id="30" parent="29" relname="elaboration">که بین گروه هایی در ایران توزیع می‌شود.</segment>
+		<segment id="31" parent="86" relname="span">این همان پول سیاهی است</segment>
+		<segment id="32" parent="84" relname="joint">که در تهران تبدیل به تقاضا برای خانه‌ها و ویلاهای منطقه یک تهران می‌شود</segment>
+		<segment id="33" parent="85" relname="span">و برج سازی هایی را به دنبال می‌آورد</segment>
+		<segment id="34" parent="33" relname="elaboration">که برای تبدیل این پول سیاه به پول قانونی انجام می‌شود.</segment>
+		<segment id="35" parent="89" relname="same">این گروه قدرتمند هم</segment>
+		<segment id="36" parent="88" relname="joint">که در دستگاه‌های مختلف ریشه دوانده‌اند</segment>
+		<segment id="37" parent="88" relname="joint">و عقبه شان تا مرزهای شرقی ادامه دارد ،</segment>
+		<segment id="38" parent="89" relname="same">با حق تابعیت این فرزندان مخالفت می‌کنند.</segment>
+		<segment id="39" parent="99" relname="span">گروه سوم آن‌هایی هستند</segment>
+		<segment id="40" parent="96" relname="same">که جمعیت افغانستانی‌های ساکن ایران را</segment>
+		<segment id="41" parent="40" relname="elaboration">(که شاید سه یا چهار درصد جمعیت کشور باشند)</segment>
+		<segment id="42" parent="95" relname="contrast">نه تنها به عنوان شهروند قبول ندارند</segment>
+		<segment id="43" parent="95" relname="contrast">بلکه آن‌ها را انسان درجه دوم می‌دانند</segment>
+		<segment id="44" parent="45" relname="explanation">و نوعی از نژادپرستی در میان شان وجود دارد</segment>
+		<segment id="45" parent="98" relname="span">و برای همین این گروه را فاقد حقوق انسانی می‌خواهند.</segment>
+		<segment id="46" parent="129" relname="evaluation">این دسته هم برای فراهم شدن این امکان برای فرزندان این اتباع حساسیت دارند.</segment>
+		<segment id="47" parent="114" relname="cause">این سه گروه را نباید دست کم گرفت.</segment>
+		<segment id="48" parent="103" relname="same">بنابراین همه کسانی</segment>
+		<segment id="49" parent="48" relname="elaboration">که فکر می‌کنند هر کشوری باید برای تمام کودکانش جای امنی باشد</segment>
+		<segment id="50" parent="103" relname="same">باید برای تصویب این لایحه تلاش کنند.</segment>
+		<segment id="51" parent="110" relname="background">ما بیست و چند سال پیش پیمان نامه حقوق کودک را امضا کردیم</segment>
+		<segment id="52" parent="104" relname="same">و اولین حقی</segment>
+		<segment id="53" parent="52" relname="elaboration">که بر این اساس کودکان در هر جغرافیای سیاسی دارند</segment>
+		<segment id="54" parent="104" relname="same">حق هویت است.</segment>
+		<segment id="55" parent="106" relname="same">بنابراین همه کسانی</segment>
+		<segment id="56" parent="105" relname="joint">که اعتقاد دارند ما باید با جهان مراوده داشته باشیم</segment>
+		<segment id="57" parent="105" relname="joint">و به کنوانسیون‌های بین المللی که امضا کرده ایم پایبند بمانیم</segment>
+		<segment id="58" parent="106" relname="same">باید در این راه تلاش کنند.</segment>
+		<segment id="59" parent="108" relname="cause">هر ساله دیده بان‌های این کنوانسیون‌ها به ما امتیازهای منفی می‌دهند ،</segment>
+		<segment id="60" parent="107" relname="span">حداقل کمک کنیم</segment>
+		<segment id="61" parent="60" relname="enablement">تا این بخش از امتیاز منفی مان کم شود</segment>
+		<segment id="62" parent="107" relname="enablement">تا بتوانیم با جهان مراوده داشته باشیم.</segment>
+		<group id="63" type="span" parent="2" relname="elaboration"/>
+		<group id="64" type="span" parent="1" relname="elaboration"/>
+		<group id="65" type="span" parent="119" relname="span"/>
+		<group id="66" type="multinuc" parent="5" relname="elaboration"/>
+		<group id="68" type="multinuc" parent="8" relname="elaboration"/>
+		<group id="69" type="span" parent="120" relname="span"/>
+		<group id="70" type="multinuc" parent="69" relname="elaboration"/>
+		<group id="71" type="span" parent="130" relname="contrast"/>
+		<group id="73" type="span" parent="18" relname="elaboration"/>
+		<group id="78" type="span" parent="94" relname="span"/>
+		<group id="79" type="multinuc" parent="82" relname="span"/>
+		<group id="80" type="span" parent="82" relname="elaboration"/>
+		<group id="81" type="multinuc" parent="26" relname="elaboration"/>
+		<group id="82" type="span" parent="90" relname="span"/>
+		<group id="83" type="span" parent="87" relname="span"/>
+		<group id="84" type="multinuc" parent="31" relname="elaboration"/>
+		<group id="85" type="span" parent="84" relname="joint"/>
+		<group id="86" type="span" parent="83" relname="elaboration"/>
+		<group id="87" type="span" parent="90" relname="elaboration"/>
+		<group id="88" type="multinuc" parent="35" relname="contrast"/>
+		<group id="89" type="multinuc" parent="92" relname="evaluation"/>
+		<group id="90" type="span" parent="92" relname="span"/>
+		<group id="91" type="multinuc" parent="102" relname="topicomment"/>
+		<group id="92" type="span" parent="93" relname="span"/>
+		<group id="93" type="span" parent="78" relname="elaboration"/>
+		<group id="94" type="span" parent="91" relname="joint"/>
+		<group id="95" type="multinuc" parent="96" relname="same"/>
+		<group id="96" type="multinuc" parent="97" relname="joint"/>
+		<group id="97" type="multinuc" parent="129" relname="evaluation"/>
+		<group id="98" type="span" parent="97" relname="joint"/>
+		<group id="99" type="span" parent="91" relname="joint"/>
+		<group id="102" type="multinuc" parent="131" relname="topicomment"/>
+		<group id="103" type="multinuc" parent="114" relname="span"/>
+		<group id="104" type="multinuc" parent="110" relname="span"/>
+		<group id="105" type="multinuc" parent="55" relname="elaboration"/>
+		<group id="106" type="multinuc" parent="112" relname="span"/>
+		<group id="107" type="span" parent="108" relname="span"/>
+		<group id="108" type="span" parent="109" relname="span"/>
+		<group id="109" type="span" parent="117" relname="explanation"/>
+		<group id="110" type="span" parent="111" relname="span"/>
+		<group id="111" type="span" parent="112" relname="cause"/>
+		<group id="112" type="span" parent="113" relname="span"/>
+		<group id="113" type="span" parent="116" relname="joint"/>
+		<group id="114" type="span" parent="115" relname="span"/>
+		<group id="115" type="span" parent="116" relname="joint"/>
+		<group id="116" type="multinuc" parent="117" relname="span"/>
+		<group id="117" type="span" parent="118" relname="span"/>
+		<group id="118" type="span" parent="131" relname="topicomment"/>
+		<group id="119" type="span" parent="121" relname="topicomment"/>
+		<group id="120" type="span" parent="65" relname="elaboration"/>
+		<group id="121" type="multinuc" />
+		<group id="122" type="span" parent="66" relname="joint"/>
+		<group id="123" type="multinuc" parent="127" relname="evaluation"/>
+		<group id="124" type="span" parent="123" relname="joint"/>
+		<group id="127" type="multinuc" parent="16" relname="elaboration"/>
+		<group id="128" type="span" parent="91" relname="joint"/>
+		<group id="129" type="multinuc" parent="39" relname="elaboration"/>
+		<group id="130" type="multinuc" parent="121" relname="topicomment"/>
+		<group id="131" type="multinuc" parent="130" relname="contrast"/>
+	</body>
+</rst>

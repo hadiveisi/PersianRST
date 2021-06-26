@@ -1,0 +1,112 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="multinuc"/>
+			<rel name="cause" type="rst"/>
+			<rel name="comparison" type="multinuc"/>
+			<rel name="comparison" type="rst"/>
+			<rel name="condition" type="multinuc"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="contrast" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation" type="multinuc"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="explanation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="manner-means" type="rst"/>
+			<rel name="same" type="multinuc"/>
+			<rel name="summary" type="rst"/>
+			<rel name="temporal" type="multinuc"/>
+			<rel name="temporal" type="rst"/>
+			<rel name="textualorganization" type="multinuc"/>
+			<rel name="topichange" type="multinuc"/>
+			<rel name="topichange" type="rst"/>
+			<rel name="topicomment" type="multinuc"/>
+			<rel name="topicomment" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="2" relname="attribution">بعد از اظهارنظرهای مختلف و متفاوت در مورد دوچرخه سواری بانوان ، بالاخره دیروز سخنگوی قوه قضاییه در اظهارنظری رسمی اعلام کرد</segment>
+		<segment id="2" parent="41" relname="span">که دوچرخه سواری بانوان از منظر قانونی مشکلی ندارد ؛</segment>
+		<segment id="3" parent="41" relname="elaboration">اعلام نظری که به نوعی می‌تواند فصل الخطابی برای مناقشه عجیب «دوچرخه سواری بانوان » باشد.</segment>
+		<segment id="4" parent="42" relname="contrast">اما گذشته از این اعلام موضع به نظر می‌رسد تمامی این حاشیه‌ها و جنجال آفرینی‌ها از پایه و اساس با ابهام مواجه باشد.</segment>
+		<segment id="5" parent="45" relname="attribution">درحقیقت مردم حق دارند از خود بپرسند</segment>
+		<segment id="6" parent="44" relname="joint">در جایی که کشور ما در یکی از حساس ترین برهه‌های تاریخی خود به سر می‌برد</segment>
+		<segment id="7" parent="44" relname="joint">و در شرایطی که جامعه و مردم آن با مشکلات اقتصادی و اجتماعی عدیده‌ای روبه رو هستند ،</segment>
+		<segment id="8" parent="45" relname="span">دامن زدن به چنین مسایل کم اهمیتی چه لزومی دارد ؟</segment>
+		<segment id="9" parent="46" relname="attribution">اگر چه گروهی بر این باورند</segment>
+		<segment id="10" parent="46" relname="span">که طرح مساله و حتی بازه زمانی آن به گونه‌ای طراحی شده</segment>
+		<segment id="11" parent="47" relname="span">که اهدافی را در پس پرده دنبال می‌سکند ؛</segment>
+		<segment id="12" parent="11" relname="elaboration">اهدافی که شاید ساده‌ترین آنها ایجاد نگرانی در لایه‌های مختلف جامعه باشد.</segment>
+		<segment id="13" parent="71" relname="span">سوال اینجاست</segment>
+		<segment id="14" parent="13" relname="elaboration">که اصلا فرض کنیم خانم‌ها در جامعه دوچرخه سواری بکنند یا نکنند ؟</segment>
+		<segment id="15" parent="51" relname="span">اصولا در هر دو صورت ، چه اتفاق مهمی و چه تغییری در روند اداره کشور و حل مشکلات جامعه به وجود خواهد آمد ؟</segment>
+		<segment id="16" parent="57" relname="span">گو اینکه به نظر می‌رسد در زندگی شهروندان تاثیرگذار باشد</segment>
+		<segment id="17" parent="52" relname="joint">زیرا می‌توانند با چنین حمل و نقلی به پاک شدن هوای شهرشان کمک کنند</segment>
+		<segment id="18" parent="59" relname="span">و اتفاقا تردد با دوچرخه اقتصادی‌تر هم خواهد بود.</segment>
+		<segment id="19" parent="53" relname="same">موضوعی که</segment>
+		<segment id="20" parent="21" relname="comparison">همان گونه که سخنگوی قوه قضاییه نیز به درستی به آن اشاره کرده‌اند ،</segment>
+		<segment id="21" parent="53" relname="same">هیچ منع قانونی نداشته و ندارد.</segment>
+		<segment id="22" parent="54" relname="same">چرا که</segment>
+		<segment id="23" parent="22" relname="attribution">بر اساس قانون و عرف جامعه ما ،</segment>
+		<segment id="24" parent="54" relname="same">اصولا زنان باید در مراکز عمومی و ملاعام از حیث لباس 	پوشیدن و رفتار ، شوونات جامعه و فرهنگ و دین را رعایت کنند.</segment>
+		<segment id="25" parent="64" relname="span">حالا فرقی نمی کند</segment>
+		<segment id="26" parent="25" relname="condition">که این رفتار پشت فرمان ماشین باشد یا روی زین دوچرخه.</segment>
+		<segment id="27" parent="65" relname="joint">از سویی باید از مخالفان دوچرخه سواری بانوان سوال کرد که واقعا این اقدام چه آسیبی به جامعه می‌رساند ؟</segment>
+		<segment id="28" parent="60" relname="span">اصلا چند درصد از زنان ، امکان دوچرخه سواری دارند</segment>
+		<segment id="29" parent="28" relname="elaboration">که این همه حاشیه برای آنها درست شده است ؟</segment>
+		<segment id="30" parent="61" relname="same">درنهایت جمیع این موارد-</segment>
+		<segment id="31" parent="32" relname="manner-means">بدون آنکه بخواهیم موضع گیری و جبهه گیری خواصی بکنیم-</segment>
+		<segment id="32" parent="61" relname="same">ما را به این نتیجه می‌رساند</segment>
+		<segment id="33" parent="62" relname="elaboration">که تمامی این مناقشات از ریشه بی مورد است.</segment>
+		<segment id="34" parent="68" relname="same">پس بهتر است در جایی</segment>
+		<segment id="35" parent="34" relname="enablement">که زنان از مشکلات حقوقی عدیده‌ای رنج می‌برند</segment>
+		<segment id="36" parent="76" relname="span">و در شرایطی</segment>
+		<segment id="37" parent="67" relname="joint">که دشمنان خارجی ، چشم به آنچه ما در کشورمان می‌کنیم دوخته‌اند</segment>
+		<segment id="38" parent="67" relname="joint">و منتظر بهانه‌ای برای جنجال آفرینی هستند ،</segment>
+		<segment id="39" parent="68" relname="same">به جای پرداختن به چنین مقوله‌هایی به فکر حل و فصل مشکلات حقیقی شهروندان و کشورمان باشیم</segment>
+		<segment id="40" parent="69" relname="enablement">تا مردم شایسته ایران در محیطی آرام و امن و با آسایش اقتصادی کامل زندگی کنند.</segment>
+		<group id="41" type="span" parent="42" relname="span"/>
+		<group id="42" type="span" parent="43" relname="span"/>
+		<group id="43" type="span" parent="77" relname="span"/>
+		<group id="44" type="multinuc" parent="8" relname="background"/>
+		<group id="45" type="span" parent="48" relname="span"/>
+		<group id="46" type="span" parent="50" relname="span"/>
+		<group id="47" type="span" parent="10" relname="elaboration"/>
+		<group id="48" type="span" parent="49" relname="contrast"/>
+		<group id="49" type="multinuc" parent="79" relname="joint"/>
+		<group id="50" type="span" parent="49" relname="contrast"/>
+		<group id="51" type="span" parent="72" relname="span"/>
+		<group id="52" type="multinuc" parent="16" relname="explanation"/>
+		<group id="53" type="multinuc" parent="55" relname="span"/>
+		<group id="54" type="multinuc" parent="74" relname="span"/>
+		<group id="55" type="span" parent="56" relname="span"/>
+		<group id="56" type="span" parent="18" relname="elaboration"/>
+		<group id="57" type="span" parent="51" relname="topicomment"/>
+		<group id="59" type="span" parent="52" relname="joint"/>
+		<group id="60" type="span" parent="65" relname="joint"/>
+		<group id="61" type="multinuc" parent="62" relname="span"/>
+		<group id="62" type="span" parent="63" relname="span"/>
+		<group id="63" type="span" parent="66" relname="span"/>
+		<group id="64" type="span" parent="74" relname="elaboration"/>
+		<group id="65" type="multinuc" parent="63" relname="topicomment"/>
+		<group id="66" type="span" parent="80" relname="cause"/>
+		<group id="67" type="multinuc" parent="36" relname="elaboration"/>
+		<group id="68" type="multinuc" parent="69" relname="span"/>
+		<group id="69" type="span" parent="70" relname="span"/>
+		<group id="70" type="span" parent="80" relname="cause"/>
+		<group id="71" type="span" parent="15" relname="condition"/>
+		<group id="72" type="span" parent="79" relname="joint"/>
+		<group id="74" type="span" parent="75" relname="span"/>
+		<group id="75" type="span" parent="55" relname="explanation"/>
+		<group id="76" type="span" parent="68" relname="same"/>
+		<group id="77" type="span" parent="78" relname="span"/>
+		<group id="78" type="span" />
+		<group id="79" type="multinuc" parent="43" relname="topicomment"/>
+		<group id="80" type="multinuc" parent="77" relname="evaluation"/>
+	</body>
+</rst>

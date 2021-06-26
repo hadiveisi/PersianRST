@@ -1,0 +1,64 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="multinuc"/>
+			<rel name="cause" type="rst"/>
+			<rel name="comparison" type="multinuc"/>
+			<rel name="comparison" type="rst"/>
+			<rel name="condition" type="multinuc"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="contrast" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation" type="multinuc"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="explanation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="manner-means" type="rst"/>
+			<rel name="same" type="multinuc"/>
+			<rel name="summary" type="rst"/>
+			<rel name="temporal" type="multinuc"/>
+			<rel name="temporal" type="rst"/>
+			<rel name="textualorganization" type="multinuc"/>
+			<rel name="topichange" type="multinuc"/>
+			<rel name="topichange" type="rst"/>
+			<rel name="topicomment" type="multinuc"/>
+			<rel name="topicomment" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="16" relname="span">نسبت دانش‌آموزان مدارس غیردولتی به کل دانش‌آموزان ایران در عرض ۲۵ سال بیش از ۱۰۰ برابر شده است ؛</segment>
+		<segment id="2" parent="15" relname="comparison">در شرایطی که در سال ۱۳۷۰ از هر ۱۰۰۰ دانش‌آموز تقریبا ۱ نفر در مدارس غیردولتی تحصیل می‌کرد ،</segment>
+		<segment id="3" parent="15" relname="comparison">در سال ۱۳۹۴ این رقم به ۱۰۴ دانش‌آموز و سال گذشته به ۱۱۵ دانش‌آموز رسیده است.</segment>
+		<segment id="4" parent="17" relname="elaboration">آماری که بیانگر گرایش شدید آموزش و پرورش دولت‌های مختلف به واگذاری وظایف خود به بخش خصوصی است.</segment>
+		<segment id="5" parent="19" relname="comparison">برای مقایسه ، میزان خصوصی‌سازی آموزش در کشورهای کانادا و آلمان در مدت مشابه حدود ۲ و ۳ برابر بوده است.</segment>
+		<segment id="6" parent="21" relname="span">هم‌چنین هزینه‌کرد دولت به ازای هر دانش‌آموز (بر حسب درصد از سرانه‌ی تولید ناخالص داخلی) طی سال‌های ۱۳۸۶ تاکنون از ۱۶ درصد به ۷/۶ درصد کاهش یافته است.</segment>
+		<segment id="7" parent="20" relname="span">این در حالیست</segment>
+		<segment id="8" parent="7" relname="elaboration">که میانگین جهانی هزینه‌های دولت‌ها برای هر دانش‌آموز ، نزدیک به ۱۶/۷ درصد از سرانه‌ی تولید ناخالص داخلی است</segment>
+		<segment id="9" parent="24" relname="span">و برای نمونه ، کشورهایی همچون آلمان و فرانسه به ترتیب ۱۷/۸ و ۱۸ درصد سرانه تولید ناخالص داخلی خود را به هر دانش‌آموز اختصاص می‌دهند</segment>
+		<segment id="10" parent="9" relname="elaboration">و این میزان رو به افزایش است.</segment>
+		<segment id="11" parent="28" relname="span">برخی از پژوهشگران دانشگاهی مهم‌ترین شاخص شکاف طبقاتی در ایران را بخش آموزش می‌دانند ؛</segment>
+		<segment id="12" parent="25" relname="attribution">مطابق با پژوهش انجام شده در وزارت رفاه ،</segment>
+		<segment id="13" parent="26" relname="joint">دسترسی سه دهک بالای جامعه به آموزش باکیفیت ۵۸ درصد بوده</segment>
+		<segment id="14" parent="26" relname="joint">و این سهم برای سه دهک پایین تنها ۴/۵ درصد است.</segment>
+		<group id="15" type="multinuc" parent="17" relname="span"/>
+		<group id="16" type="span" parent="19" relname="comparison"/>
+		<group id="17" type="span" parent="18" relname="span"/>
+		<group id="18" type="span" parent="1" relname="elaboration"/>
+		<group id="19" type="multinuc" parent="29" relname="joint"/>
+		<group id="20" type="span" parent="22" relname="span"/>
+		<group id="21" type="span" parent="29" relname="joint"/>
+		<group id="22" type="span" parent="23" relname="span"/>
+		<group id="23" type="span" parent="6" relname="background"/>
+		<group id="24" type="span" parent="22" relname="elaboration"/>
+		<group id="25" type="span" parent="27" relname="span"/>
+		<group id="26" type="multinuc" parent="25" relname="span"/>
+		<group id="27" type="span" parent="11" relname="explanation"/>
+		<group id="28" type="span" parent="30" relname="topicomment"/>
+		<group id="29" type="multinuc" parent="30" relname="topicomment"/>
+		<group id="30" type="multinuc" />
+	</body>
+</rst>

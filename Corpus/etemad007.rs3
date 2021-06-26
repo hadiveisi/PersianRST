@@ -1,0 +1,121 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="multinuc"/>
+			<rel name="cause" type="rst"/>
+			<rel name="comparison" type="multinuc"/>
+			<rel name="comparison" type="rst"/>
+			<rel name="condition" type="multinuc"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="contrast" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation" type="multinuc"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="explanation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="manner-means" type="rst"/>
+			<rel name="same" type="multinuc"/>
+			<rel name="summary" type="rst"/>
+			<rel name="temporal" type="multinuc"/>
+			<rel name="temporal" type="rst"/>
+			<rel name="textualorganization" type="multinuc"/>
+			<rel name="topichange" type="multinuc"/>
+			<rel name="topichange" type="rst"/>
+			<rel name="topicomment" type="multinuc"/>
+			<rel name="topicomment" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="80" relname="span">تسلط اقتدار مردانه در فضای آموزش عالی کشور یک واقعیت انکارناپذیر است.</segment>
+		<segment id="2" parent="3" relname="background">برای اثبات این ادعا کافی است به ساختار وزارت علوم ، دانشگاه آزاد و سایر بخش‌های آموزشی کشور به دقت نگاه کنیم.</segment>
+		<segment id="3" parent="58" relname="span">آنگاه به خوبی نشانه‌های این اقتدارگرایی را درک می‌کنیم.</segment>
+		<segment id="4" parent="85" relname="span">زنان شاغل در بخش‌های ستادی و آموزشی</segment>
+		<segment id="5" parent="4" relname="contrast">با وجود برخورداری از توانایی و تخصص‌های علمی برای ارتقا به سمت‌های بالای مدیریتی و آموزشی</segment>
+		<segment id="6" parent="42" relname="same">با موانع پر شماری روبه رو هستند.</segment>
+		<segment id="7" parent="86" relname="span">البته تعداد انگشت شماری از زنان</segment>
+		<segment id="8" parent="7" relname="cause">به واسطه روابط خانوادگی با صاحبان قدرت ، وابستگی‌های حزبی و روابط دوستانه</segment>
+		<segment id="9" parent="43" relname="same">موفق می‌شوند که به سطوح بالاتر ارتقا پیدا کنند</segment>
+		<segment id="10" parent="57" relname="contrast">اما در این جا سخن از فضای عمومی حاکم بر نهادهای آموزشی است.</segment>
+		<segment id="11" parent="44" relname="comparison">متاسفانه همانطور که در ساختار سیاسی موانع بازدارنده سر راه موفقیت و حضور زنان وجود دارد</segment>
+		<segment id="12" parent="45" relname="span">دقیقا در نهادهای آکادمیک هم همین موانع وجود دارد</segment>
+		<segment id="13" parent="12" relname="elaboration">و تفاوت معناداری ندارد.</segment>
+		<segment id="14" parent="61" relname="background">ذکر مثال ساده در این باره شاید بحث را روشن‌تر کند.</segment>
+		<segment id="15" parent="61" relname="span">استادان زن در دانشگاه‌ها به راحتی مردان نمی‌توانند از موقعیت‌هایی مانند اعزام به فرصت‌های مطالعاتی خارج از کشور استفاده کنند.</segment>
+		<segment id="16" parent="17" relname="background">در سال ۹۴ وقتی می‌خواستم به عنوان عضو هیات علمی برای یک فرصت مطالعاتی به دانشگاه کالیفرنیا امریکا بروم ،</segment>
+		<segment id="17" parent="46" relname="span">متحمل مرارت‌های بسیاری شدم.</segment>
+		<segment id="18" parent="46" relname="elaboration">موانعی نفسگیر که در موقعیت‌های مشابه برای استادان مرد به این شکل وجود ندارد.</segment>
+		<segment id="19" parent="63" relname="span">با این حال زنان ما متوجه شده اند ، موفقیت در کنکور و ورود به دانشگاه‌ها مهم‌ترین کاری است</segment>
+		<segment id="20" parent="19" relname="elaboration">که می‌توانند از طریق آن خودشان را در عرصه عمومی باز بنمایانند.</segment>
+		<segment id="21" parent="52" relname="contrast">بنابراین حرکت زنان و دختران ما هدفمند است</segment>
+		<segment id="22" parent="64" relname="span">اما این حرکت در جایی به مانع برمی‌خورد.</segment>
+		<segment id="23" parent="54" relname="span">آنجا که در دانشگاه‌های ما نگاه مردانه حاکم است.</segment>
+		<segment id="24" parent="53" relname="span">نگاهی ناشی از ارزش‌های پدرسالارانه</segment>
+		<segment id="25" parent="81" relname="joint">که توانایی زنان را هنوز باور نکرده</segment>
+		<segment id="26" parent="81" relname="joint">یا برای سپردن مسوولیت به زنان مقاومت می‌کند.</segment>
+		<segment id="27" parent="28" relname="contrast">با وجود این همه زن عضو هیات علمی</segment>
+		<segment id="28" parent="56" relname="span">می‌بینیم که در دانشگاه‌های کشور زنان بخت چندانی برای ریاست بر دانشکده‌ها و دانشگاه‌ها ندارند.</segment>
+		<segment id="29" parent="30" relname="attribution">آقای روحانی ، رییس جمهوری محترم سال گذشته در جلسه‌ای گفتند</segment>
+		<segment id="30" parent="55" relname="span">زنان باید هنوز عرصه آزمایش و خطا را طی کنند.</segment>
+		<segment id="31" parent="51" relname="condition">اما سوال این است اگر زنان فرصت کار در سطوح میانی را پیدا نکنند</segment>
+		<segment id="32" parent="51" relname="span">این بهانه برای همیشه باقی می‌ماند</segment>
+		<segment id="33" parent="32" relname="elaboration">که آنها به اندازه کافی تجربه مدیریت ندارند.</segment>
+		<segment id="34" parent="50" relname="contrast">نرخ مشارکت سیاسی و اجتماعی زنان در ایران ۴ درصد است</segment>
+		<segment id="35" parent="50" relname="contrast">و این در حالی است که نرخ مشارکت سیاسی- اجتماعی زنان در کشور ترکیه ۴ برابر ماست یعنی ۱۶درصد.</segment>
+		<segment id="36" parent="70" relname="span">همین مثال کافی است تا این ضرورت را یک بار دیگر مورد تاکید قرار دهیم</segment>
+		<segment id="37" parent="36" relname="elaboration">که لازم است رویکرد کنونی نسبت به حضور زنان در سطوح مدیتی و ارتقا آنان در همه سازمان‌ها و از جمله محیط‌های آکادمیک تغییر کند.</segment>
+		<segment id="38" parent="49" relname="explanation">در این راه تلاش خود زنان هم اهمیت پیدا می‌کند.</segment>
+		<segment id="39" parent="87" relname="span">تداوم تلاش ، تجربه اندوزی و پرهیز از حرکت مسیری</segment>
+		<segment id="40" parent="39" relname="elaboration">که از آن به «زنان علیه زنان» یاد می‌شود</segment>
+		<segment id="41" parent="48" relname="same">در راه بهبود این وضعیت اهمیت زیادی دارد.</segment>
+		<group id="42" type="multinuc" parent="59" relname="span"/>
+		<group id="43" type="multinuc" parent="57" relname="contrast"/>
+		<group id="44" type="multinuc" parent="78" relname="span"/>
+		<group id="45" type="span" parent="44" relname="comparison"/>
+		<group id="46" type="span" parent="47" relname="span"/>
+		<group id="47" type="span" parent="15" relname="explanation"/>
+		<group id="48" type="multinuc" parent="49" relname="span"/>
+		<group id="49" type="span" parent="71" relname="span"/>
+		<group id="50" type="multinuc" parent="70" relname="explanation"/>
+		<group id="51" type="span" parent="67" relname="span"/>
+		<group id="52" type="multinuc" parent="65" relname="span"/>
+		<group id="53" type="span" parent="23" relname="elaboration"/>
+		<group id="54" type="span" parent="22" relname="elaboration"/>
+		<group id="55" type="span" parent="68" relname="contrast"/>
+		<group id="56" type="span" parent="84" relname="span"/>
+		<group id="57" type="multinuc" parent="59" relname="elaboration"/>
+		<group id="58" type="span" parent="1" relname="elaboration"/>
+		<group id="59" type="span" parent="60" relname="span"/>
+		<group id="60" type="span" parent="74" relname="span"/>
+		<group id="61" type="span" parent="62" relname="span"/>
+		<group id="62" type="span" parent="78" relname="elaboration"/>
+		<group id="63" type="span" parent="65" relname="explanation"/>
+		<group id="64" type="span" parent="52" relname="contrast"/>
+		<group id="65" type="span" parent="89" relname="span"/>
+		<group id="67" type="span" parent="68" relname="contrast"/>
+		<group id="68" type="multinuc" parent="69" relname="span"/>
+		<group id="69" type="span" parent="56" relname="elaboration"/>
+		<group id="70" type="span" parent="72" relname="span"/>
+		<group id="71" type="span" parent="73" relname="joint"/>
+		<group id="72" type="span" parent="73" relname="joint"/>
+		<group id="73" type="multinuc" parent="82" relname="evaluation"/>
+		<group id="74" type="span" parent="76" relname="span"/>
+		<group id="76" type="span" parent="77" relname="contrast"/>
+		<group id="77" type="multinuc" parent="82" relname="span"/>
+		<group id="78" type="span" parent="79" relname="span"/>
+		<group id="79" type="span" parent="60" relname="explanation"/>
+		<group id="80" type="span" parent="74" relname="background"/>
+		<group id="81" type="multinuc" parent="24" relname="elaboration"/>
+		<group id="82" type="span" parent="83" relname="span"/>
+		<group id="83" type="span" />
+		<group id="84" type="span" parent="89" relname="elaboration"/>
+		<group id="85" type="span" parent="42" relname="same"/>
+		<group id="86" type="span" parent="43" relname="same"/>
+		<group id="87" type="span" parent="48" relname="same"/>
+		<group id="88" type="span" parent="77" relname="contrast"/>
+		<group id="89" type="span" parent="88" relname="span"/>
+	</body>
+</rst>

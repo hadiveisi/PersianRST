@@ -1,0 +1,86 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="multinuc"/>
+			<rel name="cause" type="rst"/>
+			<rel name="comparison" type="multinuc"/>
+			<rel name="comparison" type="rst"/>
+			<rel name="condition" type="multinuc"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="contrast" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation" type="multinuc"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="explanation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="manner-means" type="rst"/>
+			<rel name="same" type="multinuc"/>
+			<rel name="summary" type="rst"/>
+			<rel name="temporal" type="multinuc"/>
+			<rel name="temporal" type="rst"/>
+			<rel name="textualorganization" type="multinuc"/>
+			<rel name="topichange" type="multinuc"/>
+			<rel name="topichange" type="rst"/>
+			<rel name="topicomment" type="multinuc"/>
+			<rel name="topicomment" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="29" relname="same">این روزها هرکس</segment>
+		<segment id="2" parent="1" relname="elaboration">نگاهی از سر تامل به تاریخ معاصر ، جوامع پیرامونی و مسایل پیش روی جامعه می‌کند ،</segment>
+		<segment id="3" parent="29" relname="same">نمی تواند به سادگی از کنار تجمعات ، اعتراض‌ها و ناامنی‌های نقاط دور و نزدیک کشور بگذرد.</segment>
+		<segment id="4" parent="30" relname="span">در داوری نهایی نسبت به آنچه در سال‌های اخیر در کشورهای همسایه گذشت مانویل کاستلز اثری خواندنی به نام «شبکه‌های خشم و امید » دارد</segment>
+		<segment id="5" parent="4" relname="elaboration">که در آن هم فرصت‌ها و هم تهدیدهای ناشی از در هم آمیختگی میان فضای اجتماعی ، سیاسی و مجازی را گوشزد می‌کند.</segment>
+		<segment id="6" parent="47" relname="span">درنگ در چنین دریافت‌ها و تجاربی فضا را برای درک همه جانبه تر چیستی و چگونگی این تجمعات و اعتراض‌های پراکنده و سرایت پذیر و تدبر در آغاز و فرجام آنها بیشتر فراهم می‌کند.</segment>
+		<segment id="7" parent="31" relname="background">آنچه کشور ، ملت ، نظام و دولت با آن روبرو است مضمون مشترکی دارد :</segment>
+		<segment id="8" parent="31" relname="span">باید به فکر ایران ، به فکر سرمایه‌ها و دستاوردهای معنوی و مادی کشور و به فکر حل و فصل ریشه‌ای انتظارات و انتقاداتی بود</segment>
+		<segment id="9" parent="53" relname="span">که حتی ممکن است زبان متفاوتی در ابراز و اظهار خود داشته باشد :</segment>
+		<segment id="10" parent="9" relname="explanation">ایران امروز بیش از هر زمانی نیازمند گفت وگو و تفاهم ملی و تلاش برای دفاع از دموکراسی ، اصلاحات و پرهیز از خشونت و افراطی گری و محدود شدن فضاهای آزاد و نقاد است.</segment>
+		<segment id="11" parent="34" relname="same">هنوز طعم شیرین برگزاری انتخاباتی آزادانه</segment>
+		<segment id="12" parent="11" relname="elaboration">که حاصل آن سربلندی ملت ایران در منطقه بود</segment>
+		<segment id="13" parent="34" relname="same">در دورن و بیرون کشور ما احساس می‌شود.</segment>
+		<segment id="14" parent="35" relname="span">فرصت برای پیگیری نتایج و وعده‌ها و برنامه‌های آن حتی با نقد و مطالبه گری فرصت مطلوبی است</segment>
+		<segment id="15" parent="14" relname="elaboration">که نباید از آن غافل شد.</segment>
+		<segment id="16" parent="39" relname="span">هنوز باید با صراحت و قوت از دولت منتخب ملت حمایت کرد</segment>
+		<segment id="17" parent="38" relname="same">تا از مسایل ریز و درشت اقتصادی ، اجتماعی ، سیاسی و فرهنگی</segment>
+		<segment id="18" parent="37" relname="joint">چه آنها که مزمن اند و ساختاری</segment>
+		<segment id="19" parent="37" relname="joint">و چه آنها که جدید هستند و عاملیتی</segment>
+		<segment id="20" parent="38" relname="same">مطالبه کنند.</segment>
+		<segment id="21" parent="36" relname="same">مهم ترین ضرورتی</segment>
+		<segment id="22" parent="21" relname="elaboration">که پیش روی همه نیروها و جریان‌های سیاسی ، نخبگان و فعالان مدنی و همه گروه‌ها و قشرهای اجتماعی است ،</segment>
+		<segment id="23" parent="54" relname="span">این است که نگذارند مرزهای میان مسایل جدی مردم و انتقادات و اعتراض‌های به حق و مدنی و قانونی جامعه با اراده‌های داخلی و خارجی</segment>
+		<segment id="24" parent="23" relname="elaboration">که میل به آشوب و آشفتگی و حربه‌ها دارند ،</segment>
+		<segment id="25" parent="36" relname="same">مخدوش شود.</segment>
+		<segment id="26" parent="40" relname="span">امروز روز تفاهم و توافق بر سر مقابله با خشونت و افراطی گری و روز دفاع از دستاوردهای آزادی و دموکراسی در برابر همه تلاش‌هایی است</segment>
+		<segment id="27" parent="41" relname="joint">که می‌خواهند از آرامش ، امنیت و ثبات ایران انتقام بگیرند</segment>
+		<segment id="28" parent="41" relname="joint">و راه دشوار اما خوش فرجام مردم سالاری را مسدود کنند.</segment>
+		<group id="29" type="multinuc" parent="50" relname="span"/>
+		<group id="30" type="span" parent="6" relname="background"/>
+		<group id="31" type="span" parent="52" relname="span"/>
+		<group id="33" type="span" parent="55" relname="topicomment"/>
+		<group id="34" type="multinuc" parent="35" relname="cause"/>
+		<group id="35" type="span" parent="42" relname="span"/>
+		<group id="36" type="multinuc" parent="44" relname="span"/>
+		<group id="37" type="multinuc" parent="17" relname="elaboration"/>
+		<group id="38" type="multinuc" parent="16" relname="enablement"/>
+		<group id="39" type="span" parent="42" relname="evaluation"/>
+		<group id="40" type="span" parent="44" relname="explanation"/>
+		<group id="41" type="multinuc" parent="26" relname="elaboration"/>
+		<group id="42" type="span" parent="43" relname="span"/>
+		<group id="43" type="span" parent="52" relname="manner-means"/>
+		<group id="44" type="span" parent="45" relname="span"/>
+		<group id="45" type="span" parent="56" relname="explanation"/>
+		<group id="47" type="span" parent="50" relname="explanation"/>
+		<group id="50" type="span" parent="51" relname="span"/>
+		<group id="51" type="span" parent="55" relname="topicomment"/>
+		<group id="52" type="span" parent="56" relname="span"/>
+		<group id="53" type="span" parent="8" relname="elaboration"/>
+		<group id="54" type="span" parent="36" relname="same"/>
+		<group id="55" type="multinuc" />
+		<group id="56" type="span" parent="33" relname="span"/>
+	</body>
+</rst>

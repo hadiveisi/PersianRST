@@ -1,0 +1,65 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="multinuc"/>
+			<rel name="cause" type="rst"/>
+			<rel name="comparison" type="multinuc"/>
+			<rel name="comparison" type="rst"/>
+			<rel name="condition" type="multinuc"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="contrast" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation" type="multinuc"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="explanation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="manner-means" type="rst"/>
+			<rel name="same" type="multinuc"/>
+			<rel name="summary" type="rst"/>
+			<rel name="temporal" type="multinuc"/>
+			<rel name="temporal" type="rst"/>
+			<rel name="textualorganization" type="multinuc"/>
+			<rel name="topichange" type="multinuc"/>
+			<rel name="topichange" type="rst"/>
+			<rel name="topicomment" type="multinuc"/>
+			<rel name="topicomment" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="16" relname="span">شهرداری و بنیاد مستضعفان با هم به توافق رسیده‌اند که پارکینگ پروانه را به پلاسکو تحویل دهند</segment>
+		<segment id="2" parent="1" relname="attribution">تا در اختیار مراجعه‌کنندگان آن‌ها قرار بگیرد.</segment>
+		<segment id="3" parent="17" relname="joint">با این تصمیم نه تنها یکی از جمعه‌بازارهای مهم شهری در چند سال گذشته جمع می‌شود ،</segment>
+		<segment id="4" parent="18" relname="span">بلکه بخش مهمی از درآمد ۱۳۰۰ فروشنده این بازار نیز از بین می‌رود ؛</segment>
+		<segment id="5" parent="4" relname="elaboration">غرفه‌دارانی که با این خبر امیدشان به حضور بیشتر مردم با نزدیک شدن نوروز ، به یاس تبدیل شده است.</segment>
+		<segment id="6" parent="22" relname="attribution">مجید کاظمیان ، مدیر روابط عمومی جمعه بازار ، می‌گوید :</segment>
+		<segment id="7" parent="20" relname="contrast">«به ما اعلام شده که این هفته آخر کار غرفه‌داران در پارکینگ پروانه است.</segment>
+		<segment id="8" parent="19" relname="span">تا امروز هیچ‌ جایگزینی به ما معرفی نکردند</segment>
+		<segment id="9" parent="8" relname="elaboration">که مناسب باشد.</segment>
+		<segment id="10" parent="11" relname="contrast">در سال‌های گذشته این مجموعه در بین مردم محبوبیت بسیاری پیدا کرده بود</segment>
+		<segment id="11" parent="23" relname="span">و حالا شاهد این هستیم که تنها دل‌خوشی ۱۳۰۰ خانواده از بین می‌رود.»</segment>
+		<segment id="12" parent="13" relname="attribution">در چند سال گذشته بارها مسوولان اعلام کردند</segment>
+		<segment id="13" parent="24" relname="span">که دستفروش‌ها تبدیل به «مشکل شهری» شد‌ه‌اند.</segment>
+		<segment id="14" parent="26" relname="span">بارها دستفروشان را از خیابان جمع و در فضاهای محدود و غیر خیابانی ساماندهی کردند.</segment>
+		<segment id="15" parent="28" relname="contrast">حالا به نظر می‌رسد پارکینگ پروانه تهران ، یکی از مهم‌ترین فضاهای متمرکز دستفروشان هم قرار است تعطیل شود.</segment>
+		<group id="16" type="span" parent="29" relname="cause"/>
+		<group id="17" type="multinuc" parent="29" relname="cause"/>
+		<group id="18" type="span" parent="17" relname="joint"/>
+		<group id="19" type="span" parent="20" relname="contrast"/>
+		<group id="20" type="multinuc" parent="21" relname="span"/>
+		<group id="21" type="span" parent="22" relname="span"/>
+		<group id="22" type="span" parent="25" relname="span"/>
+		<group id="23" type="span" parent="21" relname="cause"/>
+		<group id="24" type="span" parent="14" relname="cause"/>
+		<group id="25" type="span" parent="30" relname="elaboration"/>
+		<group id="26" type="span" parent="28" relname="contrast"/>
+		<group id="28" type="multinuc" parent="31" relname="evaluation"/>
+		<group id="29" type="multinuc" parent="30" relname="span"/>
+		<group id="30" type="span" parent="31" relname="span"/>
+		<group id="31" type="span" parent="32" relname="span"/>
+		<group id="32" type="span" />
+	</body>
+</rst>

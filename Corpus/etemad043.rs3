@@ -1,0 +1,118 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="multinuc"/>
+			<rel name="cause" type="rst"/>
+			<rel name="comparison" type="multinuc"/>
+			<rel name="comparison" type="rst"/>
+			<rel name="condition" type="multinuc"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="contrast" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation" type="multinuc"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="explanation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="manner-means" type="rst"/>
+			<rel name="same" type="multinuc"/>
+			<rel name="summary" type="rst"/>
+			<rel name="temporal" type="multinuc"/>
+			<rel name="temporal" type="rst"/>
+			<rel name="textualorganization" type="multinuc"/>
+			<rel name="topichange" type="multinuc"/>
+			<rel name="topichange" type="rst"/>
+			<rel name="topicomment" type="multinuc"/>
+			<rel name="topicomment" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="48" relname="span">مطالعات کمی و کیفی درباره فقر کاری پرهزینه و تعهدآور برای دولت‌هاست.</segment>
+		<segment id="2" parent="45" relname="span">پرهزینه از این لحاظ که تکرار و استمرار این مطالعات و به روزرسانی اطلاعات از یک سو و تحلیل این داده‌ها از سوی دیگر مستلزم اختصاص بودجه‌ای درخور است</segment>
+		<segment id="3" parent="2" relname="enablement">تا آنچه بیرون می‌آید بتواند نقشه‌ای واقعی از وضعیت و کیفیت فقر در یک جامعه یا گستره جغرافیایی مورد مطالعه را نشان دهد.</segment>
+		<segment id="4" parent="47" relname="span">تعهدآور است</segment>
+		<segment id="5" parent="49" relname="joint">چون با انتشار گزارش‌های مربوط به آن افکار عمومی و نهادهای مدنی مطالبه گر خواهند شد</segment>
+		<segment id="6" parent="78" relname="span">و عملکرد سیاستگذار را در رابطه با بهبود کیفیت زندگی مردم و کاهش فقر رصد خواهند کرد</segment>
+		<segment id="7" parent="6" relname="elaboration">که معمولا تبعات سیاسی و اجتماعی به همراه دارد.</segment>
+		<segment id="8" parent="80" relname="joint">شاید به همین دو دلیل باشد که دولت‌ها از پژوهش‌های رسمی در خصوص نقشه فقر سر باز می‌زنند</segment>
+		<segment id="9" parent="80" relname="joint">و خود را درگیر حواشی آن نمی کنند.</segment>
+		<segment id="10" parent="50" relname="span">سیاستمداران و سیاستگذاران معمولا نیمه خالی پژوهش و اعلام نتایج این پژوهش‌ها درباره خط فقر را می‌بینند</segment>
+		<segment id="11" parent="51" relname="joint">غافل از این که با دانستن گسترده فقر در کشور قادر خواهند بود جنس فقر موجود در کشور را از نظر جنسیتی ، قومی ، مذهبی ، سنی و منطقه‌ای را مورد پایش دایم قرار دهند</segment>
+		<segment id="12" parent="81" relname="span">و در بلندمدت سیاستگذاری‌ها را به گونه‌ای تدوین کنند</segment>
+		<segment id="13" parent="12" relname="elaboration">که به کاهش نابرابری‌ها و افزایش کیفیت زندگی مردم و در نهایت رضایتمندی شهروندان منتهی شود.</segment>
+		<segment id="14" parent="57" relname="span">فقرا به دو دلیل در ساختار بهبود اقتصادی کشور همراه نیستند.</segment>
+		<segment id="15" parent="82" relname="span">یا به سیاستگذار اعتماد لازم را ندارند</segment>
+		<segment id="16" parent="54" relname="span">و به نوعی بی تفاوتی روی می‌آورند</segment>
+		<segment id="17" parent="16" relname="elaboration">که در چنین حالتی نرخ مشارکت شان در بازار کار کاهش می‌یابد ،</segment>
+		<segment id="18" parent="56" relname="joint">یا این که از نظر جسمی توانایی مشارکت در اقتصاد را ندارند.</segment>
+		<segment id="19" parent="59" relname="condition">سیاستگذار هوشمند اگر گزارشی جامع و کامل از وضعیت فقر و انواع آن در دست داشته باشد ،</segment>
+		<segment id="20" parent="58" relname="joint">قادر خواهد بود که با بالا بردن نرخ مشارکت از تعداد فقرا بکاهد</segment>
+		<segment id="21" parent="58" relname="joint">و نرخ فقر را کاهش دهد</segment>
+		<segment id="22" parent="62" relname="condition">که اگر چنین کند</segment>
+		<segment id="23" parent="61" relname="joint">هم به رسالت اخلاقی و انسانی خود عمل کرده</segment>
+		<segment id="24" parent="61" relname="joint">و هم کارایی جامعه خود را بالا برده</segment>
+		<segment id="25" parent="61" relname="joint">و توسعه‌ای همه جانبه را آغاز کرده است.</segment>
+		<segment id="26" parent="66" relname="same">دولت‌هایی</segment>
+		<segment id="27" parent="65" relname="joint">که فقر و ابعاد آن را پنهان می‌کنند</segment>
+		<segment id="28" parent="65" relname="joint">یا اصولا توجهی به این موضوع ندارند ،</segment>
+		<segment id="29" parent="66" relname="same">از موهبت ثبات اجتماعی و سیاسی در بلندمدت و مشارکت بالای اجتماعی خود را محروم می‌کنند.</segment>
+		<segment id="30" parent="67" relname="joint">از این رو هنر سیاستگذار این است که مطالعات درباره جنس فقر را با روش‌های کمی ، توصیفی و تبیینی مورد بررسی قرار داده</segment>
+		<segment id="31" parent="67" relname="joint">و آن را به مانند آیینه پیش روی خود قرار دهد</segment>
+		<segment id="32" parent="67" relname="joint">و خط فقر را در همه انواع آن تشخیص دهد</segment>
+		<segment id="33" parent="67" relname="joint">و دامنه آن را در افق دید خود بگذارد.</segment>
+		<segment id="34" parent="68" relname="attribution">بررسی‌های صورت گرفته نشان می‌دهد</segment>
+		<segment id="35" parent="68" relname="span">که معمولا دو نوع خط فقر در کشور وجود دارد</segment>
+		<segment id="36" parent="35" relname="elaboration">که یکی خط فقر حداقلی را مورد بررسی قرار می‌دهد و دیگری خط فقر حداکثری را.</segment>
+		<segment id="37" parent="70" relname="same">سیاستگذار معمولا علاقه مند است که به خط فقر حداقلی</segment>
+		<segment id="38" parent="37" relname="elaboration">که معمولا همان درآمدهای مورد نیاز برای تامین حداقل نیازهای روزانه است ،</segment>
+		<segment id="39" parent="70" relname="same">توجه کند و</segment>
+		<segment id="40" parent="71" relname="joint">آن را مبنای تصمیم گیری خود قرار دهد.</segment>
+		<segment id="41" parent="74" relname="joint">در حالی که نیاز است تا یک پله از آن عبور کرده</segment>
+		<segment id="42" parent="74" relname="joint">و با محاسبه خط فقر حداکثری ، به مجموعه‌ای از نیاز‌ها به مانند حق مشارکت ، مسکن ، اوقات فراغت ، سفرو تعلق خانوادگی پاسخ دهد.</segment>
+		<segment id="43" parent="75" relname="joint">برای داشتن چنین اطلاعاتی نیاز است تا دولت یک نهاد را مامور محاسبه و اعلام خط فقر کند</segment>
+		<segment id="44" parent="75" relname="joint">و با بررسی و پایش این مطالعات ، پلتفرمی برای بهبود وضعیت رفاه اجتماعی پیش روی خود ببیند.</segment>
+		<group id="45" type="span" parent="46" relname="joint"/>
+		<group id="46" type="multinuc" parent="1" relname="explanation"/>
+		<group id="47" type="span" parent="46" relname="joint"/>
+		<group id="48" type="span" parent="79" relname="span"/>
+		<group id="49" type="multinuc" parent="4" relname="explanation"/>
+		<group id="50" type="span" parent="83" relname="cause"/>
+		<group id="51" type="multinuc" parent="10" relname="manner-means"/>
+		<group id="54" type="span" parent="15" relname="elaboration"/>
+		<group id="56" type="multinuc" parent="14" relname="explanation"/>
+		<group id="57" type="span" parent="85" relname="topicomment"/>
+		<group id="58" type="multinuc" parent="59" relname="span"/>
+		<group id="59" type="span" parent="60" relname="span"/>
+		<group id="60" type="span" parent="64" relname="span"/>
+		<group id="61" type="multinuc" parent="62" relname="span"/>
+		<group id="62" type="span" parent="63" relname="span"/>
+		<group id="63" type="span" parent="60" relname="elaboration"/>
+		<group id="64" type="span" parent="86" relname="span"/>
+		<group id="65" type="multinuc" parent="26" relname="elaboration"/>
+		<group id="66" type="multinuc" parent="87" relname="cause"/>
+		<group id="67" type="multinuc" parent="87" relname="cause"/>
+		<group id="68" type="span" parent="69" relname="span"/>
+		<group id="69" type="span" parent="77" relname="span"/>
+		<group id="70" type="multinuc" parent="71" relname="joint"/>
+		<group id="71" type="multinuc" parent="72" relname="span"/>
+		<group id="72" type="span" parent="73" relname="span"/>
+		<group id="73" type="span" parent="69" relname="elaboration"/>
+		<group id="74" type="multinuc" parent="72" relname="contrast"/>
+		<group id="75" type="multinuc" parent="77" relname="elaboration"/>
+		<group id="77" type="span" parent="88" relname="span"/>
+		<group id="78" type="span" parent="49" relname="joint"/>
+		<group id="79" type="span" parent="83" relname="cause"/>
+		<group id="80" type="multinuc" parent="48" relname="evaluation"/>
+		<group id="81" type="span" parent="51" relname="joint"/>
+		<group id="82" type="span" parent="56" relname="joint"/>
+		<group id="83" type="multinuc" parent="84" relname="topichange"/>
+		<group id="84" type="multinuc" />
+		<group id="85" type="multinuc" parent="84" relname="topichange"/>
+		<group id="86" type="span" parent="85" relname="topicomment"/>
+		<group id="87" type="multinuc" parent="84" relname="topichange"/>
+		<group id="88" type="span" parent="84" relname="topichange"/>
+	</body>
+</rst>

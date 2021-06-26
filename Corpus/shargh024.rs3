@@ -1,0 +1,85 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="multinuc"/>
+			<rel name="cause" type="rst"/>
+			<rel name="comparison" type="multinuc"/>
+			<rel name="comparison" type="rst"/>
+			<rel name="condition" type="multinuc"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="contrast" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation" type="multinuc"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="explanation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="manner-means" type="rst"/>
+			<rel name="same" type="multinuc"/>
+			<rel name="summary" type="rst"/>
+			<rel name="temporal" type="multinuc"/>
+			<rel name="temporal" type="rst"/>
+			<rel name="textualorganization" type="multinuc"/>
+			<rel name="topichange" type="multinuc"/>
+			<rel name="topichange" type="rst"/>
+			<rel name="topicomment" type="multinuc"/>
+			<rel name="topicomment" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="27" relname="span">حداقل دستمزد ، کمترین رقمی است که نیروی کار با آن به بازسازی فردی می‌پردازد.</segment>
+		<segment id="2" parent="1" relname="summary">درواقع رقمی است که کمتر از آن امکان بازتولید نیروی کار در کوتاه مدت نیز به خطر می‌افتد.</segment>
+		<segment id="3" parent="29" relname="span">این حداقل در کشور ما و طبق قانون در یک گفت وگو و چانه زنی سه جانبه با نظارت دولت تعیین می‌شود.</segment>
+		<segment id="4" parent="28" relname="joint">دولت باید نقش بی طرف را بازی کند</segment>
+		<segment id="5" parent="28" relname="joint">و مطابق مصالح بلندمدت کشور و با توجه به وضعیت اقتصاد معیشت کارگران و البته مسایل و مشکلات فراروی تولید و کارفرمایان ، در این ارتباط مداخله کند.</segment>
+		<segment id="6" parent="34" relname="summary">منطق تعیین رقم آن نیز مطابق قانون و عرف به قدرت خرید نیروی کار برمی گردد</segment>
+		<segment id="7" parent="34" relname="span">و فرض قانون بر ثبات این قدرت خرید است</segment>
+		<segment id="8" parent="31" relname="span">که البته ابهام تعیین سال پایه مربوط به این ثبات همیشه پابرجا بوده است.</segment>
+		<segment id="9" parent="8" relname="elaboration">ابهامی که به نظر می‌رسد باید از سوی دولت بررسی و مشخص شود.</segment>
+		<segment id="10" parent="32" relname="topicomment">یکی از گزینه‌های پیش رو برای رفع این ابهام ، پذیرش سبد غذایی حداقلی برای این موضوع است و البته پذیرش و عمل به آن در قالب تعیین حداقل دستمزد.</segment>
+		<segment id="11" parent="33" relname="same">اما در نگاهی میان مدت به نظر می‌رسد شوک‌های قیمتی و البته به باور نگارنده دستمزدی</segment>
+		<segment id="12" parent="11" relname="elaboration">که در سال‌های ۹۰ ، ۹١ و ۹٢ بر این حوزه وارد شد ،</segment>
+		<segment id="13" parent="14" relname="contrast">با وجود تلاش‌های دولت یازدهم</segment>
+		<segment id="14" parent="33" relname="same">برای جبران هنوز جبران نشده است.</segment>
+		<segment id="15" parent="41" relname="span">«جدول دستمزد» سه شاخص مرتبط با قدرت خرید نیروی کار شاغل و بازنشسته را نشان می‌دهد.</segment>
+		<segment id="16" parent="40" relname="contrast">به عنوان مثال تورم سال ۸۹ باید مبنایی باشد برای تعیین حداقل دستمزد سال ۹۰.</segment>
+		<segment id="17" parent="37" relname="background">همان گونه که در جدول زیر مشاهده می‌شود ،</segment>
+		<segment id="18" parent="37" relname="span">نرخ افزایش دستمزد در سال ١۳۹۰ برابر ۸ ، ۹ درصد بوده است</segment>
+		<segment id="19" parent="38" relname="span">که ۳. ۵ درصد از نرخ تورم پایین‌تر است</segment>
+		<segment id="20" parent="19" relname="elaboration">که این امر به معنای کاهش قدرت خرید نیروی کار به همین میزان در سال مذکور است.</segment>
+		<segment id="21" parent="43" relname="elaboration">روند پایین تربودن نرخ افزایش حداقل دستمزد تا سال ۹۳ ادامه داشته است.</segment>
+		<segment id="22" parent="44" relname="temporal">با توجه به تفاوت نرخ‌های مذکور بین سال‌های ۹۰ تا ۹۳ براساس این شاخص قدرت خرید نیروی کار ٢١. ٢ درصد کاهش یافته است</segment>
+		<segment id="23" parent="44" relname="temporal">و در بین سال‌های ۹۳ تا اول سال ۹۶ ، با توجه به نگرش علمی به حوزه رفاه و دستمزد ، ١۵ درصد این رقم جبران شده است.</segment>
+		<segment id="24" parent="46" relname="summary">مشابه این روند درخصوص میانگین مستمری‌های پرداختی از سوی سازمان تامین اجتماعی نیز مشهود است</segment>
+		<segment id="25" parent="26" relname="contrast">گرچه آمار سال پایانی (سال ۹۵) هنوز ارایه نشده</segment>
+		<segment id="26" parent="46" relname="span">اما به نظر می‌رسد رشد صورت گرفته.</segment>
+		<group id="27" type="span" parent="30" relname="span"/>
+		<group id="28" type="multinuc" parent="3" relname="elaboration"/>
+		<group id="29" type="span" parent="49" relname="span"/>
+		<group id="30" type="span" parent="29" relname="background"/>
+		<group id="31" type="span" parent="32" relname="topicomment"/>
+		<group id="32" type="multinuc" parent="7" relname="elaboration"/>
+		<group id="33" type="multinuc" parent="35" relname="elaboration"/>
+		<group id="34" type="span" parent="35" relname="span"/>
+		<group id="35" type="span" parent="36" relname="span"/>
+		<group id="36" type="span" parent="51" relname="span"/>
+		<group id="37" type="span" parent="39" relname="span"/>
+		<group id="38" type="span" parent="18" relname="elaboration"/>
+		<group id="39" type="span" parent="40" relname="contrast"/>
+		<group id="40" type="multinuc" parent="43" relname="span"/>
+		<group id="41" type="span" parent="36" relname="elaboration"/>
+		<group id="42" type="span" parent="15" relname="explanation"/>
+		<group id="43" type="span" parent="45" relname="span"/>
+		<group id="44" type="multinuc" parent="45" relname="explanation"/>
+		<group id="45" type="span" parent="48" relname="span"/>
+		<group id="46" type="span" parent="47" relname="span"/>
+		<group id="47" type="span" parent="48" relname="evaluation"/>
+		<group id="48" type="span" parent="42" relname="span"/>
+		<group id="49" type="span" parent="50" relname="span"/>
+		<group id="50" type="span" />
+		<group id="51" type="span" parent="49" relname="elaboration"/>
+	</body>
+</rst>

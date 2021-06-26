@@ -1,0 +1,82 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="multinuc"/>
+			<rel name="cause" type="rst"/>
+			<rel name="comparison" type="multinuc"/>
+			<rel name="comparison" type="rst"/>
+			<rel name="condition" type="multinuc"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="contrast" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation" type="multinuc"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="explanation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="manner-means" type="rst"/>
+			<rel name="same" type="multinuc"/>
+			<rel name="summary" type="rst"/>
+			<rel name="temporal" type="multinuc"/>
+			<rel name="temporal" type="rst"/>
+			<rel name="textualorganization" type="multinuc"/>
+			<rel name="topichange" type="multinuc"/>
+			<rel name="topichange" type="rst"/>
+			<rel name="topicomment" type="multinuc"/>
+			<rel name="topicomment" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="38" relname="background">هم زمان با هفته کارگر ، موضوع حمایت از کالای ایرانی به یکی از محورهای سخنرانی مقامات عالی کشور تبدیل شده است.</segment>
+		<segment id="2" parent="26" relname="attribution">مروری بر تجارب بین المللی سیاست گذاری در کشورهای مختلف نشان می‌دهد</segment>
+		<segment id="3" parent="4" relname="cause">دولت‌ها فارغ از درجه توسعه یافتگی اعم از انگلستان ، آمریکا ، ویتنام ، اندونزی ، سنگاپور و … در دهه های مختلف استراتژی های مشخص ، مدون و طولانی مدتی برای حمایت از کالای داخلی تدوین کرده اند</segment>
+		<segment id="4" parent="26" relname="span">که در نهایت منجر به اشتغال زایی ، به کارگیری نیروی متخصص ، رشد ، توسعه و بالندگی اقتصادی کشور شده است.</segment>
+		<segment id="5" parent="52" relname="span">باید دقت شود خروجی حمایت از کالاهای داخلی به نقطه پذیرش و خرید کالا توسط مردم می‌رسد.</segment>
+		<segment id="6" parent="27" relname="span">آنچه اهمیت دارد اقناع مردم برای پذیرش و خرید یک کالای مشخص است.</segment>
+		<segment id="7" parent="28" relname="span">پذیرش یک کالا از قواعد خاصی تبعیت می‌کند</segment>
+		<segment id="8" parent="51" relname="span">که با انگاره های ذهنی ، باورها و برداشت های مردم از آن کالای خاص در ارتباط است.</segment>
+		<segment id="9" parent="30" relname="condition">مشتریان تا زمانی که باور نکنند یک کالا مطلوب ، کارآمد و مناسب است</segment>
+		<segment id="10" parent="29" relname="joint">آن را پذیرش نمی کنند</segment>
+		<segment id="11" parent="29" relname="joint">و علی القاعده متقاضی آن نیز نخواهند بود.</segment>
+		<segment id="12" parent="33" relname="span">ازجمله فاکتورهای این پذیرش ، شناخت ، تجربه ، احساس و اعتماد است.</segment>
+		<segment id="13" parent="12" relname="elaboration">هرکدام از این موارد تقویت کننده انگیزه مصرف کنندگان برای خرید کالای داخلی است.</segment>
+		<segment id="14" parent="15" relname="attribution">نظرسنجی اخیر یکی از مراکز معتبر (ایسپا) نیز نشان می‌دهد</segment>
+		<segment id="15" parent="34" relname="span">۶۳ درصد مردم کشور اذعان کرده اند با تحقق دو شرط «کیفیت خوب » و «قیمت مناسب » ، متقاضی خرید کالای ایرانی خواهند بود.</segment>
+		<segment id="16" parent="35" relname="span">علاوه بر این مهم ، اخیرا مطالعه‌ای کیفی توسط کمیته رصد مرکز روابط عمومی وزارت تعاون ، کار و رفاه اجتماعی انجام شده</segment>
+		<segment id="17" parent="16" relname="elaboration">که در آن با بیش از ۵۰ تولیدکننده کالای ایرانی مصاحبه صورت گرفته است.</segment>
+		<segment id="18" parent="19" relname="attribution">نتایج این مطالعه نیز نشان می‌دهد</segment>
+		<segment id="19" parent="36" relname="span">باور مردم به جنس خارجی و غیرایرانی به عنوان یک کالای باکیفیت و مرغوب یکی از برجسته ترین موانع فروش کالاهای ایرانی تلقی می‌شود.</segment>
+		<segment id="20" parent="43" relname="span">بنابراین می‌توان ادعا کرد اولین و مهم ترین گام برای حمایت از کالای ایرانی و پذیرش آن توسط مردم ، تغییر انگاره های ذهنی مردم و مصرف کنندگان و اقناع آنان برای پذیرش کالای ایرانی است.</segment>
+		<segment id="21" parent="32" relname="comparison">در این چارچوب حمایت از کالای ایرانی بیش از آنکه یک پروژه اقتصادی -فنی در نظر گرفته شود ،</segment>
+		<segment id="22" parent="32" relname="comparison">پروژه‌ای اجتماعی-فرهنگی و حتی روان شناختی است.</segment>
+		<segment id="23" parent="44" relname="span">نکته آخر اینکه موفقیت سیاست حمایت از کالای ایرانی مستلزم افزایش اعتماد و امید اجتماعی است</segment>
+		<segment id="24" parent="23" relname="cause">چراکه هیچ سیاستی در یک جامعه ناامید موفق نخواهد شد.</segment>
+		<group id="26" type="span" parent="50" relname="span"/>
+		<group id="27" type="span" parent="5" relname="explanation"/>
+		<group id="28" type="span" parent="40" relname="span"/>
+		<group id="29" type="multinuc" parent="30" relname="span"/>
+		<group id="30" type="span" parent="31" relname="span"/>
+		<group id="31" type="span" parent="8" relname="elaboration"/>
+		<group id="32" type="multinuc" parent="43" relname="elaboration"/>
+		<group id="33" type="span" parent="28" relname="elaboration"/>
+		<group id="34" type="span" parent="42" relname="joint"/>
+		<group id="35" type="span" parent="37" relname="span"/>
+		<group id="36" type="span" parent="35" relname="elaboration"/>
+		<group id="37" type="span" parent="42" relname="joint"/>
+		<group id="38" type="span" parent="53" relname="span"/>
+		<group id="40" type="span" parent="6" relname="elaboration"/>
+		<group id="42" type="multinuc" parent="20" relname="evaluation"/>
+		<group id="43" type="span" parent="45" relname="span"/>
+		<group id="44" type="span" parent="45" relname="evaluation"/>
+		<group id="45" type="span" parent="46" relname="span"/>
+		<group id="46" type="span" parent="54" relname="topicomment"/>
+		<group id="50" type="span" parent="38" relname="span"/>
+		<group id="51" type="span" parent="7" relname="elaboration"/>
+		<group id="52" type="span" parent="50" relname="elaboration"/>
+		<group id="53" type="span" parent="54" relname="topicomment"/>
+		<group id="54" type="multinuc" />
+	</body>
+</rst>

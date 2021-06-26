@@ -1,0 +1,78 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="multinuc"/>
+			<rel name="cause" type="rst"/>
+			<rel name="comparison" type="multinuc"/>
+			<rel name="comparison" type="rst"/>
+			<rel name="condition" type="multinuc"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="contrast" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation" type="multinuc"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="explanation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="manner-means" type="rst"/>
+			<rel name="same" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+			<rel name="summary" type="rst"/>
+			<rel name="temporal" type="multinuc"/>
+			<rel name="temporal" type="rst"/>
+			<rel name="textualorganization" type="multinuc"/>
+			<rel name="topichange" type="multinuc"/>
+			<rel name="topichange" type="rst"/>
+			<rel name="topicomment" type="multinuc"/>
+			<rel name="topicomment" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="39" relname="span">دولت یازدهم قصد دارد با تصویب برنامه ششم توسعه ، اداره بیمارستان های دولتی را به شرکت های غیر دولتی واگذار کند.</segment>
+		<segment id="2" parent="25" relname="attribution">معاون درمان وزیر بهداشت ضمن اعلام این خبر گفته</segment>
+		<segment id="3" parent="25" relname="span">«شیوه اداره دولتی بیمارستان‌ها با بروکراسی و مشکلات بسیار زیادی مواجه است ،</segment>
+		<segment id="4" parent="24" relname="cause">بیمارستان‌های دولتی چابک نیستند ،</segment>
+		<segment id="5" parent="23" relname="span">نمی‌توانند به درستی از منابعی</segment>
+		<segment id="6" parent="5" relname="elaboration">که دراختیار دارند ،</segment>
+		<segment id="7" parent="22" relname="same">استفاده کنند».</segment>
+		<segment id="8" parent="26" relname="contrast">تا پیش از این ، از کمبود منابع مالی در بیمارستان های دولتی به عنوان یکی از مشکلات اداره آن‌ها نام برده می شد.</segment>
+		<segment id="9" parent="36" relname="joint">محمد آقاجانی همچنین اشاره ای به دلایل «چابک نبودن» بیمارستان های تحت مدیریت وزارت بهداشت نکرده</segment>
+		<segment id="10" parent="36" relname="joint">و از راهکارهای دیگر برای «چابک سازی» آن‌ها نیز نامی نبرده است.</segment>
+		<segment id="11" parent="30" relname="attribution">معاون وزیر بهداشت گفته</segment>
+		<segment id="12" parent="29" relname="contrast">این بیمارستان‌ها کماکان در مالکیت دولت باقی خواهند ماند</segment>
+		<segment id="13" parent="29" relname="contrast">اما مدیریت آن‌ها به بخش غیردولتی سپرده خواهد شد.</segment>
+		<segment id="14" parent="32" relname="contrast">آقاجانی شرط این واگذاری‌ها را «عدم افزایش تعرفه دولتی و پرداختی مردم» اعلام کرده ،</segment>
+		<segment id="15" parent="32" relname="contrast">اما از چگونگی تامین مناقع مالی شرکت های غیردولتی و نحوه قرارداد کارکنان بیمارستان‌ها با این شرکت‌ها حرفی نزده است.</segment>
+		<segment id="16" parent="47" relname="cause">در حال حاضر بخش هایی از جامعه درمان با عدم پرداخت مزد روبرو هستند</segment>
+		<segment id="17" parent="33" relname="same">و مشخص نیست</segment>
+		<segment id="18" parent="19" relname="condition">در صورت خصوصی شدن بیمارستان ها ،</segment>
+		<segment id="19" parent="34" relname="span">چه تغییری در وضعیت قرارداد و پرداخت های آن‌ها اتفاق خواهد افتاد.</segment>
+		<segment id="20" parent="51" relname="contrast">شعار «خصوصی سازی شرکت های دولتی برای افزایش کارایی و رشد اقتصادی» ، در سیاست های تمامی دولت های پس از جنگ نقشی محوری داشته است.</segment>
+		<segment id="21" parent="51" relname="contrast">برخی از منتقدان نیز با ارایه تجارب شکست خورده کشورهای مختلف ، صحت چنین ادعاهایی را زیر سوال برده اند.</segment>
+		<group id="22" type="multinuc" parent="24" relname="cause"/>
+		<group id="23" type="span" parent="22" relname="same"/>
+		<group id="24" type="multinuc" parent="3" relname="explanation"/>
+		<group id="25" type="span" parent="26" relname="span"/>
+		<group id="26" type="span" parent="41" relname="span"/>
+		<group id="29" type="multinuc" parent="30" relname="span"/>
+		<group id="30" type="span" parent="31" relname="span"/>
+		<group id="31" type="span" parent="48" relname="joint"/>
+		<group id="32" type="multinuc" parent="48" relname="joint"/>
+		<group id="33" type="multinuc" parent="47" relname="cause"/>
+		<group id="34" type="span" parent="33" relname="same"/>
+		<group id="36" type="multinuc" parent="43" relname="contrast"/>
+		<group id="39" type="span" parent="52" relname="span"/>
+		<group id="41" type="span" parent="43" relname="contrast"/>
+		<group id="43" type="multinuc" parent="1" relname="explanation"/>
+		<group id="47" type="multinuc" parent="49" relname="background"/>
+		<group id="48" type="multinuc" parent="49" relname="span"/>
+		<group id="49" type="span" parent="50" relname="span"/>
+		<group id="50" type="span" parent="39" relname="elaboration"/>
+		<group id="51" type="multinuc" parent="52" relname="evaluation"/>
+		<group id="52" type="span" parent="53" relname="span"/>
+		<group id="53" type="span" />
+	</body>
+</rst>

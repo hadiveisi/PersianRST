@@ -1,0 +1,135 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="multinuc"/>
+			<rel name="cause" type="rst"/>
+			<rel name="comparison" type="multinuc"/>
+			<rel name="comparison" type="rst"/>
+			<rel name="condition" type="multinuc"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="contrast" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation" type="multinuc"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="explanation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="manner-means" type="rst"/>
+			<rel name="same" type="multinuc"/>
+			<rel name="summary" type="rst"/>
+			<rel name="temporal" type="multinuc"/>
+			<rel name="temporal" type="rst"/>
+			<rel name="textualorganization" type="multinuc"/>
+			<rel name="topichange" type="multinuc"/>
+			<rel name="topichange" type="rst"/>
+			<rel name="topicomment" type="multinuc"/>
+			<rel name="topicomment" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="53" relname="span">شورای اسلامی شهر تهران در بد وضعیتی قرار دارد ؛</segment>
+		<segment id="2" parent="1" relname="elaboration">انتخاب دوباره شهردار !</segment>
+		<segment id="3" parent="54" relname="joint">چه باید کرد ؟</segment>
+		<segment id="4" parent="54" relname="joint">بر اساس چه شاخص هایی ؟</segment>
+		<segment id="5" parent="58" relname="condition">اگر نگاه مردم به حل اساسی مسایل شهر باشد ،</segment>
+		<segment id="6" parent="57" relname="same">مهم ترین آنها عبارت اند از :</segment>
+		<segment id="7" parent="57" relname="same">حمل ونقل و آلودگی هوا</segment>
+		<segment id="8" parent="101" relname="span">که در این صورت باید کسی را انتخاب کرد</segment>
+		<segment id="9" parent="56" relname="span">که در این حوزه صاحب نظر و تجربه باشد ،</segment>
+		<segment id="10" parent="55" relname="span">چراکه اولویت اصلی مردم تهران رفع مشکل حمل ونقل و نیز به تبع آن آلودگی هواست ؛</segment>
+		<segment id="11" parent="10" relname="elaboration">مشکلی که شهر را از کیفیت مطلوب زیست خارج کرده است.</segment>
+		<segment id="12" parent="13" relname="condition">اگر به اولویت های شهرداری از نگاه کارشناسان توجه کنیم ،</segment>
+		<segment id="13" parent="65" relname="span">مسایل اساسی تامین منابع درآمدی پایدار و قطع ارتباط ناصحیح شهرسازی با تامین درآمد برای شهرداری است.</segment>
+		<segment id="14" parent="61" relname="span">در این صورت باید شهرسازی باشد</segment>
+		<segment id="15" parent="60" relname="joint">که به اقتصاد شهری آگاه باشد</segment>
+		<segment id="16" parent="60" relname="joint">و با کسب درآمد از سایر منابع به تدریج درآمدهای شهری ناشی از ساخت وساز را کاهش دهد</segment>
+		<segment id="17" parent="62" relname="span">یا بالعکس اقتصاددانی باید انتخاب شود</segment>
+		<segment id="18" parent="17" relname="elaboration">که به رعایت قوانین و مقررات شهرسازی پایبند و به امور شهرداری نیز واقف باشد.</segment>
+		<segment id="19" parent="105" relname="span">بااین حال ، وجود صلاحیت های یادشده صرفا کفایت نمی کند ؛</segment>
+		<segment id="20" parent="74" relname="span">شناخت قوانین شهرداری و نیز آشنایی با مصوبات هییت دولت و دستورالعمل‌ها و بخش نامه های وزارتخانه‌ها در حوزه مدیریت شهری نیز ضروری است</segment>
+		<segment id="21" parent="73" relname="joint">و این شناخت به یک باره حاصل نمی شود</segment>
+		<segment id="22" parent="73" relname="joint">و عمری می‌طلبد در این راه.</segment>
+		<segment id="23" parent="75" relname="span">باید افزود که شناخت نظام اداری کشور با مدیریت شهری مرتبط است.</segment>
+		<segment id="24" parent="23" relname="elaboration">. . مانند وزارتخانه ها ، سازمان های دولتی و. . . .</segment>
+		<segment id="25" parent="77" relname="joint">همه اینها به علاوه تخصص ، تجربه و آشنایی با ساختارها و معرفت به قوانین ، باید اهل تعامل با قوای سه گانه و. . . باشد</segment>
+		<segment id="26" parent="76" relname="span">و نه تنها اهل مذاکره و گفت وگو</segment>
+		<segment id="27" parent="26" relname="elaboration">بلکه طرف مقابل نیز با او حاضر به همکاری و همراهی باشد ؛</segment>
+		<segment id="28" parent="78" relname="span">برای شهردار تهران داشتن این ویژگی‌ها ضروری است.</segment>
+		<segment id="29" parent="80" relname="span">همچنین مهم ترین اصل داشتن پایگاه مردمی برای شهردار است ؛</segment>
+		<segment id="30" parent="79" relname="joint">یعنی شناخته شده باشد</segment>
+		<segment id="31" parent="79" relname="joint">و مردم تهران او را قبول داشته باشند.</segment>
+		<segment id="32" parent="80" relname="explanation">بدون همراهی و همکاری مردم مدیریت شهری تهران ناتوان خواهد بود.</segment>
+		<segment id="33" parent="103" relname="joint">لازمه این امر ، حمایت همه جانبه شورای اسلامی شهر تهران از شهردار است</segment>
+		<segment id="34" parent="104" relname="span">و برای موفقیت ، مقبولیت شهردار نزد کارکنان شهرداری ضرورت دارد ،</segment>
+		<segment id="35" parent="34" relname="explanation">چراکه بدنه کارشناسی شهرداری است که موتور محرکه تغییرات و تحولات شهری است.</segment>
+		<segment id="36" parent="106" relname="cause">حال که شهردار تهران در ابتدای کار دوره جدید مدیریت شهری انتخاب نمی شود ،</segment>
+		<segment id="37" parent="106" relname="span">برای اجتناب از تغییرات مجدد در ساختار مدیریتی شهرداری و نیز جلوگیری از تغییرات اساسی در برنامه های آغازشده ازسوی شهردار قبلی ، باید فردی انتخاب شود</segment>
+		<segment id="38" parent="108" relname="span">که همان راهی را برود که از ابتدای دوره جدید مدیریت شهری آغاز شده است ؛</segment>
+		<segment id="39" parent="86" relname="joint">یعنی راهی مبتنی بر شفافیت ، مشارکت ، تخصص گرایی و مردم داری ؛</segment>
+		<segment id="40" parent="86" relname="joint">یعنی پذیرش حاکمیت خوب شهری.</segment>
+		<segment id="41" parent="88" relname="span">در پایان باید اذعان کرد رقیب محافظه کار در پی آن است که شورای دوره پنجم در همان مسیری گام بردارد</segment>
+		<segment id="42" parent="41" relname="elaboration">که شورای اول رفت</segment>
+		<segment id="43" parent="89" relname="joint">و در این میان با ترفندهای مختلف سعی در برهم زدن اتحاد و انسجام شورا دارد.</segment>
+		<segment id="44" parent="89" relname="joint">همچنان سعی می‌کند که شورا را از اهداف و سیاست های اعلامی دور کند</segment>
+		<segment id="45" parent="89" relname="joint">و آنها را وادار به محافظه کاری و حرکت در مسیر شورای چهارم کند.</segment>
+		<segment id="46" parent="47" relname="condition">اگر موفق به اختلاف نشود ،</segment>
+		<segment id="47" parent="82" relname="span">قطعا استراتژی دوم را پیگیری می‌کند.</segment>
+		<segment id="48" parent="110" relname="span">بنابراین توجه باید کرد که مسیر همانی است</segment>
+		<segment id="49" parent="48" relname="elaboration">که دکتر نجفی آغاز کرد</segment>
+		<segment id="50" parent="83" relname="joint">و در همان چارچوب شهردار بعدی باید حرکت کند.</segment>
+		<segment id="51" parent="84" relname="joint">قطعا شورای پنجم در مسیر شورای دوره اول نخواهد رفت</segment>
+		<segment id="52" parent="84" relname="joint">و این دوره آغازگر حرکتی نوین در شکل گیری نظام مدیریتی شهری کشور خواهد بود.</segment>
+		<group id="53" type="span" parent="122" relname="span"/>
+		<group id="54" type="multinuc" parent="53" relname="topicomment"/>
+		<group id="55" type="span" parent="9" relname="explanation"/>
+		<group id="56" type="span" parent="8" relname="elaboration"/>
+		<group id="57" type="multinuc" parent="100" relname="span"/>
+		<group id="58" type="span" parent="59" relname="span"/>
+		<group id="59" type="span" parent="69" relname="joint"/>
+		<group id="60" type="multinuc" parent="14" relname="elaboration"/>
+		<group id="61" type="span" parent="63" relname="joint"/>
+		<group id="62" type="span" parent="63" relname="joint"/>
+		<group id="63" type="multinuc" parent="65" relname="topicomment"/>
+		<group id="65" type="span" parent="102" relname="span"/>
+		<group id="69" type="multinuc" parent="119" relname="span"/>
+		<group id="73" type="multinuc" parent="20" relname="elaboration"/>
+		<group id="74" type="span" parent="77" relname="joint"/>
+		<group id="75" type="span" parent="77" relname="joint"/>
+		<group id="76" type="span" parent="77" relname="joint"/>
+		<group id="77" type="multinuc" parent="28" relname="elaboration"/>
+		<group id="78" type="span" parent="93" relname="span"/>
+		<group id="79" type="multinuc" parent="29" relname="attribution"/>
+		<group id="80" type="span" parent="81" relname="span"/>
+		<group id="81" type="span" parent="92" relname="span"/>
+		<group id="82" type="span" parent="89" relname="joint"/>
+		<group id="83" type="multinuc" parent="111" relname="span"/>
+		<group id="84" type="multinuc" parent="113" relname="evaluation"/>
+		<group id="86" type="multinuc" parent="38" relname="elaboration"/>
+		<group id="88" type="span" parent="89" relname="joint"/>
+		<group id="89" type="multinuc" parent="111" relname="evaluation"/>
+		<group id="92" type="span" parent="78" relname="elaboration"/>
+		<group id="93" type="span" parent="19" relname="explanation"/>
+		<group id="100" type="span" parent="58" relname="span"/>
+		<group id="101" type="span" parent="100" relname="topicomment"/>
+		<group id="102" type="span" parent="69" relname="joint"/>
+		<group id="103" type="multinuc" parent="81" relname="elaboration"/>
+		<group id="104" type="span" parent="103" relname="joint"/>
+		<group id="105" type="span" parent="119" relname="contrast"/>
+		<group id="106" type="span" parent="107" relname="span"/>
+		<group id="107" type="span" parent="113" relname="span"/>
+		<group id="108" type="span" parent="37" relname="elaboration"/>
+		<group id="110" type="span" parent="83" relname="joint"/>
+		<group id="111" type="span" parent="112" relname="span"/>
+		<group id="112" type="span" parent="107" relname="summary"/>
+		<group id="113" type="span" parent="114" relname="span"/>
+		<group id="114" type="span" parent="117" relname="joint"/>
+		<group id="117" type="multinuc" parent="123" relname="topicomment"/>
+		<group id="119" type="span" parent="120" relname="span"/>
+		<group id="120" type="span" parent="117" relname="joint"/>
+		<group id="122" type="span" parent="123" relname="topicomment"/>
+		<group id="123" type="multinuc" />
+	</body>
+</rst>

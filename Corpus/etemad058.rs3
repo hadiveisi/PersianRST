@@ -1,0 +1,138 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="multinuc"/>
+			<rel name="cause" type="rst"/>
+			<rel name="comparison" type="multinuc"/>
+			<rel name="comparison" type="rst"/>
+			<rel name="condition" type="multinuc"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="contrast" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation" type="multinuc"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="explanation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="manner-means" type="rst"/>
+			<rel name="same" type="multinuc"/>
+			<rel name="summary" type="rst"/>
+			<rel name="temporal" type="multinuc"/>
+			<rel name="temporal" type="rst"/>
+			<rel name="textualorganization" type="multinuc"/>
+			<rel name="topichange" type="multinuc"/>
+			<rel name="topichange" type="rst"/>
+			<rel name="topicomment" type="multinuc"/>
+			<rel name="topicomment" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="99" relname="span">دریاخواری ، ‌واژه‌ای جدید است</segment>
+		<segment id="2" parent="57" relname="joint">که مدیرکل دفتر بازرسی سازمان محیط زیست از آن سخن می‌گوید ،</segment>
+		<segment id="3" parent="59" relname="span">‌واژه‌ای هم ردیف زمین‌خواری</segment>
+		<segment id="4" parent="58" relname="joint">که این‌بار ، دریاخواران با برهم زدن اکوسیستم دریا ، ‌از زمین‌های دریایی استفاده می‌کنند</segment>
+		<segment id="5" parent="58" relname="joint">و با ورود به حریم آب‌ها ، محیط زیست دریایی را به خطر می‌اندازند.</segment>
+		<segment id="6" parent="60" relname="same">سید احمد نبوی ، ‌در نشستی</segment>
+		<segment id="7" parent="6" relname="elaboration">که روز گذشته برگزار کرده بود ،</segment>
+		<segment id="8" parent="60" relname="same">‌با اشاره به این پدیده در کنار زمین‌خواری</segment>
+		<segment id="9" parent="8" relname="elaboration">که به اراضی تحت حفاظت محیط زیست رسیده است ،</segment>
+		<segment id="10" parent="60" relname="same">‌از تحت پیگرد قرار گرفتن دریاخواران می‌گوید.</segment>
+		<segment id="11" parent="71" relname="attribution">او در این خصوص گفت :</segment>
+		<segment id="12" parent="71" relname="span">«دریاخواری ، ‌پدیده‌ای جدیدتر از زمین‌خواری ، ‌اراضی ساحلی را دربر می‌گیرد.</segment>
+		<segment id="13" parent="61" relname="same">استحصال زمین از دریا و صدماتی</segment>
+		<segment id="14" parent="13" relname="elaboration">که به اکوسیستم دریا وارد می‌شود ،</segment>
+		<segment id="15" parent="61" relname="same">‌نمونه بارز دریاخواری است ،</segment>
+		<segment id="16" parent="65" relname="span">‌مثل ایجاد دریاچه مصنوعی</segment>
+		<segment id="17" parent="62" relname="joint">که در شمال کشور داریم</segment>
+		<segment id="18" parent="62" relname="joint">و کم‌کم به اسم مناطق تفریحی گردشگری ادامه پیدا می‌کند</segment>
+		<segment id="19" parent="66" relname="span">یا پدیده در کیش</segment>
+		<segment id="20" parent="63" relname="joint">که از زمین دریا استفاده می‌کرد</segment>
+		<segment id="21" parent="63" relname="joint">و جلوی آن را گرفتیم.»</segment>
+		<segment id="22" parent="69" relname="same">او از مردم خواست</segment>
+		<segment id="23" parent="24" relname="condition">در صورت رویت هرگونه تخلف زیست‌محیطی ،</segment>
+		<segment id="24" parent="69" relname="same">سازمان را در جریان قرار دهند</segment>
+		<segment id="25" parent="68" relname="same">و با دعوت از مردم با شرکت در چالش معرفی ناهنجاری‌های زیست‌محیطی ، ‌خواست طبق سنتی</segment>
+		<segment id="26" parent="25" relname="elaboration">که تازگی هم رسم شده ،</segment>
+		<segment id="27" parent="68" relname="same">همه مردم در این چالش شرکت کنند</segment>
+		<segment id="28" parent="94" relname="joint">و نسبت به محیط زیست حساسیت بیشتری به خرج دهند.</segment>
+		<segment id="29" parent="30" relname="attribution">او در این خصوص گفت :</segment>
+		<segment id="30" parent="85" relname="span">«از مردم می‌خواهم با مشاهده هرگونه تخلف زیست محیطی در هر گوشه از ایران ، ‌با ما تماس بگیرند و مطلع کنند.»</segment>
+		<segment id="31" parent="88" relname="attribution">او همچنین به شکار غیرمجاز پرندگان و دیگر جانوران حیات وحش با شکار سفارشی اشاره کرد و گفت :</segment>
+		<segment id="32" parent="74" relname="span">«شکارچی داریم</segment>
+		<segment id="33" parent="72" relname="temporal">که از اسپانیا می‌آید با ویزای دو هفته‌ای ،</segment>
+		<segment id="34" parent="72" relname="temporal">اسم حیوانش را می‌دهد ،</segment>
+		<segment id="35" parent="72" relname="temporal">‌راهنما او را به منطقه مورد نظر می‌برد</segment>
+		<segment id="36" parent="72" relname="temporal">و شکار می‌کند ،</segment>
+		<segment id="37" parent="72" relname="temporal">با شکارش عکس می‌اندازد ،</segment>
+		<segment id="38" parent="72" relname="temporal">‌حیوان را تاکسیدرمی می‌کنند و برایش می‌فرستند.</segment>
+		<segment id="39" parent="76" relname="span">از سوی دیگر شیوخ عرب را داریم</segment>
+		<segment id="40" parent="73" relname="temporal">که وارد کشور ما می‌شوند ،</segment>
+		<segment id="41" parent="73" relname="temporal">نادرترین پرندگان را شکار می‌کنند.</segment>
+		<segment id="42" parent="86" relname="contrast">این که چه کسانی آن‌ها را به کشور می‌آورند ، چه کسانی لیدر آن‌ها هستند ، ‌جای بحث دارد.</segment>
+		<segment id="43" parent="86" relname="span">اما آنچه در این میان مهم است این است که مجازات در نظر گرفته شده با سودی که از این تخلف نصیب‌شان می‌شود ، سنخیتی ندارد.</segment>
+		<segment id="44" parent="77" relname="contrast">‌برای شکار هوبره ، ‌آن‌ها را جریمه یک تا دو میلیون تومانی می‌کنیم ،</segment>
+		<segment id="45" parent="77" relname="contrast">در حالی که این پرنده را در کشور خودشان ٢۰۰ میلیون تومان می‌فروشند.»</segment>
+		<segment id="46" parent="92" relname="background">آلودگی هوای شهر تهران و ارتباط آن با سوزاندن پسماندها ، مساله دیگری بود که دفتر بازرسی سازمان در اقدامی جداگانه به بررسی آن پرداخت.</segment>
+		<segment id="47" parent="48" relname="attribution">به گفته او ،</segment>
+		<segment id="48" parent="90" relname="span">از ‌۷ هزار واحد درمانی در تهران اعم از بیمارستان ، ‌درمانگاه ، ‌کلینیک ، تنها ١۰ درصد آن‌ها از لحاظ مدیریت پسماند ، قابل پایش‌اند.</segment>
+		<segment id="49" parent="83" relname="attribution">او در ادامه گفت :</segment>
+		<segment id="50" parent="81" relname="background">«همین ١۰ درصد نیز روزانه ١۰۰ تن زباله عفونی دارند.</segment>
+		<segment id="51" parent="52" relname="contrast">گرچه این کار بر عهده شهرداری است ،</segment>
+		<segment id="52" parent="79" relname="span">‌اما با اعلام سامانه ١۵۴۰ از مردم می‌خواهم با شرکت در این چالش ، ‌به محیط زیست ، ‌شهرداری و بعضی جاها حتی به وزارت بهداشت کمک کنند ،</segment>
+		<segment id="53" parent="54" relname="cause">‌به علت تعدد این مراکز و کم بودن بودجه و امکانات سازمان و نیروی انسانی ،</segment>
+		<segment id="54" parent="78" relname="span">‌هیچ ارگانی قادر به پایش این حجم از تخلف نیست.</segment>
+		<segment id="55" parent="80" relname="enablement">کسانی که بخواهند می‌توانند با داشتن کارت همیار محیط زیست و کد آن ، ‌به طور رسمی به ما گزارش دهند.</segment>
+		<segment id="56" parent="82" relname="elaboration">باید بگویم که رییس‌جمهور ، ‌نخستین کسی بود که به عنوان همیار محیط زیست ، ‌کارت گرفته است.»</segment>
+		<group id="57" type="multinuc" parent="1" relname="elaboration"/>
+		<group id="58" type="multinuc" parent="3" relname="explanation"/>
+		<group id="59" type="span" parent="57" relname="joint"/>
+		<group id="60" type="multinuc" parent="98" relname="summary"/>
+		<group id="61" type="multinuc" parent="67" relname="span"/>
+		<group id="62" type="multinuc" parent="16" relname="elaboration"/>
+		<group id="63" type="multinuc" parent="19" relname="contrast"/>
+		<group id="64" type="multinuc" parent="67" relname="attribution"/>
+		<group id="65" type="span" parent="64" relname="joint"/>
+		<group id="66" type="span" parent="64" relname="joint"/>
+		<group id="67" type="span" parent="70" relname="span"/>
+		<group id="68" type="multinuc" parent="94" relname="joint"/>
+		<group id="69" type="multinuc" parent="95" relname="joint"/>
+		<group id="70" type="span" parent="12" relname="explanation"/>
+		<group id="71" type="span" parent="84" relname="span"/>
+		<group id="72" type="multinuc" parent="32" relname="elaboration"/>
+		<group id="73" type="multinuc" parent="39" relname="elaboration"/>
+		<group id="74" type="span" parent="75" relname="joint"/>
+		<group id="75" type="multinuc" parent="87" relname="elaboration"/>
+		<group id="76" type="span" parent="75" relname="joint"/>
+		<group id="77" type="multinuc" parent="43" relname="explanation"/>
+		<group id="78" type="span" parent="79" relname="cause"/>
+		<group id="79" type="span" parent="80" relname="span"/>
+		<group id="80" type="span" parent="81" relname="span"/>
+		<group id="81" type="span" parent="82" relname="span"/>
+		<group id="82" type="span" parent="83" relname="span"/>
+		<group id="83" type="span" parent="91" relname="span"/>
+		<group id="84" type="span" parent="98" relname="span"/>
+		<group id="85" type="span" parent="96" relname="span"/>
+		<group id="86" type="span" parent="87" relname="span"/>
+		<group id="87" type="span" parent="88" relname="span"/>
+		<group id="88" type="span" parent="93" relname="span"/>
+		<group id="89" type="multinuc" parent="92" relname="span"/>
+		<group id="90" type="span" parent="89" relname="joint"/>
+		<group id="91" type="span" parent="89" relname="joint"/>
+		<group id="92" type="span" parent="97" relname="span"/>
+		<group id="93" type="span" parent="102" relname="explanation"/>
+		<group id="94" type="multinuc" parent="95" relname="joint"/>
+		<group id="95" type="multinuc" parent="85" relname="summary"/>
+		<group id="96" type="span" parent="102" relname="span"/>
+		<group id="97" type="span" parent="104" relname="joint"/>
+		<group id="98" type="span" parent="100" relname="span"/>
+		<group id="99" type="span" parent="100" relname="background"/>
+		<group id="100" type="span" parent="101" relname="span"/>
+		<group id="101" type="span" parent="96" relname="background"/>
+		<group id="102" type="span" parent="103" relname="span"/>
+		<group id="103" type="span" parent="104" relname="joint"/>
+		<group id="104" type="multinuc" />
+	</body>
+</rst>

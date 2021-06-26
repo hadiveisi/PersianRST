@@ -1,0 +1,59 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="multinuc"/>
+			<rel name="cause" type="rst"/>
+			<rel name="comparison" type="multinuc"/>
+			<rel name="comparison" type="rst"/>
+			<rel name="condition" type="multinuc"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="contrast" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation" type="multinuc"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="explanation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="manner-means" type="rst"/>
+			<rel name="same" type="multinuc"/>
+			<rel name="summary" type="rst"/>
+			<rel name="temporal" type="multinuc"/>
+			<rel name="temporal" type="rst"/>
+			<rel name="textualorganization" type="multinuc"/>
+			<rel name="topichange" type="multinuc"/>
+			<rel name="topichange" type="rst"/>
+			<rel name="topicomment" type="multinuc"/>
+			<rel name="topicomment" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="20" relname="span">شرکت دخانیات ایران یکی از بنگاه‌های اقتصادی بزرگ کشور است</segment>
+		<segment id="2" parent="1" relname="elaboration">که به لحاظ جایگاه اقتصادی ، اجتماعی و حتی سیاسی همواره در کشور خبرساز بوده است.</segment>
+		<segment id="3" parent="23" relname="span">شنیده‌ها حاکی از آن است که آقای رحمانی خلیلی مدیرعامل پیشین دخانیات مجددا با حکم وزیر محترم صنعت و تجارت به عنوان رییس هیات مدیره این شرکت بزرگ به دخانیات بازگشته است.</segment>
+		<segment id="4" parent="16" relname="contrast">اگرچه اطلاع دقیقی از چگونگی و دلایل این انتصاب در دست نیست</segment>
+		<segment id="5" parent="14" relname="span">اما آنچه به طور مشخص این انتصاب را توجیه می‌کند شرایط بد تولیدی ، بازرگانی ، مدیریتی شرکت دخانیات در سال‌های اخیر در کنار همه این نابسامانی‌ها حجم عظیم قاچاق سیگار و از طرف دیگر سابقه موفقیت چشمگیر و تاثیرگذار رحمانی خلیلی در دوره مدیریت قبل بوده</segment>
+		<segment id="6" parent="5" relname="elaboration">که مسوولان را ترغیب کرد</segment>
+		<segment id="7" parent="14" relname="enablement">تا از این ظرفیت تجربه شده و مدیر متعهد و خوشنام کمک بگیرند</segment>
+		<segment id="8" parent="15" relname="enablement">تا وضعیت نابسامان و خطرساز شرکت را به شرایطی مولد ، مطمین و اثرگذار بدل کنند.</segment>
+		<segment id="9" parent="21" relname="contrast">اگرچه پایان دوره قبلی مدیریت رحمانی خلیلی در شرکت دخانیات همراه با ناملایمات و نامهربانی‌هایی بوده است</segment>
+		<segment id="10" parent="19" relname="span">اما آنچه از آن دوران در ذهن مقامات دولتی و مدیران و کارکنان شرکت دخانیات باقیمانده دوره یی سراسر موفقیت و بالندگی برای شرکت و شور ، نشاط ، کار و تلاش برای کارکنان بوده است</segment>
+		<segment id="11" parent="17" relname="span">که به همراه تعامل سازنده با شرکت‌های خارجی ، کنترل چشمگیر و بی نظیر قاچاق سیگار در کشور را نیز به همراه داشته است</segment>
+		<segment id="12" parent="11" relname="elaboration">که در زمان خودش همچون امروز به یک مشکل و مساله حاد برای دولت تبدیل شده بود</segment>
+		<segment id="13" parent="18" relname="span">تا جایی که آن دوران را نزد افکار عمومی مرتبط با آن حوزه و کارکنان دخانیات به عنوان دوره طلایی رشد و شکوفایی شرکت ثبت کرده است.</segment>
+		<group id="14" type="span" parent="15" relname="span"/>
+		<group id="15" type="span" parent="16" relname="span"/>
+		<group id="16" type="span" parent="22" relname="span"/>
+		<group id="17" type="span" parent="13" relname="cause"/>
+		<group id="18" type="span" parent="10" relname="elaboration"/>
+		<group id="19" type="span" parent="21" relname="contrast"/>
+		<group id="20" type="span" parent="3" relname="background"/>
+		<group id="21" type="multinuc" parent="22" relname="evaluation"/>
+		<group id="22" type="span" parent="24" relname="span"/>
+		<group id="23" type="span" parent="25" relname="span"/>
+		<group id="24" type="span" parent="23" relname="evaluation"/>
+		<group id="25" type="span" />
+	</body>
+</rst>

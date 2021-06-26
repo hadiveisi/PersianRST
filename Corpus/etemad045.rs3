@@ -1,0 +1,194 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="multinuc"/>
+			<rel name="cause" type="rst"/>
+			<rel name="comparison" type="multinuc"/>
+			<rel name="comparison" type="rst"/>
+			<rel name="condition" type="multinuc"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="contrast" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation" type="multinuc"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="explanation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="manner-means" type="rst"/>
+			<rel name="same" type="multinuc"/>
+			<rel name="summary" type="rst"/>
+			<rel name="temporal" type="multinuc"/>
+			<rel name="temporal" type="rst"/>
+			<rel name="textualorganization" type="multinuc"/>
+			<rel name="topichange" type="multinuc"/>
+			<rel name="topichange" type="rst"/>
+			<rel name="topicomment" type="multinuc"/>
+			<rel name="topicomment" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="154" relname="span">شاید اغراق نباشد که گفته شود ، بیکاری یکی از چند مساله مهم و اصلی کشور است</segment>
+		<segment id="2" parent="3" relname="attribution">و برخی نیز معتقدند</segment>
+		<segment id="3" parent="80" relname="span">نخستین مساله است.</segment>
+		<segment id="4" parent="81" relname="span">بیکاری هم وجهه اقتصادی دارد و هم وجهه اجتماعی و فرهنگی و نیز سیاسی</segment>
+		<segment id="5" parent="82" relname="span">که ریشه بسیاری از مشکلات است.</segment>
+		<segment id="6" parent="95" relname="span">دولت نیز به آن اذعان دارد.</segment>
+		<segment id="7" parent="86" relname="attribution">به همین دلیل آقای روحانی در سفر هفته گذشته خود به استان البرز به طور صریح گفت</segment>
+		<segment id="8" parent="9" relname="attribution">که : «امروز در شرایط فعلی جامعه به صراحت عرض می‌کنم</segment>
+		<segment id="9" parent="83" relname="span">که هیچ نیازی بالاتر از اشتغال جوانان نیست</segment>
+		<segment id="10" parent="85" relname="span">و هیچ خیری بالاتر از زمینه سازی برای اشتغال نسل جوان وجود ندارد ،</segment>
+		<segment id="11" parent="156" relname="span">به خصوص برای آن‌هایی</segment>
+		<segment id="12" parent="11" relname="elaboration">که مشکل جسمانی دارند.»</segment>
+		<segment id="13" parent="99" relname="span">حل مشکل بیکاری نیازمند درک درست و به موقع و اقدام مناسب برای رفع آن است.</segment>
+		<segment id="14" parent="89" relname="span">ولی در روزهای گذشته دو اظهارنظر جالب از دو فعال اصولگرا ، یکی در قامت نامزد ریاست جمهوری سال ۱۳۹۲ و دیگر در مقام نماینده مجلس ابراز شده است</segment>
+		<segment id="15" parent="16" relname="attribution">که نشان می‌دهد ،</segment>
+		<segment id="16" parent="88" relname="span">هنوز درک به موقع و نیز درست از ماجرای بیکاری به دست نیامده است.</segment>
+		<segment id="17" parent="91" relname="attribution">نامزد محترم ریاست جمهوری سال ۱۳۹۲ ، اظهار داشتند</segment>
+		<segment id="18" parent="90" relname="condition">که : «اگر امروز بیکاری یک موضوع جدی قلمداد می‌شود ،</segment>
+		<segment id="19" parent="90" relname="span">حصار بیکاری زمانی برداشته می‌شود</segment>
+		<segment id="20" parent="157" relname="same">که انحصارهای غلطی</segment>
+		<segment id="21" parent="20" relname="elaboration">که ویژه خواران برای خود شکل داده اند</segment>
+		<segment id="22" parent="157" relname="same">شکسته شود.»</segment>
+		<segment id="23" parent="160" relname="contrast">در مورد درستی و نادرستی این گزاره بحث چندانی نمی‌کنیم ،</segment>
+		<segment id="24" parent="160" relname="contrast">ولی می‌پذیریم که درست باشد.</segment>
+		<segment id="25" parent="101" relname="joint">در این صورت باید مقایسه‌ای میان رشد اشتغال در سه دوره آقای خاتمی ، احمدی نژاد و روحانی انجام داد</segment>
+		<segment id="26" parent="100" relname="same">و در هرکدام</segment>
+		<segment id="27" parent="26" relname="elaboration">که اشتغال بیشتری بود</segment>
+		<segment id="28" parent="100" relname="same">آن را نشانه کمتر بودن انحصارات ویژه خواران دانست.</segment>
+		<segment id="29" parent="105" relname="comparison">در دوره اصلاحات به ویژه چهار سال آخر ، سالانه به طور متوسط حدود ۶۰۰ هزار شغل خالص ایجاد می‌شد.</segment>
+		<segment id="30" parent="105" relname="comparison">در هشت ساله دوره احمدی نژاد ، این رقم به کمتر از ۲۰ هزار رسید.</segment>
+		<segment id="31" parent="106" relname="contrast">در دوره سه ساله اخیر دولت فعلی نیز اگرچه هنوز آمار کامل ارایه نشده است ،</segment>
+		<segment id="32" parent="106" relname="contrast">ولی حداقل به حدود ۱۵۰ هزار شغل در سال رسیده است.</segment>
+		<segment id="33" parent="107" relname="span">این ارقام را در کنار درآمدهای ارزی کلان دولت مورد حمایت گوینده این سخنان باید گذاشت</segment>
+		<segment id="34" parent="33" relname="elaboration">که به هیچ وجه قابل مقایسه با دولت اصلاحات و اعتدال نیست.</segment>
+		<segment id="35" parent="108" relname="span">به علاوه دولت مورد حمایت گوینده این سخنان آمده بود</segment>
+		<segment id="36" parent="35" relname="enablement">تا بساط ویژه خواری را برچیند ،</segment>
+		<segment id="37" parent="111" relname="same">پس چطور شد که یک شاخص مهم فقدان ویژه خواری</segment>
+		<segment id="38" parent="37" relname="elaboration">که اشتغال باشد</segment>
+		<segment id="39" parent="111" relname="same">تا این حد در دوره رییس جمهور محبوب ایشان کم و در حد صفر شد ؟</segment>
+		<segment id="40" parent="172" relname="cause">بنابراین واضح است که باید نتیجه گرفت در دولت پیش ویژه خواری در حد اعلابوده است.</segment>
+		<segment id="41" parent="115" relname="same">سخنان نفر بعدی</segment>
+		<segment id="42" parent="41" relname="elaboration">که نماینده اصولگرای مجلس است</segment>
+		<segment id="43" parent="115" relname="same">از این حیث جالب تر است</segment>
+		<segment id="44" parent="45" relname="attribution">و نشان می‌دهد</segment>
+		<segment id="45" parent="116" relname="span">که درک درستی از مساله اشتغال و بیکاری شکل نگرفته است.</segment>
+		<segment id="46" parent="123" relname="attribution">وی عنوان داشت</segment>
+		<segment id="47" parent="122" relname="contrast">که : «آمار بیکاری در کشور سرسام آور است</segment>
+		<segment id="48" parent="118" relname="contrast">شما می‌گویید طی سه سال گذشته دو میلیون و ۵۰۰ هزار شغل ایجاد کرده اید</segment>
+		<segment id="49" parent="120" relname="same">ولی ما از درون دولت مطلع می‌شویم</segment>
+		<segment id="50" parent="119" relname="joint">که هیچ پروژه جدیدی افتتاح نشده</segment>
+		<segment id="51" parent="119" relname="joint">و پروژه‌های نیمه تمام هم به اتمام نرسیده است.»</segment>
+		<segment id="52" parent="136" relname="joint">در درجه اول باید گفت که به هیچ وجه در این سه سال این تعداد شغل خالص ایجاد نشده است.</segment>
+		<segment id="53" parent="125" relname="span">معلوم نیست که ایشان از جانب چه کسی چنین عددی را اعلام کرده است ،</segment>
+		<segment id="54" parent="55" relname="condition">چون اگر این رقم به صورت رسمی گفته شده بود ،</segment>
+		<segment id="55" parent="121" relname="span">به طور قطع با نقد کارشناسان و روزنامه‌های اصلاح طلب مواجه می‌شد.</segment>
+		<segment id="56" parent="138" relname="span">ولی مساله اصلی در منطق گوینده است</segment>
+		<segment id="57" parent="127" relname="joint">که گمان می‌کند تولید شغل مترادف ایجاد پروژه‌های دولتی است</segment>
+		<segment id="58" parent="59" relname="cause">و چون از راه اندازی پروژه‌های دولتی خبری ندارد یا نیست</segment>
+		<segment id="59" parent="126" relname="span">پس نتیجه می‌گیرد که شغل هم ایجاد نشده است.</segment>
+		<segment id="60" parent="129" relname="span">درخصوص پروژه‌های مهم دولتی برداشت ایشان نادرست نیست</segment>
+		<segment id="61" parent="128" relname="contrast">زیرا دولت پیش هزاران پروژه را تعریف و آغاز کرد</segment>
+		<segment id="62" parent="128" relname="contrast">ولی هیچ پولی برای تکمیل و راه اندازی آن‌ها وجود ندارد.</segment>
+		<segment id="63" parent="131" relname="same">ایشان</segment>
+		<segment id="64" parent="130" relname="joint">که نماینده است</segment>
+		<segment id="65" parent="130" relname="joint">و از ارقام بودجه اطلاع دارند</segment>
+		<segment id="66" parent="131" relname="same">بهتر از هر کس دیگر می‌توانند توضیح دهند</segment>
+		<segment id="67" parent="132" relname="joint">که چه تعداد پروژه زخمی شده از آن دولت باقی مانده</segment>
+		<segment id="68" parent="132" relname="joint">و چه ارقام اندکی نزد دولت برای تکمیل آن‌ها هست ،</segment>
+		<segment id="69" parent="134" relname="evaluation">ای کاش به عنوان نماینده این موضوع را توضیح می‌داد.</segment>
+		<segment id="70" parent="179" relname="span">ولی مساله اصلی درک و برداشت ایشان از تولید شغل است.</segment>
+		<segment id="71" parent="180" relname="span">قرار نیست تولید شغل فقط با اتکای به پروژه‌های دولتی انجام شود.</segment>
+		<segment id="72" parent="146" relname="contrast">کار اصلی دولت انجام پروژه‌های تولیدی و صنعتی نیست</segment>
+		<segment id="73" parent="146" relname="contrast">بلکه وظیفه اصلی دولت ایجاد زمینه‌های مناسب برای حضور مردم در عرصه اقتصاد و تولید شغل از این طریق است.</segment>
+		<segment id="74" parent="181" relname="evaluation">به طور قطع دولت موجود از این حیث نسبت به دولت پیش چند گام به جلو برداشته است.</segment>
+		<segment id="75" parent="148" relname="contrast">برای ایجاد شغل لازم نیست که پروژه‌های جدید افتتاح شود ،</segment>
+		<segment id="76" parent="148" relname="contrast">همان کارخانجات و بنگاه‌های خوابیده و از مدار اقتصاد خارج شده ، راه اندازی مجدد شود ، کافی است</segment>
+		<segment id="77" parent="149" relname="same">بنابراین ذهنیت اشتباهی</segment>
+		<segment id="78" parent="77" relname="elaboration">که تولید شغل را برابر با راه اندازی طرح‌های بزرگ دولتی می‌داند ،</segment>
+		<segment id="79" parent="149" relname="same">یکی از موانع رشد اشتغال نیز هست.</segment>
+		<group id="80" type="span" parent="1" relname="evaluation"/>
+		<group id="81" type="span" parent="154" relname="elaboration"/>
+		<group id="82" type="span" parent="4" relname="elaboration"/>
+		<group id="83" type="span" parent="84" relname="joint"/>
+		<group id="84" type="multinuc" parent="86" relname="span"/>
+		<group id="85" type="span" parent="84" relname="joint"/>
+		<group id="86" type="span" parent="87" relname="span"/>
+		<group id="87" type="span" parent="6" relname="explanation"/>
+		<group id="88" type="span" parent="14" relname="elaboration"/>
+		<group id="89" type="span" parent="93" relname="span"/>
+		<group id="90" type="span" parent="91" relname="span"/>
+		<group id="91" type="span" parent="167" relname="span"/>
+		<group id="92" type="span" parent="176" relname="joint"/>
+		<group id="93" type="span" parent="13" relname="contrast"/>
+		<group id="95" type="span" parent="5" relname="explanation"/>
+		<group id="98" type="multinuc" />
+		<group id="99" type="span" parent="98" relname="topicomment"/>
+		<group id="100" type="multinuc" parent="101" relname="joint"/>
+		<group id="101" type="multinuc" parent="159" relname="span"/>
+		<group id="105" type="multinuc" parent="159" relname="elaboration"/>
+		<group id="106" type="multinuc" parent="105" relname="comparison"/>
+		<group id="107" type="span" parent="165" relname="joint"/>
+		<group id="108" type="span" parent="112" relname="contrast"/>
+		<group id="111" type="multinuc" parent="112" relname="contrast"/>
+		<group id="112" type="multinuc" parent="165" relname="joint"/>
+		<group id="115" type="multinuc" parent="178" relname="joint"/>
+		<group id="116" type="span" parent="178" relname="joint"/>
+		<group id="117" type="span" parent="143" relname="evaluation"/>
+		<group id="118" type="multinuc" parent="122" relname="contrast"/>
+		<group id="119" type="multinuc" parent="120" relname="same"/>
+		<group id="120" type="multinuc" parent="118" relname="contrast"/>
+		<group id="121" type="span" parent="53" relname="explanation"/>
+		<group id="122" type="multinuc" parent="123" relname="span"/>
+		<group id="123" type="span" parent="124" relname="span"/>
+		<group id="124" type="span" parent="142" relname="topicomment"/>
+		<group id="125" type="span" parent="136" relname="joint"/>
+		<group id="126" type="span" parent="127" relname="joint"/>
+		<group id="127" type="multinuc" parent="56" relname="elaboration"/>
+		<group id="128" type="multinuc" parent="139" relname="span"/>
+		<group id="129" type="span" parent="183" relname="contrast"/>
+		<group id="130" type="multinuc" parent="63" relname="elaboration"/>
+		<group id="131" type="multinuc" parent="133" relname="attribution"/>
+		<group id="132" type="multinuc" parent="133" relname="span"/>
+		<group id="133" type="span" parent="134" relname="span"/>
+		<group id="134" type="span" parent="135" relname="span"/>
+		<group id="135" type="span" parent="139" relname="elaboration"/>
+		<group id="136" type="multinuc" parent="137" relname="contrast"/>
+		<group id="137" type="multinuc" parent="142" relname="topicomment"/>
+		<group id="138" type="span" parent="141" relname="span"/>
+		<group id="139" type="span" parent="140" relname="span"/>
+		<group id="140" type="span" parent="60" relname="explanation"/>
+		<group id="141" type="span" parent="137" relname="contrast"/>
+		<group id="142" type="multinuc" parent="143" relname="span"/>
+		<group id="143" type="span" parent="144" relname="span"/>
+		<group id="144" type="span" parent="176" relname="joint"/>
+		<group id="146" type="multinuc" parent="181" relname="span"/>
+		<group id="148" type="multinuc" parent="151" relname="cause"/>
+		<group id="149" type="multinuc" parent="151" relname="span"/>
+		<group id="151" type="span" parent="152" relname="span"/>
+		<group id="152" type="span" parent="184" relname="cause"/>
+		<group id="154" type="span" parent="155" relname="span"/>
+		<group id="155" type="span" parent="98" relname="topicomment"/>
+		<group id="156" type="span" parent="10" relname="elaboration"/>
+		<group id="157" type="multinuc" parent="19" relname="elaboration"/>
+		<group id="159" type="span" parent="162" relname="span"/>
+		<group id="160" type="multinuc" parent="162" relname="condition"/>
+		<group id="162" type="span" parent="173" relname="span"/>
+		<group id="165" type="multinuc" parent="172" relname="cause"/>
+		<group id="167" type="span" parent="92" relname="span"/>
+		<group id="172" type="multinuc" parent="174" relname="span"/>
+		<group id="173" type="span" parent="174" relname="evaluation"/>
+		<group id="174" type="span" parent="175" relname="span"/>
+		<group id="175" type="span" parent="167" relname="evaluation"/>
+		<group id="176" type="multinuc" parent="89" relname="elaboration"/>
+		<group id="178" type="multinuc" parent="117" relname="span"/>
+		<group id="179" type="span" parent="184" relname="cause"/>
+		<group id="180" type="span" parent="70" relname="explanation"/>
+		<group id="181" type="span" parent="182" relname="span"/>
+		<group id="182" type="span" parent="71" relname="explanation"/>
+		<group id="183" type="multinuc" parent="138" relname="explanation"/>
+		<group id="184" type="multinuc" parent="183" relname="contrast"/>
+	</body>
+</rst>

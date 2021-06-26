@@ -1,0 +1,172 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="multinuc"/>
+			<rel name="cause" type="rst"/>
+			<rel name="comparison" type="multinuc"/>
+			<rel name="comparison" type="rst"/>
+			<rel name="condition" type="multinuc"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="contrast" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation" type="multinuc"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="explanation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="manner-means" type="rst"/>
+			<rel name="same" type="multinuc"/>
+			<rel name="summary" type="rst"/>
+			<rel name="temporal" type="multinuc"/>
+			<rel name="temporal" type="rst"/>
+			<rel name="textualorganization" type="multinuc"/>
+			<rel name="topichange" type="multinuc"/>
+			<rel name="topichange" type="rst"/>
+			<rel name="topicomment" type="multinuc"/>
+			<rel name="topicomment" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="141" relname="span">در بیان ضرورت شفافیت و صداقت مسوولان با مردم ، خاصه در این روزها ذکر دو مقدمه ضروری است.</segment>
+		<segment id="2" parent="75" relname="span">سرمایه اجتماعی بین سرمایه‌های موجود در جامعه ، برترین و مولدترین سرمایه‌ها است.</segment>
+		<segment id="3" parent="69" relname="contrast">یعنی اگر جامعه‌ای صاحب تمام سرمایه‌ها از جمله سرمایه‌های اقتصادی ، فرهنگی و تکنولوژی باشد</segment>
+		<segment id="4" parent="69" relname="contrast">اما از نعمت سرمایه اجتماعی یا سرمایه اجتماعی توانمند بی بهره باشد ،</segment>
+		<segment id="5" parent="70" relname="joint">روی سعادت و شادکامی را به خود نخواهد دید</segment>
+		<segment id="6" parent="70" relname="joint">و اندک سرمایه‌های اجتماعی موجود در جامعه هم کارکرد مفید خود را از دست خواهند داد.</segment>
+		<segment id="7" parent="8" relname="summary">به همین دلیل سرمایه اجتماعی هم اولی است و هم مولد ،</segment>
+		<segment id="8" parent="73" relname="span">یعنی می‌تواند سرمایه‌های دیگر جامعه را به کار ببندد.</segment>
+		<segment id="9" parent="79" relname="attribution">نکته دوم این که ما جامعه شناسان ، بارها و بارها در رسانه‌ها طرح کرده ایم</segment>
+		<segment id="10" parent="78" relname="span">که متاسفانه طی ۱۲-۱۰ سال اخیر ، سرمایه اجتماعی با فراز و فرودهای مختلفی دچار فرسایش شده است ،</segment>
+		<segment id="11" parent="10" relname="elaboration">هم مطالعات دانشگاهی موید این نکته است و هم مطالعات دولت در قالب پیمایش‌های ملی.</segment>
+		<segment id="12" parent="78" relname="elaboration">این کاهش سرمایه اجتماعی به خصوص در دو سال اخیر بیش از پیش قابل رویت است.</segment>
+		<segment id="13" parent="137" relname="span">با توجه به این دو مقدمه ، نکته اینجاست که</segment>
+		<segment id="14" parent="13" relname="contrast">به رغم افول شدید سرمایه اجتماعی طی دو سال اخیر ،</segment>
+		<segment id="15" parent="138" relname="same">اتفاق فوق‌العاده‌ای در کشور ما رخ می‌دهد</segment>
+		<segment id="16" parent="136" relname="joint">و سرمایه‌ای نمادین بدل به سرمایه‌ای اجتماعی می‌شود.</segment>
+		<segment id="17" parent="142" relname="background">رخدادی تاریخی که بسان معجزه می‌ماند ،</segment>
+		<segment id="18" parent="86" relname="joint">شخصیت شایسته و برجسته سپهسالار ایران ، شهید سلیمانی به سرمایه اجتماعی تبدیل می‌شود</segment>
+		<segment id="19" parent="88" relname="span">و از سرمایه‌ای نمادین یا سرمایه‌ای فرهنگی ، شوری در دل سرمایه اجتماعی می‌دمد</segment>
+		<segment id="20" parent="19" relname="elaboration">که با خرج میلیاردها دلار هم محقق نمی‌شد.</segment>
+		<segment id="21" parent="92" relname="span">نکته اینجاست که سرمایه اجتماعی سه ضلع دارد :</segment>
+		<segment id="22" parent="21" relname="elaboration">اعتماد ، شفافیت و پویایی در شبکه‌های جامعه.</segment>
+		<segment id="23" parent="145" relname="span">شهید بزرگوار ما</segment>
+		<segment id="24" parent="23" relname="elaboration">که فراتر از ملیت است ،</segment>
+		<segment id="25" parent="94" relname="span">نعمتی را برای کشور فراهم کرد</segment>
+		<segment id="26" parent="25" relname="summary">که آن اعتماد از دست رفته را به دولت و بخش‌های حاکمیت از نو زنده کرد ،</segment>
+		<segment id="27" parent="117" relname="span">از طرفی دیگر پویایی شبکه‌های شهری هم در واکنش به این رخداد تاریخی بی نظیر بود.</segment>
+		<segment id="28" parent="27" relname="elaboration">این اتفاق گام اول بود</segment>
+		<segment id="29" parent="98" relname="joint">و حالا ت دولت بسیار سنگین تر از پیش است.</segment>
+		<segment id="30" parent="99" relname="span">حالا تکلیف تک تک ما این است</segment>
+		<segment id="31" parent="96" relname="joint">که از این سرمایه اجتماعی احیا شده حفاظت کنیم</segment>
+		<segment id="32" parent="96" relname="joint">و شکر نعمت به جای بیاوریم</segment>
+		<segment id="33" parent="146" relname="span">که در این راه چاره‌ای جز توسل به آن سه ضلع</segment>
+		<segment id="34" parent="33" relname="elaboration">که اشاره کردم</segment>
+		<segment id="35" parent="97" relname="same">نداریم.</segment>
+		<segment id="36" parent="100" relname="cause">متاسفانه رخدادهایی در کشور به وقوع پیوسته است</segment>
+		<segment id="37" parent="100" relname="cause">و شماری از مسوولان ما بنا به ملاحظاتی کمتر از شفافیت صحبت می‌کنند ،</segment>
+		<segment id="38" parent="100" relname="cause">وبالطبع کمتر اعتماد افکار عمومی را جلب می‌کنند</segment>
+		<segment id="39" parent="100" relname="cause">و به همین جهت از پویایی در شبکه‌های اجتماعی غافل مانده‌اند.</segment>
+		<segment id="40" parent="41" relname="background">وقتی این پویایی در شهر کرمان رخ داد ،</segment>
+		<segment id="41" parent="101" relname="span">ما باید قابلیت‌ها و ظرفیت‌ها و بسترسازی‌های شایسته آن را از پیش تدارک می‌دیدیم ؛</segment>
+		<segment id="42" parent="43" relname="cause">اما این امر به هر دلیلی محقق نشد</segment>
+		<segment id="43" parent="103" relname="span">و حالا باید قصور خود را بپذیریم.</segment>
+		<segment id="44" parent="147" relname="span">در مورد بروز سانحه و علت سقوط هواپیمای اوکراینی</segment>
+		<segment id="45" parent="44" relname="elaboration">که منجر به مرگ ده‌ها هموطن و انسان دیگر شده است</segment>
+		<segment id="46" parent="104" relname="same">نیز همین وضع صادق است ،</segment>
+		<segment id="47" parent="150" relname="span">هر اتفاقی</segment>
+		<segment id="48" parent="47" relname="elaboration">که افتاده</segment>
+		<segment id="49" parent="105" relname="same">باید با مردم شفاف باشیم ،</segment>
+		<segment id="50" parent="106" relname="joint">دلایل آن را با صداقت ارایه کنیم ،</segment>
+		<segment id="51" parent="106" relname="joint">مسوولیت آن را بپذیریم.</segment>
+		<segment id="52" parent="107" relname="joint">این اتفاق بهتر از آن است که شفاف نباشیم ،</segment>
+		<segment id="53" parent="107" relname="joint">دلایل را دقیق نگوییم ،</segment>
+		<segment id="54" parent="107" relname="joint">مردم را به مشارکت فرا نخوانیم ،</segment>
+		<segment id="55" parent="107" relname="joint">مسوولیت را نپذیریم و.</segment>
+		<segment id="56" parent="57" relname="condition">. . زیرا اگر چنین نکنیم ،</segment>
+		<segment id="57" parent="110" relname="span">سرمایه اجتماعی خدای نکرده دوباره افول خواهد یافت ،</segment>
+		<segment id="58" parent="59" relname="condition">اما اگر شفافیت و صداقت پیشه کنیم ،</segment>
+		<segment id="59" parent="109" relname="span">پاسبان این سرمایه اجتماعی خواهیم بود.</segment>
+		<segment id="60" parent="111" relname="joint">در نبود شفافیت و اعتمادسازی است که فضا برای ورود شارلاتان‌های رسانه‌ای باز می‌شود</segment>
+		<segment id="61" parent="112" relname="span">و فرضیه سازی و جوسازی‌های رسانه‌ای به جنگی تمام عیار بدل می‌شوند</segment>
+		<segment id="62" parent="61" relname="elaboration">که نتیجه‌ای جز گل آلود کردن آب ندارند ؛</segment>
+		<segment id="63" parent="129" relname="cause">این عدم شفافیت است که به چنین جریان‌هایی دامن می‌زند.</segment>
+		<segment id="64" parent="114" relname="span">ما جامعه شناسان نگرانیم که دولت شکر نعمت را به جای نیاورد ،</segment>
+		<segment id="65" parent="113" relname="joint">این اعتماد بازگشته را پاس ندارد</segment>
+		<segment id="66" parent="113" relname="joint">و با عدم شفافیت و صداقت این فرصت را از دست بدهد.</segment>
+		<segment id="67" parent="68" relname="background">شکر نعمت ، نعمت را افزون می‌کند</segment>
+		<segment id="68" parent="115" relname="span">و در این روزهای تاریخی ، شکر نعمت چیزی جز تقویت سه رکن سرمایه اجتماعی و از همه مهم تر ، شفافیت با مردم نیست.</segment>
+		<group id="69" type="multinuc" parent="71" relname="condition"/>
+		<group id="70" type="multinuc" parent="71" relname="span"/>
+		<group id="71" type="span" parent="72" relname="span"/>
+		<group id="72" type="span" parent="73" relname="cause"/>
+		<group id="73" type="span" parent="74" relname="span"/>
+		<group id="74" type="span" parent="2" relname="explanation"/>
+		<group id="75" type="span" parent="76" relname="joint"/>
+		<group id="76" type="multinuc" parent="1" relname="elaboration"/>
+		<group id="78" type="span" parent="79" relname="span"/>
+		<group id="79" type="span" parent="80" relname="span"/>
+		<group id="80" type="span" parent="76" relname="joint"/>
+		<group id="86" type="multinuc" parent="142" relname="span"/>
+		<group id="88" type="span" parent="86" relname="joint"/>
+		<group id="90" type="span" parent="158" relname="topichange"/>
+		<group id="92" type="span" parent="133" relname="background"/>
+		<group id="93" type="multinuc" parent="95" relname="joint"/>
+		<group id="94" type="span" parent="93" relname="same"/>
+		<group id="95" type="multinuc" parent="118" relname="cause"/>
+		<group id="96" type="multinuc" parent="30" relname="elaboration"/>
+		<group id="97" type="multinuc" parent="96" relname="joint"/>
+		<group id="98" type="multinuc" parent="118" relname="span"/>
+		<group id="99" type="span" parent="98" relname="joint"/>
+		<group id="100" type="multinuc" parent="155" relname="span"/>
+		<group id="101" type="span" parent="102" relname="contrast"/>
+		<group id="102" type="multinuc" parent="122" relname="comparison"/>
+		<group id="103" type="span" parent="102" relname="contrast"/>
+		<group id="104" type="multinuc" parent="153" relname="span"/>
+		<group id="105" type="multinuc" parent="106" relname="joint"/>
+		<group id="106" type="multinuc" parent="108" relname="comparison"/>
+		<group id="107" type="multinuc" parent="125" relname="span"/>
+		<group id="108" type="multinuc" parent="153" relname="explanation"/>
+		<group id="109" type="span" parent="126" relname="contrast"/>
+		<group id="110" type="span" parent="126" relname="contrast"/>
+		<group id="111" type="multinuc" parent="129" relname="span"/>
+		<group id="112" type="span" parent="111" relname="joint"/>
+		<group id="113" type="multinuc" parent="64" relname="cause"/>
+		<group id="114" type="span" parent="157" relname="joint"/>
+		<group id="115" type="span" parent="157" relname="joint"/>
+		<group id="117" type="span" parent="95" relname="joint"/>
+		<group id="118" type="span" parent="119" relname="span"/>
+		<group id="119" type="span" parent="120" relname="contrast"/>
+		<group id="120" type="multinuc" parent="133" relname="span"/>
+		<group id="122" type="multinuc" parent="155" relname="evaluation"/>
+		<group id="125" type="span" parent="151" relname="span"/>
+		<group id="126" type="multinuc" parent="131" relname="joint"/>
+		<group id="129" type="span" parent="130" relname="span"/>
+		<group id="130" type="span" parent="131" relname="joint"/>
+		<group id="131" type="multinuc" parent="125" relname="explanation"/>
+		<group id="133" type="span" parent="134" relname="span"/>
+		<group id="134" type="span" parent="135" relname="span"/>
+		<group id="135" type="span" parent="158" relname="topichange"/>
+		<group id="136" type="multinuc" parent="144" relname="span"/>
+		<group id="137" type="span" parent="138" relname="same"/>
+		<group id="138" type="multinuc" parent="136" relname="joint"/>
+		<group id="139" type="span" parent="90" relname="span"/>
+		<group id="141" type="span" parent="139" relname="background"/>
+		<group id="142" type="span" parent="143" relname="span"/>
+		<group id="143" type="span" parent="144" relname="elaboration"/>
+		<group id="144" type="span" parent="139" relname="span"/>
+		<group id="145" type="span" parent="93" relname="same"/>
+		<group id="146" type="span" parent="97" relname="same"/>
+		<group id="147" type="span" parent="104" relname="same"/>
+		<group id="150" type="span" parent="105" relname="same"/>
+		<group id="151" type="span" parent="108" relname="comparison"/>
+		<group id="153" type="span" parent="154" relname="span"/>
+		<group id="154" type="span" parent="122" relname="comparison"/>
+		<group id="155" type="span" parent="156" relname="span"/>
+		<group id="156" type="span" parent="120" relname="contrast"/>
+		<group id="157" type="multinuc" parent="134" relname="attribution"/>
+		<group id="158" type="multinuc" />
+	</body>
+</rst>

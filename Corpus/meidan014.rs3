@@ -1,0 +1,72 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="multinuc"/>
+			<rel name="cause" type="rst"/>
+			<rel name="comparison" type="multinuc"/>
+			<rel name="comparison" type="rst"/>
+			<rel name="condition" type="multinuc"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="contrast" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation" type="multinuc"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="explanation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="manner-means" type="rst"/>
+			<rel name="same" type="multinuc"/>
+			<rel name="summary" type="rst"/>
+			<rel name="temporal" type="multinuc"/>
+			<rel name="temporal" type="rst"/>
+			<rel name="textualorganization" type="multinuc"/>
+			<rel name="topichange" type="multinuc"/>
+			<rel name="topichange" type="rst"/>
+			<rel name="topicomment" type="multinuc"/>
+			<rel name="topicomment" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="21" relname="span">هرکیلوگرم پرتقال صادراتی برای بازارهای بین‌المللی هزار و ۳۰۳ تومان عرضه شده‌ است ،</segment>
+		<segment id="2" parent="20" relname="span">درحالی‌که</segment>
+		<segment id="3" parent="2" relname="cause">بر‌اساس آمار بانک مرکزی جمهوری اسلامی ایران ،</segment>
+		<segment id="4" parent="19" relname="same">از متوسط قیمت خرده‌فروشی مواد خوراکی در تهران در بازه زمانی هفته منتهی به مهر ، امسال پرتقال کیلویی بیش از هفت هزار و ۴۰۰ تومان در سطح شهر فروخته شده است.</segment>
+		<segment id="5" parent="23" relname="span">پرتقال یکی از میوه‌های صادراتی است</segment>
+		<segment id="6" parent="22" relname="joint">که تجارت آن در نیمه نخست امسال رشد چشمگیری داشته</segment>
+		<segment id="7" parent="22" relname="joint">و بیش از ۲۵ برابر افزایش پیدا کرده است.</segment>
+		<segment id="8" parent="26" relname="span">در ۶ ماهه نخست امسال ، ۹۱ تن و ۹۸۱ کیلوگرم پرتقال به ارزش ۳۹ هزار و ۶۵۵ دلار ، معادل ۱۱۹ میلیون و ۸۷۵ هزار و ۹۹۳ تومان ، به سه کشور افغانستان ، ترکمنستان و روسیه صادر شده</segment>
+		<segment id="9" parent="8" relname="elaboration">که به‌طور متوسط ، هرکیلوگرم پرتقال صادراتی در این بازارها هزار و ۳۰۳ تومان عرضه شده‌ است.</segment>
+		<segment id="10" parent="35" relname="attribution">مجیدرضا حریری ، نایب‌رییس اتاق بازرگانی ایران در گفت‌و‌گو با «وقایع‌اتفاقیه» می‌گوید :</segment>
+		<segment id="11" parent="29" relname="condition">«اگر درباره محصولات پتروشیمی یا معدنی صحبت کنیم ،</segment>
+		<segment id="12" parent="29" relname="span">می‌توان گفت سود اقتصادی بیشتر به این مفهوم</segment>
+		<segment id="13" parent="27" relname="joint">که اگر در بازار داخلی محصول با دلار سه هزار و ۱۰۰ تومانی فروخته می‌شود</segment>
+		<segment id="14" parent="27" relname="joint">و آن طرف با دلار سه هزار و ۶۰۰ تومانی ،</segment>
+		<segment id="15" parent="28" relname="span">خب سود بیشتر در صادرات خواهد بود</segment>
+		<segment id="16" parent="32" relname="joint">اما من درک نمی‌کنم چرا محصولی مانند پرتقال باید ارزان‌تر صادر شود ؟</segment>
+		<segment id="17" parent="32" relname="joint">مگر چه سودی دارد ؟</segment>
+		<segment id="18" parent="33" relname="topicomment">مگر آنکه اهداف غیر‌اقتصادی ، پشت این داستان قرار گرفته باشد.»</segment>
+		<group id="19" type="multinuc" parent="1" relname="contrast"/>
+		<group id="20" type="span" parent="19" relname="same"/>
+		<group id="21" type="span" parent="37" relname="joint"/>
+		<group id="22" type="multinuc" parent="24" relname="span"/>
+		<group id="23" type="span" parent="37" relname="joint"/>
+		<group id="24" type="span" parent="25" relname="span"/>
+		<group id="25" type="span" parent="5" relname="elaboration"/>
+		<group id="26" type="span" parent="24" relname="explanation"/>
+		<group id="27" type="multinuc" parent="15" relname="condition"/>
+		<group id="28" type="span" parent="12" relname="elaboration"/>
+		<group id="29" type="span" parent="30" relname="span"/>
+		<group id="30" type="span" parent="31" relname="contrast"/>
+		<group id="31" type="multinuc" parent="35" relname="span"/>
+		<group id="32" type="multinuc" parent="33" relname="span"/>
+		<group id="33" type="span" parent="34" relname="span"/>
+		<group id="34" type="span" parent="31" relname="contrast"/>
+		<group id="35" type="span" parent="36" relname="span"/>
+		<group id="36" type="span" parent="38" relname="topicomment"/>
+		<group id="37" type="multinuc" parent="38" relname="topicomment"/>
+		<group id="38" type="multinuc" />
+	</body>
+</rst>

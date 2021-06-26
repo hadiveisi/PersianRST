@@ -1,0 +1,117 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="multinuc"/>
+			<rel name="cause" type="rst"/>
+			<rel name="comparison" type="multinuc"/>
+			<rel name="comparison" type="rst"/>
+			<rel name="condition" type="multinuc"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="contrast" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation" type="multinuc"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="explanation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="manner-means" type="rst"/>
+			<rel name="same" type="multinuc"/>
+			<rel name="summary" type="rst"/>
+			<rel name="temporal" type="multinuc"/>
+			<rel name="temporal" type="rst"/>
+			<rel name="textualorganization" type="multinuc"/>
+			<rel name="topichange" type="multinuc"/>
+			<rel name="topichange" type="rst"/>
+			<rel name="topicomment" type="multinuc"/>
+			<rel name="topicomment" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="89" relname="background">اوایل دهه ۴۰ وقتی سیاستگذاران وقت تصمیم به ادغام برخی وزارتخانه‌ها گرفتند</segment>
+		<segment id="2" parent="69" relname="temporal">وزارت اقتصاد را از دارایی جدا کردند</segment>
+		<segment id="3" parent="47" relname="span">و با ادغام وزارتخانه‌های صنایع و معادن ، بازرگانی و بخش گمرک وزارت جدیدالتاسیس اقتصاد را شکل دادند.</segment>
+		<segment id="4" parent="46" relname="joint">این وزارتخانه با سرپرستی تکنوکراتی اقتصاددان به نام علینقی عالیخانی ، تشکیل شد</segment>
+		<segment id="5" parent="46" relname="joint">و با به کار گرفتن چند تن از تکنوکرات‌های بنام ، فعالیت‌های خود را آغاز کرد.</segment>
+		<segment id="6" parent="88" relname="cause">وزارت اقتصاد عملا تبدیل شد به وزارتخانه‌ای برای تدوین سیاستگذاری‌های صنعتی و جذب سرمایه گذاری‌های داخلی و خارجی.</segment>
+		<segment id="7" parent="48" relname="joint">نتیجه هم آن شد که این وزارتخانه سکوی پرتاب توسعه صنعتی ایران نام گرفت</segment>
+		<segment id="8" parent="48" relname="joint">و با تاسیس صنایع نوین ، ایران به باشگاه تولیدکنندگان محصولات صنعتی دنیا پیوست.</segment>
+		<segment id="9" parent="52" relname="span">شوزارت دارایی وقت نیز مسوول اخذ مالیات شد</segment>
+		<segment id="10" parent="9" relname="elaboration">و با توجه به وظیفه ذاتی اش در خزانه داری ، مسوولیت مدیریت دخل دولت را بر عهده گرفت.</segment>
+		<segment id="11" parent="74" relname="joint">سال‌ها بعد این ترکیب به هم خورد</segment>
+		<segment id="12" parent="74" relname="joint">و با تفکیک صنعت و بازرگانی از اقتصاد ، دوباره وزارت امور اقتصادی و دارایی شکل گرفت.</segment>
+		<segment id="13" parent="72" relname="span">ساختار وزارت اقتصاد نیز در طول سال‌های بعد از انقلاب به همین گونه حفظ شد</segment>
+		<segment id="14" parent="54" relname="same">اما نقش آن در سیاستگذاری‌ها بسته به فردی</segment>
+		<segment id="15" parent="14" relname="elaboration">که در راس آن قرار می‌گرفت ،</segment>
+		<segment id="16" parent="54" relname="same">تغییر یافت.</segment>
+		<segment id="17" parent="56" relname="condition">اگر یک اقتصاددان کاربلد نظیر محسن نوربخش به عنوان وزیر رای می‌آورد ،</segment>
+		<segment id="18" parent="55" relname="joint">این وزارتخانه به مرکز فرماندهی اقتصاد ایران تبدیل می‌شد</segment>
+		<segment id="19" parent="55" relname="joint">و در سیاستگذاری‌ها نقش پررنگ تری داشت.</segment>
+		<segment id="20" parent="21" relname="condition">اما هرگاه یک فردی آشنا به امور حسابداری در آن به کار گرفته می‌شد ،</segment>
+		<segment id="21" parent="58" relname="span">جنبه مالیات گیری و گمرک آن بیشتر مورد توجه قرار می‌گرفت.</segment>
+		<segment id="22" parent="60" relname="span">این ساختار به گونه‌ای تنظیم شده</segment>
+		<segment id="23" parent="22" relname="elaboration">که افراد به کارگرفته شده برای مدیریت آن به جایگاه وزارت و ماموریت‌های آن وزن می‌دهند</segment>
+		<segment id="24" parent="61" relname="same">و با توجه به نهادهای متنوعی</segment>
+		<segment id="25" parent="24" relname="elaboration">که در خصوص سیاستگذاری‌های اقتصادی وجود دارد</segment>
+		<segment id="26" parent="61" relname="same">عملا نقش این وزارتخانه را در رهبری اقتصاد ایران کمرنگ کرده است.</segment>
+		<segment id="27" parent="49" relname="same">به نظر می‌رسد وزارتی</segment>
+		<segment id="28" parent="27" relname="elaboration">که امروز به نام اقتصاد می‌شناسیم</segment>
+		<segment id="29" parent="30" relname="contrast">با وجود نام بزرگ آن</segment>
+		<segment id="30" parent="93" relname="span">کمتر نقشی در مدیریت اقتصاد دارد</segment>
+		<segment id="31" parent="62" relname="joint">و عملا به وزارت مالیات و گمرک تبدیل شده</segment>
+		<segment id="32" parent="62" relname="joint">و بیشتر امور اجرایی در آن پیگیری می‌شود.</segment>
+		<segment id="33" parent="62" relname="joint">وزیر اقتصاد همواره یک وزیر اجرایی و نه سیاستگذار به رسمیت شناخته شده</segment>
+		<segment id="34" parent="82" relname="span">و روسای جمهور کمتر از ظرفیت‌های کارشناسی این وزارتخانه در تصمیم سازی‌های خود استفاده کرده اند.</segment>
+		<segment id="35" parent="64" relname="same">در دولت دوازدهم با توجه به تقسیم کاری</segment>
+		<segment id="36" parent="35" relname="elaboration">که صورت گرفته ،</segment>
+		<segment id="37" parent="64" relname="same">رییس کل بانک مرکزی ، مسوول سیاست‌های پولی ، سیاستگذاری‌های کلان اقتصادی و مرجعی برای تعیین شاخص‌های بزرگ مقیاس اقتصاد نظیر تورم ، رشد اقتصادی و بیکاری شده است.</segment>
+		<segment id="38" parent="94" relname="joint">سازمان برنامه و بودجه نیز نقش وزارت مالیه گذشته را برعهده گرفته</segment>
+		<segment id="39" parent="63" relname="same">و عملا موجودیت وزارت اقتصاد</segment>
+		<segment id="40" parent="39" relname="cause">به دلیل آنکه بر امور سیاستگذاری برخی بخش‌های اقتصادی و کلیدی دسترسی نداشته ،</segment>
+		<segment id="41" parent="63" relname="same">زیر سوال رفته است.</segment>
+		<segment id="42" parent="65" relname="joint">شاید در این میان لازم است نام وزارت اقتصاد تغییر یابد</segment>
+		<segment id="43" parent="65" relname="joint">و به وزارت دارایی یا خزانه داری تبدیل شود.</segment>
+		<segment id="44" parent="66" relname="joint">در این صورت وزیر مربوطه فقط به نقش ذاتی و نه نامی این وزارتخانه بازخواهد گشت</segment>
+		<segment id="45" parent="66" relname="joint">و خود را مامور تامین دخل دولت خواهد دانست نه سیاستگذاری برای کل اقتصاد ایران.</segment>
+		<group id="46" type="multinuc" parent="3" relname="elaboration"/>
+		<group id="47" type="span" parent="69" relname="temporal"/>
+		<group id="48" type="multinuc" parent="88" relname="cause"/>
+		<group id="49" type="multinuc" parent="62" relname="joint"/>
+		<group id="52" type="span" parent="99" relname="temporal"/>
+		<group id="54" type="multinuc" parent="13" relname="contrast"/>
+		<group id="55" type="multinuc" parent="56" relname="span"/>
+		<group id="56" type="span" parent="57" relname="span"/>
+		<group id="57" type="span" parent="75" relname="span"/>
+		<group id="58" type="span" parent="77" relname="span"/>
+		<group id="59" type="multinuc" parent="58" relname="cause"/>
+		<group id="60" type="span" parent="59" relname="joint"/>
+		<group id="61" type="multinuc" parent="59" relname="joint"/>
+		<group id="62" type="multinuc" parent="83" relname="span"/>
+		<group id="63" type="multinuc" parent="94" relname="joint"/>
+		<group id="64" type="multinuc" parent="94" relname="joint"/>
+		<group id="65" type="multinuc" parent="67" relname="condition"/>
+		<group id="66" type="multinuc" parent="67" relname="span"/>
+		<group id="67" type="span" parent="68" relname="span"/>
+		<group id="68" type="span" parent="95" relname="evaluation"/>
+		<group id="69" type="multinuc" parent="89" relname="span"/>
+		<group id="72" type="span" parent="74" relname="joint"/>
+		<group id="73" type="multinuc" parent="97" relname="background"/>
+		<group id="74" type="multinuc" parent="73" relname="contrast"/>
+		<group id="75" type="span" parent="96" relname="contrast"/>
+		<group id="77" type="span" parent="57" relname="contrast"/>
+		<group id="82" type="span" parent="62" relname="joint"/>
+		<group id="83" type="span" parent="96" relname="contrast"/>
+		<group id="88" type="multinuc" parent="99" relname="temporal"/>
+		<group id="89" type="span" parent="90" relname="span"/>
+		<group id="90" type="span" parent="99" relname="temporal"/>
+		<group id="93" type="span" parent="49" relname="same"/>
+		<group id="94" type="multinuc" parent="34" relname="explanation"/>
+		<group id="95" type="span" parent="97" relname="span"/>
+		<group id="96" type="multinuc" parent="95" relname="span"/>
+		<group id="97" type="span" parent="100" relname="span"/>
+		<group id="99" type="multinuc" parent="73" relname="contrast"/>
+		<group id="100" type="span" />
+	</body>
+</rst>

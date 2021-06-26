@@ -1,0 +1,151 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="multinuc"/>
+			<rel name="cause" type="rst"/>
+			<rel name="comparison" type="multinuc"/>
+			<rel name="comparison" type="rst"/>
+			<rel name="condition" type="multinuc"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="contrast" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation" type="multinuc"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="explanation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="manner-means" type="rst"/>
+			<rel name="same" type="multinuc"/>
+			<rel name="summary" type="rst"/>
+			<rel name="temporal" type="multinuc"/>
+			<rel name="temporal" type="rst"/>
+			<rel name="textualorganization" type="multinuc"/>
+			<rel name="topichange" type="multinuc"/>
+			<rel name="topichange" type="rst"/>
+			<rel name="topicomment" type="multinuc"/>
+			<rel name="topicomment" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="62" relname="joint">این روزها شمال و جنوب ، شرق و غرب و مرکز کشور به نحوی درگیر حوادث طبیعی هستند.</segment>
+		<segment id="2" parent="61" relname="span">حتی حوادث مصنوع بشر نیز هرازگاهی رخ می‌دهد.</segment>
+		<segment id="3" parent="60" relname="span">از پلاسکو گرفته تا ریزگردها و سیل‌های بلوچستان و فارس و بندرعباس و بوشهر و کرمان تا برف گیلان و آذربایجان و کردستان ، همه و همه نیازمند امکانات و نیروهایی هستند</segment>
+		<segment id="4" parent="3" relname="elaboration">که بتوانند در نخستین فرصت کمک‌های لازم را به آنان عرضه کنند.</segment>
+		<segment id="5" parent="63" relname="same">مهم ترین نیرویی</segment>
+		<segment id="6" parent="5" relname="elaboration">که آماده انجام این کار است ،</segment>
+		<segment id="7" parent="63" relname="same">جمعیت هلال احمر است.</segment>
+		<segment id="8" parent="65" relname="joint">جمعیتی که بخش مهمی از نیروهای آن نیز داوطلبان مردمی هستند</segment>
+		<segment id="9" parent="10" relname="condition">و اگر اندکی از امکانات و تجهیزات داشته باشند ،</segment>
+		<segment id="10" parent="66" relname="span">می توانند جان بسیاری از افراد درگیر این حوادث را نجات دهند.</segment>
+		<segment id="11" parent="68" relname="same">مشابه این جمعیت در کشورهایی</segment>
+		<segment id="12" parent="11" relname="elaboration">که با حوادث مشابه دست به گریبان هستند ،</segment>
+		<segment id="13" parent="68" relname="same">در حد یک وزارتخانه بزرگ است</segment>
+		<segment id="14" parent="13" relname="elaboration">که از بودجه کافی و امکانات مناسب نیز برخوردار است.</segment>
+		<segment id="15" parent="74" relname="span">این نهاد را می‌توان غیرسیاسی ترین نهاد کشور دانست</segment>
+		<segment id="16" parent="15" relname="elaboration">که تنها دغدغه اش امدادرسانی به افراد درگیر حادثه است.</segment>
+		<segment id="17" parent="69" relname="joint">اگر کمیته امداد یا سازمان بهزیستی به افراد خاصی کمک می‌کنند</segment>
+		<segment id="18" parent="69" relname="joint">و افراد تحت پوشش آن‌ها بخشی از مردم هستند ،</segment>
+		<segment id="19" parent="71" relname="span">هلال احمر وظیفه کمک به کلیه آحاد مردم را دارد ،</segment>
+		<segment id="20" parent="19" relname="cause">چرا که حادثه همه را درگیر خود می‌کند</segment>
+		<segment id="21" parent="72" relname="span">و لذا ملی ترین نهاد و در عین حال نهادی داوطلبانه است.</segment>
+		<segment id="22" parent="72" relname="elaboration">اتفاقا در جریان حوادث اخیر نیز موثرترین نیرو در کمک به مردم حادثه دیده همین نهاد بوده است.</segment>
+		<segment id="23" parent="107" relname="span">ولی آنچه که موجب تاسف است ، دستورالعملی و اقدامی است</segment>
+		<segment id="24" parent="23" relname="elaboration">که در خصوص تخصیص مهم ترین ردیف بودجه این نهاد برای طرح ملی کاداستر سازمان ثبت اسناد است.</segment>
+		<segment id="25" parent="124" relname="background">از حدود ۶۰ سال پیش و طبق اساسنامه هلال احمر ۴۲ درصد حق ثبت اسناد رسمی بعد از واریز به خزانه دولت به حساب جمعیت هلال احمر واریز می‌شده است.</segment>
+		<segment id="26" parent="81" relname="span">تردیدی نیست که طرح کاداستر یکی از طرح‌های ملی و مهم کشور است</segment>
+		<segment id="27" parent="77" relname="joint">که تکمیل آن می‌تواند به اصلاح بسیاری از امور ملکی و ثبتی کمک کند</segment>
+		<segment id="28" parent="80" relname="same">و هر میزان بودجه ای</segment>
+		<segment id="29" parent="79" relname="span">که در توان دولت باشد</segment>
+		<segment id="30" parent="29" relname="elaboration">تا به این طرح اختصاص یابد ،</segment>
+		<segment id="31" parent="80" relname="same">قابل دفاع است</segment>
+		<segment id="32" parent="83" relname="span">ولی تفسیر از یک ماده قانونی و برداشتن سهم مشخص هلال احمر از حق الثبت اسناد و ریختن مستقیم آن به حساب سازمان ثبت اسناد ، منجر به توقف فعالیت‌های یک نهاد عمومی و مهم و امدادی کشور یعنی جمعیت هلال احمر می‌شود.</segment>
+		<segment id="33" parent="116" relname="span">این کار از دو جهت دارای ایراد است.</segment>
+		<segment id="34" parent="87" relname="span">اول این که چنین تفسیری از قانون درست نیست</segment>
+		<segment id="35" parent="86" relname="span">و آنچه که در قانون آمده شامل سهم تاریخی و ثابت هلال احمر از این ردیف درآمدهای دولت نمی‌شود.</segment>
+		<segment id="36" parent="84" relname="condition">چرا که اگر قصد حذف این ردیف درآمدی هلال احمر در میان بود ،</segment>
+		<segment id="37" parent="84" relname="span">به طور قطع جایگزینی برای آن تعیین می‌شد</segment>
+		<segment id="38" parent="37" relname="enablement">تا جبران این کاهش صورت گیرد.</segment>
+		<segment id="39" parent="40" relname="cause">فراموش نکنیم که حدود ۴۰ تا ۶۰ درصد بودجه هلال از این ردیف تامین می‌شود.</segment>
+		<segment id="40" parent="108" relname="span">بنابراین هیچ قرینه‌ای برای حذف حق هلال احمر از حق الثبت اسناد ملکی نیست.</segment>
+		<segment id="41" parent="90" relname="temporal">به علاوه هر درآمد دولت باید ابتدا به خزانه واریز شود</segment>
+		<segment id="42" parent="90" relname="temporal">و سپس از طریق سازمان برنامه و بودجه و نیز وزارت اقتصاد و دارایی و خزانه داری کل به حساب دستگاه‌های ذی ربط واریز شود.</segment>
+		<segment id="43" parent="91" relname="span">بنابراین هر گونه برداشت مستقیم احتمالی از این درآمدها از طرف هر سازمانی خلاف قانون و حتی جرم محسوب می‌شود.</segment>
+		<segment id="44" parent="112" relname="span">فراموش نکنیم که برخی از مقامات سازمان برنامه منکر قانونی بودن اختصاص درآمدهای هلال احمر به ثبت اسناد هستند</segment>
+		<segment id="45" parent="44" relname="explanation">و معاونت حقوقی ریاست جمهوری نیز در این مورد نظر صریحی داده است.</segment>
+		<segment id="46" parent="47" relname="cause">از آنجا که سازمان ثبت اسناد یکی از نهادهای زیرمجموعه دستگاه قضایی است ،</segment>
+		<segment id="47" parent="99" relname="span">باید بیش از نهادهای دیگر ملتزم به اجرای قانون و رعایت ضوابط آن باشد.</segment>
+		<segment id="48" parent="102" relname="span">بنابراین امیدواریم که اگر نیازی برای اجرای هرچه سریع تر و کامل تر طرح کاداستر است</segment>
+		<segment id="49" parent="48" relname="elaboration">که حتما هم هست</segment>
+		<segment id="50" parent="103" relname="span">از طریق قانون و از دیگر منابع عمومی دولت تامین شود</segment>
+		<segment id="51" parent="100" relname="span">و جمعیت هلال احمر بدترین جایی است</segment>
+		<segment id="52" parent="51" relname="elaboration">که می‌توان این منابع را از آنجا تامین کرد !</segment>
+		<segment id="53" parent="97" relname="background">ظاهرا هلال احمر مدافع دارد.</segment>
+		<segment id="54" parent="94" relname="joint">همه مردم مدافع آن هستند</segment>
+		<segment id="55" parent="94" relname="joint">و هم ار کمک‌های اضطراری آن بهره مند می‌شوند</segment>
+		<segment id="56" parent="94" relname="joint">و هم داوطلبانه به آن کمک می‌کنند</segment>
+		<segment id="57" parent="93" relname="span">ولی آنچه موجب تاسف است این است</segment>
+		<segment id="58" parent="92" relname="joint">که به ظاهر این مردم صدا ندارند</segment>
+		<segment id="59" parent="92" relname="joint">یا صدای آنان شنیده نمی‌شود.</segment>
+		<group id="60" type="span" parent="2" relname="explanation"/>
+		<group id="61" type="span" parent="62" relname="joint"/>
+		<group id="62" type="multinuc" parent="120" relname="background"/>
+		<group id="63" type="multinuc" parent="64" relname="span"/>
+		<group id="64" type="span" parent="117" relname="span"/>
+		<group id="65" type="multinuc" parent="64" relname="elaboration"/>
+		<group id="66" type="span" parent="65" relname="joint"/>
+		<group id="67" type="span" parent="120" relname="span"/>
+		<group id="68" type="multinuc" parent="117" relname="elaboration"/>
+		<group id="69" type="multinuc" parent="70" relname="contrast"/>
+		<group id="70" type="multinuc" parent="21" relname="cause"/>
+		<group id="71" type="span" parent="70" relname="contrast"/>
+		<group id="72" type="span" parent="73" relname="span"/>
+		<group id="73" type="span" parent="119" relname="elaboration"/>
+		<group id="74" type="span" parent="118" relname="elaboration"/>
+		<group id="77" type="multinuc" parent="26" relname="elaboration"/>
+		<group id="79" type="span" parent="28" relname="elaboration"/>
+		<group id="80" type="multinuc" parent="77" relname="joint"/>
+		<group id="81" type="span" parent="82" relname="contrast"/>
+		<group id="82" type="multinuc" parent="124" relname="span"/>
+		<group id="83" type="span" parent="82" relname="contrast"/>
+		<group id="84" type="span" parent="85" relname="span"/>
+		<group id="85" type="span" parent="35" relname="cause"/>
+		<group id="86" type="span" parent="34" relname="explanation"/>
+		<group id="87" type="span" parent="109" relname="span"/>
+		<group id="90" type="multinuc" parent="43" relname="explanation"/>
+		<group id="91" type="span" parent="115" relname="span"/>
+		<group id="92" type="multinuc" parent="57" relname="elaboration"/>
+		<group id="93" type="span" parent="96" relname="contrast"/>
+		<group id="94" type="multinuc" parent="96" relname="contrast"/>
+		<group id="96" type="multinuc" parent="97" relname="span"/>
+		<group id="97" type="span" parent="98" relname="span"/>
+		<group id="98" type="span" parent="125" relname="evaluation"/>
+		<group id="99" type="span" parent="114" relname="contrast"/>
+		<group id="100" type="span" parent="103" relname="cause"/>
+		<group id="102" type="span" parent="50" relname="condition"/>
+		<group id="103" type="span" parent="104" relname="span"/>
+		<group id="104" type="span" parent="105" relname="evaluation"/>
+		<group id="105" type="span" parent="106" relname="span"/>
+		<group id="106" type="span" parent="107" relname="explanation"/>
+		<group id="107" type="span" parent="123" relname="span"/>
+		<group id="108" type="span" parent="87" relname="evaluation"/>
+		<group id="109" type="span" parent="110" relname="joint"/>
+		<group id="110" type="multinuc" parent="33" relname="explanation"/>
+		<group id="112" type="span" parent="114" relname="contrast"/>
+		<group id="114" type="multinuc" parent="91" relname="contrast"/>
+		<group id="115" type="span" parent="110" relname="joint"/>
+		<group id="116" type="span" parent="32" relname="contrast"/>
+		<group id="117" type="span" parent="118" relname="span"/>
+		<group id="118" type="span" parent="119" relname="span"/>
+		<group id="119" type="span" parent="67" relname="span"/>
+		<group id="120" type="span" parent="121" relname="span"/>
+		<group id="121" type="span" parent="122" relname="contrast"/>
+		<group id="122" type="multinuc" parent="125" relname="span"/>
+		<group id="123" type="span" parent="122" relname="contrast"/>
+		<group id="124" type="span" parent="105" relname="span"/>
+		<group id="125" type="span" parent="126" relname="span"/>
+		<group id="126" type="span" />
+	</body>
+</rst>

@@ -1,0 +1,78 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="multinuc"/>
+			<rel name="cause" type="rst"/>
+			<rel name="comparison" type="multinuc"/>
+			<rel name="comparison" type="rst"/>
+			<rel name="condition" type="multinuc"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="contrast" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation" type="multinuc"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="explanation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="manner-means" type="rst"/>
+			<rel name="same" type="multinuc"/>
+			<rel name="summary" type="rst"/>
+			<rel name="temporal" type="multinuc"/>
+			<rel name="temporal" type="rst"/>
+			<rel name="textualorganization" type="multinuc"/>
+			<rel name="topichange" type="multinuc"/>
+			<rel name="topichange" type="rst"/>
+			<rel name="topicomment" type="multinuc"/>
+			<rel name="topicomment" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="22" relname="contrast">موج کم‌سابقه گرما استان‌ سیستان‌و‌بلوچستان را فراگرفته</segment>
+		<segment id="2" parent="23" relname="joint">اما در این میان زیرساخت‌های مناسب شبکه برق و آب وجود ندارد ،</segment>
+		<segment id="3" parent="23" relname="joint">بسیاری از روستاها شبکه آبرسانی ندارند</segment>
+		<segment id="4" parent="23" relname="joint">و تعرفه برق بسیار بالاست.</segment>
+		<segment id="5" parent="24" relname="joint">رییس مجمع نمایندگان استان هم از زیرساخت‌های ضعیف برق و آب در مناطق جنوبی استان سخن می‌گوید</segment>
+		<segment id="6" parent="24" relname="joint">و خواسته مردم را کاهش تعرفه‌های برق و توجه جدی به شبکه آبرسانی می‌داند.</segment>
+		<segment id="7" parent="30" relname="attribution">محمد نعیم امینی‌فرد می‌گوید</segment>
+		<segment id="8" parent="28" relname="span">زیرساخت‌های صنعت آب و برق در جنوب این استان ضعیف است.</segment>
+		<segment id="9" parent="25" relname="joint">یک‌هزار و ۳۰۰ روستا در بخش جنوبی استان شبکه آبرسانی ندارند</segment>
+		<segment id="10" parent="26" relname="span">و با تانکر به مردم آبرسانی می‌شود</segment>
+		<segment id="11" parent="27" relname="span">که پول تانکرها هم در روزهای اخیر پرداخت نشده</segment>
+		<segment id="12" parent="11" relname="cause">و این موضوع مشکل‌ساز شده است.</segment>
+		<segment id="13" parent="29" relname="comparison">درباره برق هم شرایط به همین شکل است.</segment>
+		<segment id="14" parent="32" relname="contrast">گرمای کم‌سابقه و طاقت‌فرسای این روزهای بلوچستان اگرچه با قطع آب و برق همراه است</segment>
+		<segment id="15" parent="33" relname="span">اما مشکل اصلی مردم هزینه‌‌ای است</segment>
+		<segment id="16" parent="15" relname="elaboration">که باید برای برق پرداخت کنند.</segment>
+		<segment id="17" parent="36" relname="span">علاوه بر این با آغاز بادهای ۱۲۰روزه گرد و غبار هم به مشکلات اهالی این منطقه اضافه می‌شود ،</segment>
+		<segment id="18" parent="35" relname="span">گرد و غباری که</segment>
+		<segment id="19" parent="18" relname="attribution">به گفته نمایندگان این استان</segment>
+		<segment id="20" parent="34" relname="same">۹۰درصد آن منشا داخلی دارد.</segment>
+		<segment id="21" parent="41" relname="background">دمای ایران ۱/۵برابر متوسط افزایش دمای جهان ، افزایش داشته است.</segment>
+		<group id="22" type="multinuc" parent="37" relname="topicomment"/>
+		<group id="23" type="multinuc" parent="22" relname="contrast"/>
+		<group id="24" type="multinuc" parent="38" relname="span"/>
+		<group id="25" type="multinuc" parent="8" relname="explanation"/>
+		<group id="26" type="span" parent="25" relname="joint"/>
+		<group id="27" type="span" parent="10" relname="elaboration"/>
+		<group id="28" type="span" parent="29" relname="comparison"/>
+		<group id="29" type="multinuc" parent="30" relname="span"/>
+		<group id="30" type="span" parent="31" relname="span"/>
+		<group id="31" type="span" parent="38" relname="summary"/>
+		<group id="32" type="multinuc" parent="40" relname="joint"/>
+		<group id="33" type="span" parent="32" relname="contrast"/>
+		<group id="34" type="multinuc" parent="17" relname="elaboration"/>
+		<group id="35" type="span" parent="34" relname="same"/>
+		<group id="36" type="span" parent="40" relname="joint"/>
+		<group id="37" type="multinuc" parent="43" relname="span"/>
+		<group id="38" type="span" parent="39" relname="span"/>
+		<group id="39" type="span" parent="37" relname="topicomment"/>
+		<group id="40" type="multinuc" parent="41" relname="span"/>
+		<group id="41" type="span" parent="42" relname="span"/>
+		<group id="42" type="span" parent="43" relname="elaboration"/>
+		<group id="43" type="span" parent="44" relname="span"/>
+		<group id="44" type="span" />
+	</body>
+</rst>

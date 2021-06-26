@@ -1,0 +1,120 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="multinuc"/>
+			<rel name="cause" type="rst"/>
+			<rel name="comparison" type="multinuc"/>
+			<rel name="comparison" type="rst"/>
+			<rel name="condition" type="multinuc"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="contrast" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation" type="multinuc"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="explanation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="manner-means" type="rst"/>
+			<rel name="same" type="multinuc"/>
+			<rel name="summary" type="rst"/>
+			<rel name="temporal" type="multinuc"/>
+			<rel name="temporal" type="rst"/>
+			<rel name="textualorganization" type="multinuc"/>
+			<rel name="topichange" type="multinuc"/>
+			<rel name="topichange" type="rst"/>
+			<rel name="topicomment" type="multinuc"/>
+			<rel name="topicomment" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="46" relname="same">آتش سوزی و فروریختن ساختمان پلاسکو مستقل از خسارات انسانی و روانی آن</segment>
+		<segment id="2" parent="45" relname="span">که به نسبت سنگین بود ،</segment>
+		<segment id="3" parent="2" relname="cause">به ویژه آنکه تعدادی از آتش نشان‌های جان برکف نیز در این راه شهید شدند ،</segment>
+		<segment id="4" parent="46" relname="same">یک وجه دیگری نیز دارد</segment>
+		<segment id="5" parent="47" relname="joint">که باید مورد توجه قرار گیرد</segment>
+		<segment id="6" parent="47" relname="joint">و با سرعت و در صورت نیاز با برقراری برخی اختیارات لازم ، رسیدگی شود.</segment>
+		<segment id="7" parent="48" relname="cause">این ساختمان برخلاف یک مکان عادی ، محل کسب وکار صدها نفر از یک صنف مهم بود.</segment>
+		<segment id="8" parent="48" relname="cause">این اتفاق از چند جهت می‌تواند مشکلات اقتصادی و حقوقی گوناگونی را ایجاد کند.</segment>
+		<segment id="9" parent="52" relname="span">هرکدام از کسبه فعال در این ساختمان ده‌ها فقره چک داشته‌اند ،</segment>
+		<segment id="10" parent="50" relname="span">چه چک‌هایی</segment>
+		<segment id="11" parent="10" relname="elaboration">که در وجه آنان بوده</segment>
+		<segment id="12" parent="51" relname="span">و چه چک‌هایی</segment>
+		<segment id="13" parent="12" relname="elaboration">که در وجه دیگران کشیده‌اند.</segment>
+		<segment id="14" parent="59" relname="cause">به احتمال فراوان این چک‌ها از میان رفته است</segment>
+		<segment id="15" parent="59" relname="cause">و دریافت‌های آنان وصول نمی‌شود.</segment>
+		<segment id="16" parent="59" relname="cause">لذا پرداخت‌های آنان نیز دچار اختلال خواهد شد.</segment>
+		<segment id="17" parent="56" relname="temporal">این عدم پرداخت‌ها به صورت زنجیره‌ای به سایر مشاغل مرتبط با صنعت پوشاک و نساجی سرایت خواهد کرد</segment>
+		<segment id="18" parent="57" relname="span">و صدها و هزاران شکایت حقوقی و کیفری انجام می‌شود</segment>
+		<segment id="19" parent="18" relname="elaboration">که عوارض آن برای صاحبان مغازه‌ها و کارگاه‌ها کمتر از اتلاف اموال و مغازه آنان نیست.</segment>
+		<segment id="20" parent="61" relname="joint">بنابراین مشکلات حقوقی مرتبط با این آتش سوزی را باید جدی گرفت</segment>
+		<segment id="21" parent="61" relname="joint">و دادسرا و دادگستری تهران باید برای آن چاره‌ای جدی بیندیشند.</segment>
+		<segment id="22" parent="62" relname="span">مشکل دیگر از دست دادن سرمایه و شغل برای صدها و هزاران نفر است</segment>
+		<segment id="23" parent="63" relname="span">که به همین نسبت نیز خانوارهای گوناگونی را درگیر مشکلات اقتصادی می‌کند.</segment>
+		<segment id="24" parent="23" relname="elaboration">ممکن است برخی از این افراد حتی قادر به تامین مخارج عادی خود از جمله کرایه خانه نیز نباشند.</segment>
+		<segment id="25" parent="65" relname="cause">خطری که اینگونه افراد را تهدید می‌کند ، اختلال در وضعیت روحی و روانی آنان و دست زدن به اقدامات پیش بینی نشده علیه خودشان و حتی دیگران است.</segment>
+		<segment id="26" parent="66" relname="topicomment">بنابراین شهرداری و دولت می‌توانند با حمایت‌ها و ارایه خدمات مشاوره ای ، بخشی از بار روانی سنگین بر این افراد را بکاهند.</segment>
+		<segment id="27" parent="68" relname="span">از میان رفتن ساختمان پلاسکو خلاجدی را در یک صنف مهم ایجاد می‌کند ،</segment>
+		<segment id="28" parent="27" relname="elaboration">پر کردن این خلاسخت است ،</segment>
+		<segment id="29" parent="70" relname="span">ولی ارایه برخی تمهیدات برای راه افتادن فعالیت دوباره آن‌ها ضروری است.</segment>
+		<segment id="30" parent="31" relname="elaboration">وزارت صنعت و تجارت و نیز وزارت اقتصاد و بانک‌ها می‌توانند با هماهنگی مناسب نه تنها از مشکلات پس از حادثه بکاهند ،</segment>
+		<segment id="31" parent="72" relname="span">بلکه مهم تر از هر چیز دیگر کوشش مشترک آن‌ها برای راه‌اندازی دوباره کسب وکار این گروه بزرگ است.</segment>
+		<segment id="32" parent="73" relname="joint">اقدامی که هم به نفع جامعه است</segment>
+		<segment id="33" parent="73" relname="joint">و هم مشکلات شخصی و موردی زیان دیدگان را حل می‌کند یا حداقل کاهش می‌دهد و در نتیجه تا حدی قابل تحمل می‌کند.</segment>
+		<segment id="34" parent="74" relname="cause">این ساختمان مرکز عمده فروشی پوشاک بوده است.</segment>
+		<segment id="35" parent="74" relname="cause">بنابراین حلقه وصل میان بنگاه‌های تولیدی و واردکنندگان با خرده فروشان بود ،</segment>
+		<segment id="36" parent="74" relname="cause">از این منظر نیز فقدان این ساختمان و مرکز تجاری برای کل صنعت پوشاک مشکل آفرین خواهد شد</segment>
+		<segment id="37" parent="75" relname="span">و رابطه تولیدکننده پوشاک و فروشندگان جز را قطع می‌کند ،</segment>
+		<segment id="38" parent="37" relname="elaboration">و باید هرچه سریع تر این رابطه بازسازی شود.</segment>
+		<segment id="39" parent="76" relname="span">خوشبختانه وجود تلفن همراه می‌تواند بخش قابل توجهی از ارتباطات اقتصادی گذشته را به سرعت و دوباره احیا کند ،</segment>
+		<segment id="40" parent="39" relname="contrast">در حالی که پیش از این چنین امکانی به راحتی متصور نبود.</segment>
+		<segment id="41" parent="80" relname="span">همچنین استفاده از حسابداری الکترونیک و حفظ آن‌ها در فضای مجازی ، نوعی ایمنی را برای کسبه و تجار و فعالان اقتصادی ایجاد می‌کند</segment>
+		<segment id="42" parent="41" relname="elaboration">که با این حوادث از میان نخواهد رفت.</segment>
+		<segment id="43" parent="81" relname="span">آنچه که گفته شد معطوف به این بود</segment>
+		<segment id="44" parent="43" relname="elaboration">که رسیدگی به امور مشهود این ساختمان فروریخته و آواربرداری آن و تعیین تکلیف مفقودین و شهدا و فوت شدگان نباید مدیریت بحران را از توجه به این وجه مهم ولی کمتر مشهود این رویداد تاسف بار غافل کند.</segment>
+		<group id="45" type="span" parent="1" relname="elaboration"/>
+		<group id="46" type="multinuc" parent="92" relname="background"/>
+		<group id="47" type="multinuc" parent="4" relname="elaboration"/>
+		<group id="48" type="multinuc" parent="91" relname="span"/>
+		<group id="49" type="multinuc" parent="9" relname="elaboration"/>
+		<group id="50" type="span" parent="49" relname="joint"/>
+		<group id="51" type="span" parent="49" relname="joint"/>
+		<group id="52" type="span" parent="84" relname="background"/>
+		<group id="56" type="multinuc" parent="82" relname="cause"/>
+		<group id="57" type="span" parent="56" relname="temporal"/>
+		<group id="59" type="multinuc" parent="84" relname="span"/>
+		<group id="61" type="multinuc" parent="83" relname="topicomment"/>
+		<group id="62" type="span" parent="65" relname="cause"/>
+		<group id="63" type="span" parent="22" relname="elaboration"/>
+		<group id="65" type="multinuc" parent="66" relname="span"/>
+		<group id="66" type="span" parent="67" relname="span"/>
+		<group id="67" type="span" parent="86" relname="joint"/>
+		<group id="68" type="span" parent="69" relname="contrast"/>
+		<group id="69" type="multinuc" parent="93" relname="summary"/>
+		<group id="70" type="span" parent="89" relname="span"/>
+		<group id="71" type="span" parent="29" relname="manner-means"/>
+		<group id="72" type="span" parent="71" relname="span"/>
+		<group id="73" type="multinuc" parent="72" relname="attribution"/>
+		<group id="74" type="multinuc" parent="77" relname="span"/>
+		<group id="75" type="span" parent="74" relname="cause"/>
+		<group id="76" type="span" parent="79" relname="joint"/>
+		<group id="77" type="span" parent="78" relname="span"/>
+		<group id="78" type="span" parent="70" relname="explanation"/>
+		<group id="79" type="multinuc" parent="77" relname="topicomment"/>
+		<group id="80" type="span" parent="79" relname="joint"/>
+		<group id="81" type="span" parent="94" relname="evaluation"/>
+		<group id="82" type="span" parent="83" relname="span"/>
+		<group id="83" type="span" parent="85" relname="span"/>
+		<group id="84" type="span" parent="82" relname="span"/>
+		<group id="85" type="span" parent="86" relname="joint"/>
+		<group id="86" type="multinuc" parent="91" relname="elaboration"/>
+		<group id="89" type="span" parent="69" relname="contrast"/>
+		<group id="91" type="span" parent="92" relname="span"/>
+		<group id="92" type="span" parent="93" relname="span"/>
+		<group id="93" type="span" parent="94" relname="span"/>
+		<group id="94" type="span" parent="95" relname="span"/>
+		<group id="95" type="span" />
+	</body>
+</rst>
